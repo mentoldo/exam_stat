@@ -1,0 +1,62 @@
+```{r data generation, echo = FALSE, results = "hide"}
+## medida de resumen: mr: 0: media; 1: mediana
+## simetria: 0: simétrica, 1: asimétrica   
+
+## Generación de datos
+me <- round(runif(1, 5, 500))
+
+## Asignamos simetría
+isim <- sample(0:1, 1)
+simetria <- ifelse(isim == 0, "simétrica", "asimétrica")
+
+## Asignamos medida
+imr <- sample(0:1, 1)
+mr <- ifelse(imr == 0, "media ($\\bar{x}$)", "mediana ($Me$)")
+
+
+## SOLUTION
+sol <- if(isim == 0) {
+            TRUE} else if(imr == 1){
+                TRUE
+            } else FALSE
+
+## QUESTION/ANSWER GENERATION
+questions <- character(4)
+solutions <- logical(4)
+
+questions[1] <- ifelse(sol, "Verdadera", "Falsa")
+solutions[1] <- TRUE
+    
+    
+questions[2] <- ifelse(!sol, "Verdadera", "Falsa")
+solutions[2] <- FALSE
+    
+questions[3] <- "No puede saberse, depende de la mediana"
+solutions[3] <- FALSE
+
+questions[4] <- "No puede saberse, depende de la distribución"
+solutions[4] <- FALSE
+```
+
+
+Question
+========
+**R2018_0004**. Si la `r mr` de una variable es `r me` y la distribución es `r simetria`, entonces el 50% de los individuos tiene `r me` o menos. Esta afirmación es:
+
+```{r questionlist, echo = FALSE, results = "asis"}
+answerlist(questions, markup = "markdown")
+```
+  
+Solution
+========
+
+```{r solutionlist, echo = FALSE, results = "asis"}
+answerlist(solutions, markup = "markdown")
+```
+
+Meta-information
+================
+exname: R2018_0004
+extype: schoice
+exsolution: 1000
+exshuffle: TRUE

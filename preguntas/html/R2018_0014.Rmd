@@ -1,0 +1,58 @@
+```{r data generation, echo = FALSE, results = "hide"}
+## Generación de datos
+cat <- sample(c("independiente", "asociados", "mal"), 1)
+px <- switch (cat,
+        "independiente" = 0,
+        "asociados" = runif(1, 10, 1000),
+        "mal" = runif(1, -1000, -1)
+)
+    
+
+## Opciones
+opciones <- c(independiente = "Las frecuencias observadas coinciden con las esperadas",
+              asociados = "Las frecuencias observadas no coinciden con las esperadas, sin embargo no podemos saber el grado de asosiación con esa información",
+              mal = "El Chi cuadrado está mal calculado",
+              fuerte = "Las variables están fuertemente asociadas")
+
+incorrectas <- which(!names(opciones) == cat)
+correcta <- which(names(opciones) == cat)
+
+## QUESTION/ANSWER GENERATION
+questions <- character(4)
+solutions <- logical(4)
+
+questions[1] <- opciones[correcta]
+solutions[1] <- TRUE
+
+questions[2] <- opciones[incorrectas[1]]
+solutions[2] <- FALSE
+    
+questions[3] <- opciones[incorrectas[2]]
+solutions[3] <- FALSE
+
+questions[4] <- opciones[incorrectas[3]]
+solutions[4] <- FALSE
+```
+
+Question
+========
+**R2018_0014**. Se construyó una tabla de contingencia para dos variables nominales. Se calularon las frecuencias esperadas y el Chi cuadrado ($\chi^2$). Si el Chi cuadrado observado es igual a `r round(px, 2)` entonces:
+
+
+```{r questionlist, echo = FALSE, results = "asis"}
+answerlist(questions, markup = "markdown")
+```
+  
+Solution
+========
+
+```{r solutionlist, echo = FALSE, results = "asis"}
+answerlist(solutions, markup = "markdown")
+```
+
+Meta-information
+================
+exname: R2018_0014
+extype: schoice
+exsolution: 1000
+exshuffle: TRUE

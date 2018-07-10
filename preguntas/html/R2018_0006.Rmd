@@ -1,0 +1,58 @@
+```{r data generation, echo = FALSE, results = "hide"}
+## Generación de datos
+cat <- sample(c("bajo", "esperable", "alto"), 1)
+# 1 = bajo, 2 = esperable, 3 = alto
+
+z <- switch (cat,
+        "bajo" = round(-runif(1, 2, 3), 2),
+        "esperable" = round(runif(1, -1, 1), 2),
+        "alto" = round(runif(1, 2, 3), 2)
+    )
+
+## Opciones
+opciones <- c( esperable = "Dentro de lo esperable",
+                alto = "Muy elevado",
+                bajo = "Muy bajo",
+                nosepuede = "Depende de la media y la varianza")
+
+incorrectas <- which(!names(opciones) == cat)
+correcta <- which(names(opciones) == cat)
+## QUESTION/ANSWER GENERATION
+questions <- character(4)
+solutions <- logical(4)
+
+questions[1] <- opciones[correcta]
+solutions[1] <- TRUE
+
+questions[2] <- opciones[incorrectas[1]]
+solutions[2] <- FALSE
+    
+questions[3] <- opciones[incorrectas[2]]
+solutions[3] <- FALSE
+
+questions[4] <- opciones[incorrectas[3]]
+solutions[4] <- FALSE
+```
+
+
+Question
+========
+**R2018_0006**. Un sujeto obtiene un puntaje estandarizado de `r z` en una prueba de habilidad lingüística. Se trata de un puntaje:
+
+```{r questionlist, echo = FALSE, results = "asis"}
+answerlist(questions, markup = "markdown")
+```
+  
+Solution
+========
+
+```{r solutionlist, echo = FALSE, results = "asis"}
+answerlist(solutions, markup = "markdown")
+```
+
+Meta-information
+================
+exname: R2018_0006
+extype: schoice
+exsolution: 1000
+exshuffle: TRUE

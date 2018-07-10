@@ -1,0 +1,58 @@
+```{r data generation, echo = FALSE, results = "hide"}
+## Generación de datos
+cat <- sample(c("negativo", "positivo"), 1)
+px <- switch (cat,
+        "negativo" = runif(1, -0.99, -0.2),
+        "positivo" = runif(1, 0.2, 0.99)
+)
+    
+
+## Opciones
+opciones <- c(negativo = "Inversa",
+              positivo = "Directa",
+              nosesabe1 = "Fuerte",
+              nosesabe2 = "Débil")
+
+
+incorrectas <- which(!names(opciones) == cat)
+correcta <- which(names(opciones) == cat)
+
+## QUESTION/ANSWER GENERATION
+questions <- character(4)
+solutions <- logical(4)
+
+questions[1] <- opciones[correcta]
+solutions[1] <- TRUE
+
+questions[2] <- opciones[incorrectas[1]]
+solutions[2] <- FALSE
+    
+questions[3] <- opciones[incorrectas[2]]
+solutions[3] <- FALSE
+
+questions[4] <- opciones[incorrectas[3]]
+solutions[4] <- FALSE
+```
+
+Question
+========
+**R2018_0012**. Si la correlación entre dos variables cuantitativas es `r round(px, 2)`. El **signo** indica que la relación es:
+
+
+```{r questionlist, echo = FALSE, results = "asis"}
+answerlist(questions, markup = "markdown")
+```
+  
+Solution
+========
+
+```{r solutionlist, echo = FALSE, results = "asis"}
+answerlist(solutions, markup = "markdown")
+```
+
+Meta-information
+================
+exname: R2018_0012
+extype: schoice
+exsolution: 1000
+exshuffle: TRUE

@@ -1,0 +1,73 @@
+```{r data generation, echo = FALSE, results = "hide"}
+## Generación de datos
+cat <- sample(c("bajo", "esperable", "alto"), 1)
+# 1 = bajo, 2 = esperable, 3 = alto
+
+media <- 0
+x <- 0
+while(round(media) == round(x)){  ## Se agrega un while para evitar que el valor aleatorio x sea igual que la media, lo que lleva a confusiones de interpretación de la pregunta
+    z <- switch (cat,
+            "bajo" = round(-runif(1, 2, 3), 2),
+            "esperable" = round(runif(1, -1, 1), 2),
+            "alto" = round(runif(1, 2, 3), 2)
+        )
+    
+    media <- runif(1, 50, 250)
+    sd <- media / (10 + runif(1, 0, 5))
+    x <- z * sd + media 
+    lim <- round(media - runif(1, 2, 2.5) * c(1, -1) * sd)
+    
+}
+
+
+conmedia <- paste("media", round(media))
+consd <- paste("desviación estándar", round(sd))
+conminmax <- paste("con mínimo de", lim[1], "y máximo de", lim[2])
+
+## Opciones
+opciones <- c( esperable = "Dentro de lo esperable",
+                alto = "Muy elevado",
+                bajo = "Muy bajo",
+                nosepuede = "No se puede saber con esos datos")
+
+# incorrectas <- which(!names(opciones) == cat)
+# correcta <- which(names(opciones) == cat)
+## QUESTION/ANSWER GENERATION
+questions <- character(4)
+solutions <- logical(4)
+
+questions[1] <- opciones[4]
+solutions[1] <- TRUE
+
+questions[2] <- opciones[1]
+solutions[2] <- FALSE
+    
+questions[3] <- opciones[2]
+solutions[3] <- FALSE
+
+questions[4] <- opciones[3]
+solutions[4] <- FALSE
+```
+
+
+Question
+========
+**R2018_0007**. Un sujeto obtiene un puntaje bruto de `r round(x)` en una prueba de habilidad lingüística que tiene distribución normal con `r sample(c(conmedia, consd, conminmax), 1)`. Se trata de un puntaje:
+
+```{r questionlist, echo = FALSE, results = "asis"}
+answerlist(questions, markup = "markdown")
+```
+  
+Solution
+========
+
+```{r solutionlist, echo = FALSE, results = "asis"}
+answerlist(solutions, markup = "markdown")
+```
+
+Meta-information
+================
+exname: R2018_0007
+extype: schoice
+exsolution: 1000
+exshuffle: TRUE

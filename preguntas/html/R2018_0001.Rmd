@@ -1,0 +1,43 @@
+```{r data generation, echo = FALSE, results = "hide"}
+## Generación de datos
+k <- sample(5:50, 1)
+
+
+## QUESTION/ANSWER GENERATION
+questions <- character(4)
+solutions <- logical(4)
+
+questions[1] <- "Tiene mucha dispersión"
+solutions[1] <- TRUE
+
+questions[2] <- "Tiene poca dispersión"
+solutions[2] <- FALSE
+
+questions[3] <- "Es simétrica"
+solutions[3] <- FALSE
+
+questions[4] <- "No puede conocerse la dispersión con estos datos"
+solutions[4] <- FALSE
+```
+
+Question
+========
+**R2018_0001**. Si en una distribución de frecuencias, ninguna de las `r k` categorías de la variable concentra más del `r round(100/k + 2, 0)`% de los casos, entonces la variable:  
+
+```{r questionlist, echo = FALSE, results = "asis"}
+answerlist(questions, markup = "markdown")
+```
+  
+Solution
+========
+
+```{r solutionlist, echo = FALSE, results = "asis"}
+answerlist(solutions, markup = "markdown")
+```
+
+Meta-information
+================
+exname: R2018_0001
+extype: schoice
+exsolution: 1000
+exshuffle: TRUE

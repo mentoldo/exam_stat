@@ -1,0 +1,73 @@
+```{r data generation, echo = FALSE, results = "hide"}
+library(knitr)
+library(dplyr)
+library(kableExtra)
+
+## Generación de datos
+datos <- sample(1:100, 4)
+n <- sum(datos)
+datos <- c(datos, n)
+freq <- datos/n
+tabla <- data.frame(Pacientes = c("Depresivos", "Ansiosos", "Psicóticos", "Obsesivos", "Total"), Frec = datos, FrecRelativa = freq)
+
+## Creo variable para preguntar por frecuencia absoluta o acumulada
+j <- sample(2:3, 1)
+i <- sample(1:4, 1)
+
+## Guardo los índices para los distractores
+distractores_j <- (2:3)[2:3 != j]
+distractores_i <- sample((1:4)[1:4 != i])
+
+## QUESTION/ANSWER GENERATION
+questions <- character(4)
+solutions <- logical(4)
+
+
+questions[1] <- round(tabla[i, j], digits = 4)
+solutions[1] <- TRUE
+
+
+questions[2] <- round(tabla[distractores_i[1], distractores_j[1]], digits = 4)
+solutions[2] <- FALSE
+
+
+questions[3] <- round(tabla[i, distractores_j[1]], digits = 4)
+solutions[3] <- FALSE
+
+questions[4] <- round(tabla[distractores_i[1], j], digits = 4)
+solutions[4] <- FALSE
+
+```
+
+Question
+========
+Indique cual es la `r ifelse(j == 2,"cantidad", "proporcion")` de pacientes `r tabla$Pacientes[i]` en la siguiente tabla: 
+
+<!-- \captionsetup[table]{name = Tabla} -->
+
+```{r tablapfrecuencia1, echo = FALSE, comment = NA}
+kable(tabla, digits = 4, format = "latex",
+      # caption = "",
+      booktabs = TRUE) %>% 
+    kable_styling(latex_options = "hold_position")
+```  
+  
+  
+```{r questionlist, echo = FALSE, results = "asis"}
+answerlist(questions, markup = "markdown")
+```
+
+
+Solution
+========
+
+```{r solutionlist, echo = FALSE, results = "asis"}
+answerlist(solutions, markup = "markdown")
+```
+
+Meta-information
+================
+exname: P-frecuencia-1
+extype: schoice
+exsolution: 1000
+exshuffle: TRUE

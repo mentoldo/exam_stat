@@ -1,0 +1,35 @@
+# Generación automática de preguntas de estadística.
+
+## Objetivos
+
+1. Generar una base de preguntas de generación automática.
+
+2. Generar un sistema de clasificación de estas preguntas, según criterios de: contenidos teóricos, dificultad, procesos psicológicos involucrados en su resolución.
+
+
+## Contenido
+**exam_stat** almacena preguntas de generación automática single choice (4 opciones) para exámenes de Estadística.
+A continuación se detalla el contenido del proyecto.
+
+### Scripts de ejemplo
+* *hacerExamenMoodle.R*. Ejemplo para crear preguntas para importar en Moodle. Genera los archivos que se encuentran en la carpteta *moodle/*.  
+* *hacerExamenNops.R*. Ejemplo para crear preguntas para generar un examen escrito de corrección automática. Genera cuatro exámenes diferentes. Formas: A1, A2, B1, B2. Genera los de la carpeta *examenes/ejemplo/*.  
+* *ejemplosencilloNops.R*. Ejemplo para crear un exámen escrito de corrección automática. Crea un exámen con la misma pregunta generada 30 veces. Genera los ejemplos de la carpeta *examenes/ejemplosencillo/*
+
+### Preguntas
+
+* *.preguntas/html/* Es el formato estándar. En general las preguntas que se encuentran en esta carpeta funcionan también en Latex. Sin embargo, algunas preguntas, particularmente algunas tablas, tienen una leve diferencia en el código con las preguntas Latex.
+
+* *.preguntas/latex/* Código de las preguntas específico para exámenes PDF.
+
+#### Codificación de las preguntas 
+Los criterios para generar los nombres de las preguntas son los siguientes:
+
+ *aleatoriedad|año_número de pregunta.Rmd*  
+
+La aleatoriedad puede ser *fija* (F) o *random* (R). Las preguntas fijas no tienen componentes aleatorios, es decir, siempre se generará exactamente la misma pregunta. Las preguntas específicas de **latex** terminan con **_L**.
+
+#### Ejemplo  
+
+"R2018_0001.Rmd" Corresponde R de random, año 2018, pregunta 0001  
+

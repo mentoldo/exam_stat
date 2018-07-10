@@ -1,0 +1,71 @@
+```{r data generation, echo = FALSE, results = "hide"}
+library(ggplot2)
+
+## Generamos datos aleatorios
+media <- runif(1, 10, 500)
+x <- rnorm(1000, media, media * 10/100)
+Fn <- ecdf(x) ## Devuelve una función que toma un valor y devuelve la densidad empírica acumulada
+
+df <- data.frame(values = x, density = Fn(x))
+
+## Gráfico
+g <- ggplot(df, aes(values, density)) +
+    geom_line() +
+    labs(x = "", y = "Frecuencia relativa acumulada")
+
+respuestas <- sample(1:5, 3)
+
+valor <- quantile(x)[respuestas[1]]
+cuantil <- Fn(quantile(x)[respuestas[1]])
+valorf1 <- quantile(x)[respuestas[2]]
+valorf2 <- quantile(x)[respuestas[3]]
+
+
+## Genero el texto de la pregunta
+texto <- switch (respuestas[1],
+    "1" = "el valor mínimo de la variable.",
+    "2" = "el valor de la variable que deja por debajo el 25% de los casos.",
+    "3" = "el valor de la variable que deja por debajo el 50% de los casos.",
+    "4" = "el valor de la variable que deja por debajo el 75% de los casos.",
+    "5" = "el valor máximo de la variable."
+    )
+
+## Respuestas
+questions <- character(4)
+solutions <- logical(4)
+
+questions[1] <- format(valor, digits = 4)
+questions[2] <- format(cuantil, digits = 4)
+questions[3] <- format(valorf1, digits = 4)
+questions[4] <- format(valorf2, digits = 4)
+
+solutions <- c(TRUE, FALSE, FALSE, FALSE)
+```
+
+Question
+========
+Observe la siguiente ojiva de Galton y determine cuál es `r texto`   
+\
+```{r ojiva1, fig.height = 4, echo = FALSE, results='hide', fig.path=""}
+
+g
+
+```
+
+```{r questionlist, echo = FALSE, results = "asis"}
+answerlist(questions, markup = "markdown")
+```
+
+Solution
+========
+```{r solutionlist, echo = FALSE, results = "asis"}
+answerlist(solutions, markup = "markdown")
+```
+
+
+Meta-information
+================
+exname: ojiva1
+extype: schoice
+exsolution: `r paste(as.numeric(solutions), collapse = "")`
+exshuffle: TRUE

@@ -1,0 +1,58 @@
+```{r data generation, echo = FALSE, results = "hide"}
+## Generación de datos
+cat <- sample(c("bajo", "esperable", "alto"), 1)
+px <- switch (cat,
+        "bajo" = sample(1:20, 1),
+        "esperable" = sample(45:55, 1),
+        "alto" = sample(80:99, 1)
+)
+    
+
+## Opciones
+opciones <- c(esperable = "Intermedio",
+              alto = "Muy alto",
+              bajo = "Muy bajo",
+              nosepuede = "Depende de la mediana")
+
+incorrectas <- which(!names(opciones) == cat)
+correcta <- which(names(opciones) == cat)
+
+## QUESTION/ANSWER GENERATION
+questions <- character(4)
+solutions <- logical(4)
+
+questions[1] <- opciones[correcta]
+solutions[1] <- TRUE
+
+questions[2] <- opciones[incorrectas[1]]
+solutions[2] <- FALSE
+    
+questions[3] <- opciones[incorrectas[2]]
+solutions[3] <- FALSE
+
+questions[4] <- opciones[incorrectas[3]]
+solutions[4] <- FALSE
+```
+
+Question
+========
+**R2018_0010**. Si el puntaje bruto de una prueba, para un sujeto dado, es correspondiente al P~`r px`~, entonces se trata de un puntaje:
+
+
+```{r questionlist, echo = FALSE, results = "asis"}
+answerlist(questions, markup = "markdown")
+```
+  
+Solution
+========
+
+```{r solutionlist, echo = FALSE, results = "asis"}
+answerlist(solutions, markup = "markdown")
+```
+
+Meta-information
+================
+exname: R2018_0010
+extype: schoice
+exsolution: 1000
+exshuffle: TRUE

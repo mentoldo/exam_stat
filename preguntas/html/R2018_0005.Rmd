@@ -1,0 +1,43 @@
+```{r data generation, echo = FALSE, results = "hide"}
+## Generación de datos
+me <- round(runif(1) * 500 + 50)
+
+## QUESTION/ANSWER GENERATION
+questions <- character(4)
+solutions <- logical(4)
+
+questions[1] <- "Depende de la media y la varianza"
+solutions[1] <- TRUE
+
+questions[2] <- "Muy elevado"
+solutions[2] <- FALSE
+    
+questions[3] <- "Dentro de lo esperable"
+solutions[3] <- FALSE
+
+questions[4] <- "Muy bajo"
+solutions[4] <- FALSE
+```
+
+
+Question
+========
+**R2018_0005**. Un sujeto obtiene un puntaje bruto de `r me` en una prueba de habilidad lingüística. Se trata de un puntaje:
+
+```{r questionlist, echo = FALSE, results = "asis"}
+answerlist(questions, markup = "markdown")
+```
+  
+Solution
+========
+
+```{r solutionlist, echo = FALSE, results = "asis"}
+answerlist(solutions, markup = "markdown")
+```
+
+Meta-information
+================
+exname: R2018_0005
+extype: schoice
+exsolution: 1000
+exshuffle: TRUE
