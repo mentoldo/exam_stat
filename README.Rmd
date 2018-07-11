@@ -1,3 +1,15 @@
+Software bajo [licencia](./LICENSE.txt) GPL 3.0.
+
+Autor:  
+
+* Matías A. Afonso - matias.alfonso@gmail.com
+
+Colaboradores:  
+
+* Eduardo L. Bologna - ebologna@gmail.com
+
+
+
 # Generación automática de preguntas de estadística.
 
 ## Objetivos
