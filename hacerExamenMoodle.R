@@ -1,11 +1,8 @@
 library(exams)
 
 ## El argumento rule = "none" permite que las respuestas erradas no resten puntos
-exams2moodle("./preguntas/P-frecuencia-1.Rmd", n = 100,
-             name = "P-frecuencia-1", rule = "none")
-
 ## Hacer R2018_0004
-exams2moodle("./preguntas/R2018_0004.Rmd",
+exams2moodle("./preguntas/html/P_boxplot2.Rmd",
              n = 100,
              name = "R2018_0004",
              rule = "none",
