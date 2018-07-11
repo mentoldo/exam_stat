@@ -4,7 +4,7 @@ library(exams)
 ## Hacer R2018_0004
 exams2moodle("./preguntas/html/P_boxplot2.Rmd",
              n = 100,
-             name = "P_boxplot2.Rmd",
+             name = "P_boxplot2",
              rule = "none",
              dir = "moodle")
 
