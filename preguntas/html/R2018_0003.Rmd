@@ -7,11 +7,11 @@ v <- sample(1:100, k)
 questions <- character(4)
 solutions <- logical(4)
 
-questions[1] <- as.character(sum(v)-2)
-solutions[1] <- TRUE
+questions[1] <- as.character(sum(v[1:(k-2)]))
+solutions[1] <- FALSE
 
-questions[2] <- as.character(sum(v[1:(length(v)-2)]))
-solutions[2] <- FALSE
+questions[2] <- as.character(sum(v[c(k - 1, k)]))
+solutions[2] <- TRUE
 
 questions[3] <- as.character(k)
 solutions[3] <- FALSE
