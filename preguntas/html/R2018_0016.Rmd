@@ -1,0 +1,65 @@
+```{r data generation, echo = FALSE, results = "hide"}
+## Generación de datos
+df <- data.frame(codigo = 1:10,
+                 medida = c("La media es", "Los percentiles son", "La mediana es",
+                            "Los cuartiles son", "La varianza es", "El AIQ es",
+                            "El rango es", paste("El percentil", sample(1:99, 1), "es"),
+                            "El r de Pearson es", "El V de Cramer es"),
+                 tipo = factor(c(3, 3, 3, 3, 2, 2, 2, 3, 4, 4),
+                               levels = 1:4,
+                               labels = c("Forma", "Dispersión", "Posición", "Asociación")))
+
+
+
+## Elegimos una opción
+x <- sample(1:10, 1)
+
+## Pregunta seleccionada
+medida <- df$medida[df$codigo == x]
+
+## Opción correcta
+correcta <- as.character(df$tipo[df$codigo == x])
+
+## Incorrectas
+incorrectas <- levels(df$tipo)[!levels(df$tipo) == correcta]
+
+## Opciones
+opciones <- c(correcta, incorrectas)
+
+## QUESTION/ANSWER GENERATION
+questions <- character(4)
+solutions <- logical(4)
+
+questions[1] <- opciones[1]
+solutions[1] <- TRUE
+
+questions[2] <- opciones[2]
+solutions[2] <- FALSE
+    
+questions[3] <- opciones[3]
+solutions[3] <- FALSE
+
+questions[4] <- opciones[4]
+solutions[4] <- FALSE
+```
+Question
+========
+**R2018_0016**. `r medida` una medida de:  
+
+```{r questionlist, echo = FALSE, results = "asis"}
+answerlist(questions, markup = "markdown")
+```
+  
+Solution
+========
+
+```{r solutionlist, echo = FALSE, results = "asis"}
+answerlist(solutions, markup = "markdown")
+```
+
+Meta-information
+================
+exname: R2018_0016
+extype: schoice
+exsolution: 1000
+exshuffle: TRUE

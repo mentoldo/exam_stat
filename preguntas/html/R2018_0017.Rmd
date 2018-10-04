@@ -1,0 +1,62 @@
+```{r data generation, echo = FALSE, results = "hide"}
+## Generación de datos
+df <- data.frame(codigo = 1:6,
+                 medida = c("absoluta", "relativa", "absoluta simple", "absoluta relativa", "relativa simple", "relativa acumulada"),
+                 tipo = factor(c(1, 2, 1, 1, 2, 2),
+                               levels = 1:6,
+                               labels = c("cantidad de casos", "proporción de casos", "variable", "unidad de análisis", "una categoría", "un valor de la variable")))
+
+
+
+## Elegimos una opción
+x <- sample(1:6, 1)
+
+## Pregunta seleccionada
+medida <- df$medida[df$codigo == x]
+
+## Opción correcta
+correcta <- as.character(df$tipo[df$codigo == x])
+
+## Incorrectas
+incorrectas <- sample(levels(df$tipo)[!levels(df$tipo) == correcta], 3)
+
+## Opciones
+opciones <- c(correcta, incorrectas)
+
+## QUESTION/ANSWER GENERATION
+questions <- character(4)
+solutions <- logical(4)
+
+questions[1] <- opciones[1]
+solutions[1] <- TRUE
+
+questions[2] <- opciones[2]
+solutions[2] <- FALSE
+    
+questions[3] <- opciones[3]
+solutions[3] <- FALSE
+
+questions[4] <- opciones[4]
+solutions[4] <- FALSE
+```
+Question
+========
+**R2018_0017**. La frecuencia `r medida` es una:  
+
+```{r questionlist, echo = FALSE, results = "asis"}
+answerlist(questions, markup = "markdown")
+```
+  
+Solution
+========
+
+```{r solutionlist, echo = FALSE, results = "asis"}
+answerlist(solutions, markup = "markdown")
+```
+
+Meta-information
+================
+exname: R2018_0017
+extype: schoice
+exsolution: 1000
+exshuffle: TRUE

@@ -1,0 +1,75 @@
+```{r data generation, echo = FALSE, results = "hide"}
+library(dplyr)
+library(kable)
+
+## Generación de datos
+df <- data.frame(codigo = 1:7,
+                 `Palabras recordadas` = 10:16,
+                 f = round(rnorm(7, runif(1, 40, 60), 10)))
+
+## Calculo la frecuencia relativa
+fprima <- df$f/sum(df$f)
+
+## Convierto la frecuencia relativa
+df$`f'` <- paste(round(fprima * 100), "%")
+
+## Cuatro opciones
+df2 <- 
+
+
+## Elegimos una fila y una columna
+fil <- sample(1:7, 1)
+col <- 
+
+
+
+
+## Pregunta seleccionada
+medida <- df$medida[df$codigo == x]
+
+## Opción correcta
+correcta <- as.character(df$tipo[df$codigo == x])
+
+## Incorrectas
+incorrectas <- sample(levels(df$tipo)[!levels(df$tipo) == correcta], 3)
+
+## Opciones
+opciones <- c(correcta, incorrectas)
+
+## QUESTION/ANSWER GENERATION
+questions <- character(4)
+solutions <- logical(4)
+
+questions[1] <- opciones[1]
+solutions[1] <- TRUE
+
+questions[2] <- opciones[2]
+solutions[2] <- FALSE
+    
+questions[3] <- opciones[3]
+solutions[3] <- FALSE
+
+questions[4] <- opciones[4]
+solutions[4] <- FALSE
+```
+Question
+========
+**R2018_0018**. La frecuencia `r medida` es una:  
+
+```{r questionlist, echo = FALSE, results = "asis"}
+answerlist(questions, markup = "markdown")
+```
+  
+Solution
+========
+
+```{r solutionlist, echo = FALSE, results = "asis"}
+answerlist(solutions, markup = "markdown")
+```
+
+Meta-information
+================
+exname: R2018_0018
+extype: schoice
+exsolution: 1000
+exshuffle: TRUE
