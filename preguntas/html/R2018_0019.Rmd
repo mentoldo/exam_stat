@@ -1,0 +1,84 @@
+```{r data generation, echo = FALSE, results = "hide"}
+## Generación de datos
+nempleados <- round(runif(1, 20, 40))
+porcentaje <- round(runif(1, 5, 30))
+
+labporcentaje <- paste(porcentaje, "%")
+labnempleados <- paste(nempleados)
+
+
+## Asociamos preguntas y opciones
+df <- data.frame(codigo = 1:5,
+                 pregunta = c("La variable", "La unidad de análisis", "La frecuencia absoluta",
+                              "La frecuencia relativa", "Una categoría de la variable"),
+                 opciones = factor(c(1, 5, 4, 3, 2),
+                                   levels = 1:5,
+                                   labels = c("Nivel de estudios",
+                                             "Nivel universitario",
+                                             labporcentaje,
+                                             labnempleados,
+                                             "El empleado")))
+
+## Aleatorizamos la modalidad de la pregunta
+## 1) Conceptos -> ejemplo
+## 2) Ejemplo -> conceptos
+i <- sample(1:2, 1)
+x <- sample(1:5, 1)
+
+pregunta <- if(i == 1){
+    as.character(df$pregunta[df$codigo == x])
+} else {
+    as.character(df$opciones[df$codigo == x])
+}
+
+correcta <- if(i == 1){
+    as.character(df$opciones[df$codigo == x])
+} else {
+   as.character(df$pregunta[df$codigo == x])
+}
+
+incorrectas <- if(i == 1){
+    as.character(sample(df$opciones[df$codigo != x], 3))
+} else {
+   as.character(sample(df$pregunta[df$codigo != x], 3))
+}
+
+opciones <- c(correcta, incorrectas)
+
+## QUESTION/ANSWER GENERATION
+questions <- character(4)
+solutions <- logical(4)
+
+questions[1] <- opciones[1]
+solutions[1] <- TRUE
+
+questions[2] <- opciones[2]
+solutions[2] <- FALSE
+    
+questions[3] <- opciones[3]
+solutions[3] <- FALSE
+
+questions[4] <- opciones[4]
+solutions[4] <- FALSE
+```
+Question
+========
+**R2018_0019**. En la siguiente descripción: "`r labnempleados` empleados, que son el `r labporcentaje` del total, tienen nivel de estudios universitarios". `r pregunta` es:  
+
+```{r questionlist, echo = FALSE, results = "asis"}
+answerlist(questions, markup = "markdown")
+```
+  
+Solution
+========
+
+```{r solutionlist, echo = FALSE, results = "asis"}
+answerlist(solutions, markup = "markdown")
+```
+
+Meta-information
+================
+exname: R2018_0019
+extype: schoice
+exsolution: 1000
+exshuffle: TRUE

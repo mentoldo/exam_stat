@@ -1,6 +1,6 @@
 ```{r data generation, echo = FALSE, results = "hide"}
 library(dplyr)
-library(kable)
+library(kableExtra)
 
 ## Generación de datos
 df <- data.frame(codigo = 1:7,
@@ -13,25 +13,39 @@ fprima <- df$f/sum(df$f)
 ## Convierto la frecuencia relativa
 df$`f'` <- paste(round(fprima * 100), "%")
 
-## Cuatro opciones
-df2 <- 
+## Cuatro opciones de respuesta
+df2 <- data.frame(codigo = 1:4,
+                  tipo = c("Palabras recordadas",
+                           "Valor",
+                           "Frecuencia absoluta",
+                           "Frecuencia relativa"),
+                  opciones = c("La variable",
+                               "Un valor de la variable",
+                               "Una frecuencia absoluta",
+                               "Una frecuencia relativa"))
 
 
-## Elegimos una fila y una columna
-fil <- sample(1:7, 1)
-col <- 
+## Elegimos el tipo de pregunta
+
+x <- sample(1:4, 1)
 
 
+## Determinamos la pregunta
+asignarpregunta <- function(x){
+    switch(x,    
+        `1` = as.character(df2$tipo[1]),
+        `2` = paste(sample(df$Palabras.recordadas, 1), "palabras"),
+        `3` = paste(sample(df$f, 1), "personas"),
+        `4` = sample(df$`f'`, 1)
+)
+}
 
+pregunta <- asignarpregunta(x)
 
-## Pregunta seleccionada
-medida <- df$medida[df$codigo == x]
+## Asignamos las opciones de respuesta
 
-## Opción correcta
-correcta <- as.character(df$tipo[df$codigo == x])
-
-## Incorrectas
-incorrectas <- sample(levels(df$tipo)[!levels(df$tipo) == correcta], 3)
+correcta <- as.character(df2$opciones[df2$codigo == x])
+incorrectas <- as.character(sample(df2$opciones[df2$codigo != x], 3))
 
 ## Opciones
 opciones <- c(correcta, incorrectas)
@@ -54,7 +68,14 @@ solutions[4] <- FALSE
 ```
 Question
 ========
-**R2018_0018**. La frecuencia `r medida` es una:  
+**R2018_0018**. Se realiza un experimento de memoria en personas. Se les enseña una lista de 20 palabras y se les pide que las recuerden. Se obtiene la siguiente tabla de distribución de frecuencias.
+
+```{r tabla, echo = FALSE, comment = NA}
+kable(df[, 2:4], digits = 0) %>% 
+    kable_styling(bootstrap_options = c("striped", "hover"))
+```  
+
+"`r pregunta`" es:
 
 ```{r questionlist, echo = FALSE, results = "asis"}
 answerlist(questions, markup = "markdown")

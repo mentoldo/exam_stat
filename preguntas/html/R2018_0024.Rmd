@@ -1,0 +1,73 @@
+```{r data generation, echo = FALSE, results = "hide"}
+## Generación de datos
+x1 <- round(runif(1, 300, 1000))
+x2 <- round(runif(1, 300, 1000))
+
+t <- runif(1, 2, 3)
+intervalo <- round(t + c(-1, 1) * runif(1, 0.5, 1), 2)
+
+## Nos aseguramos que x1 sea diferente a x2
+if(x1 == x2){
+    if(x1 == 80 | x1 == 99){
+        x1 <- 90
+    } else {
+        x1 <- x1 + 1
+    }
+    
+}
+
+lista <- list(menor = c("De menor amplitud", "De mayor precisión"),
+              mayor = c("De mayor amplitud", "De menor precisión"),
+              distractores = c("De la misma amplitud", "De la misma precisión"))
+
+
+## Respuestas
+if(x1 >x2){
+    correcta <- sample(lista$mayor, 1)
+    incorrectas <- c(lista$menor, sample(lista$distractores, 1))
+} else {
+    correcta <- sample(lista$menor, 1)
+    incorrectas <- c(lista$mayor, sample(lista$distractores, 1))
+
+}
+
+
+opciones <- c(correcta, incorrectas)
+
+## QUESTION/ANSWER GENERATION
+questions <- character(4)
+solutions <- logical(4)
+
+questions[1] <- opciones[1]
+solutions[1] <- TRUE
+
+questions[2] <- opciones[2]
+solutions[2] <- FALSE
+    
+questions[3] <- opciones[3]
+solutions[3] <- FALSE
+
+questions[4] <- opciones[4]
+solutions[4] <- FALSE
+```
+Question
+========
+**R2018_0024**.  Sobre una muestra de `r x1` casos, el intervalo que estima el tiempo medio de reacción a un estímulo es (`r intervalo[1]`, `r intervalo[2]`) segundos. Si la muestra hubiese sido de `r x2` casos, el intervalo podría ser:
+
+```{r questionlist, echo = FALSE, results = "asis"}
+answerlist(questions, markup = "markdown")
+```
+  
+Solution
+========
+
+```{r solutionlist, echo = FALSE, results = "asis"}
+answerlist(solutions, markup = "markdown")
+```
+
+Meta-information
+================
+exname: R2018_0024
+extype: schoice
+exsolution: 1000
+exshuffle: TRUE

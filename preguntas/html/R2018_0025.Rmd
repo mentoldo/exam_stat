@@ -1,0 +1,61 @@
+```{r data generation, echo = FALSE, results = "hide"}
+## Generación de datos
+x <- sample(0:1, 1)
+
+lista <- list(menor = c("El error es menor", "La amplitud es menor", "La precisión es mayor"),
+              mayor = c("El error es mayor", "La amplitud es mayor", "La precisión es menor"),
+              distractores = c("No se afecta el error", "No se afecta la amplitud", "No se afecta la precisión"))
+
+
+## Respuestas
+if(x == 0){
+    pregunta <- "más"
+    correcta <- sample(lista$mayor, 1)
+    incorrectas <- c(sample(lista$menor, 2), sample(lista$distractores, 1))
+} else {
+    pregunta <- "menos"
+    correcta <- sample(lista$menor, 1)
+    incorrectas <- c(sample(lista$mayor, 2), sample(lista$distractores, 1))
+
+}
+
+
+opciones <- c(correcta, incorrectas)
+
+## QUESTION/ANSWER GENERATION
+questions <- character(4)
+solutions <- logical(4)
+
+questions[1] <- opciones[1]
+solutions[1] <- TRUE
+
+questions[2] <- opciones[2]
+solutions[2] <- FALSE
+    
+questions[3] <- opciones[3]
+solutions[3] <- FALSE
+
+questions[4] <- opciones[4]
+solutions[4] <- FALSE
+```
+Question
+========
+**R2018_0025**.  Si en una estimación por intervalo una muestra tiene `r pregunta` variabilidad que otra, manteniendo todo lo demás constante, entonces:
+
+```{r questionlist, echo = FALSE, results = "asis"}
+answerlist(questions, markup = "markdown")
+```
+  
+Solution
+========
+
+```{r solutionlist, echo = FALSE, results = "asis"}
+answerlist(solutions, markup = "markdown")
+```
+
+Meta-information
+================
+exname: R2018_0025
+extype: schoice
+exsolution: 1000
+exshuffle: TRUE

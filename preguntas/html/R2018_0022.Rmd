@@ -1,0 +1,81 @@
+```{r data generation, echo = FALSE, results = "hide"}
+## Generación de datos
+x1 <- round(runif(1, 80, 99))
+x2 <- round(runif(1, 80, 99))
+
+t <- runif(1, 2, 3)
+
+error1 <- runif(1, 0.5, 1)
+intervalo <- round(t + c(-1, 1) * error1, 2)
+
+error2 <- runif(1, 0.25, 0.5)
+
+## Nos aseguramos que x1 y x2 sean diferentes
+if(x1 == x2){
+    if(x1 == 80 | x1 == 99){
+        x1 <- 90
+    } else {
+        x1 <- x1 + 1
+    }
+    
+}
+
+lista <- list(menor = round(intervalo + c(1, -1) * error2, 2),
+              mayor = round(intervalo - c(1, -1) * error2, 2),
+              distractores = list(round(c(intervalo[1], t), 2), round(c(t, intervalo[2]), 2)))
+
+
+## Respuestas
+if(x1 < x2){
+    correcta <- paste("(", lista$mayor[1], ", ", lista$mayor[2], ")", sep = "")
+    incorrectas <- c(paste("(", lista$menor[1], ", ", lista$menor[2], ")", sep = ""),
+                     paste("(", lista$distractores[[1]][1], ", ", lista$distractores[[1]][2], ")", sep = ""),
+                     paste("(", lista$distractores[[2]][1], ", ", lista$distractores[[2]][2], ")", sep = ""))
+} else {
+    correcta <- paste("(", lista$menor[1], ", ", lista$menor[2], ")", sep = "")
+    incorrectas <- c(paste("(", lista$mayor[1], ", ", lista$mayor[2], ")", sep = ""),
+                     paste("(", lista$distractores[[1]][1], ", ", lista$distractores[[1]][2], ")", sep = ""),
+                     paste("(", lista$distractores[[2]][1], ", ", lista$distractores[[2]][2], ")", sep = ""))
+
+}
+
+
+opciones <- c(correcta, incorrectas)
+
+## QUESTION/ANSWER GENERATION
+questions <- character(4)
+solutions <- logical(4)
+
+questions[1] <- opciones[1]
+solutions[1] <- TRUE
+
+questions[2] <- opciones[2]
+solutions[2] <- FALSE
+    
+questions[3] <- opciones[3]
+solutions[3] <- FALSE
+
+questions[4] <- opciones[4]
+solutions[4] <- FALSE
+```
+Question
+========
+**R2018_0022**. Al `r paste(x1, "%")` de confianza, el intervalo que estima el tiempo medio de reacción a un estímulo es (`r intervalo[1]`, `r intervalo[2]`) segundos. Si la confianza cambia al `r paste(x2, "%")`, el intervalo podría ser:
+
+```{r questionlist, echo = FALSE, results = "asis"}
+answerlist(questions, markup = "markdown")
+```
+  
+Solution
+========
+
+```{r solutionlist, echo = FALSE, results = "asis"}
+answerlist(solutions, markup = "markdown")
+```
+
+Meta-information
+================
+exname: R2018_0022
+extype: schoice
+exsolution: 1000
+exshuffle: TRUE

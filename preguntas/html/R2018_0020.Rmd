@@ -1,0 +1,78 @@
+```{r data generation, echo = FALSE, results = "hide"}
+## Generación de datos
+df <- data.frame(variable = c("Color de pelo",
+                              "Sexo",
+                              "Cantidad de aplazos",
+                              "Tiempo para resolver una tarea",
+                              "Máxima distancia alcanzada en un salto",
+                              "Cantidad de aciertos en una prueba",
+                              "Cantidad de goles en un partido",
+                              "Perímetro craneal", 
+                              "Peso", 
+                              "Talla", 
+                              "Semanas de gestación",
+                              "Dosis de alcohol ingerida", 
+                              "Jerarquía militar",
+                              "Tamaño de la organización (1. Grande, 2. Mediana, 3. Pequeña)",
+                              "Partido político al que está afiliado",
+                              "Cantidad de veces al año que va a misa",
+                              "Tiempo que dedica a usar redes sociales",
+                              "Cantidad de libros leídos en el último mes",
+                              "Puntaje en el test de depresión de Beck",
+                              "Puntaje en el test de inteligencia WAIS-IV"),
+                 nivel = factor(c(1, 1, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 2, 2, 1, 4, 4, 4, 3, 3),
+                                levels = 1:4,
+                                labels = c("Nominal", "Ordinal", "Intervalar", "Proporcional"))
+                 )
+
+## Seleccionamos aletoriamente una variable
+
+x <- sample(df$variable, 1)
+
+
+pregunta <- x
+
+
+## Respuestas
+correcta <- as.character(df$nivel[df$variable == x])
+incorrectas <- levels(df$nivel)[levels(df$nivel) != correcta]
+
+opciones <- c(correcta, incorrectas)
+
+## QUESTION/ANSWER GENERATION
+questions <- character(4)
+solutions <- logical(4)
+
+questions[1] <- opciones[1]
+solutions[1] <- TRUE
+
+questions[2] <- opciones[2]
+solutions[2] <- FALSE
+    
+questions[3] <- opciones[3]
+solutions[3] <- FALSE
+
+questions[4] <- opciones[4]
+solutions[4] <- FALSE
+```
+Question
+========
+**R2018_0020**. La siguiente variable: "`r x`" tiene nivel de medición:
+
+```{r questionlist, echo = FALSE, results = "asis"}
+answerlist(questions, markup = "markdown")
+```
+  
+Solution
+========
+
+```{r solutionlist, echo = FALSE, results = "asis"}
+answerlist(solutions, markup = "markdown")
+```
+
+Meta-information
+================
+exname: R2018_0020
+extype: schoice
+exsolution: 1000
+exshuffle: TRUE
