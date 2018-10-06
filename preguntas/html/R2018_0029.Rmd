@@ -1,0 +1,56 @@
+```{r data generation, echo = FALSE, results = "hide"}
+## Generación de datos
+x <- round(runif(1, 1.5, 5), 2)
+error <- round(runif(1, 0.5, 1), 2)
+intervalo <- round(x + c(-1, 1) * error, 2)
+confianza <- sample(c(90, 95, 99), 1)
+
+## Sorteamos un tipo de pregunta
+tipo <- sample(1:5, 1)
+
+pregunta <- as.character(df$concepto[df$codigo == tipo])
+correcta <- paste("Hay una confianza del ", confianza, "% que la media de horas dedicadas a usar redes sociales para toda la población esté entre (", intervalo[1], ", ", intervalo[2], ")", sep = "")
+
+incorrectas <- c(paste("Hay una confianza del ", confianza, "% que la media de horas dedicadas a usar redes sociales para la muestra esté entre (", intervalo[1], ", ", intervalo[2], ")", sep = ""),
+                 paste("El ", confianza, "% de la muestra dedica entre (", intervalo[1], ", ", intervalo[2], ") horas a usar redes sociales", sep = ""),
+                 paste("El ", confianza, "% de la población dedica entre (", intervalo[1], ", ", intervalo[2], ") horas a usar redes sociales", sep = ""))
+
+opciones <- c(correcta, incorrectas)
+
+## QUESTION/ANSWER GENERATION
+questions <- character(4)
+solutions <- logical(4)
+
+questions[1] <- opciones[1]
+solutions[1] <- TRUE
+
+questions[2] <- opciones[2]
+solutions[2] <- FALSE
+    
+questions[3] <- opciones[3]
+solutions[3] <- FALSE
+
+questions[4] <- opciones[4]
+solutions[4] <- FALSE
+```
+Question
+========
+**R2018_0029**. Si el intervalo (`r intervalo[1]`, `r intervalo[2]`), estima al `r confianza`% la cantidad promedio de horas diarias dedicadas a usar redes sociales, la lectura es:
+
+```{r questionlist, echo = FALSE, results = "asis"}
+answerlist(questions, markup = "markdown")
+```
+  
+Solution
+========
+
+```{r solutionlist, echo = FALSE, results = "asis"}
+answerlist(solutions, markup = "markdown")
+```
+
+Meta-information
+================
+exname: R2018_0029
+extype: schoice
+exsolution: 1000
+exshuffle: TRUE

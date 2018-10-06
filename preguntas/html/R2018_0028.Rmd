@@ -36,7 +36,7 @@ solutions[4] <- FALSE
 ```
 Question
 ========
-**R2018_0027**. En el intervalo $`r x` \pm `r error`$ `r pregunta` es:
+**R2018_0028**. Para el intervalo que estima un media poblacional (`r intervalo[1]`, `r intervalo[2]`), `r pregunta` es:
 
 ```{r questionlist, echo = FALSE, results = "asis"}
 answerlist(questions, markup = "markdown")
@@ -51,7 +51,7 @@ answerlist(solutions, markup = "markdown")
 
 Meta-information
 ================
-exname: R2018_0027
+exname: R2018_0028
 extype: schoice
 exsolution: 1000
 exshuffle: TRUE
