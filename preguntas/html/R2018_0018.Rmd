@@ -70,7 +70,7 @@ Question
 ========
 **R2018_0018**. Se realiza un experimento de memoria en personas. Se les enseña una lista de 20 palabras y se les pide que las recuerden. Se obtiene la siguiente tabla de distribución de frecuencias.
 
-```{r tabla, echo = FALSE, comment = NA}
+```{r tabla2018_0018, echo = FALSE, comment = NA}
 kable(df[, 2:4], digits = 0) %>% 
     kable_styling(bootstrap_options = c("striped", "hover"))
 ```  
