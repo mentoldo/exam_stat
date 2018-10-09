@@ -1,0 +1,6711 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+
+
+<question type="category">
+<category>
+<text>$course$/R2018_0027/Exercise 1</text>
+</category>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R001 Q1 : preguntas_html_R2018_0027 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p><strong>R2018_0027</strong>. En el intervalo <math display="inline" xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow><mn>28.16</mn><mo>±</mo><mn>6.77</mn></mrow><annotation encoding="application/x-tex">28.16 \pm 6.77</annotation></semantics></math> la confianza es:</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<ol type = "a">
+<li> FALSE </li>
+<li> FALSE </li>
+<li> TRUE </li>
+<li> FALSE </li>
+</ol>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+28.16
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+34.93
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+No puede saberse con estos datos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+TRUE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+6.77
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R002 Q1 : preguntas_html_R2018_0027 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p><strong>R2018_0027</strong>. En el intervalo <math display="inline" xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow><mn>78.18</mn><mo>±</mo><mn>5.54</mn></mrow><annotation encoding="application/x-tex">78.18 \pm 5.54</annotation></semantics></math> el estimador puntual es:</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<ol type = "a">
+<li> TRUE </li>
+<li> FALSE </li>
+<li> FALSE </li>
+<li> FALSE </li>
+</ol>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+78.18
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+TRUE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+83.72
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+5.54
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+No puede saberse con estos datos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R003 Q1 : preguntas_html_R2018_0027 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p><strong>R2018_0027</strong>. En el intervalo <math display="inline" xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow><mn>27.97</mn><mo>±</mo><mn>9.78</mn></mrow><annotation encoding="application/x-tex">27.97 \pm 9.78</annotation></semantics></math> el límite superior es:</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<ol type = "a">
+<li> TRUE </li>
+<li> FALSE </li>
+<li> FALSE </li>
+<li> FALSE </li>
+</ol>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+37.75
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+TRUE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+18.19
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+No puede saberse con estos datos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+27.97
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R004 Q1 : preguntas_html_R2018_0027 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p><strong>R2018_0027</strong>. En el intervalo <math display="inline" xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow><mn>89.31</mn><mo>±</mo><mn>9.41</mn></mrow><annotation encoding="application/x-tex">89.31 \pm 9.41</annotation></semantics></math> el límite superior es:</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<ol type = "a">
+<li> FALSE </li>
+<li> FALSE </li>
+<li> TRUE </li>
+<li> FALSE </li>
+</ol>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+89.31
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+79.9
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+98.72
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+TRUE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+No puede saberse con estos datos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R005 Q1 : preguntas_html_R2018_0027 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p><strong>R2018_0027</strong>. En el intervalo <math display="inline" xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow><mn>66.23</mn><mo>±</mo><mn>7.24</mn></mrow><annotation encoding="application/x-tex">66.23 \pm 7.24</annotation></semantics></math> el error es:</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<ol type = "a">
+<li> TRUE </li>
+<li> FALSE </li>
+<li> FALSE </li>
+<li> FALSE </li>
+</ol>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+7.24
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+TRUE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+58.99
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+No puede saberse con estos datos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+73.47
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R006 Q1 : preguntas_html_R2018_0027 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p><strong>R2018_0027</strong>. En el intervalo <math display="inline" xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow><mn>46.87</mn><mo>±</mo><mn>7.13</mn></mrow><annotation encoding="application/x-tex">46.87 \pm 7.13</annotation></semantics></math> el límite superior es:</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<ol type = "a">
+<li> FALSE </li>
+<li> TRUE </li>
+<li> FALSE </li>
+<li> FALSE </li>
+</ol>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+39.74
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+54
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+TRUE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+7.13
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+No puede saberse con estos datos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R007 Q1 : preguntas_html_R2018_0027 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p><strong>R2018_0027</strong>. En el intervalo <math display="inline" xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow><mn>19.17</mn><mo>±</mo><mn>9.15</mn></mrow><annotation encoding="application/x-tex">19.17 \pm 9.15</annotation></semantics></math> el límite inferior es:</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<ol type = "a">
+<li> FALSE </li>
+<li> TRUE </li>
+<li> FALSE </li>
+<li> FALSE </li>
+</ol>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+No puede saberse con estos datos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+10.02
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+TRUE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+9.15
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+28.32
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R008 Q1 : preguntas_html_R2018_0027 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p><strong>R2018_0027</strong>. En el intervalo <math display="inline" xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow><mn>51.5</mn><mo>±</mo><mn>5.14</mn></mrow><annotation encoding="application/x-tex">51.5 \pm 5.14</annotation></semantics></math> el error es:</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<ol type = "a">
+<li> FALSE </li>
+<li> FALSE </li>
+<li> TRUE </li>
+<li> FALSE </li>
+</ol>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+No puede saberse con estos datos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+56.64
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+5.14
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+TRUE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+51.5
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R009 Q1 : preguntas_html_R2018_0027 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p><strong>R2018_0027</strong>. En el intervalo <math display="inline" xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow><mn>55.31</mn><mo>±</mo><mn>6.13</mn></mrow><annotation encoding="application/x-tex">55.31 \pm 6.13</annotation></semantics></math> el estimador puntual es:</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<ol type = "a">
+<li> FALSE </li>
+<li> FALSE </li>
+<li> FALSE </li>
+<li> TRUE </li>
+</ol>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+No puede saberse con estos datos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+6.13
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+49.18
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+55.31
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+TRUE
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R010 Q1 : preguntas_html_R2018_0027 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p><strong>R2018_0027</strong>. En el intervalo <math display="inline" xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow><mn>99.07</mn><mo>±</mo><mn>8.38</mn></mrow><annotation encoding="application/x-tex">99.07 \pm 8.38</annotation></semantics></math> el estimador puntual es:</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<ol type = "a">
+<li> FALSE </li>
+<li> FALSE </li>
+<li> FALSE </li>
+<li> TRUE </li>
+</ol>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+90.69
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+107.45
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+8.38
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+99.07
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+TRUE
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R011 Q1 : preguntas_html_R2018_0027 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p><strong>R2018_0027</strong>. En el intervalo <math display="inline" xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow><mn>46.78</mn><mo>±</mo><mn>5.07</mn></mrow><annotation encoding="application/x-tex">46.78 \pm 5.07</annotation></semantics></math> el error es:</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<ol type = "a">
+<li> TRUE </li>
+<li> FALSE </li>
+<li> FALSE </li>
+<li> FALSE </li>
+</ol>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+5.07
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+TRUE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+41.71
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+No puede saberse con estos datos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+51.85
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R012 Q1 : preguntas_html_R2018_0027 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p><strong>R2018_0027</strong>. En el intervalo <math display="inline" xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow><mn>52.42</mn><mo>±</mo><mn>8.66</mn></mrow><annotation encoding="application/x-tex">52.42 \pm 8.66</annotation></semantics></math> el error es:</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<ol type = "a">
+<li> FALSE </li>
+<li> FALSE </li>
+<li> FALSE </li>
+<li> TRUE </li>
+</ol>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+61.08
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+43.76
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+No puede saberse con estos datos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+8.66
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+TRUE
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R013 Q1 : preguntas_html_R2018_0027 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p><strong>R2018_0027</strong>. En el intervalo <math display="inline" xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow><mn>88.89</mn><mo>±</mo><mn>5.34</mn></mrow><annotation encoding="application/x-tex">88.89 \pm 5.34</annotation></semantics></math> la confianza es:</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<ol type = "a">
+<li> FALSE </li>
+<li> TRUE </li>
+<li> FALSE </li>
+<li> FALSE </li>
+</ol>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+94.23
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+No puede saberse con estos datos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+TRUE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+5.34
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+88.89
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R014 Q1 : preguntas_html_R2018_0027 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p><strong>R2018_0027</strong>. En el intervalo <math display="inline" xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow><mn>90.18</mn><mo>±</mo><mn>6.24</mn></mrow><annotation encoding="application/x-tex">90.18 \pm 6.24</annotation></semantics></math> la confianza es:</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<ol type = "a">
+<li> FALSE </li>
+<li> FALSE </li>
+<li> FALSE </li>
+<li> TRUE </li>
+</ol>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+90.18
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+6.24
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+83.94
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+No puede saberse con estos datos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+TRUE
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R015 Q1 : preguntas_html_R2018_0027 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p><strong>R2018_0027</strong>. En el intervalo <math display="inline" xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow><mn>76.91</mn><mo>±</mo><mn>8.96</mn></mrow><annotation encoding="application/x-tex">76.91 \pm 8.96</annotation></semantics></math> el límite superior es:</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<ol type = "a">
+<li> FALSE </li>
+<li> FALSE </li>
+<li> FALSE </li>
+<li> TRUE </li>
+</ol>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+No puede saberse con estos datos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+67.95
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+76.91
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+85.87
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+TRUE
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R016 Q1 : preguntas_html_R2018_0027 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p><strong>R2018_0027</strong>. En el intervalo <math display="inline" xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow><mn>62.48</mn><mo>±</mo><mn>7.61</mn></mrow><annotation encoding="application/x-tex">62.48 \pm 7.61</annotation></semantics></math> el límite superior es:</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<ol type = "a">
+<li> FALSE </li>
+<li> TRUE </li>
+<li> FALSE </li>
+<li> FALSE </li>
+</ol>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+62.48
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+70.09
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+TRUE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+7.61
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+54.87
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R017 Q1 : preguntas_html_R2018_0027 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p><strong>R2018_0027</strong>. En el intervalo <math display="inline" xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow><mn>44.97</mn><mo>±</mo><mn>6</mn></mrow><annotation encoding="application/x-tex">44.97 \pm 6</annotation></semantics></math> el error es:</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<ol type = "a">
+<li> TRUE </li>
+<li> FALSE </li>
+<li> FALSE </li>
+<li> FALSE </li>
+</ol>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+6
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+TRUE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+50.97
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+44.97
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+No puede saberse con estos datos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R018 Q1 : preguntas_html_R2018_0027 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p><strong>R2018_0027</strong>. En el intervalo <math display="inline" xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow><mn>76.99</mn><mo>±</mo><mn>8.26</mn></mrow><annotation encoding="application/x-tex">76.99 \pm 8.26</annotation></semantics></math> el error es:</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<ol type = "a">
+<li> FALSE </li>
+<li> FALSE </li>
+<li> TRUE </li>
+<li> FALSE </li>
+</ol>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+68.73
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+No puede saberse con estos datos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+8.26
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+TRUE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+85.25
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R019 Q1 : preguntas_html_R2018_0027 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p><strong>R2018_0027</strong>. En el intervalo <math display="inline" xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow><mn>41.76</mn><mo>±</mo><mn>8.37</mn></mrow><annotation encoding="application/x-tex">41.76 \pm 8.37</annotation></semantics></math> el límite superior es:</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<ol type = "a">
+<li> TRUE </li>
+<li> FALSE </li>
+<li> FALSE </li>
+<li> FALSE </li>
+</ol>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+50.13
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+TRUE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+8.37
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+No puede saberse con estos datos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+41.76
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R020 Q1 : preguntas_html_R2018_0027 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p><strong>R2018_0027</strong>. En el intervalo <math display="inline" xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow><mn>68.98</mn><mo>±</mo><mn>7.82</mn></mrow><annotation encoding="application/x-tex">68.98 \pm 7.82</annotation></semantics></math> el error es:</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<ol type = "a">
+<li> FALSE </li>
+<li> TRUE </li>
+<li> FALSE </li>
+<li> FALSE </li>
+</ol>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+No puede saberse con estos datos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+7.82
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+TRUE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+76.8
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+61.16
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R021 Q1 : preguntas_html_R2018_0027 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p><strong>R2018_0027</strong>. En el intervalo <math display="inline" xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow><mn>40.28</mn><mo>±</mo><mn>7.25</mn></mrow><annotation encoding="application/x-tex">40.28 \pm 7.25</annotation></semantics></math> el error es:</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<ol type = "a">
+<li> TRUE </li>
+<li> FALSE </li>
+<li> FALSE </li>
+<li> FALSE </li>
+</ol>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+7.25
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+TRUE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+33.03
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+47.53
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+No puede saberse con estos datos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R022 Q1 : preguntas_html_R2018_0027 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p><strong>R2018_0027</strong>. En el intervalo <math display="inline" xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow><mn>59.92</mn><mo>±</mo><mn>7.88</mn></mrow><annotation encoding="application/x-tex">59.92 \pm 7.88</annotation></semantics></math> el error es:</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<ol type = "a">
+<li> TRUE </li>
+<li> FALSE </li>
+<li> FALSE </li>
+<li> FALSE </li>
+</ol>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+7.88
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+TRUE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+67.8
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+No puede saberse con estos datos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+59.92
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R023 Q1 : preguntas_html_R2018_0027 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p><strong>R2018_0027</strong>. En el intervalo <math display="inline" xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow><mn>17.92</mn><mo>±</mo><mn>7.24</mn></mrow><annotation encoding="application/x-tex">17.92 \pm 7.24</annotation></semantics></math> el límite inferior es:</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<ol type = "a">
+<li> FALSE </li>
+<li> FALSE </li>
+<li> FALSE </li>
+<li> TRUE </li>
+</ol>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+7.24
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+No puede saberse con estos datos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+17.92
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+10.68
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+TRUE
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R024 Q1 : preguntas_html_R2018_0027 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p><strong>R2018_0027</strong>. En el intervalo <math display="inline" xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow><mn>60.05</mn><mo>±</mo><mn>7.29</mn></mrow><annotation encoding="application/x-tex">60.05 \pm 7.29</annotation></semantics></math> la confianza es:</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<ol type = "a">
+<li> FALSE </li>
+<li> FALSE </li>
+<li> TRUE </li>
+<li> FALSE </li>
+</ol>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+67.34
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+52.76
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+No puede saberse con estos datos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+TRUE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+60.05
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R025 Q1 : preguntas_html_R2018_0027 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p><strong>R2018_0027</strong>. En el intervalo <math display="inline" xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow><mn>73.35</mn><mo>±</mo><mn>6.86</mn></mrow><annotation encoding="application/x-tex">73.35 \pm 6.86</annotation></semantics></math> el límite inferior es:</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<ol type = "a">
+<li> FALSE </li>
+<li> FALSE </li>
+<li> FALSE </li>
+<li> TRUE </li>
+</ol>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+73.35
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+No puede saberse con estos datos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+80.21
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+66.49
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+TRUE
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R026 Q1 : preguntas_html_R2018_0027 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p><strong>R2018_0027</strong>. En el intervalo <math display="inline" xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow><mn>53.64</mn><mo>±</mo><mn>8.47</mn></mrow><annotation encoding="application/x-tex">53.64 \pm 8.47</annotation></semantics></math> la confianza es:</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<ol type = "a">
+<li> TRUE </li>
+<li> FALSE </li>
+<li> FALSE </li>
+<li> FALSE </li>
+</ol>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+No puede saberse con estos datos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+TRUE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+8.47
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+45.17
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+62.11
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R027 Q1 : preguntas_html_R2018_0027 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p><strong>R2018_0027</strong>. En el intervalo <math display="inline" xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow><mn>26.53</mn><mo>±</mo><mn>6.45</mn></mrow><annotation encoding="application/x-tex">26.53 \pm 6.45</annotation></semantics></math> la confianza es:</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<ol type = "a">
+<li> FALSE </li>
+<li> TRUE </li>
+<li> FALSE </li>
+<li> FALSE </li>
+</ol>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+20.08
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+No puede saberse con estos datos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+TRUE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+26.53
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+32.98
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R028 Q1 : preguntas_html_R2018_0027 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p><strong>R2018_0027</strong>. En el intervalo <math display="inline" xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow><mn>59.53</mn><mo>±</mo><mn>8.63</mn></mrow><annotation encoding="application/x-tex">59.53 \pm 8.63</annotation></semantics></math> el límite superior es:</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<ol type = "a">
+<li> FALSE </li>
+<li> FALSE </li>
+<li> TRUE </li>
+<li> FALSE </li>
+</ol>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+No puede saberse con estos datos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+50.9
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+68.16
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+TRUE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+8.63
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R029 Q1 : preguntas_html_R2018_0027 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p><strong>R2018_0027</strong>. En el intervalo <math display="inline" xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow><mn>69.41</mn><mo>±</mo><mn>7.44</mn></mrow><annotation encoding="application/x-tex">69.41 \pm 7.44</annotation></semantics></math> el error es:</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<ol type = "a">
+<li> FALSE </li>
+<li> FALSE </li>
+<li> TRUE </li>
+<li> FALSE </li>
+</ol>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+76.85
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+No puede saberse con estos datos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+7.44
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+TRUE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+69.41
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R030 Q1 : preguntas_html_R2018_0027 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p><strong>R2018_0027</strong>. En el intervalo <math display="inline" xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow><mn>47.08</mn><mo>±</mo><mn>5.48</mn></mrow><annotation encoding="application/x-tex">47.08 \pm 5.48</annotation></semantics></math> el límite inferior es:</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<ol type = "a">
+<li> FALSE </li>
+<li> TRUE </li>
+<li> FALSE </li>
+<li> FALSE </li>
+</ol>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+47.08
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+41.6
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+TRUE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+52.56
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+No puede saberse con estos datos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R031 Q1 : preguntas_html_R2018_0027 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p><strong>R2018_0027</strong>. En el intervalo <math display="inline" xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow><mn>43.35</mn><mo>±</mo><mn>8.64</mn></mrow><annotation encoding="application/x-tex">43.35 \pm 8.64</annotation></semantics></math> la confianza es:</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<ol type = "a">
+<li> TRUE </li>
+<li> FALSE </li>
+<li> FALSE </li>
+<li> FALSE </li>
+</ol>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+No puede saberse con estos datos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+TRUE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+51.99
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+34.71
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+43.35
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R032 Q1 : preguntas_html_R2018_0027 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p><strong>R2018_0027</strong>. En el intervalo <math display="inline" xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow><mn>93.38</mn><mo>±</mo><mn>5.66</mn></mrow><annotation encoding="application/x-tex">93.38 \pm 5.66</annotation></semantics></math> el estimador puntual es:</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<ol type = "a">
+<li> TRUE </li>
+<li> FALSE </li>
+<li> FALSE </li>
+<li> FALSE </li>
+</ol>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+93.38
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+TRUE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+87.72
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+99.04
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+No puede saberse con estos datos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R033 Q1 : preguntas_html_R2018_0027 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p><strong>R2018_0027</strong>. En el intervalo <math display="inline" xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow><mn>62.78</mn><mo>±</mo><mn>5.8</mn></mrow><annotation encoding="application/x-tex">62.78 \pm 5.8</annotation></semantics></math> el límite inferior es:</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<ol type = "a">
+<li> FALSE </li>
+<li> FALSE </li>
+<li> FALSE </li>
+<li> TRUE </li>
+</ol>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+5.8
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+No puede saberse con estos datos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+68.58
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+56.98
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+TRUE
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R034 Q1 : preguntas_html_R2018_0027 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p><strong>R2018_0027</strong>. En el intervalo <math display="inline" xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow><mn>87.23</mn><mo>±</mo><mn>6.95</mn></mrow><annotation encoding="application/x-tex">87.23 \pm 6.95</annotation></semantics></math> el límite superior es:</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<ol type = "a">
+<li> FALSE </li>
+<li> FALSE </li>
+<li> FALSE </li>
+<li> TRUE </li>
+</ol>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+87.23
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+6.95
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+80.28
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+94.18
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+TRUE
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R035 Q1 : preguntas_html_R2018_0027 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p><strong>R2018_0027</strong>. En el intervalo <math display="inline" xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow><mn>34.27</mn><mo>±</mo><mn>6.43</mn></mrow><annotation encoding="application/x-tex">34.27 \pm 6.43</annotation></semantics></math> el límite inferior es:</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<ol type = "a">
+<li> TRUE </li>
+<li> FALSE </li>
+<li> FALSE </li>
+<li> FALSE </li>
+</ol>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+27.84
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+TRUE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+34.27
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+40.7
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+6.43
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R036 Q1 : preguntas_html_R2018_0027 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p><strong>R2018_0027</strong>. En el intervalo <math display="inline" xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow><mn>97.44</mn><mo>±</mo><mn>6.08</mn></mrow><annotation encoding="application/x-tex">97.44 \pm 6.08</annotation></semantics></math> el límite inferior es:</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<ol type = "a">
+<li> FALSE </li>
+<li> FALSE </li>
+<li> FALSE </li>
+<li> TRUE </li>
+</ol>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+6.08
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+97.44
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+103.52
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+91.36
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+TRUE
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R037 Q1 : preguntas_html_R2018_0027 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p><strong>R2018_0027</strong>. En el intervalo <math display="inline" xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow><mn>97.51</mn><mo>±</mo><mn>9.49</mn></mrow><annotation encoding="application/x-tex">97.51 \pm 9.49</annotation></semantics></math> el estimador puntual es:</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<ol type = "a">
+<li> FALSE </li>
+<li> TRUE </li>
+<li> FALSE </li>
+<li> FALSE </li>
+</ol>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+9.49
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+97.51
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+TRUE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+88.02
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+107
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R038 Q1 : preguntas_html_R2018_0027 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p><strong>R2018_0027</strong>. En el intervalo <math display="inline" xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow><mn>69.34</mn><mo>±</mo><mn>6.53</mn></mrow><annotation encoding="application/x-tex">69.34 \pm 6.53</annotation></semantics></math> el límite superior es:</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<ol type = "a">
+<li> FALSE </li>
+<li> FALSE </li>
+<li> TRUE </li>
+<li> FALSE </li>
+</ol>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+No puede saberse con estos datos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+69.34
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+75.87
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+TRUE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+6.53
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R039 Q1 : preguntas_html_R2018_0027 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p><strong>R2018_0027</strong>. En el intervalo <math display="inline" xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow><mn>68.89</mn><mo>±</mo><mn>7.98</mn></mrow><annotation encoding="application/x-tex">68.89 \pm 7.98</annotation></semantics></math> el estimador puntual es:</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<ol type = "a">
+<li> FALSE </li>
+<li> TRUE </li>
+<li> FALSE </li>
+<li> FALSE </li>
+</ol>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+No puede saberse con estos datos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+68.89
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+TRUE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+76.87
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+60.91
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R040 Q1 : preguntas_html_R2018_0027 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p><strong>R2018_0027</strong>. En el intervalo <math display="inline" xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow><mn>61.48</mn><mo>±</mo><mn>6.36</mn></mrow><annotation encoding="application/x-tex">61.48 \pm 6.36</annotation></semantics></math> el error es:</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<ol type = "a">
+<li> FALSE </li>
+<li> FALSE </li>
+<li> FALSE </li>
+<li> TRUE </li>
+</ol>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+55.12
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+61.48
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+No puede saberse con estos datos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+6.36
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+TRUE
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R041 Q1 : preguntas_html_R2018_0027 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p><strong>R2018_0027</strong>. En el intervalo <math display="inline" xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow><mn>62.03</mn><mo>±</mo><mn>5.13</mn></mrow><annotation encoding="application/x-tex">62.03 \pm 5.13</annotation></semantics></math> el límite inferior es:</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<ol type = "a">
+<li> TRUE </li>
+<li> FALSE </li>
+<li> FALSE </li>
+<li> FALSE </li>
+</ol>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+56.9
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+TRUE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+67.16
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+5.13
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+62.03
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R042 Q1 : preguntas_html_R2018_0027 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p><strong>R2018_0027</strong>. En el intervalo <math display="inline" xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow><mn>68.45</mn><mo>±</mo><mn>6.78</mn></mrow><annotation encoding="application/x-tex">68.45 \pm 6.78</annotation></semantics></math> la confianza es:</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<ol type = "a">
+<li> TRUE </li>
+<li> FALSE </li>
+<li> FALSE </li>
+<li> FALSE </li>
+</ol>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+No puede saberse con estos datos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+TRUE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+75.23
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+6.78
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+61.67
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R043 Q1 : preguntas_html_R2018_0027 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p><strong>R2018_0027</strong>. En el intervalo <math display="inline" xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow><mn>38.17</mn><mo>±</mo><mn>9</mn></mrow><annotation encoding="application/x-tex">38.17 \pm 9</annotation></semantics></math> el error es:</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<ol type = "a">
+<li> TRUE </li>
+<li> FALSE </li>
+<li> FALSE </li>
+<li> FALSE </li>
+</ol>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+9
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+TRUE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+29.17
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+38.17
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+No puede saberse con estos datos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R044 Q1 : preguntas_html_R2018_0027 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p><strong>R2018_0027</strong>. En el intervalo <math display="inline" xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow><mn>23.02</mn><mo>±</mo><mn>9.65</mn></mrow><annotation encoding="application/x-tex">23.02 \pm 9.65</annotation></semantics></math> el estimador puntual es:</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<ol type = "a">
+<li> TRUE </li>
+<li> FALSE </li>
+<li> FALSE </li>
+<li> FALSE </li>
+</ol>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+23.02
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+TRUE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+No puede saberse con estos datos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+9.65
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+13.37
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R045 Q1 : preguntas_html_R2018_0027 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p><strong>R2018_0027</strong>. En el intervalo <math display="inline" xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow><mn>85.48</mn><mo>±</mo><mn>7.98</mn></mrow><annotation encoding="application/x-tex">85.48 \pm 7.98</annotation></semantics></math> la confianza es:</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<ol type = "a">
+<li> FALSE </li>
+<li> FALSE </li>
+<li> TRUE </li>
+<li> FALSE </li>
+</ol>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+7.98
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+93.46
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+No puede saberse con estos datos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+TRUE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+85.48
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R046 Q1 : preguntas_html_R2018_0027 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p><strong>R2018_0027</strong>. En el intervalo <math display="inline" xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow><mn>71.58</mn><mo>±</mo><mn>8.78</mn></mrow><annotation encoding="application/x-tex">71.58 \pm 8.78</annotation></semantics></math> el error es:</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<ol type = "a">
+<li> FALSE </li>
+<li> TRUE </li>
+<li> FALSE </li>
+<li> FALSE </li>
+</ol>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+71.58
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+8.78
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+TRUE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+No puede saberse con estos datos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+62.8
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R047 Q1 : preguntas_html_R2018_0027 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p><strong>R2018_0027</strong>. En el intervalo <math display="inline" xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow><mn>66.82</mn><mo>±</mo><mn>7.65</mn></mrow><annotation encoding="application/x-tex">66.82 \pm 7.65</annotation></semantics></math> el estimador puntual es:</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<ol type = "a">
+<li> FALSE </li>
+<li> TRUE </li>
+<li> FALSE </li>
+<li> FALSE </li>
+</ol>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+No puede saberse con estos datos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+66.82
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+TRUE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+74.47
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+7.65
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R048 Q1 : preguntas_html_R2018_0027 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p><strong>R2018_0027</strong>. En el intervalo <math display="inline" xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow><mn>53.48</mn><mo>±</mo><mn>6.31</mn></mrow><annotation encoding="application/x-tex">53.48 \pm 6.31</annotation></semantics></math> el error es:</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<ol type = "a">
+<li> TRUE </li>
+<li> FALSE </li>
+<li> FALSE </li>
+<li> FALSE </li>
+</ol>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+6.31
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+TRUE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+53.48
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+59.79
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+47.17
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R049 Q1 : preguntas_html_R2018_0027 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p><strong>R2018_0027</strong>. En el intervalo <math display="inline" xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow><mn>15.64</mn><mo>±</mo><mn>9.05</mn></mrow><annotation encoding="application/x-tex">15.64 \pm 9.05</annotation></semantics></math> el estimador puntual es:</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<ol type = "a">
+<li> FALSE </li>
+<li> TRUE </li>
+<li> FALSE </li>
+<li> FALSE </li>
+</ol>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+9.05
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+15.64
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+TRUE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+No puede saberse con estos datos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+24.69
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R050 Q1 : preguntas_html_R2018_0027 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p><strong>R2018_0027</strong>. En el intervalo <math display="inline" xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow><mn>59.76</mn><mo>±</mo><mn>8.16</mn></mrow><annotation encoding="application/x-tex">59.76 \pm 8.16</annotation></semantics></math> el límite inferior es:</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<ol type = "a">
+<li> FALSE </li>
+<li> FALSE </li>
+<li> FALSE </li>
+<li> TRUE </li>
+</ol>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+67.92
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+59.76
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+8.16
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+51.6
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+TRUE
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R051 Q1 : preguntas_html_R2018_0027 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p><strong>R2018_0027</strong>. En el intervalo <math display="inline" xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow><mn>61.28</mn><mo>±</mo><mn>6.35</mn></mrow><annotation encoding="application/x-tex">61.28 \pm 6.35</annotation></semantics></math> el límite superior es:</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<ol type = "a">
+<li> FALSE </li>
+<li> FALSE </li>
+<li> TRUE </li>
+<li> FALSE </li>
+</ol>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+54.93
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+No puede saberse con estos datos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+67.63
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+TRUE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+61.28
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R052 Q1 : preguntas_html_R2018_0027 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p><strong>R2018_0027</strong>. En el intervalo <math display="inline" xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow><mn>30.37</mn><mo>±</mo><mn>6.98</mn></mrow><annotation encoding="application/x-tex">30.37 \pm 6.98</annotation></semantics></math> el estimador puntual es:</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<ol type = "a">
+<li> TRUE </li>
+<li> FALSE </li>
+<li> FALSE </li>
+<li> FALSE </li>
+</ol>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+30.37
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+TRUE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+23.39
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+6.98
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+37.35
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R053 Q1 : preguntas_html_R2018_0027 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p><strong>R2018_0027</strong>. En el intervalo <math display="inline" xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow><mn>91.09</mn><mo>±</mo><mn>7.56</mn></mrow><annotation encoding="application/x-tex">91.09 \pm 7.56</annotation></semantics></math> el límite inferior es:</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<ol type = "a">
+<li> TRUE </li>
+<li> FALSE </li>
+<li> FALSE </li>
+<li> FALSE </li>
+</ol>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+83.53
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+TRUE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+7.56
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+91.09
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+No puede saberse con estos datos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R054 Q1 : preguntas_html_R2018_0027 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p><strong>R2018_0027</strong>. En el intervalo <math display="inline" xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow><mn>71.6</mn><mo>±</mo><mn>9.06</mn></mrow><annotation encoding="application/x-tex">71.6 \pm 9.06</annotation></semantics></math> el error es:</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<ol type = "a">
+<li> FALSE </li>
+<li> FALSE </li>
+<li> FALSE </li>
+<li> TRUE </li>
+</ol>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+62.54
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+80.66
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+No puede saberse con estos datos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+9.06
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+TRUE
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R055 Q1 : preguntas_html_R2018_0027 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p><strong>R2018_0027</strong>. En el intervalo <math display="inline" xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow><mn>63.14</mn><mo>±</mo><mn>9.19</mn></mrow><annotation encoding="application/x-tex">63.14 \pm 9.19</annotation></semantics></math> el estimador puntual es:</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<ol type = "a">
+<li> FALSE </li>
+<li> FALSE </li>
+<li> FALSE </li>
+<li> TRUE </li>
+</ol>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+72.33
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+9.19
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+53.95
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+63.14
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+TRUE
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R056 Q1 : preguntas_html_R2018_0027 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p><strong>R2018_0027</strong>. En el intervalo <math display="inline" xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow><mn>54</mn><mo>±</mo><mn>7.48</mn></mrow><annotation encoding="application/x-tex">54 \pm 7.48</annotation></semantics></math> el error es:</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<ol type = "a">
+<li> FALSE </li>
+<li> FALSE </li>
+<li> FALSE </li>
+<li> TRUE </li>
+</ol>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+46.52
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+61.48
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+54
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+7.48
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+TRUE
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R057 Q1 : preguntas_html_R2018_0027 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p><strong>R2018_0027</strong>. En el intervalo <math display="inline" xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow><mn>80.09</mn><mo>±</mo><mn>7.36</mn></mrow><annotation encoding="application/x-tex">80.09 \pm 7.36</annotation></semantics></math> el error es:</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<ol type = "a">
+<li> FALSE </li>
+<li> FALSE </li>
+<li> FALSE </li>
+<li> TRUE </li>
+</ol>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+80.09
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+87.45
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+No puede saberse con estos datos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+7.36
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+TRUE
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R058 Q1 : preguntas_html_R2018_0027 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p><strong>R2018_0027</strong>. En el intervalo <math display="inline" xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow><mn>57.38</mn><mo>±</mo><mn>8.44</mn></mrow><annotation encoding="application/x-tex">57.38 \pm 8.44</annotation></semantics></math> el error es:</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<ol type = "a">
+<li> FALSE </li>
+<li> FALSE </li>
+<li> TRUE </li>
+<li> FALSE </li>
+</ol>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+No puede saberse con estos datos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+57.38
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+8.44
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+TRUE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+65.82
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R059 Q1 : preguntas_html_R2018_0027 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p><strong>R2018_0027</strong>. En el intervalo <math display="inline" xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow><mn>22.06</mn><mo>±</mo><mn>8.58</mn></mrow><annotation encoding="application/x-tex">22.06 \pm 8.58</annotation></semantics></math> el estimador puntual es:</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<ol type = "a">
+<li> TRUE </li>
+<li> FALSE </li>
+<li> FALSE </li>
+<li> FALSE </li>
+</ol>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+22.06
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+TRUE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+8.58
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+No puede saberse con estos datos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+30.64
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R060 Q1 : preguntas_html_R2018_0027 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p><strong>R2018_0027</strong>. En el intervalo <math display="inline" xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow><mn>46.57</mn><mo>±</mo><mn>5.42</mn></mrow><annotation encoding="application/x-tex">46.57 \pm 5.42</annotation></semantics></math> el estimador puntual es:</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<ol type = "a">
+<li> FALSE </li>
+<li> TRUE </li>
+<li> FALSE </li>
+<li> FALSE </li>
+</ol>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+No puede saberse con estos datos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+46.57
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+TRUE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+51.99
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+5.42
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R061 Q1 : preguntas_html_R2018_0027 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p><strong>R2018_0027</strong>. En el intervalo <math display="inline" xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow><mn>81.04</mn><mo>±</mo><mn>8.57</mn></mrow><annotation encoding="application/x-tex">81.04 \pm 8.57</annotation></semantics></math> el límite inferior es:</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<ol type = "a">
+<li> FALSE </li>
+<li> TRUE </li>
+<li> FALSE </li>
+<li> FALSE </li>
+</ol>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+8.57
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+72.47
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+TRUE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+No puede saberse con estos datos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+89.61
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R062 Q1 : preguntas_html_R2018_0027 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p><strong>R2018_0027</strong>. En el intervalo <math display="inline" xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow><mn>17.58</mn><mo>±</mo><mn>5.66</mn></mrow><annotation encoding="application/x-tex">17.58 \pm 5.66</annotation></semantics></math> el error es:</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<ol type = "a">
+<li> TRUE </li>
+<li> FALSE </li>
+<li> FALSE </li>
+<li> FALSE </li>
+</ol>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+5.66
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+TRUE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+No puede saberse con estos datos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+17.58
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+23.24
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R063 Q1 : preguntas_html_R2018_0027 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p><strong>R2018_0027</strong>. En el intervalo <math display="inline" xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow><mn>21.26</mn><mo>±</mo><mn>9.6</mn></mrow><annotation encoding="application/x-tex">21.26 \pm 9.6</annotation></semantics></math> el estimador puntual es:</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<ol type = "a">
+<li> FALSE </li>
+<li> FALSE </li>
+<li> TRUE </li>
+<li> FALSE </li>
+</ol>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+11.66
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+No puede saberse con estos datos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+21.26
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+TRUE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+30.86
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R064 Q1 : preguntas_html_R2018_0027 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p><strong>R2018_0027</strong>. En el intervalo <math display="inline" xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow><mn>16.86</mn><mo>±</mo><mn>6.26</mn></mrow><annotation encoding="application/x-tex">16.86 \pm 6.26</annotation></semantics></math> la confianza es:</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<ol type = "a">
+<li> FALSE </li>
+<li> FALSE </li>
+<li> TRUE </li>
+<li> FALSE </li>
+</ol>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+23.12
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+10.6
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+No puede saberse con estos datos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+TRUE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+6.26
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R065 Q1 : preguntas_html_R2018_0027 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p><strong>R2018_0027</strong>. En el intervalo <math display="inline" xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow><mn>41.38</mn><mo>±</mo><mn>5.7</mn></mrow><annotation encoding="application/x-tex">41.38 \pm 5.7</annotation></semantics></math> el estimador puntual es:</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<ol type = "a">
+<li> FALSE </li>
+<li> TRUE </li>
+<li> FALSE </li>
+<li> FALSE </li>
+</ol>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+5.7
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+41.38
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+TRUE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+No puede saberse con estos datos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+47.08
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R066 Q1 : preguntas_html_R2018_0027 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p><strong>R2018_0027</strong>. En el intervalo <math display="inline" xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow><mn>33.96</mn><mo>±</mo><mn>6.11</mn></mrow><annotation encoding="application/x-tex">33.96 \pm 6.11</annotation></semantics></math> el error es:</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<ol type = "a">
+<li> FALSE </li>
+<li> FALSE </li>
+<li> FALSE </li>
+<li> TRUE </li>
+</ol>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+33.96
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+40.07
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+27.85
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+6.11
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+TRUE
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R067 Q1 : preguntas_html_R2018_0027 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p><strong>R2018_0027</strong>. En el intervalo <math display="inline" xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow><mn>72.65</mn><mo>±</mo><mn>5.26</mn></mrow><annotation encoding="application/x-tex">72.65 \pm 5.26</annotation></semantics></math> la confianza es:</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<ol type = "a">
+<li> TRUE </li>
+<li> FALSE </li>
+<li> FALSE </li>
+<li> FALSE </li>
+</ol>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+No puede saberse con estos datos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+TRUE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+5.26
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+72.65
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+67.39
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R068 Q1 : preguntas_html_R2018_0027 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p><strong>R2018_0027</strong>. En el intervalo <math display="inline" xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow><mn>35.47</mn><mo>±</mo><mn>9.4</mn></mrow><annotation encoding="application/x-tex">35.47 \pm 9.4</annotation></semantics></math> el límite inferior es:</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<ol type = "a">
+<li> FALSE </li>
+<li> TRUE </li>
+<li> FALSE </li>
+<li> FALSE </li>
+</ol>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+9.4
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+26.07
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+TRUE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+35.47
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+No puede saberse con estos datos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R069 Q1 : preguntas_html_R2018_0027 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p><strong>R2018_0027</strong>. En el intervalo <math display="inline" xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow><mn>72.53</mn><mo>±</mo><mn>6.1</mn></mrow><annotation encoding="application/x-tex">72.53 \pm 6.1</annotation></semantics></math> la confianza es:</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<ol type = "a">
+<li> TRUE </li>
+<li> FALSE </li>
+<li> FALSE </li>
+<li> FALSE </li>
+</ol>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+No puede saberse con estos datos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+TRUE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+72.53
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+78.63
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+66.43
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R070 Q1 : preguntas_html_R2018_0027 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p><strong>R2018_0027</strong>. En el intervalo <math display="inline" xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow><mn>24.91</mn><mo>±</mo><mn>5.66</mn></mrow><annotation encoding="application/x-tex">24.91 \pm 5.66</annotation></semantics></math> el estimador puntual es:</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<ol type = "a">
+<li> FALSE </li>
+<li> FALSE </li>
+<li> FALSE </li>
+<li> TRUE </li>
+</ol>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+5.66
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+19.25
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+No puede saberse con estos datos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+24.91
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+TRUE
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R071 Q1 : preguntas_html_R2018_0027 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p><strong>R2018_0027</strong>. En el intervalo <math display="inline" xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow><mn>12.76</mn><mo>±</mo><mn>9.68</mn></mrow><annotation encoding="application/x-tex">12.76 \pm 9.68</annotation></semantics></math> el límite superior es:</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<ol type = "a">
+<li> FALSE </li>
+<li> FALSE </li>
+<li> FALSE </li>
+<li> TRUE </li>
+</ol>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+No puede saberse con estos datos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+9.68
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+12.76
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+22.44
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+TRUE
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R072 Q1 : preguntas_html_R2018_0027 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p><strong>R2018_0027</strong>. En el intervalo <math display="inline" xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow><mn>41.84</mn><mo>±</mo><mn>8.23</mn></mrow><annotation encoding="application/x-tex">41.84 \pm 8.23</annotation></semantics></math> la confianza es:</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<ol type = "a">
+<li> TRUE </li>
+<li> FALSE </li>
+<li> FALSE </li>
+<li> FALSE </li>
+</ol>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+No puede saberse con estos datos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+TRUE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+41.84
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+50.07
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+33.61
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R073 Q1 : preguntas_html_R2018_0027 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p><strong>R2018_0027</strong>. En el intervalo <math display="inline" xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow><mn>21.09</mn><mo>±</mo><mn>8.67</mn></mrow><annotation encoding="application/x-tex">21.09 \pm 8.67</annotation></semantics></math> la confianza es:</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<ol type = "a">
+<li> FALSE </li>
+<li> TRUE </li>
+<li> FALSE </li>
+<li> FALSE </li>
+</ol>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+8.67
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+No puede saberse con estos datos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+TRUE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+29.76
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+12.42
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R074 Q1 : preguntas_html_R2018_0027 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p><strong>R2018_0027</strong>. En el intervalo <math display="inline" xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow><mn>64.61</mn><mo>±</mo><mn>8.46</mn></mrow><annotation encoding="application/x-tex">64.61 \pm 8.46</annotation></semantics></math> la confianza es:</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<ol type = "a">
+<li> FALSE </li>
+<li> FALSE </li>
+<li> FALSE </li>
+<li> TRUE </li>
+</ol>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+73.07
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+64.61
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+8.46
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+No puede saberse con estos datos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+TRUE
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R075 Q1 : preguntas_html_R2018_0027 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p><strong>R2018_0027</strong>. En el intervalo <math display="inline" xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow><mn>96.87</mn><mo>±</mo><mn>9.31</mn></mrow><annotation encoding="application/x-tex">96.87 \pm 9.31</annotation></semantics></math> el error es:</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<ol type = "a">
+<li> FALSE </li>
+<li> TRUE </li>
+<li> FALSE </li>
+<li> FALSE </li>
+</ol>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+87.56
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+9.31
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+TRUE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+106.18
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+96.87
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R076 Q1 : preguntas_html_R2018_0027 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p><strong>R2018_0027</strong>. En el intervalo <math display="inline" xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow><mn>92.95</mn><mo>±</mo><mn>6.63</mn></mrow><annotation encoding="application/x-tex">92.95 \pm 6.63</annotation></semantics></math> el estimador puntual es:</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<ol type = "a">
+<li> TRUE </li>
+<li> FALSE </li>
+<li> FALSE </li>
+<li> FALSE </li>
+</ol>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+92.95
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+TRUE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+No puede saberse con estos datos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+6.63
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+86.32
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R077 Q1 : preguntas_html_R2018_0027 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p><strong>R2018_0027</strong>. En el intervalo <math display="inline" xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow><mn>62.37</mn><mo>±</mo><mn>6.43</mn></mrow><annotation encoding="application/x-tex">62.37 \pm 6.43</annotation></semantics></math> el error es:</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<ol type = "a">
+<li> FALSE </li>
+<li> TRUE </li>
+<li> FALSE </li>
+<li> FALSE </li>
+</ol>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+62.37
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+6.43
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+TRUE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+No puede saberse con estos datos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+55.94
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R078 Q1 : preguntas_html_R2018_0027 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p><strong>R2018_0027</strong>. En el intervalo <math display="inline" xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow><mn>34.59</mn><mo>±</mo><mn>8.85</mn></mrow><annotation encoding="application/x-tex">34.59 \pm 8.85</annotation></semantics></math> el estimador puntual es:</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<ol type = "a">
+<li> FALSE </li>
+<li> TRUE </li>
+<li> FALSE </li>
+<li> FALSE </li>
+</ol>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+43.44
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+34.59
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+TRUE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+8.85
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+25.74
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R079 Q1 : preguntas_html_R2018_0027 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p><strong>R2018_0027</strong>. En el intervalo <math display="inline" xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow><mn>37.81</mn><mo>±</mo><mn>7.92</mn></mrow><annotation encoding="application/x-tex">37.81 \pm 7.92</annotation></semantics></math> el error es:</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<ol type = "a">
+<li> FALSE </li>
+<li> FALSE </li>
+<li> FALSE </li>
+<li> TRUE </li>
+</ol>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+37.81
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+No puede saberse con estos datos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+45.73
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+7.92
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+TRUE
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R080 Q1 : preguntas_html_R2018_0027 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p><strong>R2018_0027</strong>. En el intervalo <math display="inline" xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow><mn>71.61</mn><mo>±</mo><mn>8.73</mn></mrow><annotation encoding="application/x-tex">71.61 \pm 8.73</annotation></semantics></math> el límite superior es:</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<ol type = "a">
+<li> FALSE </li>
+<li> TRUE </li>
+<li> FALSE </li>
+<li> FALSE </li>
+</ol>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+71.61
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+80.34
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+TRUE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+No puede saberse con estos datos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+62.88
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R081 Q1 : preguntas_html_R2018_0027 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p><strong>R2018_0027</strong>. En el intervalo <math display="inline" xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow><mn>27.83</mn><mo>±</mo><mn>5.14</mn></mrow><annotation encoding="application/x-tex">27.83 \pm 5.14</annotation></semantics></math> el límite superior es:</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<ol type = "a">
+<li> TRUE </li>
+<li> FALSE </li>
+<li> FALSE </li>
+<li> FALSE </li>
+</ol>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+32.97
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+TRUE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+22.69
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+No puede saberse con estos datos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+5.14
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R082 Q1 : preguntas_html_R2018_0027 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p><strong>R2018_0027</strong>. En el intervalo <math display="inline" xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow><mn>95.89</mn><mo>±</mo><mn>9.33</mn></mrow><annotation encoding="application/x-tex">95.89 \pm 9.33</annotation></semantics></math> el límite superior es:</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<ol type = "a">
+<li> FALSE </li>
+<li> FALSE </li>
+<li> FALSE </li>
+<li> TRUE </li>
+</ol>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+95.89
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+86.56
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+9.33
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+105.22
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+TRUE
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R083 Q1 : preguntas_html_R2018_0027 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p><strong>R2018_0027</strong>. En el intervalo <math display="inline" xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow><mn>13.58</mn><mo>±</mo><mn>7.49</mn></mrow><annotation encoding="application/x-tex">13.58 \pm 7.49</annotation></semantics></math> el estimador puntual es:</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<ol type = "a">
+<li> FALSE </li>
+<li> FALSE </li>
+<li> TRUE </li>
+<li> FALSE </li>
+</ol>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+21.07
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+7.49
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+13.58
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+TRUE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+No puede saberse con estos datos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R084 Q1 : preguntas_html_R2018_0027 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p><strong>R2018_0027</strong>. En el intervalo <math display="inline" xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow><mn>92.81</mn><mo>±</mo><mn>7.51</mn></mrow><annotation encoding="application/x-tex">92.81 \pm 7.51</annotation></semantics></math> el error es:</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<ol type = "a">
+<li> FALSE </li>
+<li> FALSE </li>
+<li> TRUE </li>
+<li> FALSE </li>
+</ol>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+92.81
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+100.32
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+7.51
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+TRUE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+85.3
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R085 Q1 : preguntas_html_R2018_0027 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p><strong>R2018_0027</strong>. En el intervalo <math display="inline" xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow><mn>22.24</mn><mo>±</mo><mn>5.73</mn></mrow><annotation encoding="application/x-tex">22.24 \pm 5.73</annotation></semantics></math> el límite superior es:</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<ol type = "a">
+<li> FALSE </li>
+<li> FALSE </li>
+<li> FALSE </li>
+<li> TRUE </li>
+</ol>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+No puede saberse con estos datos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+22.24
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+16.51
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+27.97
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+TRUE
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R086 Q1 : preguntas_html_R2018_0027 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p><strong>R2018_0027</strong>. En el intervalo <math display="inline" xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow><mn>78.22</mn><mo>±</mo><mn>7.29</mn></mrow><annotation encoding="application/x-tex">78.22 \pm 7.29</annotation></semantics></math> el error es:</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<ol type = "a">
+<li> FALSE </li>
+<li> FALSE </li>
+<li> FALSE </li>
+<li> TRUE </li>
+</ol>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+No puede saberse con estos datos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+85.51
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+78.22
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+7.29
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+TRUE
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R087 Q1 : preguntas_html_R2018_0027 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p><strong>R2018_0027</strong>. En el intervalo <math display="inline" xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow><mn>38.61</mn><mo>±</mo><mn>7.73</mn></mrow><annotation encoding="application/x-tex">38.61 \pm 7.73</annotation></semantics></math> el límite superior es:</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<ol type = "a">
+<li> FALSE </li>
+<li> TRUE </li>
+<li> FALSE </li>
+<li> FALSE </li>
+</ol>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+30.88
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+46.34
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+TRUE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+7.73
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+38.61
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R088 Q1 : preguntas_html_R2018_0027 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p><strong>R2018_0027</strong>. En el intervalo <math display="inline" xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow><mn>62.1</mn><mo>±</mo><mn>8.84</mn></mrow><annotation encoding="application/x-tex">62.1 \pm 8.84</annotation></semantics></math> el límite inferior es:</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<ol type = "a">
+<li> FALSE </li>
+<li> TRUE </li>
+<li> FALSE </li>
+<li> FALSE </li>
+</ol>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+62.1
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+53.26
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+TRUE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+70.94
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+8.84
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R089 Q1 : preguntas_html_R2018_0027 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p><strong>R2018_0027</strong>. En el intervalo <math display="inline" xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow><mn>96.17</mn><mo>±</mo><mn>7.41</mn></mrow><annotation encoding="application/x-tex">96.17 \pm 7.41</annotation></semantics></math> el error es:</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<ol type = "a">
+<li> FALSE </li>
+<li> FALSE </li>
+<li> FALSE </li>
+<li> TRUE </li>
+</ol>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+96.17
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+103.58
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+No puede saberse con estos datos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+7.41
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+TRUE
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R090 Q1 : preguntas_html_R2018_0027 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p><strong>R2018_0027</strong>. En el intervalo <math display="inline" xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow><mn>58.16</mn><mo>±</mo><mn>9.38</mn></mrow><annotation encoding="application/x-tex">58.16 \pm 9.38</annotation></semantics></math> el estimador puntual es:</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<ol type = "a">
+<li> FALSE </li>
+<li> FALSE </li>
+<li> TRUE </li>
+<li> FALSE </li>
+</ol>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+9.38
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+48.78
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+58.16
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+TRUE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+67.54
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R091 Q1 : preguntas_html_R2018_0027 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p><strong>R2018_0027</strong>. En el intervalo <math display="inline" xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow><mn>15.65</mn><mo>±</mo><mn>7.54</mn></mrow><annotation encoding="application/x-tex">15.65 \pm 7.54</annotation></semantics></math> el estimador puntual es:</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<ol type = "a">
+<li> FALSE </li>
+<li> FALSE </li>
+<li> TRUE </li>
+<li> FALSE </li>
+</ol>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+No puede saberse con estos datos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+7.54
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+15.65
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+TRUE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+8.11
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R092 Q1 : preguntas_html_R2018_0027 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p><strong>R2018_0027</strong>. En el intervalo <math display="inline" xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow><mn>61.81</mn><mo>±</mo><mn>8.78</mn></mrow><annotation encoding="application/x-tex">61.81 \pm 8.78</annotation></semantics></math> el límite inferior es:</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<ol type = "a">
+<li> FALSE </li>
+<li> FALSE </li>
+<li> FALSE </li>
+<li> TRUE </li>
+</ol>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+70.59
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+No puede saberse con estos datos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+8.78
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+53.03
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+TRUE
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R093 Q1 : preguntas_html_R2018_0027 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p><strong>R2018_0027</strong>. En el intervalo <math display="inline" xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow><mn>65.81</mn><mo>±</mo><mn>8.52</mn></mrow><annotation encoding="application/x-tex">65.81 \pm 8.52</annotation></semantics></math> el estimador puntual es:</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<ol type = "a">
+<li> TRUE </li>
+<li> FALSE </li>
+<li> FALSE </li>
+<li> FALSE </li>
+</ol>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+65.81
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+TRUE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+74.33
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+57.29
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+No puede saberse con estos datos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R094 Q1 : preguntas_html_R2018_0027 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p><strong>R2018_0027</strong>. En el intervalo <math display="inline" xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow><mn>39.72</mn><mo>±</mo><mn>5.25</mn></mrow><annotation encoding="application/x-tex">39.72 \pm 5.25</annotation></semantics></math> la confianza es:</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<ol type = "a">
+<li> FALSE </li>
+<li> TRUE </li>
+<li> FALSE </li>
+<li> FALSE </li>
+</ol>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+39.72
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+No puede saberse con estos datos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+TRUE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+5.25
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+34.47
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R095 Q1 : preguntas_html_R2018_0027 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p><strong>R2018_0027</strong>. En el intervalo <math display="inline" xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow><mn>79.32</mn><mo>±</mo><mn>6.43</mn></mrow><annotation encoding="application/x-tex">79.32 \pm 6.43</annotation></semantics></math> el límite superior es:</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<ol type = "a">
+<li> FALSE </li>
+<li> TRUE </li>
+<li> FALSE </li>
+<li> FALSE </li>
+</ol>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+6.43
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+85.75
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+TRUE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+79.32
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+No puede saberse con estos datos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R096 Q1 : preguntas_html_R2018_0027 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p><strong>R2018_0027</strong>. En el intervalo <math display="inline" xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow><mn>22.76</mn><mo>±</mo><mn>9.87</mn></mrow><annotation encoding="application/x-tex">22.76 \pm 9.87</annotation></semantics></math> la confianza es:</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<ol type = "a">
+<li> FALSE </li>
+<li> FALSE </li>
+<li> TRUE </li>
+<li> FALSE </li>
+</ol>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+9.87
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+12.89
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+No puede saberse con estos datos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+TRUE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+22.76
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R097 Q1 : preguntas_html_R2018_0027 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p><strong>R2018_0027</strong>. En el intervalo <math display="inline" xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow><mn>70.45</mn><mo>±</mo><mn>8.08</mn></mrow><annotation encoding="application/x-tex">70.45 \pm 8.08</annotation></semantics></math> la confianza es:</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<ol type = "a">
+<li> FALSE </li>
+<li> FALSE </li>
+<li> TRUE </li>
+<li> FALSE </li>
+</ol>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+62.37
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+78.53
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+No puede saberse con estos datos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+TRUE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+8.08
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R098 Q1 : preguntas_html_R2018_0027 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p><strong>R2018_0027</strong>. En el intervalo <math display="inline" xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow><mn>89.54</mn><mo>±</mo><mn>7.96</mn></mrow><annotation encoding="application/x-tex">89.54 \pm 7.96</annotation></semantics></math> el error es:</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<ol type = "a">
+<li> FALSE </li>
+<li> FALSE </li>
+<li> FALSE </li>
+<li> TRUE </li>
+</ol>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+81.58
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+97.5
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+No puede saberse con estos datos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+7.96
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+TRUE
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R099 Q1 : preguntas_html_R2018_0027 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p><strong>R2018_0027</strong>. En el intervalo <math display="inline" xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow><mn>25</mn><mo>±</mo><mn>7.54</mn></mrow><annotation encoding="application/x-tex">25 \pm 7.54</annotation></semantics></math> el estimador puntual es:</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<ol type = "a">
+<li> TRUE </li>
+<li> FALSE </li>
+<li> FALSE </li>
+<li> FALSE </li>
+</ol>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+25
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+TRUE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+7.54
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+17.46
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+No puede saberse con estos datos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R100 Q1 : preguntas_html_R2018_0027 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p><strong>R2018_0027</strong>. En el intervalo <math display="inline" xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow><mn>43.37</mn><mo>±</mo><mn>8.52</mn></mrow><annotation encoding="application/x-tex">43.37 \pm 8.52</annotation></semantics></math> el límite inferior es:</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<ol type = "a">
+<li> FALSE </li>
+<li> FALSE </li>
+<li> TRUE </li>
+<li> FALSE </li>
+</ol>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+51.89
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+43.37
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+34.85
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+TRUE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+No puede saberse con estos datos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+</quiz>

@@ -9,7 +9,7 @@ confianza <- sample(c(90, 95, 99), 1)
 tipo <- sample(1:5, 1)
 
 pregunta <- as.character(df$concepto[df$codigo == tipo])
-correcta <- paste("Hay una confianza del ", confianza, "% que la media de horas dedicadas a usar redes sociales para toda la población esté entre (", intervalo[1], ", ", intervalo[2], ")", sep = "")
+correcta <- paste("Hay una probabilidad de ", confianza, "% que el intervalo (", intervalo[1], ", ", intervalo[2], ")", " contenga al promedio de horas.", sep = "")
 
 incorrectas <- c(paste("Hay una confianza del ", confianza, "% que la media de horas dedicadas a usar redes sociales para la muestra esté entre (", intervalo[1], ", ", intervalo[2], ")", sep = ""),
                  paste("El ", confianza, "% de la muestra dedica entre (", intervalo[1], ", ", intervalo[2], ") horas a usar redes sociales", sep = ""),

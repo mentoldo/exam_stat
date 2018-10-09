@@ -1,6 +1,6 @@
 library(exams)
 
-exams2html(rep("./preguntas/html/P-frecuencia-3.Rmd", 50),
+exams2html(rep("./preguntas/html/R2018_0035.Rmd", 50),
            dir = "render",
            n = 3,
            name = "rand")
@@ -22,3 +22,4 @@ exportar <- function(x) {
 
 ## Exportamos todas las preguntas a un html
 lapply(preg, exportar)
+

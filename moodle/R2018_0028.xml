@@ -1,0 +1,6711 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+
+
+<question type="category">
+<category>
+<text>$course$/R2018_0028/Exercise 1</text>
+</category>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R001 Q1 : preguntas_html_R2018_0028 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p><strong>R2018_0028</strong>. Para el intervalo que estima un media poblacional (26.77, 44.25), el límite inferior es:</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<ol type = "a">
+<li> FALSE </li>
+<li> FALSE </li>
+<li> TRUE </li>
+<li> FALSE </li>
+</ol>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+44.25
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+No puede saberse con estos datos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+26.77
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+TRUE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+35.51
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R002 Q1 : preguntas_html_R2018_0028 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p><strong>R2018_0028</strong>. Para el intervalo que estima un media poblacional (90.72, 102.82), la confianza es:</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<ol type = "a">
+<li> FALSE </li>
+<li> TRUE </li>
+<li> FALSE </li>
+<li> FALSE </li>
+</ol>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+102.82
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+No puede saberse con estos datos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+TRUE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+96.77
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+6.05
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R003 Q1 : preguntas_html_R2018_0028 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p><strong>R2018_0028</strong>. Para el intervalo que estima un media poblacional (72.01, 87.89), el límite superior es:</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<ol type = "a">
+<li> FALSE </li>
+<li> FALSE </li>
+<li> TRUE </li>
+<li> FALSE </li>
+</ol>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+72.01
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+79.95
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+87.89
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+TRUE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+7.94
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R004 Q1 : preguntas_html_R2018_0028 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p><strong>R2018_0028</strong>. Para el intervalo que estima un media poblacional (67.44, 83.16), el estimador puntual es:</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<ol type = "a">
+<li> FALSE </li>
+<li> TRUE </li>
+<li> FALSE </li>
+<li> FALSE </li>
+</ol>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+83.16
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+75.3
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+TRUE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+67.44
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+7.86
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R005 Q1 : preguntas_html_R2018_0028 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p><strong>R2018_0028</strong>. Para el intervalo que estima un media poblacional (23.33, 43.31), el error es:</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<ol type = "a">
+<li> FALSE </li>
+<li> FALSE </li>
+<li> FALSE </li>
+<li> TRUE </li>
+</ol>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+No puede saberse con estos datos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+43.31
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+23.33
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+9.99
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+TRUE
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R006 Q1 : preguntas_html_R2018_0028 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p><strong>R2018_0028</strong>. Para el intervalo que estima un media poblacional (8.63, 24.83), el límite inferior es:</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<ol type = "a">
+<li> TRUE </li>
+<li> FALSE </li>
+<li> FALSE </li>
+<li> FALSE </li>
+</ol>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+8.63
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+TRUE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+8.1
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+No puede saberse con estos datos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+16.73
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R007 Q1 : preguntas_html_R2018_0028 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p><strong>R2018_0028</strong>. Para el intervalo que estima un media poblacional (10.74, 29.5), la confianza es:</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<ol type = "a">
+<li> FALSE </li>
+<li> TRUE </li>
+<li> FALSE </li>
+<li> FALSE </li>
+</ol>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+9.38
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+No puede saberse con estos datos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+TRUE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+10.74
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+20.12
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R008 Q1 : preguntas_html_R2018_0028 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p><strong>R2018_0028</strong>. Para el intervalo que estima un media poblacional (32.74, 43.1), el estimador puntual es:</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<ol type = "a">
+<li> FALSE </li>
+<li> TRUE </li>
+<li> FALSE </li>
+<li> FALSE </li>
+</ol>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+No puede saberse con estos datos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+37.92
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+TRUE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+32.74
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+43.1
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R009 Q1 : preguntas_html_R2018_0028 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p><strong>R2018_0028</strong>. Para el intervalo que estima un media poblacional (76.47, 90.15), el error es:</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<ol type = "a">
+<li> FALSE </li>
+<li> FALSE </li>
+<li> TRUE </li>
+<li> FALSE </li>
+</ol>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+90.15
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+83.31
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+6.84
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+TRUE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+76.47
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R010 Q1 : preguntas_html_R2018_0028 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p><strong>R2018_0028</strong>. Para el intervalo que estima un media poblacional (61.17, 78.89), el límite superior es:</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<ol type = "a">
+<li> TRUE </li>
+<li> FALSE </li>
+<li> FALSE </li>
+<li> FALSE </li>
+</ol>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+78.89
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+TRUE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+No puede saberse con estos datos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+61.17
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+70.03
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R011 Q1 : preguntas_html_R2018_0028 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p><strong>R2018_0028</strong>. Para el intervalo que estima un media poblacional (75.02, 94.7), el límite inferior es:</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<ol type = "a">
+<li> FALSE </li>
+<li> FALSE </li>
+<li> FALSE </li>
+<li> TRUE </li>
+</ol>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+84.86
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+No puede saberse con estos datos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+9.84
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+75.02
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+TRUE
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R012 Q1 : preguntas_html_R2018_0028 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p><strong>R2018_0028</strong>. Para el intervalo que estima un media poblacional (28.43, 45.79), el estimador puntual es:</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<ol type = "a">
+<li> FALSE </li>
+<li> TRUE </li>
+<li> FALSE </li>
+<li> FALSE </li>
+</ol>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+8.68
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+37.11
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+TRUE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+28.43
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+45.79
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R013 Q1 : preguntas_html_R2018_0028 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p><strong>R2018_0028</strong>. Para el intervalo que estima un media poblacional (52.24, 63.98), el límite superior es:</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<ol type = "a">
+<li> FALSE </li>
+<li> FALSE </li>
+<li> TRUE </li>
+<li> FALSE </li>
+</ol>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+No puede saberse con estos datos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+52.24
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+63.98
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+TRUE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+58.11
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R014 Q1 : preguntas_html_R2018_0028 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p><strong>R2018_0028</strong>. Para el intervalo que estima un media poblacional (41.54, 53.96), el límite inferior es:</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<ol type = "a">
+<li> FALSE </li>
+<li> FALSE </li>
+<li> FALSE </li>
+<li> TRUE </li>
+</ol>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+6.21
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+53.96
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+47.75
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+41.54
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+TRUE
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R015 Q1 : preguntas_html_R2018_0028 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p><strong>R2018_0028</strong>. Para el intervalo que estima un media poblacional (67.26, 80.58), el estimador puntual es:</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<ol type = "a">
+<li> TRUE </li>
+<li> FALSE </li>
+<li> FALSE </li>
+<li> FALSE </li>
+</ol>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+73.92
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+TRUE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+80.58
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+6.66
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+67.26
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R016 Q1 : preguntas_html_R2018_0028 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p><strong>R2018_0028</strong>. Para el intervalo que estima un media poblacional (22.25, 35.67), la confianza es:</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<ol type = "a">
+<li> FALSE </li>
+<li> FALSE </li>
+<li> FALSE </li>
+<li> TRUE </li>
+</ol>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+28.96
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+6.71
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+22.25
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+No puede saberse con estos datos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+TRUE
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R017 Q1 : preguntas_html_R2018_0028 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p><strong>R2018_0028</strong>. Para el intervalo que estima un media poblacional (20.75, 38.95), el estimador puntual es:</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<ol type = "a">
+<li> TRUE </li>
+<li> FALSE </li>
+<li> FALSE </li>
+<li> FALSE </li>
+</ol>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+29.85
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+TRUE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+9.1
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+20.75
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+No puede saberse con estos datos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R018 Q1 : preguntas_html_R2018_0028 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p><strong>R2018_0028</strong>. Para el intervalo que estima un media poblacional (5.06, 23.48), el límite inferior es:</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<ol type = "a">
+<li> FALSE </li>
+<li> TRUE </li>
+<li> FALSE </li>
+<li> FALSE </li>
+</ol>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+9.21
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+5.06
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+TRUE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+23.48
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+14.27
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R019 Q1 : preguntas_html_R2018_0028 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p><strong>R2018_0028</strong>. Para el intervalo que estima un media poblacional (9.34, 24.62), el límite superior es:</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<ol type = "a">
+<li> FALSE </li>
+<li> FALSE </li>
+<li> TRUE </li>
+<li> FALSE </li>
+</ol>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+16.98
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+9.34
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+24.62
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+TRUE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+7.64
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R020 Q1 : preguntas_html_R2018_0028 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p><strong>R2018_0028</strong>. Para el intervalo que estima un media poblacional (47.2, 60.3), el límite superior es:</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<ol type = "a">
+<li> TRUE </li>
+<li> FALSE </li>
+<li> FALSE </li>
+<li> FALSE </li>
+</ol>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+60.3
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+TRUE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+No puede saberse con estos datos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+53.75
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+47.2
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R021 Q1 : preguntas_html_R2018_0028 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p><strong>R2018_0028</strong>. Para el intervalo que estima un media poblacional (7.64, 17.96), el límite inferior es:</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<ol type = "a">
+<li> FALSE </li>
+<li> TRUE </li>
+<li> FALSE </li>
+<li> FALSE </li>
+</ol>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+12.8
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+7.64
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+TRUE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+5.16
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+No puede saberse con estos datos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R022 Q1 : preguntas_html_R2018_0028 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p><strong>R2018_0028</strong>. Para el intervalo que estima un media poblacional (63.09, 79.81), el límite inferior es:</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<ol type = "a">
+<li> TRUE </li>
+<li> FALSE </li>
+<li> FALSE </li>
+<li> FALSE </li>
+</ol>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+63.09
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+TRUE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+8.36
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+71.45
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+79.81
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R023 Q1 : preguntas_html_R2018_0028 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p><strong>R2018_0028</strong>. Para el intervalo que estima un media poblacional (42.36, 61.1), el estimador puntual es:</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<ol type = "a">
+<li> FALSE </li>
+<li> FALSE </li>
+<li> FALSE </li>
+<li> TRUE </li>
+</ol>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+9.37
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+No puede saberse con estos datos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+61.1
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+51.73
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+TRUE
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R024 Q1 : preguntas_html_R2018_0028 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p><strong>R2018_0028</strong>. Para el intervalo que estima un media poblacional (60.54, 73.48), el error es:</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<ol type = "a">
+<li> FALSE </li>
+<li> FALSE </li>
+<li> FALSE </li>
+<li> TRUE </li>
+</ol>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+73.48
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+60.54
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+67.01
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+6.47
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+TRUE
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R025 Q1 : preguntas_html_R2018_0028 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p><strong>R2018_0028</strong>. Para el intervalo que estima un media poblacional (78.37, 98.29), la confianza es:</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<ol type = "a">
+<li> FALSE </li>
+<li> FALSE </li>
+<li> TRUE </li>
+<li> FALSE </li>
+</ol>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+88.33
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+98.29
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+No puede saberse con estos datos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+TRUE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+9.96
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R026 Q1 : preguntas_html_R2018_0028 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p><strong>R2018_0028</strong>. Para el intervalo que estima un media poblacional (58.7, 76.36), la confianza es:</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<ol type = "a">
+<li> FALSE </li>
+<li> FALSE </li>
+<li> TRUE </li>
+<li> FALSE </li>
+</ol>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+76.36
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+8.83
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+No puede saberse con estos datos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+TRUE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+67.53
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R027 Q1 : preguntas_html_R2018_0028 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p><strong>R2018_0028</strong>. Para el intervalo que estima un media poblacional (34.98, 47.76), el límite inferior es:</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<ol type = "a">
+<li> TRUE </li>
+<li> FALSE </li>
+<li> FALSE </li>
+<li> FALSE </li>
+</ol>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+34.98
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+TRUE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+No puede saberse con estos datos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+6.39
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+47.76
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R028 Q1 : preguntas_html_R2018_0028 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p><strong>R2018_0028</strong>. Para el intervalo que estima un media poblacional (52.33, 70.01), el límite superior es:</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<ol type = "a">
+<li> FALSE </li>
+<li> TRUE </li>
+<li> FALSE </li>
+<li> FALSE </li>
+</ol>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+No puede saberse con estos datos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+70.01
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+TRUE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+8.84
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+61.17
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R029 Q1 : preguntas_html_R2018_0028 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p><strong>R2018_0028</strong>. Para el intervalo que estima un media poblacional (32.52, 44.2), el estimador puntual es:</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<ol type = "a">
+<li> TRUE </li>
+<li> FALSE </li>
+<li> FALSE </li>
+<li> FALSE </li>
+</ol>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+38.36
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+TRUE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+44.2
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+5.84
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+No puede saberse con estos datos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R030 Q1 : preguntas_html_R2018_0028 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p><strong>R2018_0028</strong>. Para el intervalo que estima un media poblacional (87.47, 100.19), el error es:</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<ol type = "a">
+<li> TRUE </li>
+<li> FALSE </li>
+<li> FALSE </li>
+<li> FALSE </li>
+</ol>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+6.36
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+TRUE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+93.83
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+No puede saberse con estos datos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+87.47
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R031 Q1 : preguntas_html_R2018_0028 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p><strong>R2018_0028</strong>. Para el intervalo que estima un media poblacional (34.36, 45.96), el límite superior es:</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<ol type = "a">
+<li> TRUE </li>
+<li> FALSE </li>
+<li> FALSE </li>
+<li> FALSE </li>
+</ol>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+45.96
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+TRUE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+40.16
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+5.8
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+34.36
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R032 Q1 : preguntas_html_R2018_0028 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p><strong>R2018_0028</strong>. Para el intervalo que estima un media poblacional (10.4, 21.7), el estimador puntual es:</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<ol type = "a">
+<li> FALSE </li>
+<li> FALSE </li>
+<li> TRUE </li>
+<li> FALSE </li>
+</ol>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+10.4
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+5.65
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+16.05
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+TRUE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+No puede saberse con estos datos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R033 Q1 : preguntas_html_R2018_0028 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p><strong>R2018_0028</strong>. Para el intervalo que estima un media poblacional (70.7, 86.64), el límite inferior es:</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<ol type = "a">
+<li> TRUE </li>
+<li> FALSE </li>
+<li> FALSE </li>
+<li> FALSE </li>
+</ol>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+70.7
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+TRUE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+7.97
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+78.67
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+86.64
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R034 Q1 : preguntas_html_R2018_0028 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p><strong>R2018_0028</strong>. Para el intervalo que estima un media poblacional (34.87, 52.09), el estimador puntual es:</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<ol type = "a">
+<li> FALSE </li>
+<li> TRUE </li>
+<li> FALSE </li>
+<li> FALSE </li>
+</ol>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+8.61
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+43.48
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+TRUE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+34.87
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+52.09
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R035 Q1 : preguntas_html_R2018_0028 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p><strong>R2018_0028</strong>. Para el intervalo que estima un media poblacional (39.65, 50.23), el límite superior es:</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<ol type = "a">
+<li> TRUE </li>
+<li> FALSE </li>
+<li> FALSE </li>
+<li> FALSE </li>
+</ol>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+50.23
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+TRUE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+No puede saberse con estos datos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+44.94
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+5.29
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R036 Q1 : preguntas_html_R2018_0028 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p><strong>R2018_0028</strong>. Para el intervalo que estima un media poblacional (9.82, 28.14), la confianza es:</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<ol type = "a">
+<li> TRUE </li>
+<li> FALSE </li>
+<li> FALSE </li>
+<li> FALSE </li>
+</ol>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+No puede saberse con estos datos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+TRUE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+28.14
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+9.82
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+9.16
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R037 Q1 : preguntas_html_R2018_0028 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p><strong>R2018_0028</strong>. Para el intervalo que estima un media poblacional (32.43, 51.31), el límite inferior es:</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<ol type = "a">
+<li> TRUE </li>
+<li> FALSE </li>
+<li> FALSE </li>
+<li> FALSE </li>
+</ol>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+32.43
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+TRUE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+41.87
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+No puede saberse con estos datos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+9.44
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R038 Q1 : preguntas_html_R2018_0028 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p><strong>R2018_0028</strong>. Para el intervalo que estima un media poblacional (39.91, 53.17), el límite superior es:</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<ol type = "a">
+<li> FALSE </li>
+<li> FALSE </li>
+<li> FALSE </li>
+<li> TRUE </li>
+</ol>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+No puede saberse con estos datos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+39.91
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+46.54
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+53.17
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+TRUE
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R039 Q1 : preguntas_html_R2018_0028 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p><strong>R2018_0028</strong>. Para el intervalo que estima un media poblacional (71.15, 86.11), la confianza es:</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<ol type = "a">
+<li> FALSE </li>
+<li> FALSE </li>
+<li> TRUE </li>
+<li> FALSE </li>
+</ol>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+86.11
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+78.63
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+No puede saberse con estos datos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+TRUE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+71.15
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R040 Q1 : preguntas_html_R2018_0028 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p><strong>R2018_0028</strong>. Para el intervalo que estima un media poblacional (88.57, 99.05), el límite superior es:</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<ol type = "a">
+<li> TRUE </li>
+<li> FALSE </li>
+<li> FALSE </li>
+<li> FALSE </li>
+</ol>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+99.05
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+TRUE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+No puede saberse con estos datos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+93.81
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+5.24
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R041 Q1 : preguntas_html_R2018_0028 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p><strong>R2018_0028</strong>. Para el intervalo que estima un media poblacional (84.38, 97.38), el límite inferior es:</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<ol type = "a">
+<li> TRUE </li>
+<li> FALSE </li>
+<li> FALSE </li>
+<li> FALSE </li>
+</ol>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+84.38
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+TRUE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+90.88
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+97.38
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+No puede saberse con estos datos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R042 Q1 : preguntas_html_R2018_0028 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p><strong>R2018_0028</strong>. Para el intervalo que estima un media poblacional (69.81, 84.95), el error es:</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<ol type = "a">
+<li> FALSE </li>
+<li> TRUE </li>
+<li> FALSE </li>
+<li> FALSE </li>
+</ol>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+84.95
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+7.57
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+TRUE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+69.81
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+77.38
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R043 Q1 : preguntas_html_R2018_0028 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p><strong>R2018_0028</strong>. Para el intervalo que estima un media poblacional (14.4, 27.56), el límite superior es:</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<ol type = "a">
+<li> FALSE </li>
+<li> FALSE </li>
+<li> TRUE </li>
+<li> FALSE </li>
+</ol>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+14.4
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+No puede saberse con estos datos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+27.56
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+TRUE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+20.98
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R044 Q1 : preguntas_html_R2018_0028 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p><strong>R2018_0028</strong>. Para el intervalo que estima un media poblacional (33.4, 53.34), la confianza es:</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<ol type = "a">
+<li> TRUE </li>
+<li> FALSE </li>
+<li> FALSE </li>
+<li> FALSE </li>
+</ol>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+No puede saberse con estos datos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+TRUE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+53.34
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+43.37
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+33.4
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R045 Q1 : preguntas_html_R2018_0028 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p><strong>R2018_0028</strong>. Para el intervalo que estima un media poblacional (40.83, 58.55), el estimador puntual es:</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<ol type = "a">
+<li> FALSE </li>
+<li> TRUE </li>
+<li> FALSE </li>
+<li> FALSE </li>
+</ol>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+8.86
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+49.69
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+TRUE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+No puede saberse con estos datos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+58.55
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R046 Q1 : preguntas_html_R2018_0028 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p><strong>R2018_0028</strong>. Para el intervalo que estima un media poblacional (43.27, 60.23), el error es:</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<ol type = "a">
+<li> FALSE </li>
+<li> TRUE </li>
+<li> FALSE </li>
+<li> FALSE </li>
+</ol>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+43.27
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+8.48
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+TRUE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+60.23
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+51.75
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R047 Q1 : preguntas_html_R2018_0028 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p><strong>R2018_0028</strong>. Para el intervalo que estima un media poblacional (59.7, 72.76), la confianza es:</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<ol type = "a">
+<li> FALSE </li>
+<li> FALSE </li>
+<li> TRUE </li>
+<li> FALSE </li>
+</ol>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+6.53
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+66.23
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+No puede saberse con estos datos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+TRUE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+72.76
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R048 Q1 : preguntas_html_R2018_0028 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p><strong>R2018_0028</strong>. Para el intervalo que estima un media poblacional (70.6, 90.44), el límite superior es:</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<ol type = "a">
+<li> FALSE </li>
+<li> FALSE </li>
+<li> TRUE </li>
+<li> FALSE </li>
+</ol>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+No puede saberse con estos datos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+80.52
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+90.44
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+TRUE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+9.92
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R049 Q1 : preguntas_html_R2018_0028 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p><strong>R2018_0028</strong>. Para el intervalo que estima un media poblacional (19.9, 34.98), el error es:</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<ol type = "a">
+<li> FALSE </li>
+<li> FALSE </li>
+<li> TRUE </li>
+<li> FALSE </li>
+</ol>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+No puede saberse con estos datos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+19.9
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+7.54
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+TRUE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+34.98
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R050 Q1 : preguntas_html_R2018_0028 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p><strong>R2018_0028</strong>. Para el intervalo que estima un media poblacional (45.6, 57.4), la confianza es:</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<ol type = "a">
+<li> FALSE </li>
+<li> FALSE </li>
+<li> FALSE </li>
+<li> TRUE </li>
+</ol>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+45.6
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+57.4
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+51.5
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+No puede saberse con estos datos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+TRUE
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R051 Q1 : preguntas_html_R2018_0028 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p><strong>R2018_0028</strong>. Para el intervalo que estima un media poblacional (14.09, 28.73), el límite inferior es:</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<ol type = "a">
+<li> TRUE </li>
+<li> FALSE </li>
+<li> FALSE </li>
+<li> FALSE </li>
+</ol>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+14.09
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+TRUE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+7.32
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+21.41
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+28.73
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R052 Q1 : preguntas_html_R2018_0028 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p><strong>R2018_0028</strong>. Para el intervalo que estima un media poblacional (21.21, 31.25), el límite inferior es:</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<ol type = "a">
+<li> TRUE </li>
+<li> FALSE </li>
+<li> FALSE </li>
+<li> FALSE </li>
+</ol>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+21.21
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+TRUE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+No puede saberse con estos datos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+26.23
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+31.25
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R053 Q1 : preguntas_html_R2018_0028 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p><strong>R2018_0028</strong>. Para el intervalo que estima un media poblacional (81.53, 98.17), el error es:</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<ol type = "a">
+<li> TRUE </li>
+<li> FALSE </li>
+<li> FALSE </li>
+<li> FALSE </li>
+</ol>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+8.32
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+TRUE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+98.17
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+81.53
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+No puede saberse con estos datos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R054 Q1 : preguntas_html_R2018_0028 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p><strong>R2018_0028</strong>. Para el intervalo que estima un media poblacional (77.66, 90.64), el límite inferior es:</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<ol type = "a">
+<li> TRUE </li>
+<li> FALSE </li>
+<li> FALSE </li>
+<li> FALSE </li>
+</ol>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+77.66
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+TRUE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+No puede saberse con estos datos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+6.49
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+90.64
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R055 Q1 : preguntas_html_R2018_0028 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p><strong>R2018_0028</strong>. Para el intervalo que estima un media poblacional (43.34, 55.9), el estimador puntual es:</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<ol type = "a">
+<li> TRUE </li>
+<li> FALSE </li>
+<li> FALSE </li>
+<li> FALSE </li>
+</ol>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+49.62
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+TRUE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+6.28
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+No puede saberse con estos datos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+55.9
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R056 Q1 : preguntas_html_R2018_0028 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p><strong>R2018_0028</strong>. Para el intervalo que estima un media poblacional (35.15, 45.25), el límite superior es:</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<ol type = "a">
+<li> TRUE </li>
+<li> FALSE </li>
+<li> FALSE </li>
+<li> FALSE </li>
+</ol>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+45.25
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+TRUE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+5.05
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+40.2
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+No puede saberse con estos datos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R057 Q1 : preguntas_html_R2018_0028 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p><strong>R2018_0028</strong>. Para el intervalo que estima un media poblacional (62.47, 74.81), el límite inferior es:</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<ol type = "a">
+<li> TRUE </li>
+<li> FALSE </li>
+<li> FALSE </li>
+<li> FALSE </li>
+</ol>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+62.47
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+TRUE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+68.64
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+6.17
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+No puede saberse con estos datos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R058 Q1 : preguntas_html_R2018_0028 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p><strong>R2018_0028</strong>. Para el intervalo que estima un media poblacional (30.27, 45.03), el estimador puntual es:</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<ol type = "a">
+<li> FALSE </li>
+<li> FALSE </li>
+<li> FALSE </li>
+<li> TRUE </li>
+</ol>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+No puede saberse con estos datos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+7.38
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+30.27
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+37.65
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+TRUE
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R059 Q1 : preguntas_html_R2018_0028 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p><strong>R2018_0028</strong>. Para el intervalo que estima un media poblacional (51.38, 64.58), el límite inferior es:</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<ol type = "a">
+<li> FALSE </li>
+<li> TRUE </li>
+<li> FALSE </li>
+<li> FALSE </li>
+</ol>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+6.6
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+51.38
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+TRUE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+57.98
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+No puede saberse con estos datos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R060 Q1 : preguntas_html_R2018_0028 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p><strong>R2018_0028</strong>. Para el intervalo que estima un media poblacional (20.44, 37.18), la confianza es:</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<ol type = "a">
+<li> TRUE </li>
+<li> FALSE </li>
+<li> FALSE </li>
+<li> FALSE </li>
+</ol>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+No puede saberse con estos datos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+TRUE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+8.37
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+20.44
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+37.18
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R061 Q1 : preguntas_html_R2018_0028 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p><strong>R2018_0028</strong>. Para el intervalo que estima un media poblacional (41.61, 59.91), el límite superior es:</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<ol type = "a">
+<li> TRUE </li>
+<li> FALSE </li>
+<li> FALSE </li>
+<li> FALSE </li>
+</ol>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+59.91
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+TRUE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+No puede saberse con estos datos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+9.15
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+41.61
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R062 Q1 : preguntas_html_R2018_0028 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p><strong>R2018_0028</strong>. Para el intervalo que estima un media poblacional (10.52, 26.18), el límite inferior es:</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<ol type = "a">
+<li> FALSE </li>
+<li> FALSE </li>
+<li> FALSE </li>
+<li> TRUE </li>
+</ol>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+18.35
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+26.18
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+7.83
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+10.52
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+TRUE
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R063 Q1 : preguntas_html_R2018_0028 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p><strong>R2018_0028</strong>. Para el intervalo que estima un media poblacional (25.16, 42.5), la confianza es:</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<ol type = "a">
+<li> FALSE </li>
+<li> FALSE </li>
+<li> TRUE </li>
+<li> FALSE </li>
+</ol>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+25.16
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+8.67
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+No puede saberse con estos datos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+TRUE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+42.5
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R064 Q1 : preguntas_html_R2018_0028 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p><strong>R2018_0028</strong>. Para el intervalo que estima un media poblacional (44.69, 60.91), el error es:</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<ol type = "a">
+<li> FALSE </li>
+<li> FALSE </li>
+<li> FALSE </li>
+<li> TRUE </li>
+</ol>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+60.91
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+52.8
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+44.69
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+8.11
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+TRUE
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R065 Q1 : preguntas_html_R2018_0028 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p><strong>R2018_0028</strong>. Para el intervalo que estima un media poblacional (11.64, 31.16), el límite inferior es:</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<ol type = "a">
+<li> TRUE </li>
+<li> FALSE </li>
+<li> FALSE </li>
+<li> FALSE </li>
+</ol>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+11.64
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+TRUE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+21.4
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+9.76
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+31.16
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R066 Q1 : preguntas_html_R2018_0028 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p><strong>R2018_0028</strong>. Para el intervalo que estima un media poblacional (10.94, 30.48), el estimador puntual es:</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<ol type = "a">
+<li> FALSE </li>
+<li> FALSE </li>
+<li> TRUE </li>
+<li> FALSE </li>
+</ol>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+No puede saberse con estos datos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+30.48
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+20.71
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+TRUE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+9.77
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R067 Q1 : preguntas_html_R2018_0028 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p><strong>R2018_0028</strong>. Para el intervalo que estima un media poblacional (22.3, 37), el estimador puntual es:</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<ol type = "a">
+<li> FALSE </li>
+<li> FALSE </li>
+<li> TRUE </li>
+<li> FALSE </li>
+</ol>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+37
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+No puede saberse con estos datos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+29.65
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+TRUE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+7.35
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R068 Q1 : preguntas_html_R2018_0028 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p><strong>R2018_0028</strong>. Para el intervalo que estima un media poblacional (36.09, 51.69), el límite superior es:</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<ol type = "a">
+<li> FALSE </li>
+<li> TRUE </li>
+<li> FALSE </li>
+<li> FALSE </li>
+</ol>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+No puede saberse con estos datos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+51.69
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+TRUE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+43.89
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+7.8
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R069 Q1 : preguntas_html_R2018_0028 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p><strong>R2018_0028</strong>. Para el intervalo que estima un media poblacional (78.07, 97.39), el límite inferior es:</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<ol type = "a">
+<li> FALSE </li>
+<li> FALSE </li>
+<li> FALSE </li>
+<li> TRUE </li>
+</ol>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+No puede saberse con estos datos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+87.73
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+97.39
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+78.07
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+TRUE
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R070 Q1 : preguntas_html_R2018_0028 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p><strong>R2018_0028</strong>. Para el intervalo que estima un media poblacional (26.6, 43.6), el límite inferior es:</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<ol type = "a">
+<li> FALSE </li>
+<li> FALSE </li>
+<li> TRUE </li>
+<li> FALSE </li>
+</ol>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+43.6
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+35.1
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+26.6
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+TRUE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+8.5
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R071 Q1 : preguntas_html_R2018_0028 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p><strong>R2018_0028</strong>. Para el intervalo que estima un media poblacional (73.7, 84.46), el límite superior es:</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<ol type = "a">
+<li> FALSE </li>
+<li> TRUE </li>
+<li> FALSE </li>
+<li> FALSE </li>
+</ol>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+79.08
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+84.46
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+TRUE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+No puede saberse con estos datos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+5.38
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R072 Q1 : preguntas_html_R2018_0028 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p><strong>R2018_0028</strong>. Para el intervalo que estima un media poblacional (81.43, 93.67), la confianza es:</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<ol type = "a">
+<li> FALSE </li>
+<li> FALSE </li>
+<li> TRUE </li>
+<li> FALSE </li>
+</ol>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+93.67
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+87.55
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+No puede saberse con estos datos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+TRUE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+81.43
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R073 Q1 : preguntas_html_R2018_0028 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p><strong>R2018_0028</strong>. Para el intervalo que estima un media poblacional (71.81, 85.81), el límite superior es:</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<ol type = "a">
+<li> FALSE </li>
+<li> TRUE </li>
+<li> FALSE </li>
+<li> FALSE </li>
+</ol>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+7
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+85.81
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+TRUE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+71.81
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+No puede saberse con estos datos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R074 Q1 : preguntas_html_R2018_0028 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p><strong>R2018_0028</strong>. Para el intervalo que estima un media poblacional (74.98, 92.52), el límite superior es:</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<ol type = "a">
+<li> TRUE </li>
+<li> FALSE </li>
+<li> FALSE </li>
+<li> FALSE </li>
+</ol>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+92.52
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+TRUE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+74.98
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+8.77
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+No puede saberse con estos datos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R075 Q1 : preguntas_html_R2018_0028 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p><strong>R2018_0028</strong>. Para el intervalo que estima un media poblacional (24.46, 42.22), el límite superior es:</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<ol type = "a">
+<li> TRUE </li>
+<li> FALSE </li>
+<li> FALSE </li>
+<li> FALSE </li>
+</ol>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+42.22
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+TRUE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+24.46
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+No puede saberse con estos datos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+8.88
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R076 Q1 : preguntas_html_R2018_0028 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p><strong>R2018_0028</strong>. Para el intervalo que estima un media poblacional (16, 31.74), el límite superior es:</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<ol type = "a">
+<li> FALSE </li>
+<li> TRUE </li>
+<li> FALSE </li>
+<li> FALSE </li>
+</ol>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+7.87
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+31.74
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+TRUE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+23.87
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+No puede saberse con estos datos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R077 Q1 : preguntas_html_R2018_0028 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p><strong>R2018_0028</strong>. Para el intervalo que estima un media poblacional (7.66, 27.22), el límite inferior es:</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<ol type = "a">
+<li> FALSE </li>
+<li> FALSE </li>
+<li> TRUE </li>
+<li> FALSE </li>
+</ol>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+27.22
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+9.78
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+7.66
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+TRUE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+No puede saberse con estos datos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R078 Q1 : preguntas_html_R2018_0028 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p><strong>R2018_0028</strong>. Para el intervalo que estima un media poblacional (64.77, 78.03), el límite inferior es:</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<ol type = "a">
+<li> FALSE </li>
+<li> FALSE </li>
+<li> FALSE </li>
+<li> TRUE </li>
+</ol>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+71.4
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+No puede saberse con estos datos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+6.63
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+64.77
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+TRUE
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R079 Q1 : preguntas_html_R2018_0028 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p><strong>R2018_0028</strong>. Para el intervalo que estima un media poblacional (59.01, 72.61), el error es:</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<ol type = "a">
+<li> FALSE </li>
+<li> TRUE </li>
+<li> FALSE </li>
+<li> FALSE </li>
+</ol>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+59.01
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+6.8
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+TRUE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+65.81
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+No puede saberse con estos datos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R080 Q1 : preguntas_html_R2018_0028 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p><strong>R2018_0028</strong>. Para el intervalo que estima un media poblacional (21.82, 36.8), la confianza es:</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<ol type = "a">
+<li> FALSE </li>
+<li> FALSE </li>
+<li> TRUE </li>
+<li> FALSE </li>
+</ol>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+29.31
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+7.49
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+No puede saberse con estos datos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+TRUE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+21.82
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R081 Q1 : preguntas_html_R2018_0028 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p><strong>R2018_0028</strong>. Para el intervalo que estima un media poblacional (5.64, 22.04), el límite inferior es:</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<ol type = "a">
+<li> TRUE </li>
+<li> FALSE </li>
+<li> FALSE </li>
+<li> FALSE </li>
+</ol>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+5.64
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+TRUE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+13.84
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+No puede saberse con estos datos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+8.2
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R082 Q1 : preguntas_html_R2018_0028 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p><strong>R2018_0028</strong>. Para el intervalo que estima un media poblacional (5.95, 19.61), el límite inferior es:</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<ol type = "a">
+<li> FALSE </li>
+<li> TRUE </li>
+<li> FALSE </li>
+<li> FALSE </li>
+</ol>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+6.83
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+5.95
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+TRUE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+19.61
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+12.78
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R083 Q1 : preguntas_html_R2018_0028 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p><strong>R2018_0028</strong>. Para el intervalo que estima un media poblacional (76.4, 91.18), el error es:</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<ol type = "a">
+<li> FALSE </li>
+<li> FALSE </li>
+<li> FALSE </li>
+<li> TRUE </li>
+</ol>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+83.79
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+76.4
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+91.18
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+7.39
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+TRUE
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R084 Q1 : preguntas_html_R2018_0028 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p><strong>R2018_0028</strong>. Para el intervalo que estima un media poblacional (75.63, 92.41), el error es:</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<ol type = "a">
+<li> FALSE </li>
+<li> FALSE </li>
+<li> FALSE </li>
+<li> TRUE </li>
+</ol>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+92.41
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+75.63
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+No puede saberse con estos datos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+8.39
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+TRUE
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R085 Q1 : preguntas_html_R2018_0028 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p><strong>R2018_0028</strong>. Para el intervalo que estima un media poblacional (69.98, 89.78), el límite inferior es:</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<ol type = "a">
+<li> FALSE </li>
+<li> FALSE </li>
+<li> FALSE </li>
+<li> TRUE </li>
+</ol>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+9.9
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+79.88
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+89.78
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+69.98
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+TRUE
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R086 Q1 : preguntas_html_R2018_0028 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p><strong>R2018_0028</strong>. Para el intervalo que estima un media poblacional (31.96, 51.16), el estimador puntual es:</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<ol type = "a">
+<li> FALSE </li>
+<li> FALSE </li>
+<li> TRUE </li>
+<li> FALSE </li>
+</ol>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+No puede saberse con estos datos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+31.96
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+41.56
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+TRUE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+9.6
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R087 Q1 : preguntas_html_R2018_0028 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p><strong>R2018_0028</strong>. Para el intervalo que estima un media poblacional (81.06, 96.4), el estimador puntual es:</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<ol type = "a">
+<li> TRUE </li>
+<li> FALSE </li>
+<li> FALSE </li>
+<li> FALSE </li>
+</ol>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+88.73
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+TRUE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+81.06
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+7.67
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+No puede saberse con estos datos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R088 Q1 : preguntas_html_R2018_0028 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p><strong>R2018_0028</strong>. Para el intervalo que estima un media poblacional (53.3, 67.48), el límite inferior es:</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<ol type = "a">
+<li> TRUE </li>
+<li> FALSE </li>
+<li> FALSE </li>
+<li> FALSE </li>
+</ol>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+53.3
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+TRUE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+67.48
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+60.39
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+No puede saberse con estos datos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R089 Q1 : preguntas_html_R2018_0028 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p><strong>R2018_0028</strong>. Para el intervalo que estima un media poblacional (11.78, 27.86), el estimador puntual es:</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<ol type = "a">
+<li> FALSE </li>
+<li> FALSE </li>
+<li> FALSE </li>
+<li> TRUE </li>
+</ol>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+11.78
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+8.04
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+No puede saberse con estos datos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+19.82
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+TRUE
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R090 Q1 : preguntas_html_R2018_0028 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p><strong>R2018_0028</strong>. Para el intervalo que estima un media poblacional (22.15, 36.27), el error es:</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<ol type = "a">
+<li> FALSE </li>
+<li> FALSE </li>
+<li> TRUE </li>
+<li> FALSE </li>
+</ol>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+22.15
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+29.21
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+7.06
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+TRUE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+36.27
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R091 Q1 : preguntas_html_R2018_0028 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p><strong>R2018_0028</strong>. Para el intervalo que estima un media poblacional (68.87, 85.45), el límite inferior es:</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<ol type = "a">
+<li> FALSE </li>
+<li> TRUE </li>
+<li> FALSE </li>
+<li> FALSE </li>
+</ol>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+8.29
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+68.87
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+TRUE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+85.45
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+77.16
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R092 Q1 : preguntas_html_R2018_0028 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p><strong>R2018_0028</strong>. Para el intervalo que estima un media poblacional (57.35, 75.37), el límite superior es:</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<ol type = "a">
+<li> FALSE </li>
+<li> TRUE </li>
+<li> FALSE </li>
+<li> FALSE </li>
+</ol>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+66.36
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+75.37
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+TRUE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+57.35
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+No puede saberse con estos datos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R093 Q1 : preguntas_html_R2018_0028 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p><strong>R2018_0028</strong>. Para el intervalo que estima un media poblacional (14.3, 30.02), el estimador puntual es:</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<ol type = "a">
+<li> TRUE </li>
+<li> FALSE </li>
+<li> FALSE </li>
+<li> FALSE </li>
+</ol>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+22.16
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+TRUE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+No puede saberse con estos datos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+14.3
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+30.02
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R094 Q1 : preguntas_html_R2018_0028 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p><strong>R2018_0028</strong>. Para el intervalo que estima un media poblacional (74.99, 94.79), el estimador puntual es:</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<ol type = "a">
+<li> FALSE </li>
+<li> FALSE </li>
+<li> TRUE </li>
+<li> FALSE </li>
+</ol>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+No puede saberse con estos datos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+9.9
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+84.89
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+TRUE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+74.99
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R095 Q1 : preguntas_html_R2018_0028 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p><strong>R2018_0028</strong>. Para el intervalo que estima un media poblacional (11.65, 22.59), el límite inferior es:</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<ol type = "a">
+<li> FALSE </li>
+<li> FALSE </li>
+<li> TRUE </li>
+<li> FALSE </li>
+</ol>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+17.12
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+5.47
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+11.65
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+TRUE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+22.59
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R096 Q1 : preguntas_html_R2018_0028 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p><strong>R2018_0028</strong>. Para el intervalo que estima un media poblacional (26.63, 43.17), el límite inferior es:</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<ol type = "a">
+<li> FALSE </li>
+<li> TRUE </li>
+<li> FALSE </li>
+<li> FALSE </li>
+</ol>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+43.17
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+26.63
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+TRUE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+8.27
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+34.9
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R097 Q1 : preguntas_html_R2018_0028 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p><strong>R2018_0028</strong>. Para el intervalo que estima un media poblacional (45.1, 60.52), el estimador puntual es:</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<ol type = "a">
+<li> FALSE </li>
+<li> FALSE </li>
+<li> TRUE </li>
+<li> FALSE </li>
+</ol>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+45.1
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+60.52
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+52.81
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+TRUE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+No puede saberse con estos datos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R098 Q1 : preguntas_html_R2018_0028 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p><strong>R2018_0028</strong>. Para el intervalo que estima un media poblacional (33.87, 45.15), el estimador puntual es:</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<ol type = "a">
+<li> TRUE </li>
+<li> FALSE </li>
+<li> FALSE </li>
+<li> FALSE </li>
+</ol>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+39.51
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+TRUE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+33.87
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+45.15
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+No puede saberse con estos datos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R099 Q1 : preguntas_html_R2018_0028 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p><strong>R2018_0028</strong>. Para el intervalo que estima un media poblacional (29.26, 40.18), el límite inferior es:</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<ol type = "a">
+<li> FALSE </li>
+<li> FALSE </li>
+<li> FALSE </li>
+<li> TRUE </li>
+</ol>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+34.72
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+40.18
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+No puede saberse con estos datos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+29.26
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+TRUE
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R100 Q1 : preguntas_html_R2018_0028 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p><strong>R2018_0028</strong>. Para el intervalo que estima un media poblacional (71.79, 91.33), el error es:</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<ol type = "a">
+<li> FALSE </li>
+<li> FALSE </li>
+<li> FALSE </li>
+<li> TRUE </li>
+</ol>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+91.33
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+81.56
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+No puede saberse con estos datos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+9.77
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+TRUE
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+</quiz>

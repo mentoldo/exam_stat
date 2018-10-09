@@ -1,0 +1,6711 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+
+
+<question type="category">
+<category>
+<text>$course$/R2018_0021/Exercise 1</text>
+</category>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R001 Q1 : preguntas_html_R2018_0021 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p><strong>R2018_0021</strong>. Al 88 % de confianza, el intervalo que estima el tiempo medio de reacción a un estímulo es (1.44, 3) segundos. Si la confianza cambia al 91 %, el intervalo resulta:</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<ol type = "a">
+<li> FALSE </li>
+<li> FALSE </li>
+<li> FALSE </li>
+<li> TRUE </li>
+</ol>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+De mayor precisión
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+De la misma amplitud
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+De menor amplitud
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+De mayor amplitud
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+TRUE
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R002 Q1 : preguntas_html_R2018_0021 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p><strong>R2018_0021</strong>. Al 84 % de confianza, el intervalo que estima el tiempo medio de reacción a un estímulo es (1.73, 3.71) segundos. Si la confianza cambia al 94 %, el intervalo resulta:</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<ol type = "a">
+<li> FALSE </li>
+<li> FALSE </li>
+<li> TRUE </li>
+<li> FALSE </li>
+</ol>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+De menor amplitud
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+De la misma precisión
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+De mayor amplitud
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+TRUE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+De mayor precisión
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R003 Q1 : preguntas_html_R2018_0021 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p><strong>R2018_0021</strong>. Al 85 % de confianza, el intervalo que estima el tiempo medio de reacción a un estímulo es (2.28, 3.35) segundos. Si la confianza cambia al 84 %, el intervalo resulta:</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<ol type = "a">
+<li> TRUE </li>
+<li> FALSE </li>
+<li> FALSE </li>
+<li> FALSE </li>
+</ol>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+De menor amplitud
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+TRUE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+De menor precisión
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+De la misma amplitud
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+De mayor amplitud
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R004 Q1 : preguntas_html_R2018_0021 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p><strong>R2018_0021</strong>. Al 98 % de confianza, el intervalo que estima el tiempo medio de reacción a un estímulo es (1.93, 3.04) segundos. Si la confianza cambia al 82 %, el intervalo resulta:</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<ol type = "a">
+<li> FALSE </li>
+<li> FALSE </li>
+<li> TRUE </li>
+<li> FALSE </li>
+</ol>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+De la misma amplitud
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+De mayor amplitud
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+De menor amplitud
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+TRUE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+De menor precisión
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R005 Q1 : preguntas_html_R2018_0021 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p><strong>R2018_0021</strong>. Al 85 % de confianza, el intervalo que estima el tiempo medio de reacción a un estímulo es (1.63, 3) segundos. Si la confianza cambia al 81 %, el intervalo resulta:</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<ol type = "a">
+<li> FALSE </li>
+<li> FALSE </li>
+<li> FALSE </li>
+<li> TRUE </li>
+</ol>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+De menor precisión
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+De mayor amplitud
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+De la misma precisión
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+De mayor precisión
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+TRUE
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R006 Q1 : preguntas_html_R2018_0021 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p><strong>R2018_0021</strong>. Al 89 % de confianza, el intervalo que estima el tiempo medio de reacción a un estímulo es (2.06, 3.61) segundos. Si la confianza cambia al 84 %, el intervalo resulta:</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<ol type = "a">
+<li> FALSE </li>
+<li> TRUE </li>
+<li> FALSE </li>
+<li> FALSE </li>
+</ol>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+De la misma amplitud
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+De mayor precisión
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+TRUE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+De menor precisión
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+De mayor amplitud
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R007 Q1 : preguntas_html_R2018_0021 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p><strong>R2018_0021</strong>. Al 87 % de confianza, el intervalo que estima el tiempo medio de reacción a un estímulo es (1.88, 3.49) segundos. Si la confianza cambia al 81 %, el intervalo resulta:</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<ol type = "a">
+<li> TRUE </li>
+<li> FALSE </li>
+<li> FALSE </li>
+<li> FALSE </li>
+</ol>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+De mayor precisión
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+TRUE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+De mayor amplitud
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+De menor precisión
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+De la misma amplitud
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R008 Q1 : preguntas_html_R2018_0021 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p><strong>R2018_0021</strong>. Al 94 % de confianza, el intervalo que estima el tiempo medio de reacción a un estímulo es (2.01, 3.42) segundos. Si la confianza cambia al 86 %, el intervalo resulta:</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<ol type = "a">
+<li> TRUE </li>
+<li> FALSE </li>
+<li> FALSE </li>
+<li> FALSE </li>
+</ol>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+De menor amplitud
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+TRUE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+De la misma precisión
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+De menor precisión
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+De mayor amplitud
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R009 Q1 : preguntas_html_R2018_0021 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p><strong>R2018_0021</strong>. Al 98 % de confianza, el intervalo que estima el tiempo medio de reacción a un estímulo es (2.03, 3.51) segundos. Si la confianza cambia al 81 %, el intervalo resulta:</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<ol type = "a">
+<li> FALSE </li>
+<li> FALSE </li>
+<li> FALSE </li>
+<li> TRUE </li>
+</ol>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+De la misma amplitud
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+De menor precisión
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+De mayor amplitud
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+De mayor precisión
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+TRUE
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R010 Q1 : preguntas_html_R2018_0021 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p><strong>R2018_0021</strong>. Al 91 % de confianza, el intervalo que estima el tiempo medio de reacción a un estímulo es (1.89, 3.58) segundos. Si la confianza cambia al 98 %, el intervalo resulta:</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<ol type = "a">
+<li> FALSE </li>
+<li> TRUE </li>
+<li> FALSE </li>
+<li> FALSE </li>
+</ol>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+De menor amplitud
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+De menor precisión
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+TRUE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+De mayor precisión
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+De la misma precisión
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R011 Q1 : preguntas_html_R2018_0021 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p><strong>R2018_0021</strong>. Al 91 % de confianza, el intervalo que estima el tiempo medio de reacción a un estímulo es (1.76, 3.05) segundos. Si la confianza cambia al 90 %, el intervalo resulta:</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<ol type = "a">
+<li> FALSE </li>
+<li> FALSE </li>
+<li> TRUE </li>
+<li> FALSE </li>
+</ol>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+De mayor amplitud
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+De la misma precisión
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+De menor amplitud
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+TRUE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+De menor precisión
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R012 Q1 : preguntas_html_R2018_0021 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p><strong>R2018_0021</strong>. Al 81 % de confianza, el intervalo que estima el tiempo medio de reacción a un estímulo es (1.9, 2.98) segundos. Si la confianza cambia al 98 %, el intervalo resulta:</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<ol type = "a">
+<li> FALSE </li>
+<li> TRUE </li>
+<li> FALSE </li>
+<li> FALSE </li>
+</ol>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+De mayor precisión
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+De menor precisión
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+TRUE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+De menor amplitud
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+De la misma precisión
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R013 Q1 : preguntas_html_R2018_0021 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p><strong>R2018_0021</strong>. Al 90 % de confianza, el intervalo que estima el tiempo medio de reacción a un estímulo es (1.99, 3.1) segundos. Si la confianza cambia al 85 %, el intervalo resulta:</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<ol type = "a">
+<li> FALSE </li>
+<li> FALSE </li>
+<li> TRUE </li>
+<li> FALSE </li>
+</ol>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+De la misma amplitud
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+De menor precisión
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+De menor amplitud
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+TRUE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+De mayor amplitud
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R014 Q1 : preguntas_html_R2018_0021 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p><strong>R2018_0021</strong>. Al 89 % de confianza, el intervalo que estima el tiempo medio de reacción a un estímulo es (1.91, 3.43) segundos. Si la confianza cambia al 95 %, el intervalo resulta:</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<ol type = "a">
+<li> FALSE </li>
+<li> FALSE </li>
+<li> FALSE </li>
+<li> TRUE </li>
+</ol>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+De la misma precisión
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+De menor amplitud
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+De mayor precisión
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+De menor precisión
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+TRUE
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R015 Q1 : preguntas_html_R2018_0021 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p><strong>R2018_0021</strong>. Al 84 % de confianza, el intervalo que estima el tiempo medio de reacción a un estímulo es (2.41, 3.44) segundos. Si la confianza cambia al 96 %, el intervalo resulta:</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<ol type = "a">
+<li> FALSE </li>
+<li> FALSE </li>
+<li> TRUE </li>
+<li> FALSE </li>
+</ol>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+De la misma precisión
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+De menor amplitud
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+De menor precisión
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+TRUE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+De mayor precisión
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R016 Q1 : preguntas_html_R2018_0021 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p><strong>R2018_0021</strong>. Al 95 % de confianza, el intervalo que estima el tiempo medio de reacción a un estímulo es (2.09, 3.31) segundos. Si la confianza cambia al 81 %, el intervalo resulta:</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<ol type = "a">
+<li> FALSE </li>
+<li> FALSE </li>
+<li> TRUE </li>
+<li> FALSE </li>
+</ol>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+De menor precisión
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+De mayor amplitud
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+De menor amplitud
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+TRUE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+De la misma amplitud
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R017 Q1 : preguntas_html_R2018_0021 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p><strong>R2018_0021</strong>. Al 94 % de confianza, el intervalo que estima el tiempo medio de reacción a un estímulo es (1.95, 3.29) segundos. Si la confianza cambia al 98 %, el intervalo resulta:</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<ol type = "a">
+<li> FALSE </li>
+<li> FALSE </li>
+<li> TRUE </li>
+<li> FALSE </li>
+</ol>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+De menor amplitud
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+De la misma amplitud
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+De menor precisión
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+TRUE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+De mayor precisión
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R018 Q1 : preguntas_html_R2018_0021 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p><strong>R2018_0021</strong>. Al 90 % de confianza, el intervalo que estima el tiempo medio de reacción a un estímulo es (1.43, 2.58) segundos. Si la confianza cambia al 93 %, el intervalo resulta:</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<ol type = "a">
+<li> FALSE </li>
+<li> FALSE </li>
+<li> FALSE </li>
+<li> TRUE </li>
+</ol>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+De menor amplitud
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+De la misma amplitud
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+De mayor precisión
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+De mayor amplitud
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+TRUE
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R019 Q1 : preguntas_html_R2018_0021 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p><strong>R2018_0021</strong>. Al 81 % de confianza, el intervalo que estima el tiempo medio de reacción a un estímulo es (1.5, 2.61) segundos. Si la confianza cambia al 85 %, el intervalo resulta:</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<ol type = "a">
+<li> FALSE </li>
+<li> FALSE </li>
+<li> TRUE </li>
+<li> FALSE </li>
+</ol>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+De mayor precisión
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+De la misma amplitud
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+De menor precisión
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+TRUE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+De menor amplitud
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R020 Q1 : preguntas_html_R2018_0021 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p><strong>R2018_0021</strong>. Al 84 % de confianza, el intervalo que estima el tiempo medio de reacción a un estímulo es (2.09, 3.48) segundos. Si la confianza cambia al 83 %, el intervalo resulta:</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<ol type = "a">
+<li> FALSE </li>
+<li> TRUE </li>
+<li> FALSE </li>
+<li> FALSE </li>
+</ol>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+De mayor amplitud
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+De menor amplitud
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+TRUE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+De menor precisión
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+De la misma precisión
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R021 Q1 : preguntas_html_R2018_0021 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p><strong>R2018_0021</strong>. Al 88 % de confianza, el intervalo que estima el tiempo medio de reacción a un estímulo es (2.32, 3.42) segundos. Si la confianza cambia al 84 %, el intervalo resulta:</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<ol type = "a">
+<li> FALSE </li>
+<li> FALSE </li>
+<li> TRUE </li>
+<li> FALSE </li>
+</ol>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+De menor precisión
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+De mayor amplitud
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+De mayor precisión
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+TRUE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+De la misma precisión
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R022 Q1 : preguntas_html_R2018_0021 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p><strong>R2018_0021</strong>. Al 80 % de confianza, el intervalo que estima el tiempo medio de reacción a un estímulo es (1.46, 2.8) segundos. Si la confianza cambia al 92 %, el intervalo resulta:</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<ol type = "a">
+<li> FALSE </li>
+<li> TRUE </li>
+<li> FALSE </li>
+<li> FALSE </li>
+</ol>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+De la misma amplitud
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+De mayor amplitud
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+TRUE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+De menor amplitud
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+De mayor precisión
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R023 Q1 : preguntas_html_R2018_0021 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p><strong>R2018_0021</strong>. Al 86 % de confianza, el intervalo que estima el tiempo medio de reacción a un estímulo es (2.15, 3.68) segundos. Si la confianza cambia al 85 %, el intervalo resulta:</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<ol type = "a">
+<li> TRUE </li>
+<li> FALSE </li>
+<li> FALSE </li>
+<li> FALSE </li>
+</ol>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+De mayor precisión
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+TRUE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+De mayor amplitud
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+De la misma precisión
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+De menor precisión
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R024 Q1 : preguntas_html_R2018_0021 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p><strong>R2018_0021</strong>. Al 92 % de confianza, el intervalo que estima el tiempo medio de reacción a un estímulo es (1.52, 2.56) segundos. Si la confianza cambia al 84 %, el intervalo resulta:</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<ol type = "a">
+<li> TRUE </li>
+<li> FALSE </li>
+<li> FALSE </li>
+<li> FALSE </li>
+</ol>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+De mayor precisión
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+TRUE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+De la misma precisión
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+De mayor amplitud
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+De menor precisión
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R025 Q1 : preguntas_html_R2018_0021 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p><strong>R2018_0021</strong>. Al 92 % de confianza, el intervalo que estima el tiempo medio de reacción a un estímulo es (1.25, 3.24) segundos. Si la confianza cambia al 90 %, el intervalo resulta:</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<ol type = "a">
+<li> FALSE </li>
+<li> FALSE </li>
+<li> FALSE </li>
+<li> TRUE </li>
+</ol>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+De mayor amplitud
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+De menor precisión
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+De la misma amplitud
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+De mayor precisión
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+TRUE
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R026 Q1 : preguntas_html_R2018_0021 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p><strong>R2018_0021</strong>. Al 97 % de confianza, el intervalo que estima el tiempo medio de reacción a un estímulo es (1.12, 2.91) segundos. Si la confianza cambia al 96 %, el intervalo resulta:</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<ol type = "a">
+<li> FALSE </li>
+<li> FALSE </li>
+<li> TRUE </li>
+<li> FALSE </li>
+</ol>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+De la misma precisión
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+De menor precisión
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+De menor amplitud
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+TRUE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+De mayor amplitud
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R027 Q1 : preguntas_html_R2018_0021 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p><strong>R2018_0021</strong>. Al 88 % de confianza, el intervalo que estima el tiempo medio de reacción a un estímulo es (1.94, 2.96) segundos. Si la confianza cambia al 87 %, el intervalo resulta:</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<ol type = "a">
+<li> FALSE </li>
+<li> FALSE </li>
+<li> TRUE </li>
+<li> FALSE </li>
+</ol>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+De menor precisión
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+De la misma precisión
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+De menor amplitud
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+TRUE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+De mayor amplitud
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R028 Q1 : preguntas_html_R2018_0021 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p><strong>R2018_0021</strong>. Al 97 % de confianza, el intervalo que estima el tiempo medio de reacción a un estímulo es (2, 3.61) segundos. Si la confianza cambia al 90 %, el intervalo resulta:</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<ol type = "a">
+<li> FALSE </li>
+<li> TRUE </li>
+<li> FALSE </li>
+<li> FALSE </li>
+</ol>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+De menor precisión
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+De mayor precisión
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+TRUE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+De la misma amplitud
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+De mayor amplitud
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R029 Q1 : preguntas_html_R2018_0021 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p><strong>R2018_0021</strong>. Al 94 % de confianza, el intervalo que estima el tiempo medio de reacción a un estímulo es (2.18, 3.63) segundos. Si la confianza cambia al 91 %, el intervalo resulta:</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<ol type = "a">
+<li> FALSE </li>
+<li> FALSE </li>
+<li> TRUE </li>
+<li> FALSE </li>
+</ol>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+De la misma precisión
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+De mayor amplitud
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+De mayor precisión
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+TRUE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+De menor precisión
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R030 Q1 : preguntas_html_R2018_0021 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p><strong>R2018_0021</strong>. Al 96 % de confianza, el intervalo que estima el tiempo medio de reacción a un estímulo es (1.97, 3.88) segundos. Si la confianza cambia al 97 %, el intervalo resulta:</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<ol type = "a">
+<li> FALSE </li>
+<li> FALSE </li>
+<li> FALSE </li>
+<li> TRUE </li>
+</ol>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+De mayor precisión
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+De la misma amplitud
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+De menor amplitud
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+De menor precisión
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+TRUE
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R031 Q1 : preguntas_html_R2018_0021 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p><strong>R2018_0021</strong>. Al 95 % de confianza, el intervalo que estima el tiempo medio de reacción a un estímulo es (2.16, 3.42) segundos. Si la confianza cambia al 81 %, el intervalo resulta:</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<ol type = "a">
+<li> FALSE </li>
+<li> FALSE </li>
+<li> TRUE </li>
+<li> FALSE </li>
+</ol>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+De menor precisión
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+De mayor amplitud
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+De mayor precisión
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+TRUE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+De la misma precisión
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R032 Q1 : preguntas_html_R2018_0021 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p><strong>R2018_0021</strong>. Al 89 % de confianza, el intervalo que estima el tiempo medio de reacción a un estímulo es (2.02, 3.21) segundos. Si la confianza cambia al 84 %, el intervalo resulta:</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<ol type = "a">
+<li> TRUE </li>
+<li> FALSE </li>
+<li> FALSE </li>
+<li> FALSE </li>
+</ol>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+De menor amplitud
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+TRUE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+De mayor amplitud
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+De menor precisión
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+De la misma precisión
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R033 Q1 : preguntas_html_R2018_0021 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p><strong>R2018_0021</strong>. Al 87 % de confianza, el intervalo que estima el tiempo medio de reacción a un estímulo es (1.62, 3.46) segundos. Si la confianza cambia al 86 %, el intervalo resulta:</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<ol type = "a">
+<li> TRUE </li>
+<li> FALSE </li>
+<li> FALSE </li>
+<li> FALSE </li>
+</ol>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+De mayor precisión
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+TRUE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+De la misma precisión
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+De mayor amplitud
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+De menor precisión
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R034 Q1 : preguntas_html_R2018_0021 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p><strong>R2018_0021</strong>. Al 93 % de confianza, el intervalo que estima el tiempo medio de reacción a un estímulo es (2.22, 3.64) segundos. Si la confianza cambia al 86 %, el intervalo resulta:</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<ol type = "a">
+<li> TRUE </li>
+<li> FALSE </li>
+<li> FALSE </li>
+<li> FALSE </li>
+</ol>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+De menor amplitud
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+TRUE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+De mayor amplitud
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+De la misma precisión
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+De menor precisión
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R035 Q1 : preguntas_html_R2018_0021 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p><strong>R2018_0021</strong>. Al 84 % de confianza, el intervalo que estima el tiempo medio de reacción a un estímulo es (2.11, 3.4) segundos. Si la confianza cambia al 87 %, el intervalo resulta:</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<ol type = "a">
+<li> TRUE </li>
+<li> FALSE </li>
+<li> FALSE </li>
+<li> FALSE </li>
+</ol>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+De mayor amplitud
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+TRUE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+De mayor precisión
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+De menor amplitud
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+De la misma precisión
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R036 Q1 : preguntas_html_R2018_0021 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p><strong>R2018_0021</strong>. Al 98 % de confianza, el intervalo que estima el tiempo medio de reacción a un estímulo es (2.08, 3.33) segundos. Si la confianza cambia al 92 %, el intervalo resulta:</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<ol type = "a">
+<li> FALSE </li>
+<li> TRUE </li>
+<li> FALSE </li>
+<li> FALSE </li>
+</ol>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+De la misma amplitud
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+De mayor precisión
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+TRUE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+De menor precisión
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+De mayor amplitud
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R037 Q1 : preguntas_html_R2018_0021 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p><strong>R2018_0021</strong>. Al 94 % de confianza, el intervalo que estima el tiempo medio de reacción a un estímulo es (1.89, 3.88) segundos. Si la confianza cambia al 93 %, el intervalo resulta:</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<ol type = "a">
+<li> FALSE </li>
+<li> TRUE </li>
+<li> FALSE </li>
+<li> FALSE </li>
+</ol>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+De mayor amplitud
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+De mayor precisión
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+TRUE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+De la misma precisión
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+De menor precisión
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R038 Q1 : preguntas_html_R2018_0021 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p><strong>R2018_0021</strong>. Al 86 % de confianza, el intervalo que estima el tiempo medio de reacción a un estímulo es (2.17, 3.63) segundos. Si la confianza cambia al 85 %, el intervalo resulta:</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<ol type = "a">
+<li> FALSE </li>
+<li> FALSE </li>
+<li> TRUE </li>
+<li> FALSE </li>
+</ol>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+De mayor amplitud
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+De menor precisión
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+De mayor precisión
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+TRUE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+De la misma precisión
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R039 Q1 : preguntas_html_R2018_0021 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p><strong>R2018_0021</strong>. Al 81 % de confianza, el intervalo que estima el tiempo medio de reacción a un estímulo es (1.58, 3.08) segundos. Si la confianza cambia al 92 %, el intervalo resulta:</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<ol type = "a">
+<li> FALSE </li>
+<li> FALSE </li>
+<li> TRUE </li>
+<li> FALSE </li>
+</ol>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+De menor amplitud
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+De la misma amplitud
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+De mayor amplitud
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+TRUE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+De mayor precisión
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R040 Q1 : preguntas_html_R2018_0021 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p><strong>R2018_0021</strong>. Al 82 % de confianza, el intervalo que estima el tiempo medio de reacción a un estímulo es (1.54, 3.4) segundos. Si la confianza cambia al 92 %, el intervalo resulta:</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<ol type = "a">
+<li> TRUE </li>
+<li> FALSE </li>
+<li> FALSE </li>
+<li> FALSE </li>
+</ol>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+De mayor amplitud
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+TRUE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+De la misma precisión
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+De mayor precisión
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+De menor amplitud
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R041 Q1 : preguntas_html_R2018_0021 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p><strong>R2018_0021</strong>. Al 87 % de confianza, el intervalo que estima el tiempo medio de reacción a un estímulo es (1.93, 3.15) segundos. Si la confianza cambia al 82 %, el intervalo resulta:</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<ol type = "a">
+<li> FALSE </li>
+<li> FALSE </li>
+<li> FALSE </li>
+<li> TRUE </li>
+</ol>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+De la misma amplitud
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+De menor precisión
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+De mayor amplitud
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+De mayor precisión
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+TRUE
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R042 Q1 : preguntas_html_R2018_0021 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p><strong>R2018_0021</strong>. Al 84 % de confianza, el intervalo que estima el tiempo medio de reacción a un estímulo es (2.23, 3.72) segundos. Si la confianza cambia al 93 %, el intervalo resulta:</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<ol type = "a">
+<li> FALSE </li>
+<li> FALSE </li>
+<li> TRUE </li>
+<li> FALSE </li>
+</ol>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+De menor amplitud
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+De mayor precisión
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+De mayor amplitud
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+TRUE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+De la misma precisión
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R043 Q1 : preguntas_html_R2018_0021 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p><strong>R2018_0021</strong>. Al 88 % de confianza, el intervalo que estima el tiempo medio de reacción a un estímulo es (1.94, 3.72) segundos. Si la confianza cambia al 87 %, el intervalo resulta:</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<ol type = "a">
+<li> FALSE </li>
+<li> FALSE </li>
+<li> FALSE </li>
+<li> TRUE </li>
+</ol>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+De menor precisión
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+De mayor amplitud
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+De la misma precisión
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+De menor amplitud
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+TRUE
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R044 Q1 : preguntas_html_R2018_0021 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p><strong>R2018_0021</strong>. Al 99 % de confianza, el intervalo que estima el tiempo medio de reacción a un estímulo es (1.61, 2.93) segundos. Si la confianza cambia al 89 %, el intervalo resulta:</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<ol type = "a">
+<li> TRUE </li>
+<li> FALSE </li>
+<li> FALSE </li>
+<li> FALSE </li>
+</ol>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+De menor amplitud
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+TRUE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+De menor precisión
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+De la misma precisión
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+De mayor amplitud
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R045 Q1 : preguntas_html_R2018_0021 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p><strong>R2018_0021</strong>. Al 85 % de confianza, el intervalo que estima el tiempo medio de reacción a un estímulo es (1.5, 2.81) segundos. Si la confianza cambia al 98 %, el intervalo resulta:</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<ol type = "a">
+<li> TRUE </li>
+<li> FALSE </li>
+<li> FALSE </li>
+<li> FALSE </li>
+</ol>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+De menor precisión
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+TRUE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+De menor amplitud
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+De mayor precisión
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+De la misma amplitud
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R046 Q1 : preguntas_html_R2018_0021 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p><strong>R2018_0021</strong>. Al 97 % de confianza, el intervalo que estima el tiempo medio de reacción a un estímulo es (1.75, 3.23) segundos. Si la confianza cambia al 91 %, el intervalo resulta:</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<ol type = "a">
+<li> TRUE </li>
+<li> FALSE </li>
+<li> FALSE </li>
+<li> FALSE </li>
+</ol>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+De menor amplitud
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+TRUE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+De la misma precisión
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+De menor precisión
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+De mayor amplitud
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R047 Q1 : preguntas_html_R2018_0021 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p><strong>R2018_0021</strong>. Al 93 % de confianza, el intervalo que estima el tiempo medio de reacción a un estímulo es (1.43, 3.39) segundos. Si la confianza cambia al 86 %, el intervalo resulta:</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<ol type = "a">
+<li> FALSE </li>
+<li> FALSE </li>
+<li> FALSE </li>
+<li> TRUE </li>
+</ol>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+De la misma amplitud
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+De menor precisión
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+De mayor amplitud
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+De menor amplitud
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+TRUE
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R048 Q1 : preguntas_html_R2018_0021 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p><strong>R2018_0021</strong>. Al 95 % de confianza, el intervalo que estima el tiempo medio de reacción a un estímulo es (2.28, 3.57) segundos. Si la confianza cambia al 94 %, el intervalo resulta:</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<ol type = "a">
+<li> FALSE </li>
+<li> FALSE </li>
+<li> TRUE </li>
+<li> FALSE </li>
+</ol>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+De mayor amplitud
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+De la misma precisión
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+De mayor precisión
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+TRUE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+De menor precisión
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R049 Q1 : preguntas_html_R2018_0021 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p><strong>R2018_0021</strong>. Al 95 % de confianza, el intervalo que estima el tiempo medio de reacción a un estímulo es (1.29, 3.06) segundos. Si la confianza cambia al 93 %, el intervalo resulta:</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<ol type = "a">
+<li> TRUE </li>
+<li> FALSE </li>
+<li> FALSE </li>
+<li> FALSE </li>
+</ol>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+De mayor precisión
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+TRUE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+De menor precisión
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+De mayor amplitud
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+De la misma precisión
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R050 Q1 : preguntas_html_R2018_0021 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p><strong>R2018_0021</strong>. Al 99 % de confianza, el intervalo que estima el tiempo medio de reacción a un estímulo es (1.63, 2.98) segundos. Si la confianza cambia al 86 %, el intervalo resulta:</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<ol type = "a">
+<li> TRUE </li>
+<li> FALSE </li>
+<li> FALSE </li>
+<li> FALSE </li>
+</ol>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+De menor amplitud
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+TRUE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+De la misma amplitud
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+De menor precisión
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+De mayor amplitud
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R051 Q1 : preguntas_html_R2018_0021 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p><strong>R2018_0021</strong>. Al 94 % de confianza, el intervalo que estima el tiempo medio de reacción a un estímulo es (2.12, 3.36) segundos. Si la confianza cambia al 95 %, el intervalo resulta:</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<ol type = "a">
+<li> FALSE </li>
+<li> FALSE </li>
+<li> FALSE </li>
+<li> TRUE </li>
+</ol>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+De mayor precisión
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+De la misma precisión
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+De menor amplitud
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+De mayor amplitud
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+TRUE
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R052 Q1 : preguntas_html_R2018_0021 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p><strong>R2018_0021</strong>. Al 94 % de confianza, el intervalo que estima el tiempo medio de reacción a un estímulo es (1.92, 3.88) segundos. Si la confianza cambia al 97 %, el intervalo resulta:</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<ol type = "a">
+<li> TRUE </li>
+<li> FALSE </li>
+<li> FALSE </li>
+<li> FALSE </li>
+</ol>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+De mayor amplitud
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+TRUE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+De mayor precisión
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+De menor amplitud
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+De la misma precisión
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R053 Q1 : preguntas_html_R2018_0021 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p><strong>R2018_0021</strong>. Al 85 % de confianza, el intervalo que estima el tiempo medio de reacción a un estímulo es (2.07, 3.76) segundos. Si la confianza cambia al 90 %, el intervalo resulta:</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<ol type = "a">
+<li> FALSE </li>
+<li> FALSE </li>
+<li> TRUE </li>
+<li> FALSE </li>
+</ol>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+De menor amplitud
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+De la misma amplitud
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+De menor precisión
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+TRUE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+De mayor precisión
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R054 Q1 : preguntas_html_R2018_0021 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p><strong>R2018_0021</strong>. Al 85 % de confianza, el intervalo que estima el tiempo medio de reacción a un estímulo es (1.33, 3.26) segundos. Si la confianza cambia al 96 %, el intervalo resulta:</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<ol type = "a">
+<li> TRUE </li>
+<li> FALSE </li>
+<li> FALSE </li>
+<li> FALSE </li>
+</ol>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+De mayor amplitud
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+TRUE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+De menor amplitud
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+De la misma amplitud
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+De mayor precisión
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R055 Q1 : preguntas_html_R2018_0021 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p><strong>R2018_0021</strong>. Al 88 % de confianza, el intervalo que estima el tiempo medio de reacción a un estímulo es (1.26, 2.81) segundos. Si la confianza cambia al 86 %, el intervalo resulta:</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<ol type = "a">
+<li> FALSE </li>
+<li> FALSE </li>
+<li> TRUE </li>
+<li> FALSE </li>
+</ol>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+De mayor amplitud
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+De la misma precisión
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+De menor amplitud
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+TRUE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+De menor precisión
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R056 Q1 : preguntas_html_R2018_0021 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p><strong>R2018_0021</strong>. Al 86 % de confianza, el intervalo que estima el tiempo medio de reacción a un estímulo es (1.51, 2.87) segundos. Si la confianza cambia al 93 %, el intervalo resulta:</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<ol type = "a">
+<li> FALSE </li>
+<li> FALSE </li>
+<li> FALSE </li>
+<li> TRUE </li>
+</ol>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+De mayor precisión
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+De la misma amplitud
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+De menor amplitud
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+De menor precisión
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+TRUE
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R057 Q1 : preguntas_html_R2018_0021 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p><strong>R2018_0021</strong>. Al 80 % de confianza, el intervalo que estima el tiempo medio de reacción a un estímulo es (2.19, 3.46) segundos. Si la confianza cambia al 88 %, el intervalo resulta:</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<ol type = "a">
+<li> TRUE </li>
+<li> FALSE </li>
+<li> FALSE </li>
+<li> FALSE </li>
+</ol>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+De menor precisión
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+TRUE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+De la misma amplitud
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+De mayor precisión
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+De menor amplitud
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R058 Q1 : preguntas_html_R2018_0021 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p><strong>R2018_0021</strong>. Al 98 % de confianza, el intervalo que estima el tiempo medio de reacción a un estímulo es (2.01, 3.82) segundos. Si la confianza cambia al 84 %, el intervalo resulta:</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<ol type = "a">
+<li> FALSE </li>
+<li> TRUE </li>
+<li> FALSE </li>
+<li> FALSE </li>
+</ol>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+De la misma amplitud
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+De menor amplitud
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+TRUE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+De mayor amplitud
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+De menor precisión
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R059 Q1 : preguntas_html_R2018_0021 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p><strong>R2018_0021</strong>. Al 97 % de confianza, el intervalo que estima el tiempo medio de reacción a un estímulo es (1.91, 3.83) segundos. Si la confianza cambia al 96 %, el intervalo resulta:</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<ol type = "a">
+<li> FALSE </li>
+<li> FALSE </li>
+<li> TRUE </li>
+<li> FALSE </li>
+</ol>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+De la misma precisión
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+De mayor amplitud
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+De menor amplitud
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+TRUE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+De menor precisión
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R060 Q1 : preguntas_html_R2018_0021 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p><strong>R2018_0021</strong>. Al 92 % de confianza, el intervalo que estima el tiempo medio de reacción a un estímulo es (1.95, 3.65) segundos. Si la confianza cambia al 85 %, el intervalo resulta:</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<ol type = "a">
+<li> FALSE </li>
+<li> FALSE </li>
+<li> TRUE </li>
+<li> FALSE </li>
+</ol>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+De la misma amplitud
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+De menor precisión
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+De menor amplitud
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+TRUE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+De mayor amplitud
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R061 Q1 : preguntas_html_R2018_0021 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p><strong>R2018_0021</strong>. Al 85 % de confianza, el intervalo que estima el tiempo medio de reacción a un estímulo es (1.97, 3.23) segundos. Si la confianza cambia al 97 %, el intervalo resulta:</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<ol type = "a">
+<li> FALSE </li>
+<li> FALSE </li>
+<li> FALSE </li>
+<li> TRUE </li>
+</ol>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+De menor amplitud
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+De la misma amplitud
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+De mayor precisión
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+De menor precisión
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+TRUE
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R062 Q1 : preguntas_html_R2018_0021 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p><strong>R2018_0021</strong>. Al 83 % de confianza, el intervalo que estima el tiempo medio de reacción a un estímulo es (1.48, 3.07) segundos. Si la confianza cambia al 84 %, el intervalo resulta:</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<ol type = "a">
+<li> FALSE </li>
+<li> FALSE </li>
+<li> FALSE </li>
+<li> TRUE </li>
+</ol>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+De menor amplitud
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+De mayor precisión
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+De la misma precisión
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+De mayor amplitud
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+TRUE
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R063 Q1 : preguntas_html_R2018_0021 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p><strong>R2018_0021</strong>. Al 80 % de confianza, el intervalo que estima el tiempo medio de reacción a un estímulo es (2.19, 3.5) segundos. Si la confianza cambia al 91 %, el intervalo resulta:</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<ol type = "a">
+<li> TRUE </li>
+<li> FALSE </li>
+<li> FALSE </li>
+<li> FALSE </li>
+</ol>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+De mayor amplitud
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+TRUE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+De mayor precisión
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+De menor amplitud
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+De la misma amplitud
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R064 Q1 : preguntas_html_R2018_0021 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p><strong>R2018_0021</strong>. Al 98 % de confianza, el intervalo que estima el tiempo medio de reacción a un estímulo es (1.7, 3.16) segundos. Si la confianza cambia al 93 %, el intervalo resulta:</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<ol type = "a">
+<li> FALSE </li>
+<li> FALSE </li>
+<li> TRUE </li>
+<li> FALSE </li>
+</ol>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+De mayor amplitud
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+De menor precisión
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+De mayor precisión
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+TRUE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+De la misma precisión
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R065 Q1 : preguntas_html_R2018_0021 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p><strong>R2018_0021</strong>. Al 94 % de confianza, el intervalo que estima el tiempo medio de reacción a un estímulo es (2.27, 3.39) segundos. Si la confianza cambia al 86 %, el intervalo resulta:</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<ol type = "a">
+<li> FALSE </li>
+<li> FALSE </li>
+<li> FALSE </li>
+<li> TRUE </li>
+</ol>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+De mayor amplitud
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+De la misma precisión
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+De menor precisión
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+De menor amplitud
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+TRUE
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R066 Q1 : preguntas_html_R2018_0021 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p><strong>R2018_0021</strong>. Al 98 % de confianza, el intervalo que estima el tiempo medio de reacción a un estímulo es (1.57, 3.27) segundos. Si la confianza cambia al 96 %, el intervalo resulta:</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<ol type = "a">
+<li> FALSE </li>
+<li> TRUE </li>
+<li> FALSE </li>
+<li> FALSE </li>
+</ol>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+De mayor amplitud
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+De menor amplitud
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+TRUE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+De menor precisión
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+De la misma amplitud
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R067 Q1 : preguntas_html_R2018_0021 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p><strong>R2018_0021</strong>. Al 80 % de confianza, el intervalo que estima el tiempo medio de reacción a un estímulo es (1.51, 3.2) segundos. Si la confianza cambia al 96 %, el intervalo resulta:</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<ol type = "a">
+<li> FALSE </li>
+<li> FALSE </li>
+<li> FALSE </li>
+<li> TRUE </li>
+</ol>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+De menor amplitud
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+De la misma amplitud
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+De mayor precisión
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+De menor precisión
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+TRUE
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R068 Q1 : preguntas_html_R2018_0021 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p><strong>R2018_0021</strong>. Al 93 % de confianza, el intervalo que estima el tiempo medio de reacción a un estímulo es (2.01, 3.39) segundos. Si la confianza cambia al 94 %, el intervalo resulta:</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<ol type = "a">
+<li> TRUE </li>
+<li> FALSE </li>
+<li> FALSE </li>
+<li> FALSE </li>
+</ol>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+De mayor amplitud
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+TRUE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+De la misma precisión
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+De mayor precisión
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+De menor amplitud
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R069 Q1 : preguntas_html_R2018_0021 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p><strong>R2018_0021</strong>. Al 94 % de confianza, el intervalo que estima el tiempo medio de reacción a un estímulo es (1.86, 3.15) segundos. Si la confianza cambia al 87 %, el intervalo resulta:</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<ol type = "a">
+<li> FALSE </li>
+<li> FALSE </li>
+<li> TRUE </li>
+<li> FALSE </li>
+</ol>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+De mayor amplitud
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+De menor precisión
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+De mayor precisión
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+TRUE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+De la misma amplitud
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R070 Q1 : preguntas_html_R2018_0021 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p><strong>R2018_0021</strong>. Al 98 % de confianza, el intervalo que estima el tiempo medio de reacción a un estímulo es (1.69, 3.58) segundos. Si la confianza cambia al 89 %, el intervalo resulta:</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<ol type = "a">
+<li> FALSE </li>
+<li> FALSE </li>
+<li> TRUE </li>
+<li> FALSE </li>
+</ol>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+De la misma precisión
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+De menor precisión
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+De mayor precisión
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+TRUE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+De mayor amplitud
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R071 Q1 : preguntas_html_R2018_0021 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p><strong>R2018_0021</strong>. Al 91 % de confianza, el intervalo que estima el tiempo medio de reacción a un estímulo es (2.05, 3.82) segundos. Si la confianza cambia al 83 %, el intervalo resulta:</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<ol type = "a">
+<li> FALSE </li>
+<li> FALSE </li>
+<li> TRUE </li>
+<li> FALSE </li>
+</ol>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+De mayor amplitud
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+De menor precisión
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+De mayor precisión
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+TRUE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+De la misma amplitud
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R072 Q1 : preguntas_html_R2018_0021 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p><strong>R2018_0021</strong>. Al 96 % de confianza, el intervalo que estima el tiempo medio de reacción a un estímulo es (1.73, 2.79) segundos. Si la confianza cambia al 94 %, el intervalo resulta:</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<ol type = "a">
+<li> TRUE </li>
+<li> FALSE </li>
+<li> FALSE </li>
+<li> FALSE </li>
+</ol>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+De menor amplitud
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+TRUE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+De menor precisión
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+De mayor amplitud
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+De la misma precisión
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R073 Q1 : preguntas_html_R2018_0021 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p><strong>R2018_0021</strong>. Al 81 % de confianza, el intervalo que estima el tiempo medio de reacción a un estímulo es (1.89, 3.5) segundos. Si la confianza cambia al 97 %, el intervalo resulta:</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<ol type = "a">
+<li> FALSE </li>
+<li> FALSE </li>
+<li> TRUE </li>
+<li> FALSE </li>
+</ol>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+De mayor precisión
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+De menor amplitud
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+De menor precisión
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+TRUE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+De la misma precisión
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R074 Q1 : preguntas_html_R2018_0021 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p><strong>R2018_0021</strong>. Al 95 % de confianza, el intervalo que estima el tiempo medio de reacción a un estímulo es (2.4, 3.55) segundos. Si la confianza cambia al 96 %, el intervalo resulta:</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<ol type = "a">
+<li> TRUE </li>
+<li> FALSE </li>
+<li> FALSE </li>
+<li> FALSE </li>
+</ol>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+De menor precisión
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+TRUE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+De mayor precisión
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+De la misma precisión
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+De menor amplitud
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R075 Q1 : preguntas_html_R2018_0021 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p><strong>R2018_0021</strong>. Al 89 % de confianza, el intervalo que estima el tiempo medio de reacción a un estímulo es (1.85, 3.76) segundos. Si la confianza cambia al 92 %, el intervalo resulta:</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<ol type = "a">
+<li> FALSE </li>
+<li> FALSE </li>
+<li> FALSE </li>
+<li> TRUE </li>
+</ol>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+De la misma amplitud
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+De mayor precisión
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+De menor amplitud
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+De mayor amplitud
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+TRUE
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R076 Q1 : preguntas_html_R2018_0021 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p><strong>R2018_0021</strong>. Al 80 % de confianza, el intervalo que estima el tiempo medio de reacción a un estímulo es (1.96, 3.68) segundos. Si la confianza cambia al 97 %, el intervalo resulta:</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<ol type = "a">
+<li> FALSE </li>
+<li> FALSE </li>
+<li> TRUE </li>
+<li> FALSE </li>
+</ol>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+De la misma precisión
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+De menor amplitud
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+De mayor amplitud
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+TRUE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+De mayor precisión
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R077 Q1 : preguntas_html_R2018_0021 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p><strong>R2018_0021</strong>. Al 93 % de confianza, el intervalo que estima el tiempo medio de reacción a un estímulo es (1.56, 3.41) segundos. Si la confianza cambia al 92 %, el intervalo resulta:</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<ol type = "a">
+<li> FALSE </li>
+<li> FALSE </li>
+<li> FALSE </li>
+<li> TRUE </li>
+</ol>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+De la misma precisión
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+De mayor amplitud
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+De menor precisión
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+De mayor precisión
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+TRUE
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R078 Q1 : preguntas_html_R2018_0021 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p><strong>R2018_0021</strong>. Al 91 % de confianza, el intervalo que estima el tiempo medio de reacción a un estímulo es (1.44, 3.14) segundos. Si la confianza cambia al 89 %, el intervalo resulta:</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<ol type = "a">
+<li> FALSE </li>
+<li> FALSE </li>
+<li> FALSE </li>
+<li> TRUE </li>
+</ol>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+De la misma amplitud
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+De menor precisión
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+De mayor amplitud
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+De mayor precisión
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+TRUE
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R079 Q1 : preguntas_html_R2018_0021 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p><strong>R2018_0021</strong>. Al 87 % de confianza, el intervalo que estima el tiempo medio de reacción a un estímulo es (1.69, 2.88) segundos. Si la confianza cambia al 86 %, el intervalo resulta:</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<ol type = "a">
+<li> FALSE </li>
+<li> FALSE </li>
+<li> TRUE </li>
+<li> FALSE </li>
+</ol>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+De la misma precisión
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+De mayor amplitud
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+De mayor precisión
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+TRUE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+De menor precisión
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R080 Q1 : preguntas_html_R2018_0021 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p><strong>R2018_0021</strong>. Al 97 % de confianza, el intervalo que estima el tiempo medio de reacción a un estímulo es (2.06, 3.13) segundos. Si la confianza cambia al 99 %, el intervalo resulta:</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<ol type = "a">
+<li> FALSE </li>
+<li> FALSE </li>
+<li> TRUE </li>
+<li> FALSE </li>
+</ol>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+De mayor precisión
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+De la misma amplitud
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+De mayor amplitud
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+TRUE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+De menor amplitud
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R081 Q1 : preguntas_html_R2018_0021 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p><strong>R2018_0021</strong>. Al 86 % de confianza, el intervalo que estima el tiempo medio de reacción a un estímulo es (1.92, 3.34) segundos. Si la confianza cambia al 95 %, el intervalo resulta:</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<ol type = "a">
+<li> FALSE </li>
+<li> FALSE </li>
+<li> FALSE </li>
+<li> TRUE </li>
+</ol>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+De menor amplitud
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+De la misma precisión
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+De mayor precisión
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+De menor precisión
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+TRUE
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R082 Q1 : preguntas_html_R2018_0021 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p><strong>R2018_0021</strong>. Al 81 % de confianza, el intervalo que estima el tiempo medio de reacción a un estímulo es (1.1, 2.95) segundos. Si la confianza cambia al 85 %, el intervalo resulta:</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<ol type = "a">
+<li> TRUE </li>
+<li> FALSE </li>
+<li> FALSE </li>
+<li> FALSE </li>
+</ol>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+De mayor amplitud
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+TRUE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+De mayor precisión
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+De la misma amplitud
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+De menor amplitud
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R083 Q1 : preguntas_html_R2018_0021 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p><strong>R2018_0021</strong>. Al 97 % de confianza, el intervalo que estima el tiempo medio de reacción a un estímulo es (2.07, 3.67) segundos. Si la confianza cambia al 95 %, el intervalo resulta:</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<ol type = "a">
+<li> TRUE </li>
+<li> FALSE </li>
+<li> FALSE </li>
+<li> FALSE </li>
+</ol>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+De menor amplitud
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+TRUE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+De la misma amplitud
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+De menor precisión
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+De mayor amplitud
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R084 Q1 : preguntas_html_R2018_0021 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p><strong>R2018_0021</strong>. Al 92 % de confianza, el intervalo que estima el tiempo medio de reacción a un estímulo es (1.93, 3.14) segundos. Si la confianza cambia al 82 %, el intervalo resulta:</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<ol type = "a">
+<li> FALSE </li>
+<li> TRUE </li>
+<li> FALSE </li>
+<li> FALSE </li>
+</ol>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+De menor precisión
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+De mayor precisión
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+TRUE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+De mayor amplitud
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+De la misma amplitud
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R085 Q1 : preguntas_html_R2018_0021 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p><strong>R2018_0021</strong>. Al 89 % de confianza, el intervalo que estima el tiempo medio de reacción a un estímulo es (1.69, 3.51) segundos. Si la confianza cambia al 87 %, el intervalo resulta:</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<ol type = "a">
+<li> TRUE </li>
+<li> FALSE </li>
+<li> FALSE </li>
+<li> FALSE </li>
+</ol>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+De mayor precisión
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+TRUE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+De menor precisión
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+De mayor amplitud
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+De la misma amplitud
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R086 Q1 : preguntas_html_R2018_0021 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p><strong>R2018_0021</strong>. Al 84 % de confianza, el intervalo que estima el tiempo medio de reacción a un estímulo es (1.79, 3.22) segundos. Si la confianza cambia al 94 %, el intervalo resulta:</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<ol type = "a">
+<li> FALSE </li>
+<li> FALSE </li>
+<li> TRUE </li>
+<li> FALSE </li>
+</ol>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+De la misma precisión
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+De menor amplitud
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+De menor precisión
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+TRUE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+De mayor precisión
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R087 Q1 : preguntas_html_R2018_0021 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p><strong>R2018_0021</strong>. Al 81 % de confianza, el intervalo que estima el tiempo medio de reacción a un estímulo es (1.66, 3.11) segundos. Si la confianza cambia al 82 %, el intervalo resulta:</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<ol type = "a">
+<li> TRUE </li>
+<li> FALSE </li>
+<li> FALSE </li>
+<li> FALSE </li>
+</ol>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+De mayor amplitud
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+TRUE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+De menor amplitud
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+De la misma amplitud
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+De mayor precisión
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R088 Q1 : preguntas_html_R2018_0021 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p><strong>R2018_0021</strong>. Al 81 % de confianza, el intervalo que estima el tiempo medio de reacción a un estímulo es (1.37, 3.33) segundos. Si la confianza cambia al 97 %, el intervalo resulta:</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<ol type = "a">
+<li> FALSE </li>
+<li> FALSE </li>
+<li> FALSE </li>
+<li> TRUE </li>
+</ol>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+De menor amplitud
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+De mayor precisión
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+De la misma precisión
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+De menor precisión
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+TRUE
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R089 Q1 : preguntas_html_R2018_0021 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p><strong>R2018_0021</strong>. Al 83 % de confianza, el intervalo que estima el tiempo medio de reacción a un estímulo es (2.33, 3.45) segundos. Si la confianza cambia al 86 %, el intervalo resulta:</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<ol type = "a">
+<li> FALSE </li>
+<li> FALSE </li>
+<li> TRUE </li>
+<li> FALSE </li>
+</ol>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+De mayor precisión
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+De la misma precisión
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+De mayor amplitud
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+TRUE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+De menor amplitud
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R090 Q1 : preguntas_html_R2018_0021 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p><strong>R2018_0021</strong>. Al 91 % de confianza, el intervalo que estima el tiempo medio de reacción a un estímulo es (2.43, 3.48) segundos. Si la confianza cambia al 83 %, el intervalo resulta:</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<ol type = "a">
+<li> FALSE </li>
+<li> TRUE </li>
+<li> FALSE </li>
+<li> FALSE </li>
+</ol>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+De la misma amplitud
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+De mayor precisión
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+TRUE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+De menor precisión
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+De mayor amplitud
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R091 Q1 : preguntas_html_R2018_0021 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p><strong>R2018_0021</strong>. Al 86 % de confianza, el intervalo que estima el tiempo medio de reacción a un estímulo es (1.64, 3.38) segundos. Si la confianza cambia al 85 %, el intervalo resulta:</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<ol type = "a">
+<li> TRUE </li>
+<li> FALSE </li>
+<li> FALSE </li>
+<li> FALSE </li>
+</ol>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+De menor amplitud
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+TRUE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+De menor precisión
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+De la misma amplitud
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+De mayor amplitud
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R092 Q1 : preguntas_html_R2018_0021 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p><strong>R2018_0021</strong>. Al 83 % de confianza, el intervalo que estima el tiempo medio de reacción a un estímulo es (1.58, 3.51) segundos. Si la confianza cambia al 93 %, el intervalo resulta:</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<ol type = "a">
+<li> TRUE </li>
+<li> FALSE </li>
+<li> FALSE </li>
+<li> FALSE </li>
+</ol>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+De menor precisión
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+TRUE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+De menor amplitud
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+De la misma precisión
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+De mayor precisión
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R093 Q1 : preguntas_html_R2018_0021 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p><strong>R2018_0021</strong>. Al 83 % de confianza, el intervalo que estima el tiempo medio de reacción a un estímulo es (1.51, 2.63) segundos. Si la confianza cambia al 96 %, el intervalo resulta:</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<ol type = "a">
+<li> FALSE </li>
+<li> FALSE </li>
+<li> TRUE </li>
+<li> FALSE </li>
+</ol>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+De mayor precisión
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+De menor amplitud
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+De menor precisión
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+TRUE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+De la misma amplitud
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R094 Q1 : preguntas_html_R2018_0021 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p><strong>R2018_0021</strong>. Al 83 % de confianza, el intervalo que estima el tiempo medio de reacción a un estímulo es (2.26, 3.52) segundos. Si la confianza cambia al 94 %, el intervalo resulta:</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<ol type = "a">
+<li> TRUE </li>
+<li> FALSE </li>
+<li> FALSE </li>
+<li> FALSE </li>
+</ol>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+De mayor amplitud
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+TRUE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+De la misma amplitud
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+De mayor precisión
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+De menor amplitud
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R095 Q1 : preguntas_html_R2018_0021 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p><strong>R2018_0021</strong>. Al 84 % de confianza, el intervalo que estima el tiempo medio de reacción a un estímulo es (1.86, 3.78) segundos. Si la confianza cambia al 83 %, el intervalo resulta:</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<ol type = "a">
+<li> FALSE </li>
+<li> TRUE </li>
+<li> FALSE </li>
+<li> FALSE </li>
+</ol>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+De mayor amplitud
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+De menor amplitud
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+TRUE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+De la misma amplitud
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+De menor precisión
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R096 Q1 : preguntas_html_R2018_0021 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p><strong>R2018_0021</strong>. Al 84 % de confianza, el intervalo que estima el tiempo medio de reacción a un estímulo es (2.23, 3.74) segundos. Si la confianza cambia al 86 %, el intervalo resulta:</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<ol type = "a">
+<li> FALSE </li>
+<li> FALSE </li>
+<li> FALSE </li>
+<li> TRUE </li>
+</ol>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+De menor amplitud
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+De la misma amplitud
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+De mayor precisión
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+De mayor amplitud
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+TRUE
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R097 Q1 : preguntas_html_R2018_0021 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p><strong>R2018_0021</strong>. Al 89 % de confianza, el intervalo que estima el tiempo medio de reacción a un estímulo es (2.06, 3.38) segundos. Si la confianza cambia al 93 %, el intervalo resulta:</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<ol type = "a">
+<li> FALSE </li>
+<li> FALSE </li>
+<li> TRUE </li>
+<li> FALSE </li>
+</ol>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+De menor amplitud
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+De la misma precisión
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+De menor precisión
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+TRUE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+De mayor precisión
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R098 Q1 : preguntas_html_R2018_0021 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p><strong>R2018_0021</strong>. Al 99 % de confianza, el intervalo que estima el tiempo medio de reacción a un estímulo es (1.39, 3.01) segundos. Si la confianza cambia al 92 %, el intervalo resulta:</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<ol type = "a">
+<li> FALSE </li>
+<li> FALSE </li>
+<li> FALSE </li>
+<li> TRUE </li>
+</ol>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+De la misma precisión
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+De mayor amplitud
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+De menor precisión
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+De menor amplitud
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+TRUE
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R099 Q1 : preguntas_html_R2018_0021 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p><strong>R2018_0021</strong>. Al 93 % de confianza, el intervalo que estima el tiempo medio de reacción a un estímulo es (1.12, 3.05) segundos. Si la confianza cambia al 82 %, el intervalo resulta:</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<ol type = "a">
+<li> FALSE </li>
+<li> FALSE </li>
+<li> FALSE </li>
+<li> TRUE </li>
+</ol>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+De la misma precisión
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+De menor precisión
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+De mayor amplitud
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+De mayor precisión
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+TRUE
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R100 Q1 : preguntas_html_R2018_0021 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p><strong>R2018_0021</strong>. Al 98 % de confianza, el intervalo que estima el tiempo medio de reacción a un estímulo es (1.78, 3.45) segundos. Si la confianza cambia al 95 %, el intervalo resulta:</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<ol type = "a">
+<li> FALSE </li>
+<li> FALSE </li>
+<li> TRUE </li>
+<li> FALSE </li>
+</ol>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+De la misma amplitud
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+De mayor amplitud
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+De mayor precisión
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+TRUE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+De menor precisión
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+</quiz>

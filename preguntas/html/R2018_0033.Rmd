@@ -1,0 +1,95 @@
+```{r data generation, echo = FALSE, results = "hide"}
+## Generación de datos
+x <- sample(1:20, 5)
+
+q <- quantile(x)
+media <- mean(x)
+
+if(any(q == media)){
+    x <- c(1,2,4,5,20)
+}
+
+
+## Sorteamos un tipo de pregunta
+
+preguntas <- c("La media es igual a:",
+               sample(c("La mediana es igual a:", "El segundo cuartil es igual a:"), 1),
+               "El primer cuartil es igual a:",
+               "El tercer cuartil es igual a:",
+               "El valor mínimo es igual a:",
+               "El valor máximo es igual a")
+
+correctas <- c(as.character(mean(x)),
+               as.character(q[3]),
+               as.character(q[2]),
+               as.character(q[4]),
+               as.character(q[1]),
+               as.character(q[5])
+               )
+
+
+## Creamos un data.frame para poder identificar las respuestas incorrectas
+df <- data.frame(id = 1:6, preguntas = preguntas, correctas = correctas, stringsAsFactors = FALSE)
+
+## Elegimos un tipo de pregunta
+i <- sample(1:6, 1)
+
+## Seleccionamos las respuestas incorrectas para todos los tipos de pregunta, menos para la media, que la especificamos aparte.
+inc <- sample(df$correctas[df$id != i], 3)
+
+
+incorrectas <- list(c(as.character(media + sample(-1, 1, 1) * sample(0.2, 1)), sample(inc, 2)),
+                    inc,
+                    inc,
+                    inc,
+                    inc,
+                    inc
+)
+
+
+## Elegimos un tipo de pregunta
+opciones <- c(correctas[i], incorrectas[[i]])
+
+## QUESTION/ANSWER GENERATION
+questions <- character(4)
+solutions <- logical(4)
+
+questions[1] <- opciones[1]
+solutions[1] <- TRUE
+
+questions[2] <- opciones[2]
+solutions[2] <- FALSE
+    
+questions[3] <- opciones[3]
+solutions[3] <- FALSE
+
+questions[4] <- opciones[4]
+solutions[4] <- FALSE
+```
+Question
+========
+**R2018_0033**. Considere los siguientes números:
+
+`r x`  
+
+
+`r preguntas[i]`
+
+
+```{r questionlist, echo = FALSE, results = "asis"}
+answerlist(questions, markup = "markdown")
+```
+  
+Solution
+========
+
+```{r solutionlist, echo = FALSE, results = "asis"}
+answerlist(solutions, markup = "markdown")
+```
+
+Meta-information
+================
+exname: R2018_0033
+extype: schoice
+exsolution: 1000
+exshuffle: TRUE

@@ -2,8 +2,6 @@
 library(kableExtra)
 library(dplyr)
 
-rnorm(10, 14, 2)
-
 ## Generación de datos
 df <- data.frame(id = 1:10, cantidad.de.palabras = round(rnorm(10, runif(1, 12, 18), 2)))
 
@@ -100,7 +98,7 @@ solutions[4] <- FALSE
 ```
 Question
 ========
-**P-frecuencia-3**. Se realizó experimento de memoria. Se les enseñó 30 palabras a cada uno de los participantes y se registró el número de palabras recordadas. Dada la siguiente matriz de datos:  
+**R2018_0031**. Se realizó experimento de memoria. Se les enseñó 30 palabras a cada uno de los participantes y se registró el número de palabras recordadas. Dada la siguiente matriz de datos:  
 
 
 ```{r tabla2018_0030, echo = FALSE, comment = NA}
@@ -124,7 +122,7 @@ answerlist(solutions, markup = "markdown")
 
 Meta-information
 ================
-exname: P-frecuencia-3
+exname: R2018_0031
 extype: schoice
 exsolution: 1000
 exshuffle: TRUE

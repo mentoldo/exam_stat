@@ -2,15 +2,15 @@
 library(kableExtra)
 library(dplyr)
 
-rnorm(10, 14, 2)
-
 ## Generación de datos
-
 c1 <- sample(1:5, 1)
 c2 <- sample(seq(1, (10-(c1 - 1))), 1)
 c3 <- 10 - (c1 + c2)
 
 rendimiento <- factor(c(rep("medio", c1), rep("alto", c2), rep("bajo", c3)), labels = c("bajo", "medio", "alto"))
+
+rendimiento <- sample(rendimiento)
+
 
 df <- data.frame(rendimiento = rendimiento)
 
@@ -26,12 +26,12 @@ i <- sample(1:nrow(freq), 1)
 
 ## Sorteamos un tipo de pregunta
 
-preguntas <- c(paste("La frecuencia absoluta simple de ", freq$cantidad.de.palabras[i], " es igual a:", sep = ""),
-               paste("La cantidad de con rendimiento ", freq$cantidad.de.palabras[i], " es igual a:", sep = ""),
+preguntas <- c(paste("La frecuencia absoluta simple de ", freq$rendimiento[i], " es igual a:", sep = ""),
+               paste("La cantidad de persona con rendimiento ", freq$rendimiento[i], " es igual a:", sep = ""),
                
-               paste("La frecuencia relativa simple de ", freq$cantidad.de.palabras[i], " es igual a:", sep = ""),
-               paste("El porcentaje de personas con rendimiento ", freq$cantidad.de.palabras[i], " es igual a:", sep = ""),
-               paste("La proporción de personas con rendimiento ", freq$cantidad.de.palabras[i], " es igual a:", sep = "")
+               paste("La frecuencia relativa simple de ", freq$rendimiento[i], " es igual a:", sep = ""),
+               paste("El porcentaje de personas con rendimiento ", freq$rendimiento[i], " es igual a:", sep = ""),
+               paste("La proporción de personas con rendimiento ", freq$rendimiento[i], " es igual a:", sep = "")
                )
 
                
@@ -48,12 +48,12 @@ correctas <- c(as.character(freq$freq[i]),
 ## Hay frecuencias simples y acumuladas que pueden tener valores iguales
 ## Por lo tanto, debemos asegurarnos que esos valores no seran elegidos como distractores.
 
-incorrectas <- list(c(correctas[3], correctas[4], correctas[1] + 2),
-                    c(correctas[3], correctas[4], correctas[1] + 2),
+incorrectas <- list(c(correctas[3], correctas[4], paste(freq$freq[1] + 2)),
+                    c(correctas[3], correctas[4], paste(freq$freq[1] + 2)),
 
-                    c(correctas[1], correctas[4], correctas[2] + 0.1),
-                    c(correctas[1], correctas[3], paste(correctas[2] * 100 + 10, "%", sep = "")),
-                    c(correctas[1], correctas[4], correctas[2] + 0.1)
+                    c(correctas[1], correctas[4], paste(freq$freq[1] + 0.1)),
+                    c(correctas[1], correctas[3], paste(freq$freqrel[2] * 100 + 10, "%", sep = "")),
+                    c(correctas[1], correctas[4], paste(freq$freq[1] + 0.1))
  
 )
 
@@ -82,10 +82,10 @@ solutions[4] <- FALSE
 ```
 Question
 ========
-**P-frecuencia-4**. Cosidere la siguiente matriz de datos y responda:
+**R2018_0032**. Considere la siguiente matriz de datos y responda:
 
 
-```{r tabla2018_0030, echo = FALSE, comment = NA}
+```{r tabla_frecuencia_4, echo = FALSE, comment = NA}
 kable(df) %>% 
     kable_styling(bootstrap_options = c("striped", "hover"))
 ```  
@@ -106,7 +106,7 @@ answerlist(solutions, markup = "markdown")
 
 Meta-information
 ================
-exname: P-frecuencia-4
+exname: R2018_0032
 extype: schoice
 exsolution: 1000
 exshuffle: TRUE

@@ -1,0 +1,73 @@
+```{r data generation, echo = FALSE, results = "hide"}
+## Generación de datos
+x <- sample(1:20, 3)
+
+## Sorteamos un tipo de pregunta
+
+preguntas <- c("La varianza muestral (dividido n - 1) es igual a:",
+               "El desvío estándar muestral (dividido n - 1) es igual a:")
+
+varianza <- round(var(x), 2)
+desvio <- round(sd(x), 2)
+
+correctas <- c(varianza, desvio)
+## Creamos un data.frame para poder identificar las respuestas incorrectas
+df <- data.frame(id = 1:2, preguntas = preguntas, correctas = correctas, stringsAsFactors = FALSE)
+
+## Elegimos un tipo de pregunta
+i <- sample(1:2, 1)
+
+## Seleccionamos las respuestas incorrectas para todos los tipos de pregunta, menos para la media, que la especificamos aparte.
+inc <- df$correctas[df$id != i]
+
+incorrectas <- c(inc,
+                 round(varianza + sample(c(-1, 1), 1) * 0.1 * varianza, 2),
+                 round(desvio + sample(c(-1, 1), 1) * 0.1 * desvio, 2))
+
+
+## Elegimos un tipo de pregunta
+opciones <- as.character(c(correctas[i], incorrectas))
+
+## QUESTION/ANSWER GENERATION
+questions <- character(4)
+solutions <- logical(4)
+
+questions[1] <- opciones[1]
+solutions[1] <- TRUE
+
+questions[2] <- opciones[2]
+solutions[2] <- FALSE
+    
+questions[3] <- opciones[3]
+solutions[3] <- FALSE
+
+questions[4] <- opciones[4]
+solutions[4] <- FALSE
+```
+Question
+========
+**R2018_0034**. Considere los siguientes números:
+
+`r x`  
+
+
+`r preguntas[i]`
+
+
+```{r questionlist, echo = FALSE, results = "asis"}
+answerlist(questions, markup = "markdown")
+```
+  
+Solution
+========
+
+```{r solutionlist, echo = FALSE, results = "asis"}
+answerlist(solutions, markup = "markdown")
+```
+
+Meta-information
+================
+exname: R2018_0034
+extype: schoice
+exsolution: 1000
+exshuffle: TRUE
