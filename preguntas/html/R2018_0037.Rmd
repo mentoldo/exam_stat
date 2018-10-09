@@ -33,22 +33,22 @@ gg <- ggplot(df, aes(x = x,
 ## Creamos un data.frame para poder identificar las respuestas incorrectas
 grupo <- sample(0:1, 1) ## 0 es igual al grupo A
 
-preguntas <- c("el mínimo", "el primer cuartil", "la mediana", "tercer cuartil", "el máximo")
+preguntas <- c("el recorrido", "recorrido intercuartílico", "semi recorrido intercuartilar")
 
 if(grupo == 0){
-    correctas <- c(qA[1], qA[2], qA[3], qA[4], qA[5])
+    correctas <- c(qA[5] - qA[1], qA[4] - qA[2], (qA[4] - qA[2])/2)
 } else {
-    correctas <- c(qB[1], qB[2], qB[3], qB[4], qB[5])
+    correctas <- c(qB[5] - qB[1], qB[4] - qB[2], (qB[4] - qB[2])/2)
 }
 
 
-dfpreguntas <- data.frame(id = 1:5, preguntas = preguntas, correctas = correctas, stringsAsFactors = FALSE)
+dfpreguntas <- data.frame(id = 1:3, preguntas = preguntas, correctas = correctas, stringsAsFactors = FALSE)
 
 ## Aleatorizamos el tipo de pregunta (si es mínimo, cuartil, mediana, ...)
-i <- sample(1:5, 1)
+i <- sample(1:3, 1)
 
 ## Elegimos las respuestas incorrectas
-incorrectas <- sample(dfpreguntas$correctas[dfpreguntas$id != i], 3)
+incorrectas <- dfpreguntas$correctas[dfpreguntas$id != i]
 
 
 ## Elegimos un tipo de pregunta
