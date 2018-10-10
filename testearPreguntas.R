@@ -1,6 +1,6 @@
 library(exams)
 
-exams2html(rep("./preguntas/html/R2018_0041.Rmd", 50),
+exams2html(rep("./preguntas/html/R2018_0031.Rmd", 50),
            dir = "render",
            n = 3,
            name = "rand")
@@ -11,7 +11,7 @@ exams2html(rep("./preguntas/html/R2018_0041.Rmd", 50),
 ## Creamos una función para exportar las preguntas
 preg <- list.files("./preguntas/html", full.names = TRUE)
 
-# preg <- preg[20 : length(preg)]
+# preg <- preg[35 : length(preg)]
 
 exportar <- function(x) {
     exams2html(rep(x, 100),

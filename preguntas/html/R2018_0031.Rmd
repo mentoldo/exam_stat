@@ -60,7 +60,7 @@ correctas <- c(as.character(freq$freq[i]),
 incorrectas <- list(c(correctas[3], correctas[4], ifelse(correctas[6] != correctas[1], correctas[6], as.character(freq$cum[i] + 1))),
                     c(correctas[3], correctas[4], ifelse(correctas[6] != correctas[1], correctas[6], as.character(freq$cum[i] + 1))),
                     
-                    c(correctas[1], correctas[4], ifelse(correctas[9] != correctas[3], correctas[9], as.character(freq$cumrel[i] + 0.1))),
+                    c(correctas[1], "No se puede calcular", ifelse(correctas[9] != correctas[3], correctas[9], as.character(freq$cumrel[i] + 0.1))),
                     c(correctas[1], correctas[3], ifelse(correctas[10] != correctas[4], correctas[10], paste(freq$cumrel[i] + 10, "%", sep = ""))),
                     c(correctas[1], correctas[4], ifelse(correctas[9] != correctas[3], correctas[9], as.character(freq$cumrel[i] + 0.1))),
                     
@@ -68,7 +68,7 @@ incorrectas <- list(c(correctas[3], correctas[4], ifelse(correctas[6] != correct
                     c(correctas[3], correctas[4], ifelse(correctas[1] != correctas[5], correctas[1], as.character(freq$freqrel[i] + 0.1))),
                     c(correctas[3], correctas[4], ifelse(correctas[1] != correctas[7], correctas[1], as.character(freq$freqrel[i] + 0.1))),
                     
-                    c(correctas[1], correctas[4], ifelse(correctas[3] != correctas[9], correctas[3], as.character(freq$freqrel[i] + 0.1))),
+                    c(correctas[1], "No se puede calcular", ifelse(correctas[3] != correctas[9], correctas[3], as.character(freq$freqrel[i] + 0.1))),
                     c(correctas[3], correctas[6], ifelse(correctas[11] != correctas[10], correctas[11], paste(freq$cumrel[i] + 10, "%", sep = ""))),
                     c(correctas[3], correctas[8], ifelse(correctas[10] != correctas[11], correctas[10], paste(freq$cumrel[i] + 10, "%", sep = "")))
 )
