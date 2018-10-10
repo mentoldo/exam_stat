@@ -1,0 +1,70 @@
+```{r data generation, echo = FALSE, results = "hide"}
+library(dplyr)
+library(ggplot2)
+
+## Generación de datos
+y <- sample(1:20, 4)
+grupo <- LETTERS[1:4]
+
+df <- data.frame(id = 1:4, y = y, grupo = grupo)
+    
+gg <- ggplot(df, aes(x = grupo, y = y)) +
+    geom_col(fill = "grey50") +
+    scale_y_continuous(breaks=seq(2,20, by = 2)) +
+    theme_bw() +
+    labs(x = "Grupo", y = "Media")
+
+i <- sample(1:4, 1) 
+
+correcta <- df$y[i]
+incorrectas <- df$y[df$id != i]
+
+## Elegimos un tipo de pregunta
+opciones <- as.character(c(correcta, incorrectas))
+
+## QUESTION/ANSWER GENERATION
+questions <- character(4)
+solutions <- logical(4)
+
+questions[1] <- opciones[1]
+solutions[1] <- TRUE
+
+questions[2] <- opciones[2]
+solutions[2] <- FALSE
+    
+questions[3] <- opciones[3]
+solutions[3] <- FALSE
+
+questions[4] <- opciones[4]
+solutions[4] <- FALSE
+```
+
+
+Question
+========
+**R2018_0038**. La media del grupo `r df$grupo[i]` en el siguiente gráfico de barras es:  
+
+
+```{r boxplotR2018_0036, echo = FALSE, fig.height = 4, fig.path = "", fig.cap = ""}
+gg
+```
+
+
+```{r questionlist, echo = FALSE, results = "asis"}
+answerlist(questions, markup = "markdown")
+```
+  
+  
+Solution
+========
+
+```{r solutionlist, echo = FALSE, results = "asis"}
+answerlist(solutions, markup = "markdown")
+```
+
+Meta-information
+================
+exname: R2018_0038
+extype: schoice
+exsolution: 1000
+exshuffle: TRUE

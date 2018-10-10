@@ -33,7 +33,7 @@ gg <- ggplot(df, aes(x = x,
 ## Creamos un data.frame para poder identificar las respuestas incorrectas
 grupo <- sample(0:1, 1) ## 0 es igual al grupo A
 
-preguntas <- c("el recorrido", "recorrido intercuartílico", "semi recorrido intercuartilar")
+preguntas <- c("el recorrido", "el recorrido intercuartílico", "el semi recorrido intercuartilar")
 
 if(grupo == 0){
     correctas <- c(qA[5] - qA[1], qA[4] - qA[2], (qA[4] - qA[2])/2)
@@ -48,7 +48,8 @@ dfpreguntas <- data.frame(id = 1:3, preguntas = preguntas, correctas = correctas
 i <- sample(1:3, 1)
 
 ## Elegimos las respuestas incorrectas
-incorrectas <- dfpreguntas$correctas[dfpreguntas$id != i]
+incorrectas <- c(dfpreguntas$correctas[dfpreguntas$id != i],
+                 dfpreguntas$correctas[i] - 2)
 
 
 ## Elegimos un tipo de pregunta
@@ -74,7 +75,7 @@ solutions[4] <- FALSE
 
 Question
 ========
-**R2018_0036**. En el siguiente gráfico de cajas, `r preguntas[i]` en el grupo `r ifelse(grupo == 0, "A", "B")` es:  
+**R2018_0037**. En el siguiente gráfico de cajas, `r preguntas[i]` en el grupo `r ifelse(grupo == 0, "A", "B")` es:  
 
 
 ```{r boxplotR2018_0036, echo = FALSE, fig.height = 4, fig.path = "", fig.cap = ""}
@@ -96,7 +97,7 @@ answerlist(solutions, markup = "markdown")
 
 Meta-information
 ================
-exname: R2018_0036
+exname: R2018_0037
 extype: schoice
 exsolution: 1000
 exshuffle: TRUE

@@ -1,0 +1,101 @@
+```{r data generation, echo = FALSE, results = "hide"}
+library(dplyr)
+library(ggplot2)
+
+## Generación de datos
+
+## Elegimos el tipo de pregunta
+i <- sample(1:3, 1) ## 1 = r +, 2 = r -, 3 = correlación baja
+
+media <- sample(10:100, 1)
+sd <- 0.1 * media
+
+x <- rnorm(100, media, sd = sd)
+
+
+switch(i,
+       {
+            y <- 0.50 * x + rnorm(100) * runif(1, 0.1, 0.35) * sd
+       },
+       {
+            y <- 0.50 * -x + rnorm(100) * runif(1, 0.1, 0.35) * sd
+       },
+       {
+           y <- 0.50 * media + rnorm(100) * runif(1, 0.1, 0.35)* sd
+       }
+)
+
+df <- data.frame(x = x, y = y)
+        
+        
+gg <- ggplot(df, aes(x = x, y = y)) +
+            geom_point() + 
+            theme_bw()
+
+r <- round(cor(x, y), 2)
+
+correcta <- r
+
+switch (i,
+        {
+            incorrectas <- c(-r, runif(1, -0.05, 0.05), sample(c(-1, 1), 1) * (1 + runif(1, 0.01, 0.5)))
+        },
+        {
+            incorrectas <- c(-r, runif(1, -0.05, 0.05), sample(c(-1, 1), 1) * (1 + runif(1, 0.01, 0.5)))
+        },
+        {
+            faker <- round(sample(c(-1, 1), 1) * runif(1, 0.75, 1), 2)
+            incorrectas <- c(-faker, faker, sample(c(-1, 1), 1) * (1 + runif(1, 0.01, 0.5)))
+        }
+)
+
+
+## Elegimos un tipo de pregunta
+opciones <- as.character(round(c(correcta, incorrectas), 2))
+
+## QUESTION/ANSWER GENERATION
+questions <- character(4)
+solutions <- logical(4)
+
+questions[1] <- opciones[1]
+solutions[1] <- TRUE
+
+questions[2] <- opciones[2]
+solutions[2] <- FALSE
+    
+questions[3] <- opciones[3]
+solutions[3] <- FALSE
+
+questions[4] <- opciones[4]
+solutions[4] <- FALSE
+```
+
+
+Question
+========
+**R2018_0039**. Dado el siguiente gráfico de dispersión, indique un valor posible para el coeficiente de correlación de Pearson (r):  
+
+
+```{r boxplotR2018_0036, echo = FALSE, fig.height = 4, fig.path = "", fig.cap = ""}
+gg
+```
+
+
+```{r questionlist, echo = FALSE, results = "asis"}
+answerlist(questions, markup = "markdown")
+```
+  
+  
+Solution
+========
+
+```{r solutionlist, echo = FALSE, results = "asis"}
+answerlist(solutions, markup = "markdown")
+```
+
+Meta-information
+================
+exname: R2018_0039
+extype: schoice
+exsolution: 1000
+exshuffle: TRUE
