@@ -1,0 +1,59 @@
+```{r data generation, echo = FALSE, results = "hide"}
+## Generación de datos
+preguntas <- c("dos variables nominales",
+                sample(c("dos variables proporcionales",
+                         "una variable proporcional y una ordinal"), 1),
+               "dos variables proporcionales")
+
+correctas <- c(sample(c("Coeficiente de contingencia C de Pearson",
+                        "Coeficiente V de Cramer"), 1),
+               "Coeficiente r de Spearman", 
+               "Coeficiente r de Pearson")
+
+
+df <- data.frame(id = 1:3, preguntas = preguntas, correctas = correctas, stringsAsFactors = FALSE)
+
+## Aleatorizamos el tipo de pregunta
+i <- sample(1:3, 1)
+
+opciones <- c(df$correctas[i], df$correctas[df$id != i], "Ninguna es correcta")
+
+
+## QUESTION/ANSWER GENERATION
+questions <- character(4)
+solutions <- logical(4)
+
+questions[1] <- opciones[1]
+solutions[1] <- TRUE
+
+questions[2] <- opciones[2]
+solutions[2] <- FALSE
+    
+questions[3] <- opciones[3]
+solutions[3] <- FALSE
+
+questions[4] <- opciones[4]
+solutions[4] <- FALSE
+```
+
+Question
+========
+**R2018_0041**. Se quiere medir la intensidad de asociación entre `r preguntas[i]`. Indique cual es el coeficiente indicado:
+
+```{r questionlist, echo = FALSE, results = "asis"}
+answerlist(questions, markup = "markdown")
+```
+  
+Solution
+========
+
+```{r solutionlist, echo = FALSE, results = "asis"}
+answerlist(solutions, markup = "markdown")
+```
+
+Meta-information
+================
+exname: R2018_0041
+extype: schoice
+exsolution: 1000
+exshuffle: TRUE
