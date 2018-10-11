@@ -27,7 +27,7 @@ i <- sample(1:nrow(freq), 1)
 ## Sorteamos un tipo de pregunta
 
 preguntas <- c(paste("La frecuencia absoluta simple de ", freq$rendimiento[i], " es igual a:", sep = ""),
-               paste("La cantidad de persona con rendimiento ", freq$rendimiento[i], " es igual a:", sep = ""),
+               paste("La cantidad de personas con rendimiento ", freq$rendimiento[i], " es igual a:", sep = ""),
                
                paste("La frecuencia relativa simple de ", freq$rendimiento[i], " es igual a:", sep = ""),
                paste("El porcentaje de personas con rendimiento ", freq$rendimiento[i], " es igual a:", sep = ""),
@@ -82,7 +82,7 @@ solutions[4] <- FALSE
 ```
 Question
 ========
-**R2018_0032**. Considere la siguiente matriz de datos y responda:
+**R2018_0032**. Considere el siguiente conjunto de datos para la variable rendimiento y responda:
 
 
 ```{r tabla_frecuencia_4, echo = FALSE, comment = NA}

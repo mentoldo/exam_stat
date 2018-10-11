@@ -98,7 +98,7 @@ solutions[4] <- FALSE
 ```
 Question
 ========
-**R2018_0031**. Se realizó experimento de memoria. Se les enseñó 30 palabras a cada uno de los participantes y se registró el número de palabras recordadas. Dada la siguiente matriz de datos:  
+**R2018_0031**. Se realizó experimento de memoria. Se les enseñó 30 palabras a cada uno de los participantes y se registró el número de palabras recordadas. Dado el siguiente fragmento de matriz de datos:  
 
 
 ```{r tabla2018_0030, echo = FALSE, comment = NA}
