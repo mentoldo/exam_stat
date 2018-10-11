@@ -19,8 +19,8 @@ correctas <- c(paste("El estimador puntual es ", x4, ".", sep = ""),
               paste("Si Ho fuera verdadera, la probabilidad de hallar un valor del estimador como el observado o más extremo es ", x5, ".", sep = ""),
               paste("El estimador está a ", abs(x3), " desviaciones estándar de ", x1, ".", sep = ""),
               paste("El parámetro hipotético es ", x1, ".", sep = ""),
-              paste("A un nivel del 5% corresponde ", ifelse(x5 < 0.5, "rechazar ", "no rechazar"), " la hipótesis nula.", sep = ""),
-              paste("A un nivel del 1% corresponde ", ifelse(x5 < 0.1, "rechazar ", "no rechazar"), " la hipótesis nula.", sep = ""))
+              paste("A un nivel del 5% corresponde ", ifelse(x5 < 0.05, "rechazar ", "no rechazar"), " la hipótesis nula.", sep = ""),
+              paste("A un nivel del 1% corresponde ", ifelse(x5 < 0.01, "rechazar ", "no rechazar"), " la hipótesis nula.", sep = ""))
 
 
 incorrectas <- c(paste("El estimador puntual es ", x1, ".", sep = ""),
@@ -30,8 +30,8 @@ incorrectas <- c(paste("El estimador puntual es ", x1, ".", sep = ""),
                  paste("El estimador está a ", ".1", " desviaciones estándar de ", x1, ".", sep = ""),
                  paste("El parámetro hipotético es ", x4, ".", sep = ""),
                  paste("Si Ho fuera falsa, la probabilidad de hallar un valor del estimador como el observado o más extremo es ", x5, ".", sep = ""),
-                 paste("A un nivel del 5% corresponde ", ifelse(x5 > 0.5, "rechazar ", "no rechazar"), "la hipótesis nula.", sep = ""),
-                 paste("A un nivel del 1% corresponde ", ifelse(x5 > 0.1, "rechazar ", "no rechazar"), "la hipótesis nula.", sep = ""))
+                 paste("A un nivel del 5% corresponde ", ifelse(x5 > 0.05, "rechazar ", "no rechazar"), "la hipótesis nula.", sep = ""),
+                 paste("A un nivel del 1% corresponde ", ifelse(x5 > 0.01, "rechazar ", "no rechazar"), "la hipótesis nula.", sep = ""))
 
 
 
