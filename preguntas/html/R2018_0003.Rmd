@@ -1,6 +1,6 @@
 ```{r data generation, echo = FALSE, results = "hide"}
 ## Generación de datos
-k <- sample(3:7, 1)
+k <- sample(4:8, 1)
 v <- sample(1:100, k)
 
 ## QUESTION/ANSWER GENERATION
@@ -8,10 +8,10 @@ questions <- character(4)
 solutions <- logical(4)
 
 questions[1] <- as.character(sum(v[1:(k-2)]))
-solutions[1] <- FALSE
+solutions[1] <- TRUE
 
 questions[2] <- as.character(sum(v[c(k - 1, k)]))
-solutions[2] <- TRUE
+solutions[2] <- FALSE
 
 questions[3] <- as.character(k)
 solutions[3] <- FALSE
