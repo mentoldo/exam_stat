@@ -1,6 +1,6 @@
 library(exams)
 
-exams2html(rep("./preguntas/html/R2018_0030.Rmd", 50),
+exams2html(rep("./preguntas/html/R2018_0032.Rmd", 50),
            dir = "render",
            n = 3,
            name = "rand")

@@ -15,7 +15,7 @@
 </name>
 <questiontext format="html">
 <text><![CDATA[<p>
-<p><strong>R2018_0017</strong>. La frecuencia absoluta simple es una:</p>
+<p><strong>R2018_0017</strong>. La frecuencia absoluta es una:</p>
 </p>]]></text>
 </questiontext>
 <generalfeedback format="html">
@@ -25,73 +25,6 @@
 <li> TRUE </li>
 <li> FALSE </li>
 <li> FALSE </li>
-</ol>
-</p>]]></text>
-</generalfeedback>
-<penalty>0</penalty>
-<defaultgrade>1</defaultgrade>
-<shuffleanswers>false</shuffleanswers>
-<single>true</single>
-<answernumbering>abc</answernumbering>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
-un valor de la variable
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-FALSE
-</p>]]></text>
-</feedback>
-</answer>
-<answer fraction="100" format="html">
-<text><![CDATA[<p>
-cantidad de casos
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-TRUE
-</p>]]></text>
-</feedback>
-</answer>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
-unidad de análisis
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-FALSE
-</p>]]></text>
-</feedback>
-</answer>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
-una categoría
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-FALSE
-</p>]]></text>
-</feedback>
-</answer>
-</question>
-
-
-<question type="multichoice">
-<name>
-<text> R002 Q1 : preguntas_html_R2018_0017 </text>
-</name>
-<questiontext format="html">
-<text><![CDATA[<p>
-<p><strong>R2018_0017</strong>. La frecuencia absoluta simple es una:</p>
-</p>]]></text>
-</questiontext>
-<generalfeedback format="html">
-<text><![CDATA[<p>
-<ol type = "a">
-<li> FALSE </li>
-<li> FALSE </li>
-<li> FALSE </li>
-<li> TRUE </li>
 </ol>
 </p>]]></text>
 </generalfeedback>
@@ -110,6 +43,16 @@ FALSE
 </p>]]></text>
 </feedback>
 </answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+cantidad de casos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+TRUE
+</p>]]></text>
+</feedback>
+</answer>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
 unidad de análisis
@@ -130,13 +73,70 @@ FALSE
 </p>]]></text>
 </feedback>
 </answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R002 Q1 : preguntas_html_R2018_0017 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p><strong>R2018_0017</strong>. La frecuencia relativa es una:</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<ol type = "a">
+<li> TRUE </li>
+<li> FALSE </li>
+<li> FALSE </li>
+<li> FALSE </li>
+</ol>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
 <answer fraction="100" format="html">
+<text><![CDATA[<p>
+proporción de casos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+TRUE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+unidad de análisis
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
 <text><![CDATA[<p>
 cantidad de casos
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
-TRUE
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+un valor de la variable
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
 </p>]]></text>
 </feedback>
 </answer>
@@ -155,8 +155,8 @@ TRUE
 <generalfeedback format="html">
 <text><![CDATA[<p>
 <ol type = "a">
-<li> TRUE </li>
 <li> FALSE </li>
+<li> TRUE </li>
 <li> FALSE </li>
 <li> FALSE </li>
 </ol>
@@ -167,6 +167,16 @@ TRUE
 <shuffleanswers>false</shuffleanswers>
 <single>true</single>
 <answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+variable
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
 <answer fraction="100" format="html">
 <text><![CDATA[<p>
 cantidad de casos
@@ -174,16 +184,6 @@ cantidad de casos
 <feedback format="html">
 <text><![CDATA[<p>
 TRUE
-</p>]]></text>
-</feedback>
-</answer>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
-proporción de casos
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-FALSE
 </p>]]></text>
 </feedback>
 </answer>
@@ -199,7 +199,7 @@ FALSE
 </answer>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-variable
+un valor de la variable
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -216,16 +216,16 @@ FALSE
 </name>
 <questiontext format="html">
 <text><![CDATA[<p>
-<p><strong>R2018_0017</strong>. La frecuencia absoluta relativa es una:</p>
+<p><strong>R2018_0017</strong>. La frecuencia relativa simple es una:</p>
 </p>]]></text>
 </questiontext>
 <generalfeedback format="html">
 <text><![CDATA[<p>
 <ol type = "a">
 <li> FALSE </li>
+<li> FALSE </li>
+<li> FALSE </li>
 <li> TRUE </li>
-<li> FALSE </li>
-<li> FALSE </li>
 </ol>
 </p>]]></text>
 </generalfeedback>
@@ -236,7 +236,7 @@ FALSE
 <answernumbering>abc</answernumbering>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-variable
+cantidad de casos
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -244,19 +244,9 @@ FALSE
 </p>]]></text>
 </feedback>
 </answer>
-<answer fraction="100" format="html">
-<text><![CDATA[<p>
-cantidad de casos
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-TRUE
-</p>]]></text>
-</feedback>
-</answer>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-proporción de casos
+unidad de análisis
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -271,6 +261,16 @@ un valor de la variable
 <feedback format="html">
 <text><![CDATA[<p>
 FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+proporción de casos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+TRUE
 </p>]]></text>
 </feedback>
 </answer>
@@ -323,7 +323,7 @@ FALSE
 </answer>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-cantidad de casos
+variable
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -370,7 +370,7 @@ TRUE
 <answernumbering>abc</answernumbering>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-una categoría
+unidad de análisis
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -380,7 +380,7 @@ FALSE
 </answer>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-variable
+cantidad de casos
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -400,7 +400,7 @@ TRUE
 </answer>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-un valor de la variable
+variable
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -417,16 +417,16 @@ FALSE
 </name>
 <questiontext format="html">
 <text><![CDATA[<p>
-<p><strong>R2018_0017</strong>. La frecuencia absoluta simple es una:</p>
+<p><strong>R2018_0017</strong>. La frecuencia absoluta es una:</p>
 </p>]]></text>
 </questiontext>
 <generalfeedback format="html">
 <text><![CDATA[<p>
 <ol type = "a">
-<li> FALSE </li>
-<li> FALSE </li>
-<li> FALSE </li>
 <li> TRUE </li>
+<li> FALSE </li>
+<li> FALSE </li>
+<li> FALSE </li>
 </ol>
 </p>]]></text>
 </generalfeedback>
@@ -435,19 +435,19 @@ FALSE
 <shuffleanswers>false</shuffleanswers>
 <single>true</single>
 <answernumbering>abc</answernumbering>
-<answer fraction="0" format="html">
+<answer fraction="100" format="html">
 <text><![CDATA[<p>
-variable
+cantidad de casos
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
-FALSE
+TRUE
 </p>]]></text>
 </feedback>
 </answer>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-una categoría
+un valor de la variable
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -465,13 +465,13 @@ FALSE
 </p>]]></text>
 </feedback>
 </answer>
-<answer fraction="100" format="html">
+<answer fraction="0" format="html">
 <text><![CDATA[<p>
-cantidad de casos
+una categoría
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
-TRUE
+FALSE
 </p>]]></text>
 </feedback>
 </answer>
@@ -484,7 +484,74 @@ TRUE
 </name>
 <questiontext format="html">
 <text><![CDATA[<p>
-<p><strong>R2018_0017</strong>. La frecuencia relativa acumulada es una:</p>
+<p><strong>R2018_0017</strong>. La frecuencia relativa es una:</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<ol type = "a">
+<li> FALSE </li>
+<li> TRUE </li>
+<li> FALSE </li>
+<li> FALSE </li>
+</ol>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+una categoría
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+proporción de casos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+TRUE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+variable
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+cantidad de casos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R009 Q1 : preguntas_html_R2018_0017 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p><strong>R2018_0017</strong>. La frecuencia absoluta acumulada es una:</p>
 </p>]]></text>
 </questiontext>
 <generalfeedback format="html">
@@ -504,7 +571,7 @@ TRUE
 <answernumbering>abc</answernumbering>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-cantidad de casos
+unidad de análisis
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -524,7 +591,7 @@ FALSE
 </answer>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-unidad de análisis
+una categoría
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -532,43 +599,6 @@ FALSE
 </p>]]></text>
 </feedback>
 </answer>
-<answer fraction="100" format="html">
-<text><![CDATA[<p>
-proporción de casos
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-TRUE
-</p>]]></text>
-</feedback>
-</answer>
-</question>
-
-
-<question type="multichoice">
-<name>
-<text> R009 Q1 : preguntas_html_R2018_0017 </text>
-</name>
-<questiontext format="html">
-<text><![CDATA[<p>
-<p><strong>R2018_0017</strong>. La frecuencia absoluta simple es una:</p>
-</p>]]></text>
-</questiontext>
-<generalfeedback format="html">
-<text><![CDATA[<p>
-<ol type = "a">
-<li> TRUE </li>
-<li> FALSE </li>
-<li> FALSE </li>
-<li> FALSE </li>
-</ol>
-</p>]]></text>
-</generalfeedback>
-<penalty>0</penalty>
-<defaultgrade>1</defaultgrade>
-<shuffleanswers>false</shuffleanswers>
-<single>true</single>
-<answernumbering>abc</answernumbering>
 <answer fraction="100" format="html">
 <text><![CDATA[<p>
 cantidad de casos
@@ -576,36 +606,6 @@ cantidad de casos
 <feedback format="html">
 <text><![CDATA[<p>
 TRUE
-</p>]]></text>
-</feedback>
-</answer>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
-proporción de casos
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-FALSE
-</p>]]></text>
-</feedback>
-</answer>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
-variable
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-FALSE
-</p>]]></text>
-</feedback>
-</answer>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
-unidad de análisis
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-FALSE
 </p>]]></text>
 </feedback>
 </answer>
@@ -638,7 +638,7 @@ FALSE
 <answernumbering>abc</answernumbering>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-una categoría
+variable
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -648,7 +648,7 @@ FALSE
 </answer>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-variable
+una categoría
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -685,14 +685,14 @@ TRUE
 </name>
 <questiontext format="html">
 <text><![CDATA[<p>
-<p><strong>R2018_0017</strong>. La frecuencia absoluta es una:</p>
+<p><strong>R2018_0017</strong>. La frecuencia relativa simple es una:</p>
 </p>]]></text>
 </questiontext>
 <generalfeedback format="html">
 <text><![CDATA[<p>
 <ol type = "a">
-<li> TRUE </li>
 <li> FALSE </li>
+<li> TRUE </li>
 <li> FALSE </li>
 <li> FALSE </li>
 </ol>
@@ -703,9 +703,19 @@ TRUE
 <shuffleanswers>false</shuffleanswers>
 <single>true</single>
 <answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+un valor de la variable
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
 <answer fraction="100" format="html">
 <text><![CDATA[<p>
-cantidad de casos
+proporción de casos
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -715,7 +725,7 @@ TRUE
 </answer>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-unidad de análisis
+cantidad de casos
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -725,17 +735,7 @@ FALSE
 </answer>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-proporción de casos
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-FALSE
-</p>]]></text>
-</feedback>
-</answer>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
-variable
+una categoría
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -752,16 +752,16 @@ FALSE
 </name>
 <questiontext format="html">
 <text><![CDATA[<p>
-<p><strong>R2018_0017</strong>. La frecuencia absoluta relativa es una:</p>
+<p><strong>R2018_0017</strong>. La frecuencia relativa simple es una:</p>
 </p>]]></text>
 </questiontext>
 <generalfeedback format="html">
 <text><![CDATA[<p>
 <ol type = "a">
 <li> FALSE </li>
-<li> FALSE </li>
-<li> FALSE </li>
 <li> TRUE </li>
+<li> FALSE </li>
+<li> FALSE </li>
 </ol>
 </p>]]></text>
 </generalfeedback>
@@ -772,7 +772,7 @@ FALSE
 <answernumbering>abc</answernumbering>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-proporción de casos
+unidad de análisis
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -780,9 +780,19 @@ FALSE
 </p>]]></text>
 </feedback>
 </answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+proporción de casos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+TRUE
+</p>]]></text>
+</feedback>
+</answer>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-una categoría
+variable
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -800,16 +810,6 @@ FALSE
 </p>]]></text>
 </feedback>
 </answer>
-<answer fraction="100" format="html">
-<text><![CDATA[<p>
-cantidad de casos
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-TRUE
-</p>]]></text>
-</feedback>
-</answer>
 </question>
 
 
@@ -819,16 +819,16 @@ TRUE
 </name>
 <questiontext format="html">
 <text><![CDATA[<p>
-<p><strong>R2018_0017</strong>. La frecuencia relativa es una:</p>
+<p><strong>R2018_0017</strong>. La frecuencia absoluta es una:</p>
 </p>]]></text>
 </questiontext>
 <generalfeedback format="html">
 <text><![CDATA[<p>
 <ol type = "a">
 <li> FALSE </li>
-<li> FALSE </li>
-<li> FALSE </li>
 <li> TRUE </li>
+<li> FALSE </li>
+<li> FALSE </li>
 </ol>
 </p>]]></text>
 </generalfeedback>
@@ -839,7 +839,27 @@ TRUE
 <answernumbering>abc</answernumbering>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-variable
+proporción de casos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+cantidad de casos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+TRUE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+un valor de la variable
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -849,7 +869,44 @@ FALSE
 </answer>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-cantidad de casos
+unidad de análisis
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R014 Q1 : preguntas_html_R2018_0017 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p><strong>R2018_0017</strong>. La frecuencia absoluta es una:</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<ol type = "a">
+<li> FALSE </li>
+<li> FALSE </li>
+<li> TRUE </li>
+<li> FALSE </li>
+</ol>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+unidad de análisis
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -869,74 +926,17 @@ FALSE
 </answer>
 <answer fraction="100" format="html">
 <text><![CDATA[<p>
-proporción de casos
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-TRUE
-</p>]]></text>
-</feedback>
-</answer>
-</question>
-
-
-<question type="multichoice">
-<name>
-<text> R014 Q1 : preguntas_html_R2018_0017 </text>
-</name>
-<questiontext format="html">
-<text><![CDATA[<p>
-<p><strong>R2018_0017</strong>. La frecuencia relativa es una:</p>
-</p>]]></text>
-</questiontext>
-<generalfeedback format="html">
-<text><![CDATA[<p>
-<ol type = "a">
-<li> FALSE </li>
-<li> TRUE </li>
-<li> FALSE </li>
-<li> FALSE </li>
-</ol>
-</p>]]></text>
-</generalfeedback>
-<penalty>0</penalty>
-<defaultgrade>1</defaultgrade>
-<shuffleanswers>false</shuffleanswers>
-<single>true</single>
-<answernumbering>abc</answernumbering>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
 cantidad de casos
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
-FALSE
-</p>]]></text>
-</feedback>
-</answer>
-<answer fraction="100" format="html">
-<text><![CDATA[<p>
-proporción de casos
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
 TRUE
 </p>]]></text>
 </feedback>
 </answer>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-variable
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-FALSE
-</p>]]></text>
-</feedback>
-</answer>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
-unidad de análisis
+un valor de la variable
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -950,73 +950,6 @@ FALSE
 <question type="multichoice">
 <name>
 <text> R015 Q1 : preguntas_html_R2018_0017 </text>
-</name>
-<questiontext format="html">
-<text><![CDATA[<p>
-<p><strong>R2018_0017</strong>. La frecuencia relativa acumulada es una:</p>
-</p>]]></text>
-</questiontext>
-<generalfeedback format="html">
-<text><![CDATA[<p>
-<ol type = "a">
-<li> FALSE </li>
-<li> TRUE </li>
-<li> FALSE </li>
-<li> FALSE </li>
-</ol>
-</p>]]></text>
-</generalfeedback>
-<penalty>0</penalty>
-<defaultgrade>1</defaultgrade>
-<shuffleanswers>false</shuffleanswers>
-<single>true</single>
-<answernumbering>abc</answernumbering>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
-cantidad de casos
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-FALSE
-</p>]]></text>
-</feedback>
-</answer>
-<answer fraction="100" format="html">
-<text><![CDATA[<p>
-proporción de casos
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-TRUE
-</p>]]></text>
-</feedback>
-</answer>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
-una categoría
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-FALSE
-</p>]]></text>
-</feedback>
-</answer>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
-unidad de análisis
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-FALSE
-</p>]]></text>
-</feedback>
-</answer>
-</question>
-
-
-<question type="multichoice">
-<name>
-<text> R016 Q1 : preguntas_html_R2018_0017 </text>
 </name>
 <questiontext format="html">
 <text><![CDATA[<p>
@@ -1040,27 +973,27 @@ FALSE
 <answernumbering>abc</answernumbering>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
+un valor de la variable
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+proporción de casos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
 variable
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-FALSE
-</p>]]></text>
-</feedback>
-</answer>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
-una categoría
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-FALSE
-</p>]]></text>
-</feedback>
-</answer>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
-unidad de análisis
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -1083,19 +1016,19 @@ TRUE
 
 <question type="multichoice">
 <name>
-<text> R017 Q1 : preguntas_html_R2018_0017 </text>
+<text> R016 Q1 : preguntas_html_R2018_0017 </text>
 </name>
 <questiontext format="html">
 <text><![CDATA[<p>
-<p><strong>R2018_0017</strong>. La frecuencia absoluta simple es una:</p>
+<p><strong>R2018_0017</strong>. La frecuencia relativa acumulada es una:</p>
 </p>]]></text>
 </questiontext>
 <generalfeedback format="html">
 <text><![CDATA[<p>
 <ol type = "a">
 <li> FALSE </li>
-<li> TRUE </li>
 <li> FALSE </li>
+<li> TRUE </li>
 <li> FALSE </li>
 </ol>
 </p>]]></text>
@@ -1107,7 +1040,94 @@ TRUE
 <answernumbering>abc</answernumbering>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
+cantidad de casos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
 unidad de análisis
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+proporción de casos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+TRUE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+una categoría
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R017 Q1 : preguntas_html_R2018_0017 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p><strong>R2018_0017</strong>. La frecuencia absoluta es una:</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<ol type = "a">
+<li> FALSE </li>
+<li> FALSE </li>
+<li> FALSE </li>
+<li> TRUE </li>
+</ol>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+proporción de casos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+unidad de análisis
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+variable
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -1122,26 +1142,6 @@ cantidad de casos
 <feedback format="html">
 <text><![CDATA[<p>
 TRUE
-</p>]]></text>
-</feedback>
-</answer>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
-proporción de casos
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-FALSE
-</p>]]></text>
-</feedback>
-</answer>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
-una categoría
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-FALSE
 </p>]]></text>
 </feedback>
 </answer>
@@ -1161,9 +1161,9 @@ FALSE
 <text><![CDATA[<p>
 <ol type = "a">
 <li> FALSE </li>
-<li> FALSE </li>
-<li> FALSE </li>
 <li> TRUE </li>
+<li> FALSE </li>
+<li> FALSE </li>
 </ol>
 </p>]]></text>
 </generalfeedback>
@@ -1174,11 +1174,21 @@ FALSE
 <answernumbering>abc</answernumbering>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-un valor de la variable
+variable
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
 FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+cantidad de casos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+TRUE
 </p>]]></text>
 </feedback>
 </answer>
@@ -1202,16 +1212,6 @@ FALSE
 </p>]]></text>
 </feedback>
 </answer>
-<answer fraction="100" format="html">
-<text><![CDATA[<p>
-cantidad de casos
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-TRUE
-</p>]]></text>
-</feedback>
-</answer>
 </question>
 
 
@@ -1221,15 +1221,15 @@ TRUE
 </name>
 <questiontext format="html">
 <text><![CDATA[<p>
-<p><strong>R2018_0017</strong>. La frecuencia absoluta es una:</p>
+<p><strong>R2018_0017</strong>. La frecuencia relativa simple es una:</p>
 </p>]]></text>
 </questiontext>
 <generalfeedback format="html">
 <text><![CDATA[<p>
 <ol type = "a">
+<li> FALSE </li>
+<li> FALSE </li>
 <li> TRUE </li>
-<li> FALSE </li>
-<li> FALSE </li>
 <li> FALSE </li>
 </ol>
 </p>]]></text>
@@ -1239,13 +1239,13 @@ TRUE
 <shuffleanswers>false</shuffleanswers>
 <single>true</single>
 <answernumbering>abc</answernumbering>
-<answer fraction="100" format="html">
+<answer fraction="0" format="html">
 <text><![CDATA[<p>
-cantidad de casos
+unidad de análisis
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
-TRUE
+FALSE
 </p>]]></text>
 </feedback>
 </answer>
@@ -1259,19 +1259,19 @@ FALSE
 </p>]]></text>
 </feedback>
 </answer>
-<answer fraction="0" format="html">
+<answer fraction="100" format="html">
 <text><![CDATA[<p>
-unidad de análisis
+proporción de casos
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
-FALSE
+TRUE
 </p>]]></text>
 </feedback>
 </answer>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-proporción de casos
+variable
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -1288,15 +1288,15 @@ FALSE
 </name>
 <questiontext format="html">
 <text><![CDATA[<p>
-<p><strong>R2018_0017</strong>. La frecuencia absoluta simple es una:</p>
+<p><strong>R2018_0017</strong>. La frecuencia absoluta acumulada es una:</p>
 </p>]]></text>
 </questiontext>
 <generalfeedback format="html">
 <text><![CDATA[<p>
 <ol type = "a">
 <li> FALSE </li>
-<li> TRUE </li>
 <li> FALSE </li>
+<li> TRUE </li>
 <li> FALSE </li>
 </ol>
 </p>]]></text>
@@ -1308,7 +1308,17 @@ FALSE
 <answernumbering>abc</answernumbering>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-proporción de casos
+variable
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+un valor de la variable
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -1328,17 +1338,7 @@ TRUE
 </answer>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-un valor de la variable
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-FALSE
-</p>]]></text>
-</feedback>
-</answer>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
-variable
+unidad de análisis
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -1355,14 +1355,14 @@ FALSE
 </name>
 <questiontext format="html">
 <text><![CDATA[<p>
-<p><strong>R2018_0017</strong>. La frecuencia absoluta relativa es una:</p>
+<p><strong>R2018_0017</strong>. La frecuencia relativa es una:</p>
 </p>]]></text>
 </questiontext>
 <generalfeedback format="html">
 <text><![CDATA[<p>
 <ol type = "a">
-<li> TRUE </li>
 <li> FALSE </li>
+<li> TRUE </li>
 <li> FALSE </li>
 <li> FALSE </li>
 </ol>
@@ -1373,9 +1373,19 @@ FALSE
 <shuffleanswers>false</shuffleanswers>
 <single>true</single>
 <answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+una categoría
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
 <answer fraction="100" format="html">
 <text><![CDATA[<p>
-cantidad de casos
+proporción de casos
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -1403,16 +1413,6 @@ FALSE
 </p>]]></text>
 </feedback>
 </answer>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
-un valor de la variable
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-FALSE
-</p>]]></text>
-</feedback>
-</answer>
 </question>
 
 
@@ -1422,15 +1422,15 @@ FALSE
 </name>
 <questiontext format="html">
 <text><![CDATA[<p>
-<p><strong>R2018_0017</strong>. La frecuencia absoluta simple es una:</p>
+<p><strong>R2018_0017</strong>. La frecuencia relativa acumulada es una:</p>
 </p>]]></text>
 </questiontext>
 <generalfeedback format="html">
 <text><![CDATA[<p>
 <ol type = "a">
-<li> FALSE </li>
-<li> FALSE </li>
 <li> TRUE </li>
+<li> FALSE </li>
+<li> FALSE </li>
 <li> FALSE </li>
 </ol>
 </p>]]></text>
@@ -1440,29 +1440,9 @@ FALSE
 <shuffleanswers>false</shuffleanswers>
 <single>true</single>
 <answernumbering>abc</answernumbering>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
-variable
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-FALSE
-</p>]]></text>
-</feedback>
-</answer>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
-unidad de análisis
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-FALSE
-</p>]]></text>
-</feedback>
-</answer>
 <answer fraction="100" format="html">
 <text><![CDATA[<p>
-cantidad de casos
+proporción de casos
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -1480,33 +1460,6 @@ FALSE
 </p>]]></text>
 </feedback>
 </answer>
-</question>
-
-
-<question type="multichoice">
-<name>
-<text> R023 Q1 : preguntas_html_R2018_0017 </text>
-</name>
-<questiontext format="html">
-<text><![CDATA[<p>
-<p><strong>R2018_0017</strong>. La frecuencia relativa es una:</p>
-</p>]]></text>
-</questiontext>
-<generalfeedback format="html">
-<text><![CDATA[<p>
-<ol type = "a">
-<li> FALSE </li>
-<li> FALSE </li>
-<li> TRUE </li>
-<li> FALSE </li>
-</ol>
-</p>]]></text>
-</generalfeedback>
-<penalty>0</penalty>
-<defaultgrade>1</defaultgrade>
-<shuffleanswers>false</shuffleanswers>
-<single>true</single>
-<answernumbering>abc</answernumbering>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
 variable
@@ -1527,6 +1480,100 @@ FALSE
 </p>]]></text>
 </feedback>
 </answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R023 Q1 : preguntas_html_R2018_0017 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p><strong>R2018_0017</strong>. La frecuencia relativa simple es una:</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<ol type = "a">
+<li> FALSE </li>
+<li> TRUE </li>
+<li> FALSE </li>
+<li> FALSE </li>
+</ol>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+variable
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+proporción de casos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+TRUE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+cantidad de casos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+unidad de análisis
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R024 Q1 : preguntas_html_R2018_0017 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p><strong>R2018_0017</strong>. La frecuencia relativa simple es una:</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<ol type = "a">
+<li> TRUE </li>
+<li> FALSE </li>
+<li> FALSE </li>
+<li> FALSE </li>
+</ol>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
 <answer fraction="100" format="html">
 <text><![CDATA[<p>
 proporción de casos
@@ -1547,43 +1594,6 @@ FALSE
 </p>]]></text>
 </feedback>
 </answer>
-</question>
-
-
-<question type="multichoice">
-<name>
-<text> R024 Q1 : preguntas_html_R2018_0017 </text>
-</name>
-<questiontext format="html">
-<text><![CDATA[<p>
-<p><strong>R2018_0017</strong>. La frecuencia absoluta simple es una:</p>
-</p>]]></text>
-</questiontext>
-<generalfeedback format="html">
-<text><![CDATA[<p>
-<ol type = "a">
-<li> TRUE </li>
-<li> FALSE </li>
-<li> FALSE </li>
-<li> FALSE </li>
-</ol>
-</p>]]></text>
-</generalfeedback>
-<penalty>0</penalty>
-<defaultgrade>1</defaultgrade>
-<shuffleanswers>false</shuffleanswers>
-<single>true</single>
-<answernumbering>abc</answernumbering>
-<answer fraction="100" format="html">
-<text><![CDATA[<p>
-cantidad de casos
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-TRUE
-</p>]]></text>
-</feedback>
-</answer>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
 unidad de análisis
@@ -1596,17 +1606,7 @@ FALSE
 </answer>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-una categoría
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-FALSE
-</p>]]></text>
-</feedback>
-</answer>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
-un valor de la variable
+cantidad de casos
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -1629,9 +1629,9 @@ FALSE
 <generalfeedback format="html">
 <text><![CDATA[<p>
 <ol type = "a">
-<li> FALSE </li>
-<li> FALSE </li>
 <li> TRUE </li>
+<li> FALSE </li>
+<li> FALSE </li>
 <li> FALSE </li>
 </ol>
 </p>]]></text>
@@ -1641,9 +1641,19 @@ FALSE
 <shuffleanswers>false</shuffleanswers>
 <single>true</single>
 <answernumbering>abc</answernumbering>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+proporción de casos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+TRUE
+</p>]]></text>
+</feedback>
+</answer>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-unidad de análisis
+variable
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -1658,16 +1668,6 @@ una categoría
 <feedback format="html">
 <text><![CDATA[<p>
 FALSE
-</p>]]></text>
-</feedback>
-</answer>
-<answer fraction="100" format="html">
-<text><![CDATA[<p>
-proporción de casos
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-TRUE
 </p>]]></text>
 </feedback>
 </answer>
@@ -1690,7 +1690,7 @@ FALSE
 </name>
 <questiontext format="html">
 <text><![CDATA[<p>
-<p><strong>R2018_0017</strong>. La frecuencia relativa simple es una:</p>
+<p><strong>R2018_0017</strong>. La frecuencia relativa acumulada es una:</p>
 </p>]]></text>
 </questiontext>
 <generalfeedback format="html">
@@ -1710,7 +1710,7 @@ FALSE
 <answernumbering>abc</answernumbering>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-unidad de análisis
+un valor de la variable
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -1730,7 +1730,7 @@ FALSE
 </answer>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-una categoría
+cantidad de casos
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -1757,74 +1757,7 @@ TRUE
 </name>
 <questiontext format="html">
 <text><![CDATA[<p>
-<p><strong>R2018_0017</strong>. La frecuencia absoluta relativa es una:</p>
-</p>]]></text>
-</questiontext>
-<generalfeedback format="html">
-<text><![CDATA[<p>
-<ol type = "a">
-<li> FALSE </li>
-<li> TRUE </li>
-<li> FALSE </li>
-<li> FALSE </li>
-</ol>
-</p>]]></text>
-</generalfeedback>
-<penalty>0</penalty>
-<defaultgrade>1</defaultgrade>
-<shuffleanswers>false</shuffleanswers>
-<single>true</single>
-<answernumbering>abc</answernumbering>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
-variable
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-FALSE
-</p>]]></text>
-</feedback>
-</answer>
-<answer fraction="100" format="html">
-<text><![CDATA[<p>
-cantidad de casos
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-TRUE
-</p>]]></text>
-</feedback>
-</answer>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
-una categoría
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-FALSE
-</p>]]></text>
-</feedback>
-</answer>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
-unidad de análisis
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-FALSE
-</p>]]></text>
-</feedback>
-</answer>
-</question>
-
-
-<question type="multichoice">
-<name>
-<text> R028 Q1 : preguntas_html_R2018_0017 </text>
-</name>
-<questiontext format="html">
-<text><![CDATA[<p>
-<p><strong>R2018_0017</strong>. La frecuencia absoluta relativa es una:</p>
+<p><strong>R2018_0017</strong>. La frecuencia absoluta es una:</p>
 </p>]]></text>
 </questiontext>
 <generalfeedback format="html">
@@ -1832,8 +1765,8 @@ FALSE
 <ol type = "a">
 <li> FALSE </li>
 <li> FALSE </li>
-<li> FALSE </li>
 <li> TRUE </li>
+<li> FALSE </li>
 </ol>
 </p>]]></text>
 </generalfeedback>
@@ -1862,9 +1795,56 @@ FALSE
 </p>]]></text>
 </feedback>
 </answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+cantidad de casos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+TRUE
+</p>]]></text>
+</feedback>
+</answer>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-un valor de la variable
+variable
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R028 Q1 : preguntas_html_R2018_0017 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p><strong>R2018_0017</strong>. La frecuencia relativa acumulada es una:</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<ol type = "a">
+<li> FALSE </li>
+<li> TRUE </li>
+<li> FALSE </li>
+<li> FALSE </li>
+</ol>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+una categoría
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -1874,11 +1854,31 @@ FALSE
 </answer>
 <answer fraction="100" format="html">
 <text><![CDATA[<p>
-cantidad de casos
+proporción de casos
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
 TRUE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+variable
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+cantidad de casos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
 </p>]]></text>
 </feedback>
 </answer>
@@ -1911,27 +1911,27 @@ TRUE
 <answernumbering>abc</answernumbering>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-variable
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-FALSE
-</p>]]></text>
-</feedback>
-</answer>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
-un valor de la variable
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-FALSE
-</p>]]></text>
-</feedback>
-</answer>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
 una categoría
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+unidad de análisis
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+cantidad de casos
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -1958,7 +1958,7 @@ TRUE
 </name>
 <questiontext format="html">
 <text><![CDATA[<p>
-<p><strong>R2018_0017</strong>. La frecuencia absoluta relativa es una:</p>
+<p><strong>R2018_0017</strong>. La frecuencia absoluta simple es una:</p>
 </p>]]></text>
 </questiontext>
 <generalfeedback format="html">
@@ -1978,7 +1978,7 @@ TRUE
 <answernumbering>abc</answernumbering>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-unidad de análisis
+una categoría
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -1998,7 +1998,7 @@ TRUE
 </answer>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-proporción de casos
+variable
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -2008,7 +2008,7 @@ FALSE
 </answer>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-una categoría
+proporción de casos
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -2025,16 +2025,16 @@ FALSE
 </name>
 <questiontext format="html">
 <text><![CDATA[<p>
-<p><strong>R2018_0017</strong>. La frecuencia relativa acumulada es una:</p>
+<p><strong>R2018_0017</strong>. La frecuencia absoluta simple es una:</p>
 </p>]]></text>
 </questiontext>
 <generalfeedback format="html">
 <text><![CDATA[<p>
 <ol type = "a">
+<li> FALSE </li>
+<li> FALSE </li>
+<li> FALSE </li>
 <li> TRUE </li>
-<li> FALSE </li>
-<li> FALSE </li>
-<li> FALSE </li>
 </ol>
 </p>]]></text>
 </generalfeedback>
@@ -2043,19 +2043,19 @@ FALSE
 <shuffleanswers>false</shuffleanswers>
 <single>true</single>
 <answernumbering>abc</answernumbering>
-<answer fraction="100" format="html">
+<answer fraction="0" format="html">
 <text><![CDATA[<p>
-proporción de casos
+variable
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
-TRUE
+FALSE
 </p>]]></text>
 </feedback>
 </answer>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-un valor de la variable
+unidad de análisis
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -2073,13 +2073,13 @@ FALSE
 </p>]]></text>
 </feedback>
 </answer>
-<answer fraction="0" format="html">
+<answer fraction="100" format="html">
 <text><![CDATA[<p>
-variable
+cantidad de casos
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
-FALSE
+TRUE
 </p>]]></text>
 </feedback>
 </answer>
@@ -2092,7 +2092,7 @@ FALSE
 </name>
 <questiontext format="html">
 <text><![CDATA[<p>
-<p><strong>R2018_0017</strong>. La frecuencia absoluta es una:</p>
+<p><strong>R2018_0017</strong>. La frecuencia relativa es una:</p>
 </p>]]></text>
 </questiontext>
 <generalfeedback format="html">
@@ -2112,27 +2112,27 @@ FALSE
 <answernumbering>abc</answernumbering>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-variable
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-FALSE
-</p>]]></text>
-</feedback>
-</answer>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
-una categoría
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-FALSE
-</p>]]></text>
-</feedback>
-</answer>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
 un valor de la variable
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+cantidad de casos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+unidad de análisis
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -2142,7 +2142,7 @@ FALSE
 </answer>
 <answer fraction="100" format="html">
 <text><![CDATA[<p>
-cantidad de casos
+proporción de casos
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -2189,7 +2189,17 @@ TRUE
 </answer>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-unidad de análisis
+variable
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+un valor de la variable
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -2200,16 +2210,6 @@ FALSE
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
 una categoría
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-FALSE
-</p>]]></text>
-</feedback>
-</answer>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
-proporción de casos
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -2226,16 +2226,16 @@ FALSE
 </name>
 <questiontext format="html">
 <text><![CDATA[<p>
-<p><strong>R2018_0017</strong>. La frecuencia absoluta simple es una:</p>
+<p><strong>R2018_0017</strong>. La frecuencia absoluta acumulada es una:</p>
 </p>]]></text>
 </questiontext>
 <generalfeedback format="html">
 <text><![CDATA[<p>
 <ol type = "a">
 <li> FALSE </li>
-<li> FALSE </li>
-<li> FALSE </li>
 <li> TRUE </li>
+<li> FALSE </li>
+<li> FALSE </li>
 </ol>
 </p>]]></text>
 </generalfeedback>
@@ -2244,26 +2244,6 @@ FALSE
 <shuffleanswers>false</shuffleanswers>
 <single>true</single>
 <answernumbering>abc</answernumbering>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
-proporción de casos
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-FALSE
-</p>]]></text>
-</feedback>
-</answer>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
-variable
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-FALSE
-</p>]]></text>
-</feedback>
-</answer>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
 un valor de la variable
@@ -2277,110 +2257,6 @@ FALSE
 <answer fraction="100" format="html">
 <text><![CDATA[<p>
 cantidad de casos
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-TRUE
-</p>]]></text>
-</feedback>
-</answer>
-</question>
-
-
-<question type="multichoice">
-<name>
-<text> R035 Q1 : preguntas_html_R2018_0017 </text>
-</name>
-<questiontext format="html">
-<text><![CDATA[<p>
-<p><strong>R2018_0017</strong>. La frecuencia absoluta es una:</p>
-</p>]]></text>
-</questiontext>
-<generalfeedback format="html">
-<text><![CDATA[<p>
-<ol type = "a">
-<li> FALSE </li>
-<li> FALSE </li>
-<li> TRUE </li>
-<li> FALSE </li>
-</ol>
-</p>]]></text>
-</generalfeedback>
-<penalty>0</penalty>
-<defaultgrade>1</defaultgrade>
-<shuffleanswers>false</shuffleanswers>
-<single>true</single>
-<answernumbering>abc</answernumbering>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
-una categoría
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-FALSE
-</p>]]></text>
-</feedback>
-</answer>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
-proporción de casos
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-FALSE
-</p>]]></text>
-</feedback>
-</answer>
-<answer fraction="100" format="html">
-<text><![CDATA[<p>
-cantidad de casos
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-TRUE
-</p>]]></text>
-</feedback>
-</answer>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
-un valor de la variable
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-FALSE
-</p>]]></text>
-</feedback>
-</answer>
-</question>
-
-
-<question type="multichoice">
-<name>
-<text> R036 Q1 : preguntas_html_R2018_0017 </text>
-</name>
-<questiontext format="html">
-<text><![CDATA[<p>
-<p><strong>R2018_0017</strong>. La frecuencia relativa acumulada es una:</p>
-</p>]]></text>
-</questiontext>
-<generalfeedback format="html">
-<text><![CDATA[<p>
-<ol type = "a">
-<li> TRUE </li>
-<li> FALSE </li>
-<li> FALSE </li>
-<li> FALSE </li>
-</ol>
-</p>]]></text>
-</generalfeedback>
-<penalty>0</penalty>
-<defaultgrade>1</defaultgrade>
-<shuffleanswers>false</shuffleanswers>
-<single>true</single>
-<answernumbering>abc</answernumbering>
-<answer fraction="100" format="html">
-<text><![CDATA[<p>
-proporción de casos
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -2400,17 +2276,7 @@ FALSE
 </answer>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-una categoría
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-FALSE
-</p>]]></text>
-</feedback>
-</answer>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
-variable
+proporción de casos
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -2423,19 +2289,19 @@ FALSE
 
 <question type="multichoice">
 <name>
-<text> R037 Q1 : preguntas_html_R2018_0017 </text>
+<text> R035 Q1 : preguntas_html_R2018_0017 </text>
 </name>
 <questiontext format="html">
 <text><![CDATA[<p>
-<p><strong>R2018_0017</strong>. La frecuencia absoluta relativa es una:</p>
+<p><strong>R2018_0017</strong>. La frecuencia relativa es una:</p>
 </p>]]></text>
 </questiontext>
 <generalfeedback format="html">
 <text><![CDATA[<p>
 <ol type = "a">
 <li> FALSE </li>
-<li> FALSE </li>
 <li> TRUE </li>
+<li> FALSE </li>
 <li> FALSE </li>
 </ol>
 </p>]]></text>
@@ -2447,17 +2313,7 @@ FALSE
 <answernumbering>abc</answernumbering>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-proporción de casos
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-FALSE
-</p>]]></text>
-</feedback>
-</answer>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
-una categoría
+variable
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -2467,7 +2323,7 @@ FALSE
 </answer>
 <answer fraction="100" format="html">
 <text><![CDATA[<p>
-cantidad de casos
+proporción de casos
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -2475,43 +2331,6 @@ TRUE
 </p>]]></text>
 </feedback>
 </answer>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
-variable
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-FALSE
-</p>]]></text>
-</feedback>
-</answer>
-</question>
-
-
-<question type="multichoice">
-<name>
-<text> R038 Q1 : preguntas_html_R2018_0017 </text>
-</name>
-<questiontext format="html">
-<text><![CDATA[<p>
-<p><strong>R2018_0017</strong>. La frecuencia absoluta relativa es una:</p>
-</p>]]></text>
-</questiontext>
-<generalfeedback format="html">
-<text><![CDATA[<p>
-<ol type = "a">
-<li> FALSE </li>
-<li> TRUE </li>
-<li> FALSE </li>
-<li> FALSE </li>
-</ol>
-</p>]]></text>
-</generalfeedback>
-<penalty>0</penalty>
-<defaultgrade>1</defaultgrade>
-<shuffleanswers>false</shuffleanswers>
-<single>true</single>
-<answernumbering>abc</answernumbering>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
 un valor de la variable
@@ -2522,29 +2341,9 @@ FALSE
 </p>]]></text>
 </feedback>
 </answer>
-<answer fraction="100" format="html">
-<text><![CDATA[<p>
-cantidad de casos
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-TRUE
-</p>]]></text>
-</feedback>
-</answer>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-proporción de casos
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-FALSE
-</p>]]></text>
-</feedback>
-</answer>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
-variable
+unidad de análisis
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -2557,7 +2356,7 @@ FALSE
 
 <question type="multichoice">
 <name>
-<text> R039 Q1 : preguntas_html_R2018_0017 </text>
+<text> R036 Q1 : preguntas_html_R2018_0017 </text>
 </name>
 <questiontext format="html">
 <text><![CDATA[<p>
@@ -2581,7 +2380,7 @@ FALSE
 <answernumbering>abc</answernumbering>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-un valor de la variable
+una categoría
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -2611,7 +2410,208 @@ TRUE
 </answer>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
+cantidad de casos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R037 Q1 : preguntas_html_R2018_0017 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p><strong>R2018_0017</strong>. La frecuencia absoluta acumulada es una:</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<ol type = "a">
+<li> FALSE </li>
+<li> FALSE </li>
+<li> FALSE </li>
+<li> TRUE </li>
+</ol>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+unidad de análisis
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+un valor de la variable
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
 una categoría
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+cantidad de casos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+TRUE
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R038 Q1 : preguntas_html_R2018_0017 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p><strong>R2018_0017</strong>. La frecuencia relativa es una:</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<ol type = "a">
+<li> FALSE </li>
+<li> FALSE </li>
+<li> FALSE </li>
+<li> TRUE </li>
+</ol>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+una categoría
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+cantidad de casos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+unidad de análisis
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+proporción de casos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+TRUE
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R039 Q1 : preguntas_html_R2018_0017 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p><strong>R2018_0017</strong>. La frecuencia relativa acumulada es una:</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<ol type = "a">
+<li> FALSE </li>
+<li> FALSE </li>
+<li> TRUE </li>
+<li> FALSE </li>
+</ol>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+una categoría
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+unidad de análisis
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+proporción de casos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+TRUE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+cantidad de casos
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -2628,14 +2628,14 @@ FALSE
 </name>
 <questiontext format="html">
 <text><![CDATA[<p>
-<p><strong>R2018_0017</strong>. La frecuencia absoluta es una:</p>
+<p><strong>R2018_0017</strong>. La frecuencia absoluta simple es una:</p>
 </p>]]></text>
 </questiontext>
 <generalfeedback format="html">
 <text><![CDATA[<p>
 <ol type = "a">
-<li> FALSE </li>
 <li> TRUE </li>
+<li> FALSE </li>
 <li> FALSE </li>
 <li> FALSE </li>
 </ol>
@@ -2646,16 +2646,6 @@ FALSE
 <shuffleanswers>false</shuffleanswers>
 <single>true</single>
 <answernumbering>abc</answernumbering>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
-un valor de la variable
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-FALSE
-</p>]]></text>
-</feedback>
-</answer>
 <answer fraction="100" format="html">
 <text><![CDATA[<p>
 cantidad de casos
@@ -2678,7 +2668,17 @@ FALSE
 </answer>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-una categoría
+unidad de análisis
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+un valor de la variable
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -2692,341 +2692,6 @@ FALSE
 <question type="multichoice">
 <name>
 <text> R041 Q1 : preguntas_html_R2018_0017 </text>
-</name>
-<questiontext format="html">
-<text><![CDATA[<p>
-<p><strong>R2018_0017</strong>. La frecuencia absoluta simple es una:</p>
-</p>]]></text>
-</questiontext>
-<generalfeedback format="html">
-<text><![CDATA[<p>
-<ol type = "a">
-<li> FALSE </li>
-<li> TRUE </li>
-<li> FALSE </li>
-<li> FALSE </li>
-</ol>
-</p>]]></text>
-</generalfeedback>
-<penalty>0</penalty>
-<defaultgrade>1</defaultgrade>
-<shuffleanswers>false</shuffleanswers>
-<single>true</single>
-<answernumbering>abc</answernumbering>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
-proporción de casos
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-FALSE
-</p>]]></text>
-</feedback>
-</answer>
-<answer fraction="100" format="html">
-<text><![CDATA[<p>
-cantidad de casos
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-TRUE
-</p>]]></text>
-</feedback>
-</answer>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
-un valor de la variable
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-FALSE
-</p>]]></text>
-</feedback>
-</answer>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
-una categoría
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-FALSE
-</p>]]></text>
-</feedback>
-</answer>
-</question>
-
-
-<question type="multichoice">
-<name>
-<text> R042 Q1 : preguntas_html_R2018_0017 </text>
-</name>
-<questiontext format="html">
-<text><![CDATA[<p>
-<p><strong>R2018_0017</strong>. La frecuencia relativa acumulada es una:</p>
-</p>]]></text>
-</questiontext>
-<generalfeedback format="html">
-<text><![CDATA[<p>
-<ol type = "a">
-<li> FALSE </li>
-<li> FALSE </li>
-<li> TRUE </li>
-<li> FALSE </li>
-</ol>
-</p>]]></text>
-</generalfeedback>
-<penalty>0</penalty>
-<defaultgrade>1</defaultgrade>
-<shuffleanswers>false</shuffleanswers>
-<single>true</single>
-<answernumbering>abc</answernumbering>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
-un valor de la variable
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-FALSE
-</p>]]></text>
-</feedback>
-</answer>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
-unidad de análisis
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-FALSE
-</p>]]></text>
-</feedback>
-</answer>
-<answer fraction="100" format="html">
-<text><![CDATA[<p>
-proporción de casos
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-TRUE
-</p>]]></text>
-</feedback>
-</answer>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
-una categoría
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-FALSE
-</p>]]></text>
-</feedback>
-</answer>
-</question>
-
-
-<question type="multichoice">
-<name>
-<text> R043 Q1 : preguntas_html_R2018_0017 </text>
-</name>
-<questiontext format="html">
-<text><![CDATA[<p>
-<p><strong>R2018_0017</strong>. La frecuencia relativa es una:</p>
-</p>]]></text>
-</questiontext>
-<generalfeedback format="html">
-<text><![CDATA[<p>
-<ol type = "a">
-<li> TRUE </li>
-<li> FALSE </li>
-<li> FALSE </li>
-<li> FALSE </li>
-</ol>
-</p>]]></text>
-</generalfeedback>
-<penalty>0</penalty>
-<defaultgrade>1</defaultgrade>
-<shuffleanswers>false</shuffleanswers>
-<single>true</single>
-<answernumbering>abc</answernumbering>
-<answer fraction="100" format="html">
-<text><![CDATA[<p>
-proporción de casos
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-TRUE
-</p>]]></text>
-</feedback>
-</answer>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
-unidad de análisis
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-FALSE
-</p>]]></text>
-</feedback>
-</answer>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
-un valor de la variable
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-FALSE
-</p>]]></text>
-</feedback>
-</answer>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
-una categoría
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-FALSE
-</p>]]></text>
-</feedback>
-</answer>
-</question>
-
-
-<question type="multichoice">
-<name>
-<text> R044 Q1 : preguntas_html_R2018_0017 </text>
-</name>
-<questiontext format="html">
-<text><![CDATA[<p>
-<p><strong>R2018_0017</strong>. La frecuencia relativa acumulada es una:</p>
-</p>]]></text>
-</questiontext>
-<generalfeedback format="html">
-<text><![CDATA[<p>
-<ol type = "a">
-<li> TRUE </li>
-<li> FALSE </li>
-<li> FALSE </li>
-<li> FALSE </li>
-</ol>
-</p>]]></text>
-</generalfeedback>
-<penalty>0</penalty>
-<defaultgrade>1</defaultgrade>
-<shuffleanswers>false</shuffleanswers>
-<single>true</single>
-<answernumbering>abc</answernumbering>
-<answer fraction="100" format="html">
-<text><![CDATA[<p>
-proporción de casos
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-TRUE
-</p>]]></text>
-</feedback>
-</answer>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
-unidad de análisis
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-FALSE
-</p>]]></text>
-</feedback>
-</answer>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
-un valor de la variable
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-FALSE
-</p>]]></text>
-</feedback>
-</answer>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
-una categoría
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-FALSE
-</p>]]></text>
-</feedback>
-</answer>
-</question>
-
-
-<question type="multichoice">
-<name>
-<text> R045 Q1 : preguntas_html_R2018_0017 </text>
-</name>
-<questiontext format="html">
-<text><![CDATA[<p>
-<p><strong>R2018_0017</strong>. La frecuencia absoluta relativa es una:</p>
-</p>]]></text>
-</questiontext>
-<generalfeedback format="html">
-<text><![CDATA[<p>
-<ol type = "a">
-<li> FALSE </li>
-<li> FALSE </li>
-<li> TRUE </li>
-<li> FALSE </li>
-</ol>
-</p>]]></text>
-</generalfeedback>
-<penalty>0</penalty>
-<defaultgrade>1</defaultgrade>
-<shuffleanswers>false</shuffleanswers>
-<single>true</single>
-<answernumbering>abc</answernumbering>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
-unidad de análisis
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-FALSE
-</p>]]></text>
-</feedback>
-</answer>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
-un valor de la variable
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-FALSE
-</p>]]></text>
-</feedback>
-</answer>
-<answer fraction="100" format="html">
-<text><![CDATA[<p>
-cantidad de casos
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-TRUE
-</p>]]></text>
-</feedback>
-</answer>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
-proporción de casos
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-FALSE
-</p>]]></text>
-</feedback>
-</answer>
-</question>
-
-
-<question type="multichoice">
-<name>
-<text> R046 Q1 : preguntas_html_R2018_0017 </text>
 </name>
 <questiontext format="html">
 <text><![CDATA[<p>
@@ -3050,7 +2715,342 @@ FALSE
 <answernumbering>abc</answernumbering>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
+unidad de análisis
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+una categoría
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+cantidad de casos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+TRUE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
 un valor de la variable
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R042 Q1 : preguntas_html_R2018_0017 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p><strong>R2018_0017</strong>. La frecuencia relativa simple es una:</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<ol type = "a">
+<li> FALSE </li>
+<li> FALSE </li>
+<li> FALSE </li>
+<li> TRUE </li>
+</ol>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+cantidad de casos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+un valor de la variable
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+variable
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+proporción de casos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+TRUE
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R043 Q1 : preguntas_html_R2018_0017 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p><strong>R2018_0017</strong>. La frecuencia absoluta acumulada es una:</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<ol type = "a">
+<li> TRUE </li>
+<li> FALSE </li>
+<li> FALSE </li>
+<li> FALSE </li>
+</ol>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+cantidad de casos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+TRUE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+variable
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+un valor de la variable
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+unidad de análisis
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R044 Q1 : preguntas_html_R2018_0017 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p><strong>R2018_0017</strong>. La frecuencia absoluta simple es una:</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<ol type = "a">
+<li> FALSE </li>
+<li> FALSE </li>
+<li> FALSE </li>
+<li> TRUE </li>
+</ol>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+unidad de análisis
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+proporción de casos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+variable
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+cantidad de casos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+TRUE
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R045 Q1 : preguntas_html_R2018_0017 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p><strong>R2018_0017</strong>. La frecuencia absoluta simple es una:</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<ol type = "a">
+<li> FALSE </li>
+<li> FALSE </li>
+<li> FALSE </li>
+<li> TRUE </li>
+</ol>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+variable
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+unidad de análisis
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+una categoría
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+cantidad de casos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+TRUE
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R046 Q1 : preguntas_html_R2018_0017 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p><strong>R2018_0017</strong>. La frecuencia absoluta acumulada es una:</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<ol type = "a">
+<li> FALSE </li>
+<li> FALSE </li>
+<li> TRUE </li>
+<li> FALSE </li>
+</ol>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+una categoría
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -3080,7 +3080,7 @@ TRUE
 </answer>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-una categoría
+un valor de la variable
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -3097,15 +3097,15 @@ FALSE
 </name>
 <questiontext format="html">
 <text><![CDATA[<p>
-<p><strong>R2018_0017</strong>. La frecuencia relativa acumulada es una:</p>
+<p><strong>R2018_0017</strong>. La frecuencia absoluta es una:</p>
 </p>]]></text>
 </questiontext>
 <generalfeedback format="html">
 <text><![CDATA[<p>
 <ol type = "a">
 <li> FALSE </li>
-<li> FALSE </li>
 <li> TRUE </li>
+<li> FALSE </li>
 <li> FALSE </li>
 </ol>
 </p>]]></text>
@@ -3117,17 +3117,7 @@ FALSE
 <answernumbering>abc</answernumbering>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-un valor de la variable
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-FALSE
-</p>]]></text>
-</feedback>
-</answer>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
-una categoría
+proporción de casos
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -3137,11 +3127,21 @@ FALSE
 </answer>
 <answer fraction="100" format="html">
 <text><![CDATA[<p>
-proporción de casos
+cantidad de casos
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
 TRUE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+un valor de la variable
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
 </p>]]></text>
 </feedback>
 </answer>
@@ -3171,8 +3171,8 @@ FALSE
 <text><![CDATA[<p>
 <ol type = "a">
 <li> FALSE </li>
-<li> TRUE </li>
 <li> FALSE </li>
+<li> TRUE </li>
 <li> FALSE </li>
 </ol>
 </p>]]></text>
@@ -3184,7 +3184,17 @@ FALSE
 <answernumbering>abc</answernumbering>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-una categoría
+unidad de análisis
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+variable
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -3204,17 +3214,7 @@ TRUE
 </answer>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-unidad de análisis
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-FALSE
-</p>]]></text>
-</feedback>
-</answer>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
-un valor de la variable
+una categoría
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -3231,7 +3231,7 @@ FALSE
 </name>
 <questiontext format="html">
 <text><![CDATA[<p>
-<p><strong>R2018_0017</strong>. La frecuencia absoluta es una:</p>
+<p><strong>R2018_0017</strong>. La frecuencia relativa es una:</p>
 </p>]]></text>
 </questiontext>
 <generalfeedback format="html">
@@ -3251,7 +3251,7 @@ FALSE
 <answernumbering>abc</answernumbering>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-un valor de la variable
+una categoría
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -3271,7 +3271,7 @@ FALSE
 </answer>
 <answer fraction="100" format="html">
 <text><![CDATA[<p>
-cantidad de casos
+proporción de casos
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -3281,7 +3281,7 @@ TRUE
 </answer>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-variable
+un valor de la variable
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -3298,7 +3298,7 @@ FALSE
 </name>
 <questiontext format="html">
 <text><![CDATA[<p>
-<p><strong>R2018_0017</strong>. La frecuencia absoluta relativa es una:</p>
+<p><strong>R2018_0017</strong>. La frecuencia absoluta simple es una:</p>
 </p>]]></text>
 </questiontext>
 <generalfeedback format="html">
@@ -3306,75 +3306,8 @@ FALSE
 <ol type = "a">
 <li> FALSE </li>
 <li> FALSE </li>
-<li> TRUE </li>
-<li> FALSE </li>
-</ol>
-</p>]]></text>
-</generalfeedback>
-<penalty>0</penalty>
-<defaultgrade>1</defaultgrade>
-<shuffleanswers>false</shuffleanswers>
-<single>true</single>
-<answernumbering>abc</answernumbering>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
-unidad de análisis
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-FALSE
-</p>]]></text>
-</feedback>
-</answer>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
-una categoría
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-FALSE
-</p>]]></text>
-</feedback>
-</answer>
-<answer fraction="100" format="html">
-<text><![CDATA[<p>
-cantidad de casos
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-TRUE
-</p>]]></text>
-</feedback>
-</answer>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
-un valor de la variable
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-FALSE
-</p>]]></text>
-</feedback>
-</answer>
-</question>
-
-
-<question type="multichoice">
-<name>
-<text> R051 Q1 : preguntas_html_R2018_0017 </text>
-</name>
-<questiontext format="html">
-<text><![CDATA[<p>
-<p><strong>R2018_0017</strong>. La frecuencia relativa es una:</p>
-</p>]]></text>
-</questiontext>
-<generalfeedback format="html">
-<text><![CDATA[<p>
-<ol type = "a">
 <li> FALSE </li>
 <li> TRUE </li>
-<li> FALSE </li>
-<li> FALSE </li>
 </ol>
 </p>]]></text>
 </generalfeedback>
@@ -3393,9 +3326,29 @@ FALSE
 </p>]]></text>
 </feedback>
 </answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+una categoría
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+unidad de análisis
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
 <answer fraction="100" format="html">
 <text><![CDATA[<p>
-proporción de casos
+cantidad de casos
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -3403,6 +3356,33 @@ TRUE
 </p>]]></text>
 </feedback>
 </answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R051 Q1 : preguntas_html_R2018_0017 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p><strong>R2018_0017</strong>. La frecuencia absoluta acumulada es una:</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<ol type = "a">
+<li> FALSE </li>
+<li> TRUE </li>
+<li> FALSE </li>
+<li> FALSE </li>
+</ol>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
 un valor de la variable
@@ -3413,9 +3393,29 @@ FALSE
 </p>]]></text>
 </feedback>
 </answer>
-<answer fraction="0" format="html">
+<answer fraction="100" format="html">
 <text><![CDATA[<p>
 cantidad de casos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+TRUE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+proporción de casos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+variable
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -3432,7 +3432,7 @@ FALSE
 </name>
 <questiontext format="html">
 <text><![CDATA[<p>
-<p><strong>R2018_0017</strong>. La frecuencia absoluta relativa es una:</p>
+<p><strong>R2018_0017</strong>. La frecuencia relativa es una:</p>
 </p>]]></text>
 </questiontext>
 <generalfeedback format="html">
@@ -3452,7 +3452,7 @@ FALSE
 <answernumbering>abc</answernumbering>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-una categoría
+un valor de la variable
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -3462,7 +3462,7 @@ FALSE
 </answer>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-proporción de casos
+una categoría
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -3472,7 +3472,7 @@ FALSE
 </answer>
 <answer fraction="100" format="html">
 <text><![CDATA[<p>
-cantidad de casos
+proporción de casos
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -3482,7 +3482,7 @@ TRUE
 </answer>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-un valor de la variable
+unidad de análisis
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -3499,7 +3499,74 @@ FALSE
 </name>
 <questiontext format="html">
 <text><![CDATA[<p>
-<p><strong>R2018_0017</strong>. La frecuencia absoluta relativa es una:</p>
+<p><strong>R2018_0017</strong>. La frecuencia absoluta simple es una:</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<ol type = "a">
+<li> TRUE </li>
+<li> FALSE </li>
+<li> FALSE </li>
+<li> FALSE </li>
+</ol>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+cantidad de casos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+TRUE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+una categoría
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+un valor de la variable
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+variable
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R054 Q1 : preguntas_html_R2018_0017 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p><strong>R2018_0017</strong>. La frecuencia relativa es una:</p>
 </p>]]></text>
 </questiontext>
 <generalfeedback format="html">
@@ -3519,6 +3586,16 @@ FALSE
 <answernumbering>abc</answernumbering>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
+unidad de análisis
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
 variable
 </p>]]></text>
 <feedback format="html">
@@ -3530,6 +3607,53 @@ FALSE
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
 una categoría
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+proporción de casos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+TRUE
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R055 Q1 : preguntas_html_R2018_0017 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p><strong>R2018_0017</strong>. La frecuencia absoluta simple es una:</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<ol type = "a">
+<li> FALSE </li>
+<li> FALSE </li>
+<li> TRUE </li>
+<li> FALSE </li>
+</ol>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+variable
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -3554,130 +3678,6 @@ cantidad de casos
 <feedback format="html">
 <text><![CDATA[<p>
 TRUE
-</p>]]></text>
-</feedback>
-</answer>
-</question>
-
-
-<question type="multichoice">
-<name>
-<text> R054 Q1 : preguntas_html_R2018_0017 </text>
-</name>
-<questiontext format="html">
-<text><![CDATA[<p>
-<p><strong>R2018_0017</strong>. La frecuencia absoluta es una:</p>
-</p>]]></text>
-</questiontext>
-<generalfeedback format="html">
-<text><![CDATA[<p>
-<ol type = "a">
-<li> FALSE </li>
-<li> FALSE </li>
-<li> FALSE </li>
-<li> TRUE </li>
-</ol>
-</p>]]></text>
-</generalfeedback>
-<penalty>0</penalty>
-<defaultgrade>1</defaultgrade>
-<shuffleanswers>false</shuffleanswers>
-<single>true</single>
-<answernumbering>abc</answernumbering>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
-una categoría
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-FALSE
-</p>]]></text>
-</feedback>
-</answer>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
-un valor de la variable
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-FALSE
-</p>]]></text>
-</feedback>
-</answer>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
-proporción de casos
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-FALSE
-</p>]]></text>
-</feedback>
-</answer>
-<answer fraction="100" format="html">
-<text><![CDATA[<p>
-cantidad de casos
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-TRUE
-</p>]]></text>
-</feedback>
-</answer>
-</question>
-
-
-<question type="multichoice">
-<name>
-<text> R055 Q1 : preguntas_html_R2018_0017 </text>
-</name>
-<questiontext format="html">
-<text><![CDATA[<p>
-<p><strong>R2018_0017</strong>. La frecuencia absoluta es una:</p>
-</p>]]></text>
-</questiontext>
-<generalfeedback format="html">
-<text><![CDATA[<p>
-<ol type = "a">
-<li> FALSE </li>
-<li> TRUE </li>
-<li> FALSE </li>
-<li> FALSE </li>
-</ol>
-</p>]]></text>
-</generalfeedback>
-<penalty>0</penalty>
-<defaultgrade>1</defaultgrade>
-<shuffleanswers>false</shuffleanswers>
-<single>true</single>
-<answernumbering>abc</answernumbering>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
-un valor de la variable
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-FALSE
-</p>]]></text>
-</feedback>
-</answer>
-<answer fraction="100" format="html">
-<text><![CDATA[<p>
-cantidad de casos
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-TRUE
-</p>]]></text>
-</feedback>
-</answer>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
-una categoría
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-FALSE
 </p>]]></text>
 </feedback>
 </answer>
@@ -3700,15 +3700,15 @@ FALSE
 </name>
 <questiontext format="html">
 <text><![CDATA[<p>
-<p><strong>R2018_0017</strong>. La frecuencia relativa es una:</p>
+<p><strong>R2018_0017</strong>. La frecuencia absoluta acumulada es una:</p>
 </p>]]></text>
 </questiontext>
 <generalfeedback format="html">
 <text><![CDATA[<p>
 <ol type = "a">
 <li> FALSE </li>
-<li> FALSE </li>
 <li> TRUE </li>
+<li> FALSE </li>
 <li> FALSE </li>
 </ol>
 </p>]]></text>
@@ -3720,17 +3720,7 @@ FALSE
 <answernumbering>abc</answernumbering>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-una categoría
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-FALSE
-</p>]]></text>
-</feedback>
-</answer>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
-un valor de la variable
+unidad de análisis
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -3740,7 +3730,7 @@ FALSE
 </answer>
 <answer fraction="100" format="html">
 <text><![CDATA[<p>
-proporción de casos
+cantidad de casos
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -3750,7 +3740,17 @@ TRUE
 </answer>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-unidad de análisis
+proporción de casos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+variable
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -3767,16 +3767,16 @@ FALSE
 </name>
 <questiontext format="html">
 <text><![CDATA[<p>
-<p><strong>R2018_0017</strong>. La frecuencia absoluta simple es una:</p>
+<p><strong>R2018_0017</strong>. La frecuencia absoluta acumulada es una:</p>
 </p>]]></text>
 </questiontext>
 <generalfeedback format="html">
 <text><![CDATA[<p>
 <ol type = "a">
 <li> FALSE </li>
+<li> FALSE </li>
+<li> FALSE </li>
 <li> TRUE </li>
-<li> FALSE </li>
-<li> FALSE </li>
 </ol>
 </p>]]></text>
 </generalfeedback>
@@ -3787,21 +3787,11 @@ FALSE
 <answernumbering>abc</answernumbering>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-un valor de la variable
+proporción de casos
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
 FALSE
-</p>]]></text>
-</feedback>
-</answer>
-<answer fraction="100" format="html">
-<text><![CDATA[<p>
-cantidad de casos
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-TRUE
 </p>]]></text>
 </feedback>
 </answer>
@@ -3822,6 +3812,16 @@ variable
 <feedback format="html">
 <text><![CDATA[<p>
 FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+cantidad de casos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+TRUE
 </p>]]></text>
 </feedback>
 </answer>
@@ -3842,8 +3842,8 @@ FALSE
 <ol type = "a">
 <li> FALSE </li>
 <li> FALSE </li>
-<li> TRUE </li>
 <li> FALSE </li>
+<li> TRUE </li>
 </ol>
 </p>]]></text>
 </generalfeedback>
@@ -3854,7 +3854,7 @@ FALSE
 <answernumbering>abc</answernumbering>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-un valor de la variable
+unidad de análisis
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -3864,7 +3864,17 @@ FALSE
 </answer>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-una categoría
+proporción de casos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+un valor de la variable
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -3882,16 +3892,6 @@ TRUE
 </p>]]></text>
 </feedback>
 </answer>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
-proporción de casos
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-FALSE
-</p>]]></text>
-</feedback>
-</answer>
 </question>
 
 
@@ -3901,7 +3901,7 @@ FALSE
 </name>
 <questiontext format="html">
 <text><![CDATA[<p>
-<p><strong>R2018_0017</strong>. La frecuencia absoluta simple es una:</p>
+<p><strong>R2018_0017</strong>. La frecuencia absoluta es una:</p>
 </p>]]></text>
 </questiontext>
 <generalfeedback format="html">
@@ -3931,16 +3931,6 @@ TRUE
 </answer>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-variable
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-FALSE
-</p>]]></text>
-</feedback>
-</answer>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
 proporción de casos
 </p>]]></text>
 <feedback format="html">
@@ -3951,7 +3941,17 @@ FALSE
 </answer>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-un valor de la variable
+variable
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+unidad de análisis
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -3968,15 +3968,15 @@ FALSE
 </name>
 <questiontext format="html">
 <text><![CDATA[<p>
-<p><strong>R2018_0017</strong>. La frecuencia absoluta relativa es una:</p>
+<p><strong>R2018_0017</strong>. La frecuencia relativa es una:</p>
 </p>]]></text>
 </questiontext>
 <generalfeedback format="html">
 <text><![CDATA[<p>
 <ol type = "a">
 <li> FALSE </li>
-<li> FALSE </li>
 <li> TRUE </li>
+<li> FALSE </li>
 <li> FALSE </li>
 </ol>
 </p>]]></text>
@@ -3986,16 +3986,6 @@ FALSE
 <shuffleanswers>false</shuffleanswers>
 <single>true</single>
 <answernumbering>abc</answernumbering>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
-una categoría
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-FALSE
-</p>]]></text>
-</feedback>
-</answer>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
 variable
@@ -4008,11 +3998,21 @@ FALSE
 </answer>
 <answer fraction="100" format="html">
 <text><![CDATA[<p>
-cantidad de casos
+proporción de casos
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
 TRUE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+cantidad de casos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
 </p>]]></text>
 </feedback>
 </answer>
@@ -4035,7 +4035,7 @@ FALSE
 </name>
 <questiontext format="html">
 <text><![CDATA[<p>
-<p><strong>R2018_0017</strong>. La frecuencia absoluta es una:</p>
+<p><strong>R2018_0017</strong>. La frecuencia relativa es una:</p>
 </p>]]></text>
 </questiontext>
 <generalfeedback format="html">
@@ -4055,21 +4055,11 @@ FALSE
 <answernumbering>abc</answernumbering>
 <answer fraction="100" format="html">
 <text><![CDATA[<p>
-cantidad de casos
+proporción de casos
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
 TRUE
-</p>]]></text>
-</feedback>
-</answer>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
-unidad de análisis
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-FALSE
 </p>]]></text>
 </feedback>
 </answer>
@@ -4085,7 +4075,17 @@ FALSE
 </answer>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-un valor de la variable
+cantidad de casos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+unidad de análisis
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -4102,16 +4102,16 @@ FALSE
 </name>
 <questiontext format="html">
 <text><![CDATA[<p>
-<p><strong>R2018_0017</strong>. La frecuencia relativa acumulada es una:</p>
+<p><strong>R2018_0017</strong>. La frecuencia absoluta simple es una:</p>
 </p>]]></text>
 </questiontext>
 <generalfeedback format="html">
 <text><![CDATA[<p>
 <ol type = "a">
 <li> FALSE </li>
+<li> FALSE </li>
+<li> FALSE </li>
 <li> TRUE </li>
-<li> FALSE </li>
-<li> FALSE </li>
 </ol>
 </p>]]></text>
 </generalfeedback>
@@ -4122,7 +4122,27 @@ FALSE
 <answernumbering>abc</answernumbering>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
+proporción de casos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
 un valor de la variable
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+una categoría
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -4132,31 +4152,11 @@ FALSE
 </answer>
 <answer fraction="100" format="html">
 <text><![CDATA[<p>
-proporción de casos
+cantidad de casos
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
 TRUE
-</p>]]></text>
-</feedback>
-</answer>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
-unidad de análisis
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-FALSE
-</p>]]></text>
-</feedback>
-</answer>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
-variable
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-FALSE
 </p>]]></text>
 </feedback>
 </answer>
@@ -4169,16 +4169,16 @@ FALSE
 </name>
 <questiontext format="html">
 <text><![CDATA[<p>
-<p><strong>R2018_0017</strong>. La frecuencia absoluta es una:</p>
+<p><strong>R2018_0017</strong>. La frecuencia relativa acumulada es una:</p>
 </p>]]></text>
 </questiontext>
 <generalfeedback format="html">
 <text><![CDATA[<p>
 <ol type = "a">
+<li> FALSE </li>
+<li> FALSE </li>
+<li> FALSE </li>
 <li> TRUE </li>
-<li> FALSE </li>
-<li> FALSE </li>
-<li> FALSE </li>
 </ol>
 </p>]]></text>
 </generalfeedback>
@@ -4187,13 +4187,23 @@ FALSE
 <shuffleanswers>false</shuffleanswers>
 <single>true</single>
 <answernumbering>abc</answernumbering>
-<answer fraction="100" format="html">
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+un valor de la variable
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
 <text><![CDATA[<p>
 cantidad de casos
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
-TRUE
+FALSE
 </p>]]></text>
 </feedback>
 </answer>
@@ -4207,23 +4217,13 @@ FALSE
 </p>]]></text>
 </feedback>
 </answer>
-<answer fraction="0" format="html">
+<answer fraction="100" format="html">
 <text><![CDATA[<p>
 proporción de casos
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
-FALSE
-</p>]]></text>
-</feedback>
-</answer>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
-variable
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-FALSE
+TRUE
 </p>]]></text>
 </feedback>
 </answer>
@@ -4236,7 +4236,7 @@ FALSE
 </name>
 <questiontext format="html">
 <text><![CDATA[<p>
-<p><strong>R2018_0017</strong>. La frecuencia relativa es una:</p>
+<p><strong>R2018_0017</strong>. La frecuencia relativa acumulada es una:</p>
 </p>]]></text>
 </questiontext>
 <generalfeedback format="html">
@@ -4266,7 +4266,7 @@ TRUE
 </answer>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-variable
+una categoría
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -4286,7 +4286,7 @@ FALSE
 </answer>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-una categoría
+unidad de análisis
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -4303,6 +4303,73 @@ FALSE
 </name>
 <questiontext format="html">
 <text><![CDATA[<p>
+<p><strong>R2018_0017</strong>. La frecuencia absoluta es una:</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<ol type = "a">
+<li> FALSE </li>
+<li> FALSE </li>
+<li> FALSE </li>
+<li> TRUE </li>
+</ol>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+un valor de la variable
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+variable
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+proporción de casos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+cantidad de casos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+TRUE
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R066 Q1 : preguntas_html_R2018_0017 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
 <p><strong>R2018_0017</strong>. La frecuencia relativa es una:</p>
 </p>]]></text>
 </questiontext>
@@ -4323,7 +4390,7 @@ FALSE
 <answernumbering>abc</answernumbering>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-un valor de la variable
+variable
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -4354,73 +4421,6 @@ FALSE
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
 unidad de análisis
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-FALSE
-</p>]]></text>
-</feedback>
-</answer>
-</question>
-
-
-<question type="multichoice">
-<name>
-<text> R066 Q1 : preguntas_html_R2018_0017 </text>
-</name>
-<questiontext format="html">
-<text><![CDATA[<p>
-<p><strong>R2018_0017</strong>. La frecuencia relativa simple es una:</p>
-</p>]]></text>
-</questiontext>
-<generalfeedback format="html">
-<text><![CDATA[<p>
-<ol type = "a">
-<li> TRUE </li>
-<li> FALSE </li>
-<li> FALSE </li>
-<li> FALSE </li>
-</ol>
-</p>]]></text>
-</generalfeedback>
-<penalty>0</penalty>
-<defaultgrade>1</defaultgrade>
-<shuffleanswers>false</shuffleanswers>
-<single>true</single>
-<answernumbering>abc</answernumbering>
-<answer fraction="100" format="html">
-<text><![CDATA[<p>
-proporción de casos
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-TRUE
-</p>]]></text>
-</feedback>
-</answer>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
-una categoría
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-FALSE
-</p>]]></text>
-</feedback>
-</answer>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
-variable
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-FALSE
-</p>]]></text>
-</feedback>
-</answer>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
-un valor de la variable
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -4437,7 +4437,7 @@ FALSE
 </name>
 <questiontext format="html">
 <text><![CDATA[<p>
-<p><strong>R2018_0017</strong>. La frecuencia relativa simple es una:</p>
+<p><strong>R2018_0017</strong>. La frecuencia absoluta simple es una:</p>
 </p>]]></text>
 </questiontext>
 <generalfeedback format="html">
@@ -4445,8 +4445,8 @@ FALSE
 <ol type = "a">
 <li> FALSE </li>
 <li> FALSE </li>
-<li> TRUE </li>
 <li> FALSE </li>
+<li> TRUE </li>
 </ol>
 </p>]]></text>
 </generalfeedback>
@@ -4455,6 +4455,16 @@ FALSE
 <shuffleanswers>false</shuffleanswers>
 <single>true</single>
 <answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+una categoría
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
 variable
@@ -4477,21 +4487,11 @@ FALSE
 </answer>
 <answer fraction="100" format="html">
 <text><![CDATA[<p>
-proporción de casos
+cantidad de casos
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
 TRUE
-</p>]]></text>
-</feedback>
-</answer>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
-una categoría
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-FALSE
 </p>]]></text>
 </feedback>
 </answer>
@@ -4504,15 +4504,15 @@ FALSE
 </name>
 <questiontext format="html">
 <text><![CDATA[<p>
-<p><strong>R2018_0017</strong>. La frecuencia relativa simple es una:</p>
+<p><strong>R2018_0017</strong>. La frecuencia relativa acumulada es una:</p>
 </p>]]></text>
 </questiontext>
 <generalfeedback format="html">
 <text><![CDATA[<p>
 <ol type = "a">
+<li> FALSE </li>
+<li> FALSE </li>
 <li> TRUE </li>
-<li> FALSE </li>
-<li> FALSE </li>
 <li> FALSE </li>
 </ol>
 </p>]]></text>
@@ -4522,29 +4522,9 @@ FALSE
 <shuffleanswers>false</shuffleanswers>
 <single>true</single>
 <answernumbering>abc</answernumbering>
-<answer fraction="100" format="html">
-<text><![CDATA[<p>
-proporción de casos
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-TRUE
-</p>]]></text>
-</feedback>
-</answer>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
 una categoría
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-FALSE
-</p>]]></text>
-</feedback>
-</answer>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
-unidad de análisis
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -4562,6 +4542,26 @@ FALSE
 </p>]]></text>
 </feedback>
 </answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+proporción de casos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+TRUE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+unidad de análisis
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
 </question>
 
 
@@ -4571,7 +4571,7 @@ FALSE
 </name>
 <questiontext format="html">
 <text><![CDATA[<p>
-<p><strong>R2018_0017</strong>. La frecuencia absoluta relativa es una:</p>
+<p><strong>R2018_0017</strong>. La frecuencia relativa acumulada es una:</p>
 </p>]]></text>
 </questiontext>
 <generalfeedback format="html">
@@ -4579,8 +4579,8 @@ FALSE
 <ol type = "a">
 <li> FALSE </li>
 <li> FALSE </li>
-<li> TRUE </li>
 <li> FALSE </li>
+<li> TRUE </li>
 </ol>
 </p>]]></text>
 </generalfeedback>
@@ -4601,7 +4601,64 @@ FALSE
 </answer>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
+un valor de la variable
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+una categoría
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
 proporción de casos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+TRUE
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R070 Q1 : preguntas_html_R2018_0017 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p><strong>R2018_0017</strong>. La frecuencia absoluta es una:</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<ol type = "a">
+<li> FALSE </li>
+<li> TRUE </li>
+<li> FALSE </li>
+<li> FALSE </li>
+</ol>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+una categoría
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -4621,54 +4678,7 @@ TRUE
 </answer>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-una categoría
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-FALSE
-</p>]]></text>
-</feedback>
-</answer>
-</question>
-
-
-<question type="multichoice">
-<name>
-<text> R070 Q1 : preguntas_html_R2018_0017 </text>
-</name>
-<questiontext format="html">
-<text><![CDATA[<p>
-<p><strong>R2018_0017</strong>. La frecuencia relativa acumulada es una:</p>
-</p>]]></text>
-</questiontext>
-<generalfeedback format="html">
-<text><![CDATA[<p>
-<ol type = "a">
-<li> TRUE </li>
-<li> FALSE </li>
-<li> FALSE </li>
-<li> FALSE </li>
-</ol>
-</p>]]></text>
-</generalfeedback>
-<penalty>0</penalty>
-<defaultgrade>1</defaultgrade>
-<shuffleanswers>false</shuffleanswers>
-<single>true</single>
-<answernumbering>abc</answernumbering>
-<answer fraction="100" format="html">
-<text><![CDATA[<p>
-proporción de casos
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-TRUE
-</p>]]></text>
-</feedback>
-</answer>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
-una categoría
+unidad de análisis
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -4679,16 +4689,6 @@ FALSE
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
 un valor de la variable
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-FALSE
-</p>]]></text>
-</feedback>
-</answer>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
-unidad de análisis
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -4725,7 +4725,7 @@ FALSE
 <answernumbering>abc</answernumbering>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-cantidad de casos
+variable
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -4735,7 +4735,7 @@ FALSE
 </answer>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-variable
+una categoría
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -4755,7 +4755,7 @@ TRUE
 </answer>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-una categoría
+unidad de análisis
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -4772,15 +4772,15 @@ FALSE
 </name>
 <questiontext format="html">
 <text><![CDATA[<p>
-<p><strong>R2018_0017</strong>. La frecuencia relativa simple es una:</p>
+<p><strong>R2018_0017</strong>. La frecuencia absoluta es una:</p>
 </p>]]></text>
 </questiontext>
 <generalfeedback format="html">
 <text><![CDATA[<p>
 <ol type = "a">
 <li> FALSE </li>
-<li> TRUE </li>
 <li> FALSE </li>
+<li> TRUE </li>
 <li> FALSE </li>
 </ol>
 </p>]]></text>
@@ -4790,26 +4790,6 @@ FALSE
 <shuffleanswers>false</shuffleanswers>
 <single>true</single>
 <answernumbering>abc</answernumbering>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
-unidad de análisis
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-FALSE
-</p>]]></text>
-</feedback>
-</answer>
-<answer fraction="100" format="html">
-<text><![CDATA[<p>
-proporción de casos
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-TRUE
-</p>]]></text>
-</feedback>
-</answer>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
 una categoría
@@ -4822,7 +4802,27 @@ FALSE
 </answer>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-un valor de la variable
+proporción de casos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+cantidad de casos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+TRUE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+unidad de análisis
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -4845,8 +4845,8 @@ FALSE
 <generalfeedback format="html">
 <text><![CDATA[<p>
 <ol type = "a">
-<li> TRUE </li>
 <li> FALSE </li>
+<li> TRUE </li>
 <li> FALSE </li>
 <li> FALSE </li>
 </ol>
@@ -4857,6 +4857,16 @@ FALSE
 <shuffleanswers>false</shuffleanswers>
 <single>true</single>
 <answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+un valor de la variable
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
 <answer fraction="100" format="html">
 <text><![CDATA[<p>
 cantidad de casos
@@ -4869,17 +4879,7 @@ TRUE
 </answer>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-unidad de análisis
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-FALSE
-</p>]]></text>
-</feedback>
-</answer>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
-proporción de casos
+variable
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -4906,16 +4906,16 @@ FALSE
 </name>
 <questiontext format="html">
 <text><![CDATA[<p>
-<p><strong>R2018_0017</strong>. La frecuencia absoluta es una:</p>
+<p><strong>R2018_0017</strong>. La frecuencia relativa es una:</p>
 </p>]]></text>
 </questiontext>
 <generalfeedback format="html">
 <text><![CDATA[<p>
 <ol type = "a">
 <li> FALSE </li>
-<li> FALSE </li>
-<li> FALSE </li>
 <li> TRUE </li>
+<li> FALSE </li>
+<li> FALSE </li>
 </ol>
 </p>]]></text>
 </generalfeedback>
@@ -4934,6 +4934,26 @@ FALSE
 </p>]]></text>
 </feedback>
 </answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+proporción de casos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+TRUE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+un valor de la variable
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
 una categoría
@@ -4941,26 +4961,6 @@ una categoría
 <feedback format="html">
 <text><![CDATA[<p>
 FALSE
-</p>]]></text>
-</feedback>
-</answer>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
-unidad de análisis
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-FALSE
-</p>]]></text>
-</feedback>
-</answer>
-<answer fraction="100" format="html">
-<text><![CDATA[<p>
-cantidad de casos
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-TRUE
 </p>]]></text>
 </feedback>
 </answer>
@@ -4973,16 +4973,16 @@ TRUE
 </name>
 <questiontext format="html">
 <text><![CDATA[<p>
-<p><strong>R2018_0017</strong>. La frecuencia absoluta relativa es una:</p>
+<p><strong>R2018_0017</strong>. La frecuencia relativa simple es una:</p>
 </p>]]></text>
 </questiontext>
 <generalfeedback format="html">
 <text><![CDATA[<p>
 <ol type = "a">
 <li> FALSE </li>
+<li> FALSE </li>
+<li> FALSE </li>
 <li> TRUE </li>
-<li> FALSE </li>
-<li> FALSE </li>
 </ol>
 </p>]]></text>
 </generalfeedback>
@@ -4991,6 +4991,26 @@ TRUE
 <shuffleanswers>false</shuffleanswers>
 <single>true</single>
 <answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+una categoría
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+un valor de la variable
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
 unidad de análisis
@@ -5003,31 +5023,11 @@ FALSE
 </answer>
 <answer fraction="100" format="html">
 <text><![CDATA[<p>
-cantidad de casos
+proporción de casos
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
 TRUE
-</p>]]></text>
-</feedback>
-</answer>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
-un valor de la variable
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-FALSE
-</p>]]></text>
-</feedback>
-</answer>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
-una categoría
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-FALSE
 </p>]]></text>
 </feedback>
 </answer>
@@ -5040,14 +5040,14 @@ FALSE
 </name>
 <questiontext format="html">
 <text><![CDATA[<p>
-<p><strong>R2018_0017</strong>. La frecuencia absoluta es una:</p>
+<p><strong>R2018_0017</strong>. La frecuencia absoluta simple es una:</p>
 </p>]]></text>
 </questiontext>
 <generalfeedback format="html">
 <text><![CDATA[<p>
 <ol type = "a">
-<li> FALSE </li>
 <li> TRUE </li>
+<li> FALSE </li>
 <li> FALSE </li>
 <li> FALSE </li>
 </ol>
@@ -5058,16 +5058,6 @@ FALSE
 <shuffleanswers>false</shuffleanswers>
 <single>true</single>
 <answernumbering>abc</answernumbering>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
-proporción de casos
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-FALSE
-</p>]]></text>
-</feedback>
-</answer>
 <answer fraction="100" format="html">
 <text><![CDATA[<p>
 cantidad de casos
@@ -5080,7 +5070,7 @@ TRUE
 </answer>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-un valor de la variable
+unidad de análisis
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -5090,7 +5080,17 @@ FALSE
 </answer>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-una categoría
+variable
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+proporción de casos
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -5104,341 +5104,6 @@ FALSE
 <question type="multichoice">
 <name>
 <text> R077 Q1 : preguntas_html_R2018_0017 </text>
-</name>
-<questiontext format="html">
-<text><![CDATA[<p>
-<p><strong>R2018_0017</strong>. La frecuencia relativa es una:</p>
-</p>]]></text>
-</questiontext>
-<generalfeedback format="html">
-<text><![CDATA[<p>
-<ol type = "a">
-<li> FALSE </li>
-<li> FALSE </li>
-<li> FALSE </li>
-<li> TRUE </li>
-</ol>
-</p>]]></text>
-</generalfeedback>
-<penalty>0</penalty>
-<defaultgrade>1</defaultgrade>
-<shuffleanswers>false</shuffleanswers>
-<single>true</single>
-<answernumbering>abc</answernumbering>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
-unidad de análisis
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-FALSE
-</p>]]></text>
-</feedback>
-</answer>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
-un valor de la variable
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-FALSE
-</p>]]></text>
-</feedback>
-</answer>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
-variable
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-FALSE
-</p>]]></text>
-</feedback>
-</answer>
-<answer fraction="100" format="html">
-<text><![CDATA[<p>
-proporción de casos
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-TRUE
-</p>]]></text>
-</feedback>
-</answer>
-</question>
-
-
-<question type="multichoice">
-<name>
-<text> R078 Q1 : preguntas_html_R2018_0017 </text>
-</name>
-<questiontext format="html">
-<text><![CDATA[<p>
-<p><strong>R2018_0017</strong>. La frecuencia absoluta es una:</p>
-</p>]]></text>
-</questiontext>
-<generalfeedback format="html">
-<text><![CDATA[<p>
-<ol type = "a">
-<li> FALSE </li>
-<li> FALSE </li>
-<li> FALSE </li>
-<li> TRUE </li>
-</ol>
-</p>]]></text>
-</generalfeedback>
-<penalty>0</penalty>
-<defaultgrade>1</defaultgrade>
-<shuffleanswers>false</shuffleanswers>
-<single>true</single>
-<answernumbering>abc</answernumbering>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
-un valor de la variable
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-FALSE
-</p>]]></text>
-</feedback>
-</answer>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
-variable
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-FALSE
-</p>]]></text>
-</feedback>
-</answer>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
-proporción de casos
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-FALSE
-</p>]]></text>
-</feedback>
-</answer>
-<answer fraction="100" format="html">
-<text><![CDATA[<p>
-cantidad de casos
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-TRUE
-</p>]]></text>
-</feedback>
-</answer>
-</question>
-
-
-<question type="multichoice">
-<name>
-<text> R079 Q1 : preguntas_html_R2018_0017 </text>
-</name>
-<questiontext format="html">
-<text><![CDATA[<p>
-<p><strong>R2018_0017</strong>. La frecuencia absoluta simple es una:</p>
-</p>]]></text>
-</questiontext>
-<generalfeedback format="html">
-<text><![CDATA[<p>
-<ol type = "a">
-<li> FALSE </li>
-<li> FALSE </li>
-<li> TRUE </li>
-<li> FALSE </li>
-</ol>
-</p>]]></text>
-</generalfeedback>
-<penalty>0</penalty>
-<defaultgrade>1</defaultgrade>
-<shuffleanswers>false</shuffleanswers>
-<single>true</single>
-<answernumbering>abc</answernumbering>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
-unidad de análisis
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-FALSE
-</p>]]></text>
-</feedback>
-</answer>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
-un valor de la variable
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-FALSE
-</p>]]></text>
-</feedback>
-</answer>
-<answer fraction="100" format="html">
-<text><![CDATA[<p>
-cantidad de casos
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-TRUE
-</p>]]></text>
-</feedback>
-</answer>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
-una categoría
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-FALSE
-</p>]]></text>
-</feedback>
-</answer>
-</question>
-
-
-<question type="multichoice">
-<name>
-<text> R080 Q1 : preguntas_html_R2018_0017 </text>
-</name>
-<questiontext format="html">
-<text><![CDATA[<p>
-<p><strong>R2018_0017</strong>. La frecuencia absoluta simple es una:</p>
-</p>]]></text>
-</questiontext>
-<generalfeedback format="html">
-<text><![CDATA[<p>
-<ol type = "a">
-<li> TRUE </li>
-<li> FALSE </li>
-<li> FALSE </li>
-<li> FALSE </li>
-</ol>
-</p>]]></text>
-</generalfeedback>
-<penalty>0</penalty>
-<defaultgrade>1</defaultgrade>
-<shuffleanswers>false</shuffleanswers>
-<single>true</single>
-<answernumbering>abc</answernumbering>
-<answer fraction="100" format="html">
-<text><![CDATA[<p>
-cantidad de casos
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-TRUE
-</p>]]></text>
-</feedback>
-</answer>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
-variable
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-FALSE
-</p>]]></text>
-</feedback>
-</answer>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
-proporción de casos
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-FALSE
-</p>]]></text>
-</feedback>
-</answer>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
-unidad de análisis
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-FALSE
-</p>]]></text>
-</feedback>
-</answer>
-</question>
-
-
-<question type="multichoice">
-<name>
-<text> R081 Q1 : preguntas_html_R2018_0017 </text>
-</name>
-<questiontext format="html">
-<text><![CDATA[<p>
-<p><strong>R2018_0017</strong>. La frecuencia absoluta es una:</p>
-</p>]]></text>
-</questiontext>
-<generalfeedback format="html">
-<text><![CDATA[<p>
-<ol type = "a">
-<li> TRUE </li>
-<li> FALSE </li>
-<li> FALSE </li>
-<li> FALSE </li>
-</ol>
-</p>]]></text>
-</generalfeedback>
-<penalty>0</penalty>
-<defaultgrade>1</defaultgrade>
-<shuffleanswers>false</shuffleanswers>
-<single>true</single>
-<answernumbering>abc</answernumbering>
-<answer fraction="100" format="html">
-<text><![CDATA[<p>
-cantidad de casos
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-TRUE
-</p>]]></text>
-</feedback>
-</answer>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
-unidad de análisis
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-FALSE
-</p>]]></text>
-</feedback>
-</answer>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
-un valor de la variable
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-FALSE
-</p>]]></text>
-</feedback>
-</answer>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
-una categoría
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-FALSE
-</p>]]></text>
-</feedback>
-</answer>
-</question>
-
-
-<question type="multichoice">
-<name>
-<text> R082 Q1 : preguntas_html_R2018_0017 </text>
 </name>
 <questiontext format="html">
 <text><![CDATA[<p>
@@ -5462,7 +5127,7 @@ FALSE
 <answernumbering>abc</answernumbering>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-unidad de análisis
+variable
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -5482,7 +5147,121 @@ TRUE
 </answer>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-un valor de la variable
+una categoría
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+cantidad de casos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R078 Q1 : preguntas_html_R2018_0017 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p><strong>R2018_0017</strong>. La frecuencia relativa simple es una:</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<ol type = "a">
+<li> FALSE </li>
+<li> FALSE </li>
+<li> FALSE </li>
+<li> TRUE </li>
+</ol>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+variable
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+una categoría
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+unidad de análisis
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+proporción de casos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+TRUE
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R079 Q1 : preguntas_html_R2018_0017 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p><strong>R2018_0017</strong>. La frecuencia absoluta acumulada es una:</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<ol type = "a">
+<li> FALSE </li>
+<li> FALSE </li>
+<li> TRUE </li>
+<li> FALSE </li>
+</ol>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+proporción de casos
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -5493,6 +5272,227 @@ FALSE
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
 variable
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+cantidad de casos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+TRUE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+un valor de la variable
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R080 Q1 : preguntas_html_R2018_0017 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p><strong>R2018_0017</strong>. La frecuencia absoluta es una:</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<ol type = "a">
+<li> FALSE </li>
+<li> FALSE </li>
+<li> TRUE </li>
+<li> FALSE </li>
+</ol>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+unidad de análisis
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+un valor de la variable
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+cantidad de casos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+TRUE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+proporción de casos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R081 Q1 : preguntas_html_R2018_0017 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p><strong>R2018_0017</strong>. La frecuencia relativa acumulada es una:</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<ol type = "a">
+<li> FALSE </li>
+<li> FALSE </li>
+<li> FALSE </li>
+<li> TRUE </li>
+</ol>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+una categoría
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+cantidad de casos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+un valor de la variable
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+proporción de casos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+TRUE
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R082 Q1 : preguntas_html_R2018_0017 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p><strong>R2018_0017</strong>. La frecuencia absoluta acumulada es una:</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<ol type = "a">
+<li> FALSE </li>
+<li> FALSE </li>
+<li> TRUE </li>
+<li> FALSE </li>
+</ol>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+un valor de la variable
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+proporción de casos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+cantidad de casos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+TRUE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+unidad de análisis
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -5515,10 +5515,10 @@ FALSE
 <generalfeedback format="html">
 <text><![CDATA[<p>
 <ol type = "a">
+<li> FALSE </li>
+<li> FALSE </li>
+<li> FALSE </li>
 <li> TRUE </li>
-<li> FALSE </li>
-<li> FALSE </li>
-<li> FALSE </li>
 </ol>
 </p>]]></text>
 </generalfeedback>
@@ -5527,6 +5527,36 @@ FALSE
 <shuffleanswers>false</shuffleanswers>
 <single>true</single>
 <answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+cantidad de casos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+un valor de la variable
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+unidad de análisis
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
 <answer fraction="100" format="html">
 <text><![CDATA[<p>
 proporción de casos
@@ -5537,6 +5567,100 @@ TRUE
 </p>]]></text>
 </feedback>
 </answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R084 Q1 : preguntas_html_R2018_0017 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p><strong>R2018_0017</strong>. La frecuencia relativa es una:</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<ol type = "a">
+<li> FALSE </li>
+<li> FALSE </li>
+<li> FALSE </li>
+<li> TRUE </li>
+</ol>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+variable
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+una categoría
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+un valor de la variable
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+proporción de casos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+TRUE
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R085 Q1 : preguntas_html_R2018_0017 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p><strong>R2018_0017</strong>. La frecuencia relativa es una:</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<ol type = "a">
+<li> FALSE </li>
+<li> FALSE </li>
+<li> TRUE </li>
+<li> FALSE </li>
+</ol>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
 unidad de análisis
@@ -5557,9 +5681,19 @@ FALSE
 </p>]]></text>
 </feedback>
 </answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+proporción de casos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+TRUE
+</p>]]></text>
+</feedback>
+</answer>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-variable
+una categoría
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -5572,7 +5706,7 @@ FALSE
 
 <question type="multichoice">
 <name>
-<text> R084 Q1 : preguntas_html_R2018_0017 </text>
+<text> R086 Q1 : preguntas_html_R2018_0017 </text>
 </name>
 <questiontext format="html">
 <text><![CDATA[<p>
@@ -5596,7 +5730,7 @@ FALSE
 <answernumbering>abc</answernumbering>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-variable
+unidad de análisis
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -5606,7 +5740,7 @@ FALSE
 </answer>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-unidad de análisis
+proporción de casos
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -5639,7 +5773,7 @@ FALSE
 
 <question type="multichoice">
 <name>
-<text> R085 Q1 : preguntas_html_R2018_0017 </text>
+<text> R087 Q1 : preguntas_html_R2018_0017 </text>
 </name>
 <questiontext format="html">
 <text><![CDATA[<p>
@@ -5663,7 +5797,7 @@ FALSE
 <answernumbering>abc</answernumbering>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-unidad de análisis
+una categoría
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -5694,140 +5828,6 @@ FALSE
 <answer fraction="100" format="html">
 <text><![CDATA[<p>
 proporción de casos
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-TRUE
-</p>]]></text>
-</feedback>
-</answer>
-</question>
-
-
-<question type="multichoice">
-<name>
-<text> R086 Q1 : preguntas_html_R2018_0017 </text>
-</name>
-<questiontext format="html">
-<text><![CDATA[<p>
-<p><strong>R2018_0017</strong>. La frecuencia absoluta simple es una:</p>
-</p>]]></text>
-</questiontext>
-<generalfeedback format="html">
-<text><![CDATA[<p>
-<ol type = "a">
-<li> FALSE </li>
-<li> FALSE </li>
-<li> FALSE </li>
-<li> TRUE </li>
-</ol>
-</p>]]></text>
-</generalfeedback>
-<penalty>0</penalty>
-<defaultgrade>1</defaultgrade>
-<shuffleanswers>false</shuffleanswers>
-<single>true</single>
-<answernumbering>abc</answernumbering>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
-proporción de casos
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-FALSE
-</p>]]></text>
-</feedback>
-</answer>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
-unidad de análisis
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-FALSE
-</p>]]></text>
-</feedback>
-</answer>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
-variable
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-FALSE
-</p>]]></text>
-</feedback>
-</answer>
-<answer fraction="100" format="html">
-<text><![CDATA[<p>
-cantidad de casos
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-TRUE
-</p>]]></text>
-</feedback>
-</answer>
-</question>
-
-
-<question type="multichoice">
-<name>
-<text> R087 Q1 : preguntas_html_R2018_0017 </text>
-</name>
-<questiontext format="html">
-<text><![CDATA[<p>
-<p><strong>R2018_0017</strong>. La frecuencia absoluta simple es una:</p>
-</p>]]></text>
-</questiontext>
-<generalfeedback format="html">
-<text><![CDATA[<p>
-<ol type = "a">
-<li> FALSE </li>
-<li> FALSE </li>
-<li> FALSE </li>
-<li> TRUE </li>
-</ol>
-</p>]]></text>
-</generalfeedback>
-<penalty>0</penalty>
-<defaultgrade>1</defaultgrade>
-<shuffleanswers>false</shuffleanswers>
-<single>true</single>
-<answernumbering>abc</answernumbering>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
-una categoría
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-FALSE
-</p>]]></text>
-</feedback>
-</answer>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
-unidad de análisis
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-FALSE
-</p>]]></text>
-</feedback>
-</answer>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
-variable
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-FALSE
-</p>]]></text>
-</feedback>
-</answer>
-<answer fraction="100" format="html">
-<text><![CDATA[<p>
-cantidad de casos
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -5841,73 +5841,6 @@ TRUE
 <question type="multichoice">
 <name>
 <text> R088 Q1 : preguntas_html_R2018_0017 </text>
-</name>
-<questiontext format="html">
-<text><![CDATA[<p>
-<p><strong>R2018_0017</strong>. La frecuencia relativa simple es una:</p>
-</p>]]></text>
-</questiontext>
-<generalfeedback format="html">
-<text><![CDATA[<p>
-<ol type = "a">
-<li> FALSE </li>
-<li> FALSE </li>
-<li> TRUE </li>
-<li> FALSE </li>
-</ol>
-</p>]]></text>
-</generalfeedback>
-<penalty>0</penalty>
-<defaultgrade>1</defaultgrade>
-<shuffleanswers>false</shuffleanswers>
-<single>true</single>
-<answernumbering>abc</answernumbering>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
-cantidad de casos
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-FALSE
-</p>]]></text>
-</feedback>
-</answer>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
-un valor de la variable
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-FALSE
-</p>]]></text>
-</feedback>
-</answer>
-<answer fraction="100" format="html">
-<text><![CDATA[<p>
-proporción de casos
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-TRUE
-</p>]]></text>
-</feedback>
-</answer>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
-unidad de análisis
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-FALSE
-</p>]]></text>
-</feedback>
-</answer>
-</question>
-
-
-<question type="multichoice">
-<name>
-<text> R089 Q1 : preguntas_html_R2018_0017 </text>
 </name>
 <questiontext format="html">
 <text><![CDATA[<p>
@@ -5931,7 +5864,7 @@ FALSE
 <answernumbering>abc</answernumbering>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-variable
+un valor de la variable
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -5941,7 +5874,7 @@ FALSE
 </answer>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-una categoría
+cantidad de casos
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -5961,7 +5894,74 @@ TRUE
 </answer>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
+variable
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R089 Q1 : preguntas_html_R2018_0017 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p><strong>R2018_0017</strong>. La frecuencia absoluta simple es una:</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<ol type = "a">
+<li> FALSE </li>
+<li> TRUE </li>
+<li> FALSE </li>
+<li> FALSE </li>
+</ol>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+unidad de análisis
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
 cantidad de casos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+TRUE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+variable
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+una categoría
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -5978,7 +5978,7 @@ FALSE
 </name>
 <questiontext format="html">
 <text><![CDATA[<p>
-<p><strong>R2018_0017</strong>. La frecuencia absoluta es una:</p>
+<p><strong>R2018_0017</strong>. La frecuencia absoluta simple es una:</p>
 </p>]]></text>
 </questiontext>
 <generalfeedback format="html">
@@ -5986,8 +5986,8 @@ FALSE
 <ol type = "a">
 <li> FALSE </li>
 <li> FALSE </li>
-<li> FALSE </li>
 <li> TRUE </li>
+<li> FALSE </li>
 </ol>
 </p>]]></text>
 </generalfeedback>
@@ -6016,16 +6016,6 @@ FALSE
 </p>]]></text>
 </feedback>
 </answer>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
-una categoría
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-FALSE
-</p>]]></text>
-</feedback>
-</answer>
 <answer fraction="100" format="html">
 <text><![CDATA[<p>
 cantidad de casos
@@ -6033,6 +6023,16 @@ cantidad de casos
 <feedback format="html">
 <text><![CDATA[<p>
 TRUE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+unidad de análisis
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
 </p>]]></text>
 </feedback>
 </answer>
@@ -6053,141 +6053,7 @@ TRUE
 <ol type = "a">
 <li> FALSE </li>
 <li> FALSE </li>
-<li> FALSE </li>
 <li> TRUE </li>
-</ol>
-</p>]]></text>
-</generalfeedback>
-<penalty>0</penalty>
-<defaultgrade>1</defaultgrade>
-<shuffleanswers>false</shuffleanswers>
-<single>true</single>
-<answernumbering>abc</answernumbering>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
-una categoría
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-FALSE
-</p>]]></text>
-</feedback>
-</answer>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
-un valor de la variable
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-FALSE
-</p>]]></text>
-</feedback>
-</answer>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
-variable
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-FALSE
-</p>]]></text>
-</feedback>
-</answer>
-<answer fraction="100" format="html">
-<text><![CDATA[<p>
-cantidad de casos
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-TRUE
-</p>]]></text>
-</feedback>
-</answer>
-</question>
-
-
-<question type="multichoice">
-<name>
-<text> R092 Q1 : preguntas_html_R2018_0017 </text>
-</name>
-<questiontext format="html">
-<text><![CDATA[<p>
-<p><strong>R2018_0017</strong>. La frecuencia absoluta relativa es una:</p>
-</p>]]></text>
-</questiontext>
-<generalfeedback format="html">
-<text><![CDATA[<p>
-<ol type = "a">
-<li> FALSE </li>
-<li> FALSE </li>
-<li> TRUE </li>
-<li> FALSE </li>
-</ol>
-</p>]]></text>
-</generalfeedback>
-<penalty>0</penalty>
-<defaultgrade>1</defaultgrade>
-<shuffleanswers>false</shuffleanswers>
-<single>true</single>
-<answernumbering>abc</answernumbering>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
-variable
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-FALSE
-</p>]]></text>
-</feedback>
-</answer>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
-proporción de casos
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-FALSE
-</p>]]></text>
-</feedback>
-</answer>
-<answer fraction="100" format="html">
-<text><![CDATA[<p>
-cantidad de casos
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-TRUE
-</p>]]></text>
-</feedback>
-</answer>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
-un valor de la variable
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-FALSE
-</p>]]></text>
-</feedback>
-</answer>
-</question>
-
-
-<question type="multichoice">
-<name>
-<text> R093 Q1 : preguntas_html_R2018_0017 </text>
-</name>
-<questiontext format="html">
-<text><![CDATA[<p>
-<p><strong>R2018_0017</strong>. La frecuencia relativa simple es una:</p>
-</p>]]></text>
-</questiontext>
-<generalfeedback format="html">
-<text><![CDATA[<p>
-<ol type = "a">
-<li> FALSE </li>
-<li> TRUE </li>
-<li> FALSE </li>
 <li> FALSE </li>
 </ol>
 </p>]]></text>
@@ -6207,70 +6073,23 @@ FALSE
 </p>]]></text>
 </feedback>
 </answer>
-<answer fraction="100" format="html">
+<answer fraction="0" format="html">
 <text><![CDATA[<p>
 proporción de casos
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
-TRUE
-</p>]]></text>
-</feedback>
-</answer>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
-variable
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
 FALSE
 </p>]]></text>
 </feedback>
 </answer>
-<answer fraction="0" format="html">
+<answer fraction="100" format="html">
 <text><![CDATA[<p>
 cantidad de casos
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
-FALSE
-</p>]]></text>
-</feedback>
-</answer>
-</question>
-
-
-<question type="multichoice">
-<name>
-<text> R094 Q1 : preguntas_html_R2018_0017 </text>
-</name>
-<questiontext format="html">
-<text><![CDATA[<p>
-<p><strong>R2018_0017</strong>. La frecuencia absoluta es una:</p>
-</p>]]></text>
-</questiontext>
-<generalfeedback format="html">
-<text><![CDATA[<p>
-<ol type = "a">
-<li> FALSE </li>
-<li> FALSE </li>
-<li> FALSE </li>
-<li> TRUE </li>
-</ol>
-</p>]]></text>
-</generalfeedback>
-<penalty>0</penalty>
-<defaultgrade>1</defaultgrade>
-<shuffleanswers>false</shuffleanswers>
-<single>true</single>
-<answernumbering>abc</answernumbering>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
-variable
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-FALSE
+TRUE
 </p>]]></text>
 </feedback>
 </answer>
@@ -6284,32 +6103,12 @@ FALSE
 </p>]]></text>
 </feedback>
 </answer>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
-proporción de casos
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-FALSE
-</p>]]></text>
-</feedback>
-</answer>
-<answer fraction="100" format="html">
-<text><![CDATA[<p>
-cantidad de casos
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-TRUE
-</p>]]></text>
-</feedback>
-</answer>
 </question>
 
 
 <question type="multichoice">
 <name>
-<text> R095 Q1 : preguntas_html_R2018_0017 </text>
+<text> R092 Q1 : preguntas_html_R2018_0017 </text>
 </name>
 <questiontext format="html">
 <text><![CDATA[<p>
@@ -6333,7 +6132,151 @@ TRUE
 <answernumbering>abc</answernumbering>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
+cantidad de casos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+un valor de la variable
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+proporción de casos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+TRUE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
 unidad de análisis
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R093 Q1 : preguntas_html_R2018_0017 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p><strong>R2018_0017</strong>. La frecuencia absoluta acumulada es una:</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<ol type = "a">
+<li> FALSE </li>
+<li> TRUE </li>
+<li> FALSE </li>
+<li> FALSE </li>
+</ol>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+proporción de casos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+cantidad de casos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+TRUE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+variable
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+unidad de análisis
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R094 Q1 : preguntas_html_R2018_0017 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p><strong>R2018_0017</strong>. La frecuencia absoluta acumulada es una:</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<ol type = "a">
+<li> TRUE </li>
+<li> FALSE </li>
+<li> FALSE </li>
+<li> FALSE </li>
+</ol>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+cantidad de casos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+TRUE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+un valor de la variable
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -6351,6 +6294,43 @@ FALSE
 </p>]]></text>
 </feedback>
 </answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+una categoría
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R095 Q1 : preguntas_html_R2018_0017 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p><strong>R2018_0017</strong>. La frecuencia relativa simple es una:</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<ol type = "a">
+<li> TRUE </li>
+<li> FALSE </li>
+<li> FALSE </li>
+<li> FALSE </li>
+</ol>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
 <answer fraction="100" format="html">
 <text><![CDATA[<p>
 proporción de casos
@@ -6358,6 +6338,26 @@ proporción de casos
 <feedback format="html">
 <text><![CDATA[<p>
 TRUE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+unidad de análisis
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+un valor de la variable
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
 </p>]]></text>
 </feedback>
 </answer>
@@ -6380,6 +6380,207 @@ FALSE
 </name>
 <questiontext format="html">
 <text><![CDATA[<p>
+<p><strong>R2018_0017</strong>. La frecuencia absoluta acumulada es una:</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<ol type = "a">
+<li> FALSE </li>
+<li> TRUE </li>
+<li> FALSE </li>
+<li> FALSE </li>
+</ol>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+unidad de análisis
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+cantidad de casos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+TRUE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+una categoría
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+proporción de casos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R097 Q1 : preguntas_html_R2018_0017 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p><strong>R2018_0017</strong>. La frecuencia absoluta es una:</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<ol type = "a">
+<li> FALSE </li>
+<li> FALSE </li>
+<li> TRUE </li>
+<li> FALSE </li>
+</ol>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+proporción de casos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+una categoría
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+cantidad de casos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+TRUE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+variable
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R098 Q1 : preguntas_html_R2018_0017 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p><strong>R2018_0017</strong>. La frecuencia relativa acumulada es una:</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<ol type = "a">
+<li> FALSE </li>
+<li> FALSE </li>
+<li> FALSE </li>
+<li> TRUE </li>
+</ol>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+una categoría
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+variable
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+un valor de la variable
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+proporción de casos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+TRUE
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R099 Q1 : preguntas_html_R2018_0017 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
 <p><strong>R2018_0017</strong>. La frecuencia absoluta es una:</p>
 </p>]]></text>
 </questiontext>
@@ -6420,207 +6621,6 @@ FALSE
 </answer>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-proporción de casos
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-FALSE
-</p>]]></text>
-</feedback>
-</answer>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
-una categoría
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-FALSE
-</p>]]></text>
-</feedback>
-</answer>
-</question>
-
-
-<question type="multichoice">
-<name>
-<text> R097 Q1 : preguntas_html_R2018_0017 </text>
-</name>
-<questiontext format="html">
-<text><![CDATA[<p>
-<p><strong>R2018_0017</strong>. La frecuencia absoluta relativa es una:</p>
-</p>]]></text>
-</questiontext>
-<generalfeedback format="html">
-<text><![CDATA[<p>
-<ol type = "a">
-<li> FALSE </li>
-<li> FALSE </li>
-<li> FALSE </li>
-<li> TRUE </li>
-</ol>
-</p>]]></text>
-</generalfeedback>
-<penalty>0</penalty>
-<defaultgrade>1</defaultgrade>
-<shuffleanswers>false</shuffleanswers>
-<single>true</single>
-<answernumbering>abc</answernumbering>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
-un valor de la variable
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-FALSE
-</p>]]></text>
-</feedback>
-</answer>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
-una categoría
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-FALSE
-</p>]]></text>
-</feedback>
-</answer>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
-proporción de casos
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-FALSE
-</p>]]></text>
-</feedback>
-</answer>
-<answer fraction="100" format="html">
-<text><![CDATA[<p>
-cantidad de casos
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-TRUE
-</p>]]></text>
-</feedback>
-</answer>
-</question>
-
-
-<question type="multichoice">
-<name>
-<text> R098 Q1 : preguntas_html_R2018_0017 </text>
-</name>
-<questiontext format="html">
-<text><![CDATA[<p>
-<p><strong>R2018_0017</strong>. La frecuencia absoluta simple es una:</p>
-</p>]]></text>
-</questiontext>
-<generalfeedback format="html">
-<text><![CDATA[<p>
-<ol type = "a">
-<li> TRUE </li>
-<li> FALSE </li>
-<li> FALSE </li>
-<li> FALSE </li>
-</ol>
-</p>]]></text>
-</generalfeedback>
-<penalty>0</penalty>
-<defaultgrade>1</defaultgrade>
-<shuffleanswers>false</shuffleanswers>
-<single>true</single>
-<answernumbering>abc</answernumbering>
-<answer fraction="100" format="html">
-<text><![CDATA[<p>
-cantidad de casos
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-TRUE
-</p>]]></text>
-</feedback>
-</answer>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
-un valor de la variable
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-FALSE
-</p>]]></text>
-</feedback>
-</answer>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
-proporción de casos
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-FALSE
-</p>]]></text>
-</feedback>
-</answer>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
-unidad de análisis
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-FALSE
-</p>]]></text>
-</feedback>
-</answer>
-</question>
-
-
-<question type="multichoice">
-<name>
-<text> R099 Q1 : preguntas_html_R2018_0017 </text>
-</name>
-<questiontext format="html">
-<text><![CDATA[<p>
-<p><strong>R2018_0017</strong>. La frecuencia relativa es una:</p>
-</p>]]></text>
-</questiontext>
-<generalfeedback format="html">
-<text><![CDATA[<p>
-<ol type = "a">
-<li> TRUE </li>
-<li> FALSE </li>
-<li> FALSE </li>
-<li> FALSE </li>
-</ol>
-</p>]]></text>
-</generalfeedback>
-<penalty>0</penalty>
-<defaultgrade>1</defaultgrade>
-<shuffleanswers>false</shuffleanswers>
-<single>true</single>
-<answernumbering>abc</answernumbering>
-<answer fraction="100" format="html">
-<text><![CDATA[<p>
-proporción de casos
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-TRUE
-</p>]]></text>
-</feedback>
-</answer>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
-unidad de análisis
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-FALSE
-</p>]]></text>
-</feedback>
-</answer>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
 variable
 </p>]]></text>
 <feedback format="html">
@@ -6631,7 +6631,7 @@ FALSE
 </answer>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-cantidad de casos
+proporción de casos
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -6648,7 +6648,7 @@ FALSE
 </name>
 <questiontext format="html">
 <text><![CDATA[<p>
-<p><strong>R2018_0017</strong>. La frecuencia absoluta simple es una:</p>
+<p><strong>R2018_0017</strong>. La frecuencia relativa simple es una:</p>
 </p>]]></text>
 </questiontext>
 <generalfeedback format="html">
@@ -6656,8 +6656,8 @@ FALSE
 <ol type = "a">
 <li> FALSE </li>
 <li> FALSE </li>
-<li> TRUE </li>
 <li> FALSE </li>
+<li> TRUE </li>
 </ol>
 </p>]]></text>
 </generalfeedback>
@@ -6686,23 +6686,23 @@ FALSE
 </p>]]></text>
 </feedback>
 </answer>
-<answer fraction="100" format="html">
+<answer fraction="0" format="html">
 <text><![CDATA[<p>
 cantidad de casos
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
-TRUE
+FALSE
 </p>]]></text>
 </feedback>
 </answer>
-<answer fraction="0" format="html">
+<answer fraction="100" format="html">
 <text><![CDATA[<p>
-unidad de análisis
+proporción de casos
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
-FALSE
+TRUE
 </p>]]></text>
 </feedback>
 </answer>
