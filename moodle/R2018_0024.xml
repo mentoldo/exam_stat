@@ -15,7 +15,141 @@
 </name>
 <questiontext format="html">
 <text><![CDATA[<p>
-<p><strong>R2018_0024</strong>. Sobre una muestra de 646 casos, el intervalo que estima el tiempo medio de reacción a un estímulo es (1.35, 3.15) segundos. Si la muestra hubiese sido de 353 casos, el intervalo podría ser:</p>
+<p><strong>R2018_0024</strong>. Sobre una muestra de 824 casos, el intervalo que estima el tiempo medio de reacción a un estímulo es (2.37, 3.6) segundos. Si la muestra hubiese sido de 816 casos, el intervalo podría ser:</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<ol type = "a">
+<li> FALSE </li>
+<li> TRUE </li>
+<li> FALSE </li>
+<li> FALSE </li>
+</ol>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+De la misma amplitud
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+De mayor amplitud
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+TRUE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+De mayor precisión
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+De menor amplitud
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R002 Q1 : preguntas_html_R2018_0024 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p><strong>R2018_0024</strong>. Sobre una muestra de 789 casos, el intervalo que estima el tiempo medio de reacción a un estímulo es (1.97, 3.58) segundos. Si la muestra hubiese sido de 592 casos, el intervalo podría ser:</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<ol type = "a">
+<li> TRUE </li>
+<li> FALSE </li>
+<li> FALSE </li>
+<li> FALSE </li>
+</ol>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+De mayor amplitud
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+TRUE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+De mayor precisión
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+De la misma amplitud
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+De menor amplitud
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R003 Q1 : preguntas_html_R2018_0024 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p><strong>R2018_0024</strong>. Sobre una muestra de 416 casos, el intervalo que estima el tiempo medio de reacción a un estímulo es (2.01, 3.69) segundos. Si la muestra hubiese sido de 887 casos, el intervalo podría ser:</p>
 </p>]]></text>
 </questiontext>
 <generalfeedback format="html">
@@ -35,7 +169,94 @@
 <answernumbering>abc</answernumbering>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
+De menor precisión
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+De mayor amplitud
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+De la misma amplitud
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+De mayor precisión
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+TRUE
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R004 Q1 : preguntas_html_R2018_0024 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p><strong>R2018_0024</strong>. Sobre una muestra de 522 casos, el intervalo que estima el tiempo medio de reacción a un estímulo es (1.69, 3.18) segundos. Si la muestra hubiese sido de 501 casos, el intervalo podría ser:</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<ol type = "a">
+<li> TRUE </li>
+<li> FALSE </li>
+<li> FALSE </li>
+<li> FALSE </li>
+</ol>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+De menor precisión
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+TRUE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
 De menor amplitud
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+De mayor precisión
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -53,227 +274,6 @@ FALSE
 </p>]]></text>
 </feedback>
 </answer>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
-De mayor precisión
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-FALSE
-</p>]]></text>
-</feedback>
-</answer>
-<answer fraction="100" format="html">
-<text><![CDATA[<p>
-De mayor amplitud
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-TRUE
-</p>]]></text>
-</feedback>
-</answer>
-</question>
-
-
-<question type="multichoice">
-<name>
-<text> R002 Q1 : preguntas_html_R2018_0024 </text>
-</name>
-<questiontext format="html">
-<text><![CDATA[<p>
-<p><strong>R2018_0024</strong>. Sobre una muestra de 465 casos, el intervalo que estima el tiempo medio de reacción a un estímulo es (2.12, 3.43) segundos. Si la muestra hubiese sido de 322 casos, el intervalo podría ser:</p>
-</p>]]></text>
-</questiontext>
-<generalfeedback format="html">
-<text><![CDATA[<p>
-<ol type = "a">
-<li> FALSE </li>
-<li> FALSE </li>
-<li> FALSE </li>
-<li> TRUE </li>
-</ol>
-</p>]]></text>
-</generalfeedback>
-<penalty>0</penalty>
-<defaultgrade>1</defaultgrade>
-<shuffleanswers>false</shuffleanswers>
-<single>true</single>
-<answernumbering>abc</answernumbering>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
-De la misma amplitud
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-FALSE
-</p>]]></text>
-</feedback>
-</answer>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
-De menor amplitud
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-FALSE
-</p>]]></text>
-</feedback>
-</answer>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
-De mayor precisión
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-FALSE
-</p>]]></text>
-</feedback>
-</answer>
-<answer fraction="100" format="html">
-<text><![CDATA[<p>
-De menor precisión
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-TRUE
-</p>]]></text>
-</feedback>
-</answer>
-</question>
-
-
-<question type="multichoice">
-<name>
-<text> R003 Q1 : preguntas_html_R2018_0024 </text>
-</name>
-<questiontext format="html">
-<text><![CDATA[<p>
-<p><strong>R2018_0024</strong>. Sobre una muestra de 416 casos, el intervalo que estima el tiempo medio de reacción a un estímulo es (2.27, 3.39) segundos. Si la muestra hubiese sido de 489 casos, el intervalo podría ser:</p>
-</p>]]></text>
-</questiontext>
-<generalfeedback format="html">
-<text><![CDATA[<p>
-<ol type = "a">
-<li> TRUE </li>
-<li> FALSE </li>
-<li> FALSE </li>
-<li> FALSE </li>
-</ol>
-</p>]]></text>
-</generalfeedback>
-<penalty>0</penalty>
-<defaultgrade>1</defaultgrade>
-<shuffleanswers>false</shuffleanswers>
-<single>true</single>
-<answernumbering>abc</answernumbering>
-<answer fraction="100" format="html">
-<text><![CDATA[<p>
-De menor amplitud
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-TRUE
-</p>]]></text>
-</feedback>
-</answer>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
-De la misma amplitud
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-FALSE
-</p>]]></text>
-</feedback>
-</answer>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
-De menor precisión
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-FALSE
-</p>]]></text>
-</feedback>
-</answer>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
-De mayor amplitud
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-FALSE
-</p>]]></text>
-</feedback>
-</answer>
-</question>
-
-
-<question type="multichoice">
-<name>
-<text> R004 Q1 : preguntas_html_R2018_0024 </text>
-</name>
-<questiontext format="html">
-<text><![CDATA[<p>
-<p><strong>R2018_0024</strong>. Sobre una muestra de 593 casos, el intervalo que estima el tiempo medio de reacción a un estímulo es (2.36, 3.62) segundos. Si la muestra hubiese sido de 645 casos, el intervalo podría ser:</p>
-</p>]]></text>
-</questiontext>
-<generalfeedback format="html">
-<text><![CDATA[<p>
-<ol type = "a">
-<li> FALSE </li>
-<li> FALSE </li>
-<li> TRUE </li>
-<li> FALSE </li>
-</ol>
-</p>]]></text>
-</generalfeedback>
-<penalty>0</penalty>
-<defaultgrade>1</defaultgrade>
-<shuffleanswers>false</shuffleanswers>
-<single>true</single>
-<answernumbering>abc</answernumbering>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
-De mayor amplitud
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-FALSE
-</p>]]></text>
-</feedback>
-</answer>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
-De la misma amplitud
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-FALSE
-</p>]]></text>
-</feedback>
-</answer>
-<answer fraction="100" format="html">
-<text><![CDATA[<p>
-De mayor precisión
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-TRUE
-</p>]]></text>
-</feedback>
-</answer>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
-De menor precisión
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-FALSE
-</p>]]></text>
-</feedback>
-</answer>
 </question>
 
 
@@ -283,7 +283,7 @@ FALSE
 </name>
 <questiontext format="html">
 <text><![CDATA[<p>
-<p><strong>R2018_0024</strong>. Sobre una muestra de 470 casos, el intervalo que estima el tiempo medio de reacción a un estímulo es (1.93, 3.19) segundos. Si la muestra hubiese sido de 808 casos, el intervalo podría ser:</p>
+<p><strong>R2018_0024</strong>. Sobre una muestra de 356 casos, el intervalo que estima el tiempo medio de reacción a un estímulo es (2.21, 3.31) segundos. Si la muestra hubiese sido de 768 casos, el intervalo podría ser:</p>
 </p>]]></text>
 </questiontext>
 <generalfeedback format="html">
@@ -303,7 +303,7 @@ FALSE
 <answernumbering>abc</answernumbering>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-De la misma amplitud
+De menor precisión
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -323,7 +323,7 @@ TRUE
 </answer>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-De menor precisión
+De la misma amplitud
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -350,82 +350,15 @@ FALSE
 </name>
 <questiontext format="html">
 <text><![CDATA[<p>
-<p><strong>R2018_0024</strong>. Sobre una muestra de 559 casos, el intervalo que estima el tiempo medio de reacción a un estímulo es (1.27, 2.93) segundos. Si la muestra hubiese sido de 866 casos, el intervalo podría ser:</p>
-</p>]]></text>
-</questiontext>
-<generalfeedback format="html">
-<text><![CDATA[<p>
-<ol type = "a">
-<li> TRUE </li>
-<li> FALSE </li>
-<li> FALSE </li>
-<li> FALSE </li>
-</ol>
-</p>]]></text>
-</generalfeedback>
-<penalty>0</penalty>
-<defaultgrade>1</defaultgrade>
-<shuffleanswers>false</shuffleanswers>
-<single>true</single>
-<answernumbering>abc</answernumbering>
-<answer fraction="100" format="html">
-<text><![CDATA[<p>
-De menor amplitud
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-TRUE
-</p>]]></text>
-</feedback>
-</answer>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
-De menor precisión
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-FALSE
-</p>]]></text>
-</feedback>
-</answer>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
-De mayor amplitud
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-FALSE
-</p>]]></text>
-</feedback>
-</answer>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
-De la misma precisión
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-FALSE
-</p>]]></text>
-</feedback>
-</answer>
-</question>
-
-
-<question type="multichoice">
-<name>
-<text> R007 Q1 : preguntas_html_R2018_0024 </text>
-</name>
-<questiontext format="html">
-<text><![CDATA[<p>
-<p><strong>R2018_0024</strong>. Sobre una muestra de 542 casos, el intervalo que estima el tiempo medio de reacción a un estímulo es (1.33, 3.32) segundos. Si la muestra hubiese sido de 622 casos, el intervalo podría ser:</p>
+<p><strong>R2018_0024</strong>. Sobre una muestra de 858 casos, el intervalo que estima el tiempo medio de reacción a un estímulo es (1.6, 3.17) segundos. Si la muestra hubiese sido de 565 casos, el intervalo podría ser:</p>
 </p>]]></text>
 </questiontext>
 <generalfeedback format="html">
 <text><![CDATA[<p>
 <ol type = "a">
 <li> FALSE </li>
-<li> TRUE </li>
 <li> FALSE </li>
+<li> TRUE </li>
 <li> FALSE </li>
 </ol>
 </p>]]></text>
@@ -445,63 +378,6 @@ FALSE
 </p>]]></text>
 </feedback>
 </answer>
-<answer fraction="100" format="html">
-<text><![CDATA[<p>
-De menor amplitud
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-TRUE
-</p>]]></text>
-</feedback>
-</answer>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
-De mayor amplitud
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-FALSE
-</p>]]></text>
-</feedback>
-</answer>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
-De menor precisión
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-FALSE
-</p>]]></text>
-</feedback>
-</answer>
-</question>
-
-
-<question type="multichoice">
-<name>
-<text> R008 Q1 : preguntas_html_R2018_0024 </text>
-</name>
-<questiontext format="html">
-<text><![CDATA[<p>
-<p><strong>R2018_0024</strong>. Sobre una muestra de 872 casos, el intervalo que estima el tiempo medio de reacción a un estímulo es (2.13, 3.53) segundos. Si la muestra hubiese sido de 628 casos, el intervalo podría ser:</p>
-</p>]]></text>
-</questiontext>
-<generalfeedback format="html">
-<text><![CDATA[<p>
-<ol type = "a">
-<li> FALSE </li>
-<li> TRUE </li>
-<li> FALSE </li>
-<li> FALSE </li>
-</ol>
-</p>]]></text>
-</generalfeedback>
-<penalty>0</penalty>
-<defaultgrade>1</defaultgrade>
-<shuffleanswers>false</shuffleanswers>
-<single>true</single>
-<answernumbering>abc</answernumbering>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
 De mayor precisión
@@ -529,6 +405,63 @@ De menor amplitud
 <feedback format="html">
 <text><![CDATA[<p>
 FALSE
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R007 Q1 : preguntas_html_R2018_0024 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p><strong>R2018_0024</strong>. Sobre una muestra de 578 casos, el intervalo que estima el tiempo medio de reacción a un estímulo es (1.85, 3.22) segundos. Si la muestra hubiese sido de 673 casos, el intervalo podría ser:</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<ol type = "a">
+<li> FALSE </li>
+<li> FALSE </li>
+<li> TRUE </li>
+<li> FALSE </li>
+</ol>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+De mayor amplitud
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+De menor precisión
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+De menor amplitud
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+TRUE
 </p>]]></text>
 </feedback>
 </answer>
@@ -547,20 +480,20 @@ FALSE
 
 <question type="multichoice">
 <name>
-<text> R009 Q1 : preguntas_html_R2018_0024 </text>
+<text> R008 Q1 : preguntas_html_R2018_0024 </text>
 </name>
 <questiontext format="html">
 <text><![CDATA[<p>
-<p><strong>R2018_0024</strong>. Sobre una muestra de 952 casos, el intervalo que estima el tiempo medio de reacción a un estímulo es (2.14, 3.25) segundos. Si la muestra hubiese sido de 646 casos, el intervalo podría ser:</p>
+<p><strong>R2018_0024</strong>. Sobre una muestra de 541 casos, el intervalo que estima el tiempo medio de reacción a un estímulo es (2.09, 3.36) segundos. Si la muestra hubiese sido de 367 casos, el intervalo podría ser:</p>
 </p>]]></text>
 </questiontext>
 <generalfeedback format="html">
 <text><![CDATA[<p>
 <ol type = "a">
-<li> FALSE </li>
-<li> FALSE </li>
-<li> FALSE </li>
 <li> TRUE </li>
+<li> FALSE </li>
+<li> FALSE </li>
+<li> FALSE </li>
 </ol>
 </p>]]></text>
 </generalfeedback>
@@ -569,9 +502,19 @@ FALSE
 <shuffleanswers>false</shuffleanswers>
 <single>true</single>
 <answernumbering>abc</answernumbering>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+De menor precisión
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+TRUE
+</p>]]></text>
+</feedback>
+</answer>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-De la misma precisión
+De la misma amplitud
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -599,26 +542,16 @@ FALSE
 </p>]]></text>
 </feedback>
 </answer>
-<answer fraction="100" format="html">
-<text><![CDATA[<p>
-De menor precisión
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-TRUE
-</p>]]></text>
-</feedback>
-</answer>
 </question>
 
 
 <question type="multichoice">
 <name>
-<text> R010 Q1 : preguntas_html_R2018_0024 </text>
+<text> R009 Q1 : preguntas_html_R2018_0024 </text>
 </name>
 <questiontext format="html">
 <text><![CDATA[<p>
-<p><strong>R2018_0024</strong>. Sobre una muestra de 651 casos, el intervalo que estima el tiempo medio de reacción a un estímulo es (1.81, 3.48) segundos. Si la muestra hubiese sido de 845 casos, el intervalo podría ser:</p>
+<p><strong>R2018_0024</strong>. Sobre una muestra de 758 casos, el intervalo que estima el tiempo medio de reacción a un estímulo es (1.39, 2.72) segundos. Si la muestra hubiese sido de 319 casos, el intervalo podría ser:</p>
 </p>]]></text>
 </questiontext>
 <generalfeedback format="html">
@@ -638,7 +571,74 @@ TRUE
 <answernumbering>abc</answernumbering>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
+De mayor precisión
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
 De menor precisión
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+TRUE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+De la misma amplitud
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+De menor amplitud
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R010 Q1 : preguntas_html_R2018_0024 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p><strong>R2018_0024</strong>. Sobre una muestra de 391 casos, el intervalo que estima el tiempo medio de reacción a un estímulo es (1.77, 3.19) segundos. Si la muestra hubiese sido de 659 casos, el intervalo podría ser:</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<ol type = "a">
+<li> FALSE </li>
+<li> TRUE </li>
+<li> FALSE </li>
+<li> FALSE </li>
+</ol>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+De mayor amplitud
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -658,7 +658,7 @@ TRUE
 </answer>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-De mayor amplitud
+De menor precisión
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -685,16 +685,16 @@ FALSE
 </name>
 <questiontext format="html">
 <text><![CDATA[<p>
-<p><strong>R2018_0024</strong>. Sobre una muestra de 906 casos, el intervalo que estima el tiempo medio de reacción a un estímulo es (1.66, 3.4) segundos. Si la muestra hubiese sido de 528 casos, el intervalo podría ser:</p>
+<p><strong>R2018_0024</strong>. Sobre una muestra de 368 casos, el intervalo que estima el tiempo medio de reacción a un estímulo es (2, 3.83) segundos. Si la muestra hubiese sido de 453 casos, el intervalo podría ser:</p>
 </p>]]></text>
 </questiontext>
 <generalfeedback format="html">
 <text><![CDATA[<p>
 <ol type = "a">
+<li> FALSE </li>
+<li> FALSE </li>
+<li> FALSE </li>
 <li> TRUE </li>
-<li> FALSE </li>
-<li> FALSE </li>
-<li> FALSE </li>
 </ol>
 </p>]]></text>
 </generalfeedback>
@@ -703,19 +703,9 @@ FALSE
 <shuffleanswers>false</shuffleanswers>
 <single>true</single>
 <answernumbering>abc</answernumbering>
-<answer fraction="100" format="html">
-<text><![CDATA[<p>
-De mayor amplitud
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-TRUE
-</p>]]></text>
-</feedback>
-</answer>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-De mayor precisión
+De mayor amplitud
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -735,11 +725,21 @@ FALSE
 </answer>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-De menor amplitud
+De menor precisión
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
 FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+De mayor precisión
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+TRUE
 </p>]]></text>
 </feedback>
 </answer>
@@ -752,14 +752,14 @@ FALSE
 </name>
 <questiontext format="html">
 <text><![CDATA[<p>
-<p><strong>R2018_0024</strong>. Sobre una muestra de 680 casos, el intervalo que estima el tiempo medio de reacción a un estímulo es (1.37, 2.75) segundos. Si la muestra hubiese sido de 468 casos, el intervalo podría ser:</p>
+<p><strong>R2018_0024</strong>. Sobre una muestra de 626 casos, el intervalo que estima el tiempo medio de reacción a un estímulo es (1.84, 3.58) segundos. Si la muestra hubiese sido de 702 casos, el intervalo podría ser:</p>
 </p>]]></text>
 </questiontext>
 <generalfeedback format="html">
 <text><![CDATA[<p>
 <ol type = "a">
-<li> FALSE </li>
 <li> TRUE </li>
+<li> FALSE </li>
 <li> FALSE </li>
 <li> FALSE </li>
 </ol>
@@ -770,19 +770,9 @@ FALSE
 <shuffleanswers>false</shuffleanswers>
 <single>true</single>
 <answernumbering>abc</answernumbering>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
-De menor amplitud
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-FALSE
-</p>]]></text>
-</feedback>
-</answer>
 <answer fraction="100" format="html">
 <text><![CDATA[<p>
-De mayor amplitud
+De menor amplitud
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -792,7 +782,17 @@ TRUE
 </answer>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-De mayor precisión
+De menor precisión
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+De mayor amplitud
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -819,15 +819,15 @@ FALSE
 </name>
 <questiontext format="html">
 <text><![CDATA[<p>
-<p><strong>R2018_0024</strong>. Sobre una muestra de 342 casos, el intervalo que estima el tiempo medio de reacción a un estímulo es (1.77, 2.79) segundos. Si la muestra hubiese sido de 944 casos, el intervalo podría ser:</p>
+<p><strong>R2018_0024</strong>. Sobre una muestra de 900 casos, el intervalo que estima el tiempo medio de reacción a un estímulo es (1.43, 2.91) segundos. Si la muestra hubiese sido de 721 casos, el intervalo podría ser:</p>
 </p>]]></text>
 </questiontext>
 <generalfeedback format="html">
 <text><![CDATA[<p>
 <ol type = "a">
-<li> FALSE </li>
-<li> FALSE </li>
 <li> TRUE </li>
+<li> FALSE </li>
+<li> FALSE </li>
 <li> FALSE </li>
 </ol>
 </p>]]></text>
@@ -837,29 +837,9 @@ FALSE
 <shuffleanswers>false</shuffleanswers>
 <single>true</single>
 <answernumbering>abc</answernumbering>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
-De la misma precisión
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-FALSE
-</p>]]></text>
-</feedback>
-</answer>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
-De mayor amplitud
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-FALSE
-</p>]]></text>
-</feedback>
-</answer>
 <answer fraction="100" format="html">
 <text><![CDATA[<p>
-De mayor precisión
+De menor precisión
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -867,43 +847,6 @@ TRUE
 </p>]]></text>
 </feedback>
 </answer>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
-De menor precisión
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-FALSE
-</p>]]></text>
-</feedback>
-</answer>
-</question>
-
-
-<question type="multichoice">
-<name>
-<text> R014 Q1 : preguntas_html_R2018_0024 </text>
-</name>
-<questiontext format="html">
-<text><![CDATA[<p>
-<p><strong>R2018_0024</strong>. Sobre una muestra de 903 casos, el intervalo que estima el tiempo medio de reacción a un estímulo es (2.17, 3.76) segundos. Si la muestra hubiese sido de 341 casos, el intervalo podría ser:</p>
-</p>]]></text>
-</questiontext>
-<generalfeedback format="html">
-<text><![CDATA[<p>
-<ol type = "a">
-<li> FALSE </li>
-<li> FALSE </li>
-<li> FALSE </li>
-<li> TRUE </li>
-</ol>
-</p>]]></text>
-</generalfeedback>
-<penalty>0</penalty>
-<defaultgrade>1</defaultgrade>
-<shuffleanswers>false</shuffleanswers>
-<single>true</single>
-<answernumbering>abc</answernumbering>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
 De menor amplitud
@@ -914,197 +857,6 @@ FALSE
 </p>]]></text>
 </feedback>
 </answer>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
-De mayor precisión
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-FALSE
-</p>]]></text>
-</feedback>
-</answer>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
-De la misma precisión
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-FALSE
-</p>]]></text>
-</feedback>
-</answer>
-<answer fraction="100" format="html">
-<text><![CDATA[<p>
-De menor precisión
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-TRUE
-</p>]]></text>
-</feedback>
-</answer>
-</question>
-
-
-<question type="multichoice">
-<name>
-<text> R015 Q1 : preguntas_html_R2018_0024 </text>
-</name>
-<questiontext format="html">
-<text><![CDATA[<p>
-<p><strong>R2018_0024</strong>. Sobre una muestra de 414 casos, el intervalo que estima el tiempo medio de reacción a un estímulo es (1.86, 2.89) segundos. Si la muestra hubiese sido de 509 casos, el intervalo podría ser:</p>
-</p>]]></text>
-</questiontext>
-<generalfeedback format="html">
-<text><![CDATA[<p>
-<ol type = "a">
-<li> TRUE </li>
-<li> FALSE </li>
-<li> FALSE </li>
-<li> FALSE </li>
-</ol>
-</p>]]></text>
-</generalfeedback>
-<penalty>0</penalty>
-<defaultgrade>1</defaultgrade>
-<shuffleanswers>false</shuffleanswers>
-<single>true</single>
-<answernumbering>abc</answernumbering>
-<answer fraction="100" format="html">
-<text><![CDATA[<p>
-De mayor precisión
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-TRUE
-</p>]]></text>
-</feedback>
-</answer>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
-De mayor amplitud
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-FALSE
-</p>]]></text>
-</feedback>
-</answer>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
-De menor precisión
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-FALSE
-</p>]]></text>
-</feedback>
-</answer>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
-De la misma precisión
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-FALSE
-</p>]]></text>
-</feedback>
-</answer>
-</question>
-
-
-<question type="multichoice">
-<name>
-<text> R016 Q1 : preguntas_html_R2018_0024 </text>
-</name>
-<questiontext format="html">
-<text><![CDATA[<p>
-<p><strong>R2018_0024</strong>. Sobre una muestra de 929 casos, el intervalo que estima el tiempo medio de reacción a un estímulo es (1.39, 3.1) segundos. Si la muestra hubiese sido de 615 casos, el intervalo podría ser:</p>
-</p>]]></text>
-</questiontext>
-<generalfeedback format="html">
-<text><![CDATA[<p>
-<ol type = "a">
-<li> FALSE </li>
-<li> TRUE </li>
-<li> FALSE </li>
-<li> FALSE </li>
-</ol>
-</p>]]></text>
-</generalfeedback>
-<penalty>0</penalty>
-<defaultgrade>1</defaultgrade>
-<shuffleanswers>false</shuffleanswers>
-<single>true</single>
-<answernumbering>abc</answernumbering>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
-De menor amplitud
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-FALSE
-</p>]]></text>
-</feedback>
-</answer>
-<answer fraction="100" format="html">
-<text><![CDATA[<p>
-De mayor amplitud
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-TRUE
-</p>]]></text>
-</feedback>
-</answer>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
-De la misma precisión
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-FALSE
-</p>]]></text>
-</feedback>
-</answer>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
-De mayor precisión
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-FALSE
-</p>]]></text>
-</feedback>
-</answer>
-</question>
-
-
-<question type="multichoice">
-<name>
-<text> R017 Q1 : preguntas_html_R2018_0024 </text>
-</name>
-<questiontext format="html">
-<text><![CDATA[<p>
-<p><strong>R2018_0024</strong>. Sobre una muestra de 639 casos, el intervalo que estima el tiempo medio de reacción a un estímulo es (1.85, 3.72) segundos. Si la muestra hubiese sido de 588 casos, el intervalo podría ser:</p>
-</p>]]></text>
-</questiontext>
-<generalfeedback format="html">
-<text><![CDATA[<p>
-<ol type = "a">
-<li> FALSE </li>
-<li> FALSE </li>
-<li> TRUE </li>
-<li> FALSE </li>
-</ol>
-</p>]]></text>
-</generalfeedback>
-<penalty>0</penalty>
-<defaultgrade>1</defaultgrade>
-<shuffleanswers>false</shuffleanswers>
-<single>true</single>
-<answernumbering>abc</answernumbering>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
 De mayor precisión
@@ -1125,6 +877,110 @@ FALSE
 </p>]]></text>
 </feedback>
 </answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R014 Q1 : preguntas_html_R2018_0024 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p><strong>R2018_0024</strong>. Sobre una muestra de 532 casos, el intervalo que estima el tiempo medio de reacción a un estímulo es (1.52, 3.03) segundos. Si la muestra hubiese sido de 526 casos, el intervalo podría ser:</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<ol type = "a">
+<li> FALSE </li>
+<li> TRUE </li>
+<li> FALSE </li>
+<li> FALSE </li>
+</ol>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+De mayor precisión
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+De menor precisión
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+TRUE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+De menor amplitud
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+De la misma precisión
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R015 Q1 : preguntas_html_R2018_0024 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p><strong>R2018_0024</strong>. Sobre una muestra de 965 casos, el intervalo que estima el tiempo medio de reacción a un estímulo es (1.94, 3.39) segundos. Si la muestra hubiese sido de 874 casos, el intervalo podría ser:</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<ol type = "a">
+<li> FALSE </li>
+<li> TRUE </li>
+<li> FALSE </li>
+<li> FALSE </li>
+</ol>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+De mayor precisión
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
 <answer fraction="100" format="html">
 <text><![CDATA[<p>
 De mayor amplitud
@@ -1137,7 +993,151 @@ TRUE
 </answer>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
+De la misma amplitud
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
 De menor amplitud
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R016 Q1 : preguntas_html_R2018_0024 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p><strong>R2018_0024</strong>. Sobre una muestra de 875 casos, el intervalo que estima el tiempo medio de reacción a un estímulo es (1.85, 3.21) segundos. Si la muestra hubiese sido de 670 casos, el intervalo podría ser:</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<ol type = "a">
+<li> FALSE </li>
+<li> FALSE </li>
+<li> TRUE </li>
+<li> FALSE </li>
+</ol>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+De la misma amplitud
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+De mayor precisión
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+De menor precisión
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+TRUE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+De menor amplitud
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R017 Q1 : preguntas_html_R2018_0024 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p><strong>R2018_0024</strong>. Sobre una muestra de 408 casos, el intervalo que estima el tiempo medio de reacción a un estímulo es (1.25, 3.18) segundos. Si la muestra hubiese sido de 501 casos, el intervalo podría ser:</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<ol type = "a">
+<li> FALSE </li>
+<li> TRUE </li>
+<li> FALSE </li>
+<li> FALSE </li>
+</ol>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+De menor precisión
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+De mayor precisión
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+TRUE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+De la misma precisión
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+De mayor amplitud
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -1154,7 +1154,7 @@ FALSE
 </name>
 <questiontext format="html">
 <text><![CDATA[<p>
-<p><strong>R2018_0024</strong>. Sobre una muestra de 724 casos, el intervalo que estima el tiempo medio de reacción a un estímulo es (1.98, 3.75) segundos. Si la muestra hubiese sido de 319 casos, el intervalo podría ser:</p>
+<p><strong>R2018_0024</strong>. Sobre una muestra de 742 casos, el intervalo que estima el tiempo medio de reacción a un estímulo es (2.25, 3.52) segundos. Si la muestra hubiese sido de 813 casos, el intervalo podría ser:</p>
 </p>]]></text>
 </questiontext>
 <generalfeedback format="html">
@@ -1174,7 +1174,7 @@ FALSE
 <answernumbering>abc</answernumbering>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-De menor amplitud
+De menor precisión
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -1184,7 +1184,7 @@ FALSE
 </answer>
 <answer fraction="100" format="html">
 <text><![CDATA[<p>
-De mayor amplitud
+De menor amplitud
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -1194,7 +1194,7 @@ TRUE
 </answer>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-De mayor precisión
+De la misma amplitud
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -1204,7 +1204,7 @@ FALSE
 </answer>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-De la misma precisión
+De mayor amplitud
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -1221,14 +1221,14 @@ FALSE
 </name>
 <questiontext format="html">
 <text><![CDATA[<p>
-<p><strong>R2018_0024</strong>. Sobre una muestra de 973 casos, el intervalo que estima el tiempo medio de reacción a un estímulo es (1.59, 3.15) segundos. Si la muestra hubiese sido de 453 casos, el intervalo podría ser:</p>
+<p><strong>R2018_0024</strong>. Sobre una muestra de 777 casos, el intervalo que estima el tiempo medio de reacción a un estímulo es (2.29, 3.55) segundos. Si la muestra hubiese sido de 409 casos, el intervalo podría ser:</p>
 </p>]]></text>
 </questiontext>
 <generalfeedback format="html">
 <text><![CDATA[<p>
 <ol type = "a">
-<li> TRUE </li>
 <li> FALSE </li>
+<li> TRUE </li>
 <li> FALSE </li>
 <li> FALSE </li>
 </ol>
@@ -1239,6 +1239,16 @@ FALSE
 <shuffleanswers>false</shuffleanswers>
 <single>true</single>
 <answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+De la misma precisión
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
 <answer fraction="100" format="html">
 <text><![CDATA[<p>
 De mayor amplitud
@@ -1262,16 +1272,6 @@ FALSE
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
 De menor amplitud
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-FALSE
-</p>]]></text>
-</feedback>
-</answer>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
-De la misma precisión
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -1288,7 +1288,7 @@ FALSE
 </name>
 <questiontext format="html">
 <text><![CDATA[<p>
-<p><strong>R2018_0024</strong>. Sobre una muestra de 650 casos, el intervalo que estima el tiempo medio de reacción a un estímulo es (1.55, 2.76) segundos. Si la muestra hubiese sido de 448 casos, el intervalo podría ser:</p>
+<p><strong>R2018_0024</strong>. Sobre una muestra de 440 casos, el intervalo que estima el tiempo medio de reacción a un estímulo es (1.29, 3.14) segundos. Si la muestra hubiese sido de 523 casos, el intervalo podría ser:</p>
 </p>]]></text>
 </questiontext>
 <generalfeedback format="html">
@@ -1308,7 +1308,7 @@ FALSE
 <answernumbering>abc</answernumbering>
 <answer fraction="100" format="html">
 <text><![CDATA[<p>
-De mayor amplitud
+De menor amplitud
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -1318,7 +1318,7 @@ TRUE
 </answer>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-De menor amplitud
+De mayor amplitud
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -1328,7 +1328,7 @@ FALSE
 </answer>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-De mayor precisión
+De menor precisión
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -1355,15 +1355,15 @@ FALSE
 </name>
 <questiontext format="html">
 <text><![CDATA[<p>
-<p><strong>R2018_0024</strong>. Sobre una muestra de 921 casos, el intervalo que estima el tiempo medio de reacción a un estímulo es (1.42, 3.2) segundos. Si la muestra hubiese sido de 364 casos, el intervalo podría ser:</p>
+<p><strong>R2018_0024</strong>. Sobre una muestra de 979 casos, el intervalo que estima el tiempo medio de reacción a un estímulo es (1.55, 2.62) segundos. Si la muestra hubiese sido de 716 casos, el intervalo podría ser:</p>
 </p>]]></text>
 </questiontext>
 <generalfeedback format="html">
 <text><![CDATA[<p>
 <ol type = "a">
 <li> FALSE </li>
-<li> FALSE </li>
 <li> TRUE </li>
+<li> FALSE </li>
 <li> FALSE </li>
 </ol>
 </p>]]></text>
@@ -1373,16 +1373,6 @@ FALSE
 <shuffleanswers>false</shuffleanswers>
 <single>true</single>
 <answernumbering>abc</answernumbering>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
-De menor amplitud
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-FALSE
-</p>]]></text>
-</feedback>
-</answer>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
 De mayor precisión
@@ -1395,7 +1385,7 @@ FALSE
 </answer>
 <answer fraction="100" format="html">
 <text><![CDATA[<p>
-De menor precisión
+De mayor amplitud
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -1405,7 +1395,17 @@ TRUE
 </answer>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-De la misma amplitud
+De la misma precisión
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+De menor amplitud
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -1422,14 +1422,14 @@ FALSE
 </name>
 <questiontext format="html">
 <text><![CDATA[<p>
-<p><strong>R2018_0024</strong>. Sobre una muestra de 431 casos, el intervalo que estima el tiempo medio de reacción a un estímulo es (1.32, 2.83) segundos. Si la muestra hubiese sido de 343 casos, el intervalo podría ser:</p>
+<p><strong>R2018_0024</strong>. Sobre una muestra de 469 casos, el intervalo que estima el tiempo medio de reacción a un estímulo es (1.21, 3.08) segundos. Si la muestra hubiese sido de 856 casos, el intervalo podría ser:</p>
 </p>]]></text>
 </questiontext>
 <generalfeedback format="html">
 <text><![CDATA[<p>
 <ol type = "a">
-<li> TRUE </li>
 <li> FALSE </li>
+<li> TRUE </li>
 <li> FALSE </li>
 <li> FALSE </li>
 </ol>
@@ -1440,9 +1440,19 @@ FALSE
 <shuffleanswers>false</shuffleanswers>
 <single>true</single>
 <answernumbering>abc</answernumbering>
-<answer fraction="100" format="html">
+<answer fraction="0" format="html">
 <text><![CDATA[<p>
 De mayor amplitud
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+De menor amplitud
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -1452,7 +1462,7 @@ TRUE
 </answer>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-De mayor precisión
+De la misma amplitud
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -1462,17 +1472,7 @@ FALSE
 </answer>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-De menor amplitud
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-FALSE
-</p>]]></text>
-</feedback>
-</answer>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
-De la misma precisión
+De menor precisión
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -1489,16 +1489,16 @@ FALSE
 </name>
 <questiontext format="html">
 <text><![CDATA[<p>
-<p><strong>R2018_0024</strong>. Sobre una muestra de 522 casos, el intervalo que estima el tiempo medio de reacción a un estímulo es (1.48, 2.6) segundos. Si la muestra hubiese sido de 925 casos, el intervalo podría ser:</p>
+<p><strong>R2018_0024</strong>. Sobre una muestra de 827 casos, el intervalo que estima el tiempo medio de reacción a un estímulo es (1.78, 3.15) segundos. Si la muestra hubiese sido de 889 casos, el intervalo podría ser:</p>
 </p>]]></text>
 </questiontext>
 <generalfeedback format="html">
 <text><![CDATA[<p>
 <ol type = "a">
 <li> FALSE </li>
+<li> FALSE </li>
+<li> FALSE </li>
 <li> TRUE </li>
-<li> FALSE </li>
-<li> FALSE </li>
 </ol>
 </p>]]></text>
 </generalfeedback>
@@ -1507,26 +1507,6 @@ FALSE
 <shuffleanswers>false</shuffleanswers>
 <single>true</single>
 <answernumbering>abc</answernumbering>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
-De menor precisión
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-FALSE
-</p>]]></text>
-</feedback>
-</answer>
-<answer fraction="100" format="html">
-<text><![CDATA[<p>
-De menor amplitud
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-TRUE
-</p>]]></text>
-</feedback>
-</answer>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
 De la misma precisión
@@ -1539,7 +1519,7 @@ FALSE
 </answer>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-De mayor amplitud
+De menor precisión
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -1547,36 +1527,9 @@ FALSE
 </p>]]></text>
 </feedback>
 </answer>
-</question>
-
-
-<question type="multichoice">
-<name>
-<text> R024 Q1 : preguntas_html_R2018_0024 </text>
-</name>
-<questiontext format="html">
-<text><![CDATA[<p>
-<p><strong>R2018_0024</strong>. Sobre una muestra de 736 casos, el intervalo que estima el tiempo medio de reacción a un estímulo es (1.84, 3.06) segundos. Si la muestra hubiese sido de 831 casos, el intervalo podría ser:</p>
-</p>]]></text>
-</questiontext>
-<generalfeedback format="html">
-<text><![CDATA[<p>
-<ol type = "a">
-<li> FALSE </li>
-<li> TRUE </li>
-<li> FALSE </li>
-<li> FALSE </li>
-</ol>
-</p>]]></text>
-</generalfeedback>
-<penalty>0</penalty>
-<defaultgrade>1</defaultgrade>
-<shuffleanswers>false</shuffleanswers>
-<single>true</single>
-<answernumbering>abc</answernumbering>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-De menor precisión
+De mayor amplitud
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -1594,45 +1547,25 @@ TRUE
 </p>]]></text>
 </feedback>
 </answer>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
-De mayor amplitud
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-FALSE
-</p>]]></text>
-</feedback>
-</answer>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
-De la misma amplitud
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-FALSE
-</p>]]></text>
-</feedback>
-</answer>
 </question>
 
 
 <question type="multichoice">
 <name>
-<text> R025 Q1 : preguntas_html_R2018_0024 </text>
+<text> R024 Q1 : preguntas_html_R2018_0024 </text>
 </name>
 <questiontext format="html">
 <text><![CDATA[<p>
-<p><strong>R2018_0024</strong>. Sobre una muestra de 578 casos, el intervalo que estima el tiempo medio de reacción a un estímulo es (2.11, 3.36) segundos. Si la muestra hubiese sido de 874 casos, el intervalo podría ser:</p>
+<p><strong>R2018_0024</strong>. Sobre una muestra de 852 casos, el intervalo que estima el tiempo medio de reacción a un estímulo es (1.62, 3.24) segundos. Si la muestra hubiese sido de 954 casos, el intervalo podría ser:</p>
 </p>]]></text>
 </questiontext>
 <generalfeedback format="html">
 <text><![CDATA[<p>
 <ol type = "a">
+<li> FALSE </li>
+<li> FALSE </li>
+<li> FALSE </li>
 <li> TRUE </li>
-<li> FALSE </li>
-<li> FALSE </li>
-<li> FALSE </li>
 </ol>
 </p>]]></text>
 </generalfeedback>
@@ -1641,13 +1574,13 @@ FALSE
 <shuffleanswers>false</shuffleanswers>
 <single>true</single>
 <answernumbering>abc</answernumbering>
-<answer fraction="100" format="html">
+<answer fraction="0" format="html">
 <text><![CDATA[<p>
-De menor amplitud
+De la misma amplitud
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
-TRUE
+FALSE
 </p>]]></text>
 </feedback>
 </answer>
@@ -1663,7 +1596,74 @@ FALSE
 </answer>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-De la misma precisión
+De mayor amplitud
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+De menor amplitud
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+TRUE
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R025 Q1 : preguntas_html_R2018_0024 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p><strong>R2018_0024</strong>. Sobre una muestra de 469 casos, el intervalo que estima el tiempo medio de reacción a un estímulo es (2.3, 3.34) segundos. Si la muestra hubiese sido de 357 casos, el intervalo podría ser:</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<ol type = "a">
+<li> FALSE </li>
+<li> TRUE </li>
+<li> FALSE </li>
+<li> FALSE </li>
+</ol>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+De mayor precisión
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+De menor precisión
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+TRUE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+De menor amplitud
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -1673,7 +1673,7 @@ FALSE
 </answer>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-De mayor amplitud
+De la misma precisión
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -1690,7 +1690,7 @@ FALSE
 </name>
 <questiontext format="html">
 <text><![CDATA[<p>
-<p><strong>R2018_0024</strong>. Sobre una muestra de 324 casos, el intervalo que estima el tiempo medio de reacción a un estímulo es (1.54, 3.41) segundos. Si la muestra hubiese sido de 821 casos, el intervalo podría ser:</p>
+<p><strong>R2018_0024</strong>. Sobre una muestra de 499 casos, el intervalo que estima el tiempo medio de reacción a un estímulo es (1.96, 3.06) segundos. Si la muestra hubiese sido de 739 casos, el intervalo podría ser:</p>
 </p>]]></text>
 </questiontext>
 <generalfeedback format="html">
@@ -1710,7 +1710,7 @@ FALSE
 <answernumbering>abc</answernumbering>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-De mayor amplitud
+De menor precisión
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -1720,7 +1720,7 @@ FALSE
 </answer>
 <answer fraction="100" format="html">
 <text><![CDATA[<p>
-De mayor precisión
+De menor amplitud
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -1730,7 +1730,7 @@ TRUE
 </answer>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-De menor precisión
+De mayor amplitud
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -1757,14 +1757,14 @@ FALSE
 </name>
 <questiontext format="html">
 <text><![CDATA[<p>
-<p><strong>R2018_0024</strong>. Sobre una muestra de 790 casos, el intervalo que estima el tiempo medio de reacción a un estímulo es (1.6, 2.62) segundos. Si la muestra hubiese sido de 543 casos, el intervalo podría ser:</p>
+<p><strong>R2018_0024</strong>. Sobre una muestra de 758 casos, el intervalo que estima el tiempo medio de reacción a un estímulo es (1.21, 2.98) segundos. Si la muestra hubiese sido de 728 casos, el intervalo podría ser:</p>
 </p>]]></text>
 </questiontext>
 <generalfeedback format="html">
 <text><![CDATA[<p>
 <ol type = "a">
-<li> TRUE </li>
 <li> FALSE </li>
+<li> TRUE </li>
 <li> FALSE </li>
 <li> FALSE </li>
 </ol>
@@ -1775,16 +1775,6 @@ FALSE
 <shuffleanswers>false</shuffleanswers>
 <single>true</single>
 <answernumbering>abc</answernumbering>
-<answer fraction="100" format="html">
-<text><![CDATA[<p>
-De mayor amplitud
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-TRUE
-</p>]]></text>
-</feedback>
-</answer>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
 De menor amplitud
@@ -1795,9 +1785,19 @@ FALSE
 </p>]]></text>
 </feedback>
 </answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+De menor precisión
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+TRUE
+</p>]]></text>
+</feedback>
+</answer>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-De la misma amplitud
+De mayor precisión
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -1807,7 +1807,7 @@ FALSE
 </answer>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-De mayor precisión
+De la misma precisión
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -1824,7 +1824,7 @@ FALSE
 </name>
 <questiontext format="html">
 <text><![CDATA[<p>
-<p><strong>R2018_0024</strong>. Sobre una muestra de 383 casos, el intervalo que estima el tiempo medio de reacción a un estímulo es (1.53, 2.97) segundos. Si la muestra hubiese sido de 821 casos, el intervalo podría ser:</p>
+<p><strong>R2018_0024</strong>. Sobre una muestra de 492 casos, el intervalo que estima el tiempo medio de reacción a un estímulo es (1.62, 2.95) segundos. Si la muestra hubiese sido de 670 casos, el intervalo podría ser:</p>
 </p>]]></text>
 </questiontext>
 <generalfeedback format="html">
@@ -1844,7 +1844,7 @@ FALSE
 <answernumbering>abc</answernumbering>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-De mayor amplitud
+De menor precisión
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -1864,7 +1864,7 @@ TRUE
 </answer>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-De la misma precisión
+De la misma amplitud
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -1874,7 +1874,7 @@ FALSE
 </answer>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-De menor precisión
+De mayor amplitud
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -1891,7 +1891,7 @@ FALSE
 </name>
 <questiontext format="html">
 <text><![CDATA[<p>
-<p><strong>R2018_0024</strong>. Sobre una muestra de 611 casos, el intervalo que estima el tiempo medio de reacción a un estímulo es (2.03, 3.08) segundos. Si la muestra hubiese sido de 483 casos, el intervalo podría ser:</p>
+<p><strong>R2018_0024</strong>. Sobre una muestra de 639 casos, el intervalo que estima el tiempo medio de reacción a un estímulo es (2.18, 3.53) segundos. Si la muestra hubiese sido de 902 casos, el intervalo podría ser:</p>
 </p>]]></text>
 </questiontext>
 <generalfeedback format="html">
@@ -1911,7 +1911,7 @@ FALSE
 <answernumbering>abc</answernumbering>
 <answer fraction="100" format="html">
 <text><![CDATA[<p>
-De menor precisión
+De mayor precisión
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -1921,7 +1921,7 @@ TRUE
 </answer>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-De menor amplitud
+De menor precisión
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -1931,7 +1931,7 @@ FALSE
 </answer>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-De mayor precisión
+De la misma precisión
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -1941,7 +1941,7 @@ FALSE
 </answer>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-De la misma amplitud
+De mayor amplitud
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -1958,16 +1958,16 @@ FALSE
 </name>
 <questiontext format="html">
 <text><![CDATA[<p>
-<p><strong>R2018_0024</strong>. Sobre una muestra de 760 casos, el intervalo que estima el tiempo medio de reacción a un estímulo es (2.16, 3.74) segundos. Si la muestra hubiese sido de 770 casos, el intervalo podría ser:</p>
+<p><strong>R2018_0024</strong>. Sobre una muestra de 364 casos, el intervalo que estima el tiempo medio de reacción a un estímulo es (1.58, 2.97) segundos. Si la muestra hubiese sido de 507 casos, el intervalo podría ser:</p>
 </p>]]></text>
 </questiontext>
 <generalfeedback format="html">
 <text><![CDATA[<p>
 <ol type = "a">
 <li> FALSE </li>
+<li> FALSE </li>
+<li> FALSE </li>
 <li> TRUE </li>
-<li> FALSE </li>
-<li> FALSE </li>
 </ol>
 </p>]]></text>
 </generalfeedback>
@@ -1978,7 +1978,7 @@ FALSE
 <answernumbering>abc</answernumbering>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-De menor precisión
+De la misma amplitud
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -1986,13 +1986,13 @@ FALSE
 </p>]]></text>
 </feedback>
 </answer>
-<answer fraction="100" format="html">
+<answer fraction="0" format="html">
 <text><![CDATA[<p>
-De mayor precisión
+De menor precisión
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
-TRUE
+FALSE
 </p>]]></text>
 </feedback>
 </answer>
@@ -2006,13 +2006,13 @@ FALSE
 </p>]]></text>
 </feedback>
 </answer>
-<answer fraction="0" format="html">
+<answer fraction="100" format="html">
 <text><![CDATA[<p>
-De la misma precisión
+De menor amplitud
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
-FALSE
+TRUE
 </p>]]></text>
 </feedback>
 </answer>
@@ -2025,16 +2025,16 @@ FALSE
 </name>
 <questiontext format="html">
 <text><![CDATA[<p>
-<p><strong>R2018_0024</strong>. Sobre una muestra de 701 casos, el intervalo que estima el tiempo medio de reacción a un estímulo es (1.6, 3.27) segundos. Si la muestra hubiese sido de 748 casos, el intervalo podría ser:</p>
+<p><strong>R2018_0024</strong>. Sobre una muestra de 897 casos, el intervalo que estima el tiempo medio de reacción a un estímulo es (2.23, 3.32) segundos. Si la muestra hubiese sido de 725 casos, el intervalo podría ser:</p>
 </p>]]></text>
 </questiontext>
 <generalfeedback format="html">
 <text><![CDATA[<p>
 <ol type = "a">
 <li> FALSE </li>
-<li> FALSE </li>
-<li> FALSE </li>
 <li> TRUE </li>
+<li> FALSE </li>
+<li> FALSE </li>
 </ol>
 </p>]]></text>
 </generalfeedback>
@@ -2045,7 +2045,7 @@ FALSE
 <answernumbering>abc</answernumbering>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-De mayor amplitud
+De menor amplitud
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -2053,6 +2053,63 @@ FALSE
 </p>]]></text>
 </feedback>
 </answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+De menor precisión
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+TRUE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+De la misma precisión
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+De mayor precisión
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R032 Q1 : preguntas_html_R2018_0024 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p><strong>R2018_0024</strong>. Sobre una muestra de 321 casos, el intervalo que estima el tiempo medio de reacción a un estímulo es (2.02, 3.11) segundos. Si la muestra hubiese sido de 613 casos, el intervalo podría ser:</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<ol type = "a">
+<li> FALSE </li>
+<li> FALSE </li>
+<li> TRUE </li>
+<li> FALSE </li>
+</ol>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
 De menor precisión
@@ -2083,66 +2140,9 @@ TRUE
 </p>]]></text>
 </feedback>
 </answer>
-</question>
-
-
-<question type="multichoice">
-<name>
-<text> R032 Q1 : preguntas_html_R2018_0024 </text>
-</name>
-<questiontext format="html">
-<text><![CDATA[<p>
-<p><strong>R2018_0024</strong>. Sobre una muestra de 577 casos, el intervalo que estima el tiempo medio de reacción a un estímulo es (1.64, 3.61) segundos. Si la muestra hubiese sido de 373 casos, el intervalo podría ser:</p>
-</p>]]></text>
-</questiontext>
-<generalfeedback format="html">
-<text><![CDATA[<p>
-<ol type = "a">
-<li> TRUE </li>
-<li> FALSE </li>
-<li> FALSE </li>
-<li> FALSE </li>
-</ol>
-</p>]]></text>
-</generalfeedback>
-<penalty>0</penalty>
-<defaultgrade>1</defaultgrade>
-<shuffleanswers>false</shuffleanswers>
-<single>true</single>
-<answernumbering>abc</answernumbering>
-<answer fraction="100" format="html">
+<answer fraction="0" format="html">
 <text><![CDATA[<p>
 De mayor amplitud
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-TRUE
-</p>]]></text>
-</feedback>
-</answer>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
-De mayor precisión
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-FALSE
-</p>]]></text>
-</feedback>
-</answer>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
-De menor amplitud
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-FALSE
-</p>]]></text>
-</feedback>
-</answer>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
-De la misma precisión
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -2159,16 +2159,16 @@ FALSE
 </name>
 <questiontext format="html">
 <text><![CDATA[<p>
-<p><strong>R2018_0024</strong>. Sobre una muestra de 388 casos, el intervalo que estima el tiempo medio de reacción a un estímulo es (1.95, 3.52) segundos. Si la muestra hubiese sido de 716 casos, el intervalo podría ser:</p>
+<p><strong>R2018_0024</strong>. Sobre una muestra de 410 casos, el intervalo que estima el tiempo medio de reacción a un estímulo es (1.34, 2.71) segundos. Si la muestra hubiese sido de 875 casos, el intervalo podría ser:</p>
 </p>]]></text>
 </questiontext>
 <generalfeedback format="html">
 <text><![CDATA[<p>
 <ol type = "a">
-<li> FALSE </li>
-<li> FALSE </li>
-<li> FALSE </li>
 <li> TRUE </li>
+<li> FALSE </li>
+<li> FALSE </li>
+<li> FALSE </li>
 </ol>
 </p>]]></text>
 </generalfeedback>
@@ -2177,23 +2177,13 @@ FALSE
 <shuffleanswers>false</shuffleanswers>
 <single>true</single>
 <answernumbering>abc</answernumbering>
-<answer fraction="0" format="html">
+<answer fraction="100" format="html">
 <text><![CDATA[<p>
-De menor precisión
+De mayor precisión
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
-FALSE
-</p>]]></text>
-</feedback>
-</answer>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
-De mayor amplitud
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-FALSE
+TRUE
 </p>]]></text>
 </feedback>
 </answer>
@@ -2207,13 +2197,23 @@ FALSE
 </p>]]></text>
 </feedback>
 </answer>
-<answer fraction="100" format="html">
+<answer fraction="0" format="html">
 <text><![CDATA[<p>
-De mayor precisión
+De mayor amplitud
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
-TRUE
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+De menor precisión
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
 </p>]]></text>
 </feedback>
 </answer>
@@ -2226,14 +2226,14 @@ TRUE
 </name>
 <questiontext format="html">
 <text><![CDATA[<p>
-<p><strong>R2018_0024</strong>. Sobre una muestra de 972 casos, el intervalo que estima el tiempo medio de reacción a un estímulo es (1.94, 3.64) segundos. Si la muestra hubiese sido de 408 casos, el intervalo podría ser:</p>
+<p><strong>R2018_0024</strong>. Sobre una muestra de 337 casos, el intervalo que estima el tiempo medio de reacción a un estímulo es (1.71, 3.69) segundos. Si la muestra hubiese sido de 397 casos, el intervalo podría ser:</p>
 </p>]]></text>
 </questiontext>
 <generalfeedback format="html">
 <text><![CDATA[<p>
 <ol type = "a">
-<li> FALSE </li>
 <li> TRUE </li>
+<li> FALSE </li>
 <li> FALSE </li>
 <li> FALSE </li>
 </ol>
@@ -2244,19 +2244,9 @@ TRUE
 <shuffleanswers>false</shuffleanswers>
 <single>true</single>
 <answernumbering>abc</answernumbering>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
-De mayor precisión
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-FALSE
-</p>]]></text>
-</feedback>
-</answer>
 <answer fraction="100" format="html">
 <text><![CDATA[<p>
-De mayor amplitud
+De mayor precisión
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -2266,7 +2256,7 @@ TRUE
 </answer>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-De menor amplitud
+De la misma precisión
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -2276,7 +2266,17 @@ FALSE
 </answer>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-De la misma precisión
+De mayor amplitud
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+De menor precisión
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -2293,15 +2293,15 @@ FALSE
 </name>
 <questiontext format="html">
 <text><![CDATA[<p>
-<p><strong>R2018_0024</strong>. Sobre una muestra de 574 casos, el intervalo que estima el tiempo medio de reacción a un estímulo es (1.52, 3.26) segundos. Si la muestra hubiese sido de 335 casos, el intervalo podría ser:</p>
+<p><strong>R2018_0024</strong>. Sobre una muestra de 699 casos, el intervalo que estima el tiempo medio de reacción a un estímulo es (1.92, 3.83) segundos. Si la muestra hubiese sido de 437 casos, el intervalo podría ser:</p>
 </p>]]></text>
 </questiontext>
 <generalfeedback format="html">
 <text><![CDATA[<p>
 <ol type = "a">
+<li> FALSE </li>
+<li> FALSE </li>
 <li> TRUE </li>
-<li> FALSE </li>
-<li> FALSE </li>
 <li> FALSE </li>
 </ol>
 </p>]]></text>
@@ -2311,19 +2311,9 @@ FALSE
 <shuffleanswers>false</shuffleanswers>
 <single>true</single>
 <answernumbering>abc</answernumbering>
-<answer fraction="100" format="html">
-<text><![CDATA[<p>
-De menor precisión
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-TRUE
-</p>]]></text>
-</feedback>
-</answer>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-De mayor precisión
+De menor amplitud
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -2341,9 +2331,19 @@ FALSE
 </p>]]></text>
 </feedback>
 </answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+De menor precisión
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+TRUE
+</p>]]></text>
+</feedback>
+</answer>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-De menor amplitud
+De mayor precisión
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -2360,16 +2360,16 @@ FALSE
 </name>
 <questiontext format="html">
 <text><![CDATA[<p>
-<p><strong>R2018_0024</strong>. Sobre una muestra de 764 casos, el intervalo que estima el tiempo medio de reacción a un estímulo es (2.15, 3.67) segundos. Si la muestra hubiese sido de 301 casos, el intervalo podría ser:</p>
+<p><strong>R2018_0024</strong>. Sobre una muestra de 991 casos, el intervalo que estima el tiempo medio de reacción a un estímulo es (1.71, 3.35) segundos. Si la muestra hubiese sido de 791 casos, el intervalo podría ser:</p>
 </p>]]></text>
 </questiontext>
 <generalfeedback format="html">
 <text><![CDATA[<p>
 <ol type = "a">
+<li> FALSE </li>
+<li> FALSE </li>
+<li> FALSE </li>
 <li> TRUE </li>
-<li> FALSE </li>
-<li> FALSE </li>
-<li> FALSE </li>
 </ol>
 </p>]]></text>
 </generalfeedback>
@@ -2378,16 +2378,6 @@ FALSE
 <shuffleanswers>false</shuffleanswers>
 <single>true</single>
 <answernumbering>abc</answernumbering>
-<answer fraction="100" format="html">
-<text><![CDATA[<p>
-De menor precisión
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-TRUE
-</p>]]></text>
-</feedback>
-</answer>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
 De mayor precisión
@@ -2410,54 +2400,7 @@ FALSE
 </answer>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-De la misma amplitud
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-FALSE
-</p>]]></text>
-</feedback>
-</answer>
-</question>
-
-
-<question type="multichoice">
-<name>
-<text> R037 Q1 : preguntas_html_R2018_0024 </text>
-</name>
-<questiontext format="html">
-<text><![CDATA[<p>
-<p><strong>R2018_0024</strong>. Sobre una muestra de 769 casos, el intervalo que estima el tiempo medio de reacción a un estímulo es (2.29, 3.35) segundos. Si la muestra hubiese sido de 422 casos, el intervalo podría ser:</p>
-</p>]]></text>
-</questiontext>
-<generalfeedback format="html">
-<text><![CDATA[<p>
-<ol type = "a">
-<li> FALSE </li>
-<li> FALSE </li>
-<li> TRUE </li>
-<li> FALSE </li>
-</ol>
-</p>]]></text>
-</generalfeedback>
-<penalty>0</penalty>
-<defaultgrade>1</defaultgrade>
-<shuffleanswers>false</shuffleanswers>
-<single>true</single>
-<answernumbering>abc</answernumbering>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
 De la misma precisión
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-FALSE
-</p>]]></text>
-</feedback>
-</answer>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
-De mayor precisión
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -2475,9 +2418,66 @@ TRUE
 </p>]]></text>
 </feedback>
 </answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R037 Q1 : preguntas_html_R2018_0024 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p><strong>R2018_0024</strong>. Sobre una muestra de 549 casos, el intervalo que estima el tiempo medio de reacción a un estímulo es (2.1, 3.74) segundos. Si la muestra hubiese sido de 761 casos, el intervalo podría ser:</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<ol type = "a">
+<li> TRUE </li>
+<li> FALSE </li>
+<li> FALSE </li>
+<li> FALSE </li>
+</ol>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+De mayor precisión
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+TRUE
+</p>]]></text>
+</feedback>
+</answer>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-De menor amplitud
+De la misma precisión
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+De menor precisión
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+De mayor amplitud
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -2494,14 +2494,14 @@ FALSE
 </name>
 <questiontext format="html">
 <text><![CDATA[<p>
-<p><strong>R2018_0024</strong>. Sobre una muestra de 757 casos, el intervalo que estima el tiempo medio de reacción a un estímulo es (1.88, 3.32) segundos. Si la muestra hubiese sido de 956 casos, el intervalo podría ser:</p>
+<p><strong>R2018_0024</strong>. Sobre una muestra de 701 casos, el intervalo que estima el tiempo medio de reacción a un estímulo es (2.02, 3.63) segundos. Si la muestra hubiese sido de 523 casos, el intervalo podría ser:</p>
 </p>]]></text>
 </questiontext>
 <generalfeedback format="html">
 <text><![CDATA[<p>
 <ol type = "a">
-<li> FALSE </li>
 <li> TRUE </li>
+<li> FALSE </li>
 <li> FALSE </li>
 <li> FALSE </li>
 </ol>
@@ -2512,19 +2512,9 @@ FALSE
 <shuffleanswers>false</shuffleanswers>
 <single>true</single>
 <answernumbering>abc</answernumbering>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
-De la misma precisión
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-FALSE
-</p>]]></text>
-</feedback>
-</answer>
 <answer fraction="100" format="html">
 <text><![CDATA[<p>
-De mayor precisión
+De mayor amplitud
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -2534,54 +2524,7 @@ TRUE
 </answer>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-De menor precisión
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-FALSE
-</p>]]></text>
-</feedback>
-</answer>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
-De mayor amplitud
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-FALSE
-</p>]]></text>
-</feedback>
-</answer>
-</question>
-
-
-<question type="multichoice">
-<name>
-<text> R039 Q1 : preguntas_html_R2018_0024 </text>
-</name>
-<questiontext format="html">
-<text><![CDATA[<p>
-<p><strong>R2018_0024</strong>. Sobre una muestra de 885 casos, el intervalo que estima el tiempo medio de reacción a un estímulo es (1.59, 3.12) segundos. Si la muestra hubiese sido de 360 casos, el intervalo podría ser:</p>
-</p>]]></text>
-</questiontext>
-<generalfeedback format="html">
-<text><![CDATA[<p>
-<ol type = "a">
-<li> FALSE </li>
-<li> FALSE </li>
-<li> TRUE </li>
-<li> FALSE </li>
-</ol>
-</p>]]></text>
-</generalfeedback>
-<penalty>0</penalty>
-<defaultgrade>1</defaultgrade>
-<shuffleanswers>false</shuffleanswers>
-<single>true</single>
-<answernumbering>abc</answernumbering>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
-De mayor precisión
+De menor amplitud
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -2599,13 +2542,70 @@ FALSE
 </p>]]></text>
 </feedback>
 </answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+De mayor precisión
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R039 Q1 : preguntas_html_R2018_0024 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p><strong>R2018_0024</strong>. Sobre una muestra de 681 casos, el intervalo que estima el tiempo medio de reacción a un estímulo es (1.56, 2.69) segundos. Si la muestra hubiese sido de 560 casos, el intervalo podría ser:</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<ol type = "a">
+<li> TRUE </li>
+<li> FALSE </li>
+<li> FALSE </li>
+<li> FALSE </li>
+</ol>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
 <answer fraction="100" format="html">
 <text><![CDATA[<p>
-De mayor amplitud
+De menor precisión
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
 TRUE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+De la misma amplitud
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+De mayor precisión
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
 </p>]]></text>
 </feedback>
 </answer>
@@ -2628,7 +2628,7 @@ FALSE
 </name>
 <questiontext format="html">
 <text><![CDATA[<p>
-<p><strong>R2018_0024</strong>. Sobre una muestra de 581 casos, el intervalo que estima el tiempo medio de reacción a un estímulo es (1.99, 3.7) segundos. Si la muestra hubiese sido de 800 casos, el intervalo podría ser:</p>
+<p><strong>R2018_0024</strong>. Sobre una muestra de 612 casos, el intervalo que estima el tiempo medio de reacción a un estímulo es (1.45, 2.84) segundos. Si la muestra hubiese sido de 347 casos, el intervalo podría ser:</p>
 </p>]]></text>
 </questiontext>
 <generalfeedback format="html">
@@ -2658,7 +2658,7 @@ FALSE
 </answer>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-De menor precisión
+De mayor precisión
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -2668,7 +2668,7 @@ FALSE
 </answer>
 <answer fraction="100" format="html">
 <text><![CDATA[<p>
-De menor amplitud
+De menor precisión
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -2678,7 +2678,7 @@ TRUE
 </answer>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-De mayor amplitud
+De menor amplitud
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -2695,7 +2695,7 @@ FALSE
 </name>
 <questiontext format="html">
 <text><![CDATA[<p>
-<p><strong>R2018_0024</strong>. Sobre una muestra de 383 casos, el intervalo que estima el tiempo medio de reacción a un estímulo es (1.66, 2.93) segundos. Si la muestra hubiese sido de 855 casos, el intervalo podría ser:</p>
+<p><strong>R2018_0024</strong>. Sobre una muestra de 909 casos, el intervalo que estima el tiempo medio de reacción a un estímulo es (1.33, 3.19) segundos. Si la muestra hubiese sido de 590 casos, el intervalo podría ser:</p>
 </p>]]></text>
 </questiontext>
 <generalfeedback format="html">
@@ -2703,8 +2703,8 @@ FALSE
 <ol type = "a">
 <li> FALSE </li>
 <li> FALSE </li>
-<li> FALSE </li>
 <li> TRUE </li>
+<li> FALSE </li>
 </ol>
 </p>]]></text>
 </generalfeedback>
@@ -2715,27 +2715,17 @@ FALSE
 <answernumbering>abc</answernumbering>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
+De mayor precisión
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
 De la misma precisión
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-FALSE
-</p>]]></text>
-</feedback>
-</answer>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
-De mayor amplitud
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-FALSE
-</p>]]></text>
-</feedback>
-</answer>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
-De menor precisión
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -2745,11 +2735,21 @@ FALSE
 </answer>
 <answer fraction="100" format="html">
 <text><![CDATA[<p>
-De menor amplitud
+De mayor amplitud
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
 TRUE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+De menor amplitud
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
 </p>]]></text>
 </feedback>
 </answer>
@@ -2762,7 +2762,7 @@ TRUE
 </name>
 <questiontext format="html">
 <text><![CDATA[<p>
-<p><strong>R2018_0024</strong>. Sobre una muestra de 931 casos, el intervalo que estima el tiempo medio de reacción a un estímulo es (2.1, 3.74) segundos. Si la muestra hubiese sido de 657 casos, el intervalo podría ser:</p>
+<p><strong>R2018_0024</strong>. Sobre una muestra de 851 casos, el intervalo que estima el tiempo medio de reacción a un estímulo es (1.11, 3.06) segundos. Si la muestra hubiese sido de 900 casos, el intervalo podría ser:</p>
 </p>]]></text>
 </questiontext>
 <generalfeedback format="html">
@@ -2770,75 +2770,8 @@ TRUE
 <ol type = "a">
 <li> FALSE </li>
 <li> FALSE </li>
-<li> TRUE </li>
-<li> FALSE </li>
-</ol>
-</p>]]></text>
-</generalfeedback>
-<penalty>0</penalty>
-<defaultgrade>1</defaultgrade>
-<shuffleanswers>false</shuffleanswers>
-<single>true</single>
-<answernumbering>abc</answernumbering>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
-De menor amplitud
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-FALSE
-</p>]]></text>
-</feedback>
-</answer>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
-De la misma amplitud
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-FALSE
-</p>]]></text>
-</feedback>
-</answer>
-<answer fraction="100" format="html">
-<text><![CDATA[<p>
-De menor precisión
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-TRUE
-</p>]]></text>
-</feedback>
-</answer>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
-De mayor precisión
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-FALSE
-</p>]]></text>
-</feedback>
-</answer>
-</question>
-
-
-<question type="multichoice">
-<name>
-<text> R043 Q1 : preguntas_html_R2018_0024 </text>
-</name>
-<questiontext format="html">
-<text><![CDATA[<p>
-<p><strong>R2018_0024</strong>. Sobre una muestra de 537 casos, el intervalo que estima el tiempo medio de reacción a un estímulo es (1.77, 3.63) segundos. Si la muestra hubiese sido de 623 casos, el intervalo podría ser:</p>
-</p>]]></text>
-</questiontext>
-<generalfeedback format="html">
-<text><![CDATA[<p>
-<ol type = "a">
-<li> FALSE </li>
 <li> FALSE </li>
 <li> TRUE </li>
-<li> FALSE </li>
 </ol>
 </p>]]></text>
 </generalfeedback>
@@ -2867,6 +2800,16 @@ FALSE
 </p>]]></text>
 </feedback>
 </answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+De la misma precisión
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
 <answer fraction="100" format="html">
 <text><![CDATA[<p>
 De mayor precisión
@@ -2874,6 +2817,63 @@ De mayor precisión
 <feedback format="html">
 <text><![CDATA[<p>
 TRUE
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R043 Q1 : preguntas_html_R2018_0024 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p><strong>R2018_0024</strong>. Sobre una muestra de 798 casos, el intervalo que estima el tiempo medio de reacción a un estímulo es (2.28, 3.33) segundos. Si la muestra hubiese sido de 884 casos, el intervalo podría ser:</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<ol type = "a">
+<li> TRUE </li>
+<li> FALSE </li>
+<li> FALSE </li>
+<li> FALSE </li>
+</ol>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+De menor amplitud
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+TRUE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+De menor precisión
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+De mayor amplitud
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
 </p>]]></text>
 </feedback>
 </answer>
@@ -2896,82 +2896,15 @@ FALSE
 </name>
 <questiontext format="html">
 <text><![CDATA[<p>
-<p><strong>R2018_0024</strong>. Sobre una muestra de 555 casos, el intervalo que estima el tiempo medio de reacción a un estímulo es (2.2, 3.74) segundos. Si la muestra hubiese sido de 495 casos, el intervalo podría ser:</p>
+<p><strong>R2018_0024</strong>. Sobre una muestra de 820 casos, el intervalo que estima el tiempo medio de reacción a un estímulo es (2.01, 3.52) segundos. Si la muestra hubiese sido de 369 casos, el intervalo podría ser:</p>
 </p>]]></text>
 </questiontext>
 <generalfeedback format="html">
 <text><![CDATA[<p>
 <ol type = "a">
-<li> FALSE </li>
-<li> FALSE </li>
-<li> FALSE </li>
 <li> TRUE </li>
-</ol>
-</p>]]></text>
-</generalfeedback>
-<penalty>0</penalty>
-<defaultgrade>1</defaultgrade>
-<shuffleanswers>false</shuffleanswers>
-<single>true</single>
-<answernumbering>abc</answernumbering>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
-De menor amplitud
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-FALSE
-</p>]]></text>
-</feedback>
-</answer>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
-De la misma amplitud
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-FALSE
-</p>]]></text>
-</feedback>
-</answer>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
-De mayor precisión
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-FALSE
-</p>]]></text>
-</feedback>
-</answer>
-<answer fraction="100" format="html">
-<text><![CDATA[<p>
-De mayor amplitud
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-TRUE
-</p>]]></text>
-</feedback>
-</answer>
-</question>
-
-
-<question type="multichoice">
-<name>
-<text> R045 Q1 : preguntas_html_R2018_0024 </text>
-</name>
-<questiontext format="html">
-<text><![CDATA[<p>
-<p><strong>R2018_0024</strong>. Sobre una muestra de 708 casos, el intervalo que estima el tiempo medio de reacción a un estímulo es (1.5, 2.98) segundos. Si la muestra hubiese sido de 668 casos, el intervalo podría ser:</p>
-</p>]]></text>
-</questiontext>
-<generalfeedback format="html">
-<text><![CDATA[<p>
-<ol type = "a">
 <li> FALSE </li>
 <li> FALSE </li>
-<li> TRUE </li>
 <li> FALSE </li>
 </ol>
 </p>]]></text>
@@ -2981,29 +2914,9 @@ TRUE
 <shuffleanswers>false</shuffleanswers>
 <single>true</single>
 <answernumbering>abc</answernumbering>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
-De mayor precisión
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-FALSE
-</p>]]></text>
-</feedback>
-</answer>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
-De menor amplitud
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-FALSE
-</p>]]></text>
-</feedback>
-</answer>
 <answer fraction="100" format="html">
 <text><![CDATA[<p>
-De mayor amplitud
+De menor precisión
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -3021,24 +2934,44 @@ FALSE
 </p>]]></text>
 </feedback>
 </answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+De menor amplitud
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+De mayor precisión
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
 </question>
 
 
 <question type="multichoice">
 <name>
-<text> R046 Q1 : preguntas_html_R2018_0024 </text>
+<text> R045 Q1 : preguntas_html_R2018_0024 </text>
 </name>
 <questiontext format="html">
 <text><![CDATA[<p>
-<p><strong>R2018_0024</strong>. Sobre una muestra de 573 casos, el intervalo que estima el tiempo medio de reacción a un estímulo es (1.44, 3.12) segundos. Si la muestra hubiese sido de 472 casos, el intervalo podría ser:</p>
+<p><strong>R2018_0024</strong>. Sobre una muestra de 384 casos, el intervalo que estima el tiempo medio de reacción a un estímulo es (1.45, 2.67) segundos. Si la muestra hubiese sido de 550 casos, el intervalo podría ser:</p>
 </p>]]></text>
 </questiontext>
 <generalfeedback format="html">
 <text><![CDATA[<p>
 <ol type = "a">
 <li> FALSE </li>
-<li> TRUE </li>
 <li> FALSE </li>
+<li> TRUE </li>
 <li> FALSE </li>
 </ol>
 </p>]]></text>
@@ -3050,7 +2983,17 @@ FALSE
 <answernumbering>abc</answernumbering>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-De mayor precisión
+De la misma precisión
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+De menor precisión
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -3060,7 +3003,7 @@ FALSE
 </answer>
 <answer fraction="100" format="html">
 <text><![CDATA[<p>
-De mayor amplitud
+De mayor precisión
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -3070,7 +3013,64 @@ TRUE
 </answer>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-De menor amplitud
+De mayor amplitud
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R046 Q1 : preguntas_html_R2018_0024 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p><strong>R2018_0024</strong>. Sobre una muestra de 371 casos, el intervalo que estima el tiempo medio de reacción a un estímulo es (1.77, 2.91) segundos. Si la muestra hubiese sido de 764 casos, el intervalo podría ser:</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<ol type = "a">
+<li> TRUE </li>
+<li> FALSE </li>
+<li> FALSE </li>
+<li> FALSE </li>
+</ol>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+De mayor precisión
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+TRUE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+De mayor amplitud
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+De menor precisión
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -3097,7 +3097,7 @@ FALSE
 </name>
 <questiontext format="html">
 <text><![CDATA[<p>
-<p><strong>R2018_0024</strong>. Sobre una muestra de 451 casos, el intervalo que estima el tiempo medio de reacción a un estímulo es (1.67, 3.36) segundos. Si la muestra hubiese sido de 642 casos, el intervalo podría ser:</p>
+<p><strong>R2018_0024</strong>. Sobre una muestra de 922 casos, el intervalo que estima el tiempo medio de reacción a un estímulo es (2.06, 3.88) segundos. Si la muestra hubiese sido de 887 casos, el intervalo podría ser:</p>
 </p>]]></text>
 </questiontext>
 <generalfeedback format="html">
@@ -3117,27 +3117,27 @@ FALSE
 <answernumbering>abc</answernumbering>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
+De mayor precisión
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+De menor amplitud
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
 De la misma precisión
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-FALSE
-</p>]]></text>
-</feedback>
-</answer>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
-De menor precisión
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-FALSE
-</p>]]></text>
-</feedback>
-</answer>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
-De mayor amplitud
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -3147,7 +3147,7 @@ FALSE
 </answer>
 <answer fraction="100" format="html">
 <text><![CDATA[<p>
-De mayor precisión
+De menor precisión
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -3164,16 +3164,16 @@ TRUE
 </name>
 <questiontext format="html">
 <text><![CDATA[<p>
-<p><strong>R2018_0024</strong>. Sobre una muestra de 920 casos, el intervalo que estima el tiempo medio de reacción a un estímulo es (1.97, 3.76) segundos. Si la muestra hubiese sido de 623 casos, el intervalo podría ser:</p>
+<p><strong>R2018_0024</strong>. Sobre una muestra de 440 casos, el intervalo que estima el tiempo medio de reacción a un estímulo es (2.07, 3.8) segundos. Si la muestra hubiese sido de 682 casos, el intervalo podría ser:</p>
 </p>]]></text>
 </questiontext>
 <generalfeedback format="html">
 <text><![CDATA[<p>
 <ol type = "a">
+<li> FALSE </li>
+<li> FALSE </li>
+<li> FALSE </li>
 <li> TRUE </li>
-<li> FALSE </li>
-<li> FALSE </li>
-<li> FALSE </li>
 </ol>
 </p>]]></text>
 </generalfeedback>
@@ -3182,19 +3182,29 @@ TRUE
 <shuffleanswers>false</shuffleanswers>
 <single>true</single>
 <answernumbering>abc</answernumbering>
-<answer fraction="100" format="html">
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+De menor precisión
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
 <text><![CDATA[<p>
 De mayor amplitud
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
-TRUE
+FALSE
 </p>]]></text>
 </feedback>
 </answer>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-De mayor precisión
+De la misma precisión
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -3202,23 +3212,13 @@ FALSE
 </p>]]></text>
 </feedback>
 </answer>
-<answer fraction="0" format="html">
+<answer fraction="100" format="html">
 <text><![CDATA[<p>
 De menor amplitud
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
-FALSE
-</p>]]></text>
-</feedback>
-</answer>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
-De la misma amplitud
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-FALSE
+TRUE
 </p>]]></text>
 </feedback>
 </answer>
@@ -3231,7 +3231,7 @@ FALSE
 </name>
 <questiontext format="html">
 <text><![CDATA[<p>
-<p><strong>R2018_0024</strong>. Sobre una muestra de 362 casos, el intervalo que estima el tiempo medio de reacción a un estímulo es (1.71, 3.09) segundos. Si la muestra hubiese sido de 381 casos, el intervalo podría ser:</p>
+<p><strong>R2018_0024</strong>. Sobre una muestra de 788 casos, el intervalo que estima el tiempo medio de reacción a un estímulo es (2.28, 3.42) segundos. Si la muestra hubiese sido de 857 casos, el intervalo podría ser:</p>
 </p>]]></text>
 </questiontext>
 <generalfeedback format="html">
@@ -3239,8 +3239,8 @@ FALSE
 <ol type = "a">
 <li> FALSE </li>
 <li> FALSE </li>
-<li> TRUE </li>
 <li> FALSE </li>
+<li> TRUE </li>
 </ol>
 </p>]]></text>
 </generalfeedback>
@@ -3251,7 +3251,7 @@ FALSE
 <answernumbering>abc</answernumbering>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-De menor precisión
+De mayor amplitud
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -3269,6 +3269,16 @@ FALSE
 </p>]]></text>
 </feedback>
 </answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+De menor precisión
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
 <answer fraction="100" format="html">
 <text><![CDATA[<p>
 De mayor precisión
@@ -3276,16 +3286,6 @@ De mayor precisión
 <feedback format="html">
 <text><![CDATA[<p>
 TRUE
-</p>]]></text>
-</feedback>
-</answer>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
-De mayor amplitud
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-FALSE
 </p>]]></text>
 </feedback>
 </answer>
@@ -3298,7 +3298,7 @@ FALSE
 </name>
 <questiontext format="html">
 <text><![CDATA[<p>
-<p><strong>R2018_0024</strong>. Sobre una muestra de 705 casos, el intervalo que estima el tiempo medio de reacción a un estímulo es (1.1, 3.08) segundos. Si la muestra hubiese sido de 987 casos, el intervalo podría ser:</p>
+<p><strong>R2018_0024</strong>. Sobre una muestra de 525 casos, el intervalo que estima el tiempo medio de reacción a un estímulo es (1.89, 3.57) segundos. Si la muestra hubiese sido de 313 casos, el intervalo podría ser:</p>
 </p>]]></text>
 </questiontext>
 <generalfeedback format="html">
@@ -3306,8 +3306,8 @@ FALSE
 <ol type = "a">
 <li> FALSE </li>
 <li> FALSE </li>
-<li> TRUE </li>
 <li> FALSE </li>
+<li> TRUE </li>
 </ol>
 </p>]]></text>
 </generalfeedback>
@@ -3318,7 +3318,7 @@ FALSE
 <answernumbering>abc</answernumbering>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-De la misma amplitud
+De mayor precisión
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -3328,7 +3328,17 @@ FALSE
 </answer>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-De menor precisión
+De menor amplitud
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+De la misma precisión
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -3338,21 +3348,11 @@ FALSE
 </answer>
 <answer fraction="100" format="html">
 <text><![CDATA[<p>
-De menor amplitud
+De menor precisión
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
 TRUE
-</p>]]></text>
-</feedback>
-</answer>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
-De mayor amplitud
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-FALSE
 </p>]]></text>
 </feedback>
 </answer>
@@ -3365,16 +3365,16 @@ FALSE
 </name>
 <questiontext format="html">
 <text><![CDATA[<p>
-<p><strong>R2018_0024</strong>. Sobre una muestra de 647 casos, el intervalo que estima el tiempo medio de reacción a un estímulo es (1.86, 2.88) segundos. Si la muestra hubiese sido de 618 casos, el intervalo podría ser:</p>
+<p><strong>R2018_0024</strong>. Sobre una muestra de 644 casos, el intervalo que estima el tiempo medio de reacción a un estímulo es (1.71, 3.09) segundos. Si la muestra hubiese sido de 399 casos, el intervalo podría ser:</p>
 </p>]]></text>
 </questiontext>
 <generalfeedback format="html">
 <text><![CDATA[<p>
 <ol type = "a">
 <li> FALSE </li>
+<li> FALSE </li>
+<li> FALSE </li>
 <li> TRUE </li>
-<li> FALSE </li>
-<li> FALSE </li>
 </ol>
 </p>]]></text>
 </generalfeedback>
@@ -3385,7 +3385,7 @@ FALSE
 <answernumbering>abc</answernumbering>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-De menor amplitud
+De la misma amplitud
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -3393,19 +3393,9 @@ FALSE
 </p>]]></text>
 </feedback>
 </answer>
-<answer fraction="100" format="html">
-<text><![CDATA[<p>
-De menor precisión
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-TRUE
-</p>]]></text>
-</feedback>
-</answer>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-De la misma amplitud
+De menor amplitud
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -3420,6 +3410,16 @@ De mayor precisión
 <feedback format="html">
 <text><![CDATA[<p>
 FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+De menor precisión
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+TRUE
 </p>]]></text>
 </feedback>
 </answer>
@@ -3432,16 +3432,16 @@ FALSE
 </name>
 <questiontext format="html">
 <text><![CDATA[<p>
-<p><strong>R2018_0024</strong>. Sobre una muestra de 356 casos, el intervalo que estima el tiempo medio de reacción a un estímulo es (1.66, 3.2) segundos. Si la muestra hubiese sido de 836 casos, el intervalo podría ser:</p>
+<p><strong>R2018_0024</strong>. Sobre una muestra de 675 casos, el intervalo que estima el tiempo medio de reacción a un estímulo es (1.39, 3.24) segundos. Si la muestra hubiese sido de 908 casos, el intervalo podría ser:</p>
 </p>]]></text>
 </questiontext>
 <generalfeedback format="html">
 <text><![CDATA[<p>
 <ol type = "a">
-<li> FALSE </li>
-<li> FALSE </li>
-<li> FALSE </li>
 <li> TRUE </li>
+<li> FALSE </li>
+<li> FALSE </li>
+<li> FALSE </li>
 </ol>
 </p>]]></text>
 </generalfeedback>
@@ -3450,6 +3450,26 @@ FALSE
 <shuffleanswers>false</shuffleanswers>
 <single>true</single>
 <answernumbering>abc</answernumbering>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+De mayor precisión
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+TRUE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+De mayor amplitud
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
 De la misma precisión
@@ -3467,26 +3487,6 @@ De menor precisión
 <feedback format="html">
 <text><![CDATA[<p>
 FALSE
-</p>]]></text>
-</feedback>
-</answer>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
-De mayor amplitud
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-FALSE
-</p>]]></text>
-</feedback>
-</answer>
-<answer fraction="100" format="html">
-<text><![CDATA[<p>
-De mayor precisión
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-TRUE
 </p>]]></text>
 </feedback>
 </answer>
@@ -3499,16 +3499,16 @@ TRUE
 </name>
 <questiontext format="html">
 <text><![CDATA[<p>
-<p><strong>R2018_0024</strong>. Sobre una muestra de 429 casos, el intervalo que estima el tiempo medio de reacción a un estímulo es (1.32, 3.17) segundos. Si la muestra hubiese sido de 738 casos, el intervalo podría ser:</p>
+<p><strong>R2018_0024</strong>. Sobre una muestra de 784 casos, el intervalo que estima el tiempo medio de reacción a un estímulo es (1.92, 3.34) segundos. Si la muestra hubiese sido de 751 casos, el intervalo podría ser:</p>
 </p>]]></text>
 </questiontext>
 <generalfeedback format="html">
 <text><![CDATA[<p>
 <ol type = "a">
 <li> FALSE </li>
+<li> FALSE </li>
+<li> FALSE </li>
 <li> TRUE </li>
-<li> FALSE </li>
-<li> FALSE </li>
 </ol>
 </p>]]></text>
 </generalfeedback>
@@ -3518,139 +3518,15 @@ TRUE
 <single>true</single>
 <answernumbering>abc</answernumbering>
 <answer fraction="0" format="html">
-<text><![CDATA[<p>
-De mayor amplitud
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-FALSE
-</p>]]></text>
-</feedback>
-</answer>
-<answer fraction="100" format="html">
 <text><![CDATA[<p>
 De menor amplitud
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
-TRUE
-</p>]]></text>
-</feedback>
-</answer>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
-De menor precisión
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
 FALSE
 </p>]]></text>
 </feedback>
 </answer>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
-De la misma precisión
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-FALSE
-</p>]]></text>
-</feedback>
-</answer>
-</question>
-
-
-<question type="multichoice">
-<name>
-<text> R054 Q1 : preguntas_html_R2018_0024 </text>
-</name>
-<questiontext format="html">
-<text><![CDATA[<p>
-<p><strong>R2018_0024</strong>. Sobre una muestra de 391 casos, el intervalo que estima el tiempo medio de reacción a un estímulo es (2.05, 3.28) segundos. Si la muestra hubiese sido de 712 casos, el intervalo podría ser:</p>
-</p>]]></text>
-</questiontext>
-<generalfeedback format="html">
-<text><![CDATA[<p>
-<ol type = "a">
-<li> FALSE </li>
-<li> FALSE </li>
-<li> FALSE </li>
-<li> TRUE </li>
-</ol>
-</p>]]></text>
-</generalfeedback>
-<penalty>0</penalty>
-<defaultgrade>1</defaultgrade>
-<shuffleanswers>false</shuffleanswers>
-<single>true</single>
-<answernumbering>abc</answernumbering>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
-De mayor amplitud
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-FALSE
-</p>]]></text>
-</feedback>
-</answer>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
-De menor precisión
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-FALSE
-</p>]]></text>
-</feedback>
-</answer>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
-De la misma precisión
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-FALSE
-</p>]]></text>
-</feedback>
-</answer>
-<answer fraction="100" format="html">
-<text><![CDATA[<p>
-De menor amplitud
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-TRUE
-</p>]]></text>
-</feedback>
-</answer>
-</question>
-
-
-<question type="multichoice">
-<name>
-<text> R055 Q1 : preguntas_html_R2018_0024 </text>
-</name>
-<questiontext format="html">
-<text><![CDATA[<p>
-<p><strong>R2018_0024</strong>. Sobre una muestra de 996 casos, el intervalo que estima el tiempo medio de reacción a un estímulo es (1.98, 3.17) segundos. Si la muestra hubiese sido de 953 casos, el intervalo podría ser:</p>
-</p>]]></text>
-</questiontext>
-<generalfeedback format="html">
-<text><![CDATA[<p>
-<ol type = "a">
-<li> FALSE </li>
-<li> FALSE </li>
-<li> FALSE </li>
-<li> TRUE </li>
-</ol>
-</p>]]></text>
-</generalfeedback>
-<penalty>0</penalty>
-<defaultgrade>1</defaultgrade>
-<shuffleanswers>false</shuffleanswers>
-<single>true</single>
-<answernumbering>abc</answernumbering>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
 De mayor precisión
@@ -3663,11 +3539,58 @@ FALSE
 </answer>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-De menor amplitud
+De la misma precisión
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
 FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+De menor precisión
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+TRUE
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R054 Q1 : preguntas_html_R2018_0024 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p><strong>R2018_0024</strong>. Sobre una muestra de 950 casos, el intervalo que estima el tiempo medio de reacción a un estímulo es (1.66, 3.46) segundos. Si la muestra hubiese sido de 666 casos, el intervalo podría ser:</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<ol type = "a">
+<li> TRUE </li>
+<li> FALSE </li>
+<li> FALSE </li>
+<li> FALSE </li>
+</ol>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+De mayor amplitud
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+TRUE
 </p>]]></text>
 </feedback>
 </answer>
@@ -3681,13 +3604,90 @@ FALSE
 </p>]]></text>
 </feedback>
 </answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+De menor amplitud
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+De mayor precisión
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R055 Q1 : preguntas_html_R2018_0024 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p><strong>R2018_0024</strong>. Sobre una muestra de 485 casos, el intervalo que estima el tiempo medio de reacción a un estímulo es (1.61, 3.41) segundos. Si la muestra hubiese sido de 965 casos, el intervalo podría ser:</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<ol type = "a">
+<li> FALSE </li>
+<li> TRUE </li>
+<li> FALSE </li>
+<li> FALSE </li>
+</ol>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+De la misma precisión
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
 <answer fraction="100" format="html">
+<text><![CDATA[<p>
+De menor amplitud
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+TRUE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+De menor precisión
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
 <text><![CDATA[<p>
 De mayor amplitud
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
-TRUE
+FALSE
 </p>]]></text>
 </feedback>
 </answer>
@@ -3700,7 +3700,7 @@ TRUE
 </name>
 <questiontext format="html">
 <text><![CDATA[<p>
-<p><strong>R2018_0024</strong>. Sobre una muestra de 446 casos, el intervalo que estima el tiempo medio de reacción a un estímulo es (1.46, 2.82) segundos. Si la muestra hubiese sido de 356 casos, el intervalo podría ser:</p>
+<p><strong>R2018_0024</strong>. Sobre una muestra de 935 casos, el intervalo que estima el tiempo medio de reacción a un estímulo es (1.23, 3.07) segundos. Si la muestra hubiese sido de 871 casos, el intervalo podría ser:</p>
 </p>]]></text>
 </questiontext>
 <generalfeedback format="html">
@@ -3718,6 +3718,16 @@ TRUE
 <shuffleanswers>false</shuffleanswers>
 <single>true</single>
 <answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+De mayor precisión
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
 De menor amplitud
@@ -3738,19 +3748,9 @@ FALSE
 </p>]]></text>
 </feedback>
 </answer>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
-De mayor precisión
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-FALSE
-</p>]]></text>
-</feedback>
-</answer>
 <answer fraction="100" format="html">
 <text><![CDATA[<p>
-De menor precisión
+De mayor amplitud
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -3767,16 +3767,16 @@ TRUE
 </name>
 <questiontext format="html">
 <text><![CDATA[<p>
-<p><strong>R2018_0024</strong>. Sobre una muestra de 719 casos, el intervalo que estima el tiempo medio de reacción a un estímulo es (1.43, 3.19) segundos. Si la muestra hubiese sido de 657 casos, el intervalo podría ser:</p>
+<p><strong>R2018_0024</strong>. Sobre una muestra de 997 casos, el intervalo que estima el tiempo medio de reacción a un estímulo es (2.39, 3.53) segundos. Si la muestra hubiese sido de 588 casos, el intervalo podría ser:</p>
 </p>]]></text>
 </questiontext>
 <generalfeedback format="html">
 <text><![CDATA[<p>
 <ol type = "a">
 <li> FALSE </li>
-<li> FALSE </li>
-<li> FALSE </li>
 <li> TRUE </li>
+<li> FALSE </li>
+<li> FALSE </li>
 </ol>
 </p>]]></text>
 </generalfeedback>
@@ -3787,27 +3787,7 @@ TRUE
 <answernumbering>abc</answernumbering>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-De la misma amplitud
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-FALSE
-</p>]]></text>
-</feedback>
-</answer>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
 De mayor precisión
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-FALSE
-</p>]]></text>
-</feedback>
-</answer>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
-De menor amplitud
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -3825,53 +3805,6 @@ TRUE
 </p>]]></text>
 </feedback>
 </answer>
-</question>
-
-
-<question type="multichoice">
-<name>
-<text> R058 Q1 : preguntas_html_R2018_0024 </text>
-</name>
-<questiontext format="html">
-<text><![CDATA[<p>
-<p><strong>R2018_0024</strong>. Sobre una muestra de 954 casos, el intervalo que estima el tiempo medio de reacción a un estímulo es (1.73, 2.9) segundos. Si la muestra hubiese sido de 358 casos, el intervalo podría ser:</p>
-</p>]]></text>
-</questiontext>
-<generalfeedback format="html">
-<text><![CDATA[<p>
-<ol type = "a">
-<li> TRUE </li>
-<li> FALSE </li>
-<li> FALSE </li>
-<li> FALSE </li>
-</ol>
-</p>]]></text>
-</generalfeedback>
-<penalty>0</penalty>
-<defaultgrade>1</defaultgrade>
-<shuffleanswers>false</shuffleanswers>
-<single>true</single>
-<answernumbering>abc</answernumbering>
-<answer fraction="100" format="html">
-<text><![CDATA[<p>
-De menor precisión
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-TRUE
-</p>]]></text>
-</feedback>
-</answer>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
-De mayor precisión
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-FALSE
-</p>]]></text>
-</feedback>
-</answer>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
 De la misma amplitud
@@ -3885,6 +3818,73 @@ FALSE
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
 De menor amplitud
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R058 Q1 : preguntas_html_R2018_0024 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p><strong>R2018_0024</strong>. Sobre una muestra de 498 casos, el intervalo que estima el tiempo medio de reacción a un estímulo es (1.4, 3.05) segundos. Si la muestra hubiese sido de 926 casos, el intervalo podría ser:</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<ol type = "a">
+<li> FALSE </li>
+<li> TRUE </li>
+<li> FALSE </li>
+<li> FALSE </li>
+</ol>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+De menor precisión
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+De menor amplitud
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+TRUE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+De mayor amplitud
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+De la misma amplitud
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -3901,16 +3901,16 @@ FALSE
 </name>
 <questiontext format="html">
 <text><![CDATA[<p>
-<p><strong>R2018_0024</strong>. Sobre una muestra de 455 casos, el intervalo que estima el tiempo medio de reacción a un estímulo es (1.7, 3.57) segundos. Si la muestra hubiese sido de 926 casos, el intervalo podría ser:</p>
+<p><strong>R2018_0024</strong>. Sobre una muestra de 557 casos, el intervalo que estima el tiempo medio de reacción a un estímulo es (1.98, 3.22) segundos. Si la muestra hubiese sido de 323 casos, el intervalo podría ser:</p>
 </p>]]></text>
 </questiontext>
 <generalfeedback format="html">
 <text><![CDATA[<p>
 <ol type = "a">
 <li> FALSE </li>
-<li> FALSE </li>
-<li> FALSE </li>
 <li> TRUE </li>
+<li> FALSE </li>
+<li> FALSE </li>
 </ol>
 </p>]]></text>
 </generalfeedback>
@@ -3921,27 +3921,7 @@ FALSE
 <answernumbering>abc</answernumbering>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-De la misma amplitud
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-FALSE
-</p>]]></text>
-</feedback>
-</answer>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
-De mayor amplitud
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-FALSE
-</p>]]></text>
-</feedback>
-</answer>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
-De menor precisión
+De la misma precisión
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -3951,11 +3931,31 @@ FALSE
 </answer>
 <answer fraction="100" format="html">
 <text><![CDATA[<p>
-De mayor precisión
+De menor precisión
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
 TRUE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+De menor amplitud
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+De mayor precisión
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
 </p>]]></text>
 </feedback>
 </answer>
@@ -3968,7 +3968,7 @@ TRUE
 </name>
 <questiontext format="html">
 <text><![CDATA[<p>
-<p><strong>R2018_0024</strong>. Sobre una muestra de 825 casos, el intervalo que estima el tiempo medio de reacción a un estímulo es (2.15, 3.25) segundos. Si la muestra hubiese sido de 929 casos, el intervalo podría ser:</p>
+<p><strong>R2018_0024</strong>. Sobre una muestra de 389 casos, el intervalo que estima el tiempo medio de reacción a un estímulo es (1.46, 2.9) segundos. Si la muestra hubiese sido de 452 casos, el intervalo podría ser:</p>
 </p>]]></text>
 </questiontext>
 <generalfeedback format="html">
@@ -3988,11 +3988,21 @@ TRUE
 <answernumbering>abc</answernumbering>
 <answer fraction="100" format="html">
 <text><![CDATA[<p>
-De menor amplitud
+De mayor precisión
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
 TRUE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+De mayor amplitud
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
 </p>]]></text>
 </feedback>
 </answer>
@@ -4009,16 +4019,6 @@ FALSE
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
 De menor precisión
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-FALSE
-</p>]]></text>
-</feedback>
-</answer>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
-De mayor amplitud
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -4035,7 +4035,7 @@ FALSE
 </name>
 <questiontext format="html">
 <text><![CDATA[<p>
-<p><strong>R2018_0024</strong>. Sobre una muestra de 972 casos, el intervalo que estima el tiempo medio de reacción a un estímulo es (1.37, 2.9) segundos. Si la muestra hubiese sido de 465 casos, el intervalo podría ser:</p>
+<p><strong>R2018_0024</strong>. Sobre una muestra de 416 casos, el intervalo que estima el tiempo medio de reacción a un estímulo es (2.26, 3.27) segundos. Si la muestra hubiese sido de 653 casos, el intervalo podría ser:</p>
 </p>]]></text>
 </questiontext>
 <generalfeedback format="html">
@@ -4055,7 +4055,7 @@ FALSE
 <answernumbering>abc</answernumbering>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-De la misma precisión
+De mayor amplitud
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -4065,7 +4065,7 @@ FALSE
 </answer>
 <answer fraction="100" format="html">
 <text><![CDATA[<p>
-De menor precisión
+De menor amplitud
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -4075,7 +4075,7 @@ TRUE
 </answer>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-De mayor precisión
+De menor precisión
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -4085,7 +4085,7 @@ FALSE
 </answer>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-De menor amplitud
+De la misma amplitud
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -4102,7 +4102,7 @@ FALSE
 </name>
 <questiontext format="html">
 <text><![CDATA[<p>
-<p><strong>R2018_0024</strong>. Sobre una muestra de 778 casos, el intervalo que estima el tiempo medio de reacción a un estímulo es (1.58, 3.35) segundos. Si la muestra hubiese sido de 346 casos, el intervalo podría ser:</p>
+<p><strong>R2018_0024</strong>. Sobre una muestra de 829 casos, el intervalo que estima el tiempo medio de reacción a un estímulo es (1.63, 3.15) segundos. Si la muestra hubiese sido de 827 casos, el intervalo podría ser:</p>
 </p>]]></text>
 </questiontext>
 <generalfeedback format="html">
@@ -4110,8 +4110,8 @@ FALSE
 <ol type = "a">
 <li> FALSE </li>
 <li> FALSE </li>
-<li> TRUE </li>
 <li> FALSE </li>
+<li> TRUE </li>
 </ol>
 </p>]]></text>
 </generalfeedback>
@@ -4122,7 +4122,17 @@ FALSE
 <answernumbering>abc</answernumbering>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-De la misma amplitud
+De la misma precisión
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+De mayor precisión
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -4142,21 +4152,11 @@ FALSE
 </answer>
 <answer fraction="100" format="html">
 <text><![CDATA[<p>
-De mayor amplitud
+De menor precisión
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
 TRUE
-</p>]]></text>
-</feedback>
-</answer>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
-De mayor precisión
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-FALSE
 </p>]]></text>
 </feedback>
 </answer>
@@ -4169,16 +4169,16 @@ FALSE
 </name>
 <questiontext format="html">
 <text><![CDATA[<p>
-<p><strong>R2018_0024</strong>. Sobre una muestra de 400 casos, el intervalo que estima el tiempo medio de reacción a un estímulo es (2.05, 3.33) segundos. Si la muestra hubiese sido de 801 casos, el intervalo podría ser:</p>
+<p><strong>R2018_0024</strong>. Sobre una muestra de 698 casos, el intervalo que estima el tiempo medio de reacción a un estímulo es (1.72, 3.58) segundos. Si la muestra hubiese sido de 530 casos, el intervalo podría ser:</p>
 </p>]]></text>
 </questiontext>
 <generalfeedback format="html">
 <text><![CDATA[<p>
 <ol type = "a">
 <li> FALSE </li>
+<li> FALSE </li>
+<li> FALSE </li>
 <li> TRUE </li>
-<li> FALSE </li>
-<li> FALSE </li>
 </ol>
 </p>]]></text>
 </generalfeedback>
@@ -4187,6 +4187,26 @@ FALSE
 <shuffleanswers>false</shuffleanswers>
 <single>true</single>
 <answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+De menor amplitud
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+De mayor precisión
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
 De la misma precisión
@@ -4199,31 +4219,11 @@ FALSE
 </answer>
 <answer fraction="100" format="html">
 <text><![CDATA[<p>
-De mayor precisión
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-TRUE
-</p>]]></text>
-</feedback>
-</answer>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
 De menor precisión
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
-FALSE
-</p>]]></text>
-</feedback>
-</answer>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
-De mayor amplitud
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-FALSE
+TRUE
 </p>]]></text>
 </feedback>
 </answer>
@@ -4236,16 +4236,16 @@ FALSE
 </name>
 <questiontext format="html">
 <text><![CDATA[<p>
-<p><strong>R2018_0024</strong>. Sobre una muestra de 360 casos, el intervalo que estima el tiempo medio de reacción a un estímulo es (1.3, 2.95) segundos. Si la muestra hubiese sido de 654 casos, el intervalo podría ser:</p>
+<p><strong>R2018_0024</strong>. Sobre una muestra de 629 casos, el intervalo que estima el tiempo medio de reacción a un estímulo es (2.22, 3.61) segundos. Si la muestra hubiese sido de 873 casos, el intervalo podría ser:</p>
 </p>]]></text>
 </questiontext>
 <generalfeedback format="html">
 <text><![CDATA[<p>
 <ol type = "a">
 <li> FALSE </li>
+<li> FALSE </li>
+<li> FALSE </li>
 <li> TRUE </li>
-<li> FALSE </li>
-<li> FALSE </li>
 </ol>
 </p>]]></text>
 </generalfeedback>
@@ -4254,36 +4254,6 @@ FALSE
 <shuffleanswers>false</shuffleanswers>
 <single>true</single>
 <answernumbering>abc</answernumbering>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
-De la misma precisión
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-FALSE
-</p>]]></text>
-</feedback>
-</answer>
-<answer fraction="100" format="html">
-<text><![CDATA[<p>
-De menor amplitud
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-TRUE
-</p>]]></text>
-</feedback>
-</answer>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
-De menor precisión
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-FALSE
-</p>]]></text>
-</feedback>
-</answer>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
 De mayor amplitud
@@ -4294,40 +4264,13 @@ FALSE
 </p>]]></text>
 </feedback>
 </answer>
-</question>
-
-
-<question type="multichoice">
-<name>
-<text> R065 Q1 : preguntas_html_R2018_0024 </text>
-</name>
-<questiontext format="html">
+<answer fraction="0" format="html">
 <text><![CDATA[<p>
-<p><strong>R2018_0024</strong>. Sobre una muestra de 382 casos, el intervalo que estima el tiempo medio de reacción a un estímulo es (1.44, 3.25) segundos. Si la muestra hubiese sido de 569 casos, el intervalo podría ser:</p>
-</p>]]></text>
-</questiontext>
-<generalfeedback format="html">
-<text><![CDATA[<p>
-<ol type = "a">
-<li> TRUE </li>
-<li> FALSE </li>
-<li> FALSE </li>
-<li> FALSE </li>
-</ol>
-</p>]]></text>
-</generalfeedback>
-<penalty>0</penalty>
-<defaultgrade>1</defaultgrade>
-<shuffleanswers>false</shuffleanswers>
-<single>true</single>
-<answernumbering>abc</answernumbering>
-<answer fraction="100" format="html">
-<text><![CDATA[<p>
-De menor amplitud
+De menor precisión
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
-TRUE
+FALSE
 </p>]]></text>
 </feedback>
 </answer>
@@ -4341,6 +4284,53 @@ FALSE
 </p>]]></text>
 </feedback>
 </answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+De mayor precisión
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+TRUE
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R065 Q1 : preguntas_html_R2018_0024 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p><strong>R2018_0024</strong>. Sobre una muestra de 836 casos, el intervalo que estima el tiempo medio de reacción a un estímulo es (2.03, 3.88) segundos. Si la muestra hubiese sido de 971 casos, el intervalo podría ser:</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<ol type = "a">
+<li> FALSE </li>
+<li> FALSE </li>
+<li> FALSE </li>
+<li> TRUE </li>
+</ol>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+De la misma precisión
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
 De menor precisión
@@ -4361,6 +4351,16 @@ FALSE
 </p>]]></text>
 </feedback>
 </answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+De mayor precisión
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+TRUE
+</p>]]></text>
+</feedback>
+</answer>
 </question>
 
 
@@ -4370,7 +4370,7 @@ FALSE
 </name>
 <questiontext format="html">
 <text><![CDATA[<p>
-<p><strong>R2018_0024</strong>. Sobre una muestra de 964 casos, el intervalo que estima el tiempo medio de reacción a un estímulo es (1.68, 3.36) segundos. Si la muestra hubiese sido de 394 casos, el intervalo podría ser:</p>
+<p><strong>R2018_0024</strong>. Sobre una muestra de 347 casos, el intervalo que estima el tiempo medio de reacción a un estímulo es (1.08, 3.04) segundos. Si la muestra hubiese sido de 635 casos, el intervalo podría ser:</p>
 </p>]]></text>
 </questiontext>
 <generalfeedback format="html">
@@ -4390,7 +4390,7 @@ FALSE
 <answernumbering>abc</answernumbering>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-De la misma precisión
+De menor precisión
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -4400,7 +4400,7 @@ FALSE
 </answer>
 <answer fraction="100" format="html">
 <text><![CDATA[<p>
-De mayor amplitud
+De mayor precisión
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -4410,7 +4410,7 @@ TRUE
 </answer>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-De mayor precisión
+De mayor amplitud
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -4420,7 +4420,7 @@ FALSE
 </answer>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-De menor amplitud
+De la misma precisión
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -4437,7 +4437,7 @@ FALSE
 </name>
 <questiontext format="html">
 <text><![CDATA[<p>
-<p><strong>R2018_0024</strong>. Sobre una muestra de 326 casos, el intervalo que estima el tiempo medio de reacción a un estímulo es (2.39, 3.41) segundos. Si la muestra hubiese sido de 895 casos, el intervalo podría ser:</p>
+<p><strong>R2018_0024</strong>. Sobre una muestra de 962 casos, el intervalo que estima el tiempo medio de reacción a un estímulo es (2.25, 3.68) segundos. Si la muestra hubiese sido de 624 casos, el intervalo podría ser:</p>
 </p>]]></text>
 </questiontext>
 <generalfeedback format="html">
@@ -4445,8 +4445,8 @@ FALSE
 <ol type = "a">
 <li> FALSE </li>
 <li> FALSE </li>
-<li> TRUE </li>
 <li> FALSE </li>
+<li> TRUE </li>
 </ol>
 </p>]]></text>
 </generalfeedback>
@@ -4467,7 +4467,17 @@ FALSE
 </answer>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-De menor precisión
+De menor amplitud
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+De mayor precisión
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -4477,21 +4487,11 @@ FALSE
 </answer>
 <answer fraction="100" format="html">
 <text><![CDATA[<p>
-De menor amplitud
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-TRUE
-</p>]]></text>
-</feedback>
-</answer>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
 De mayor amplitud
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
-FALSE
+TRUE
 </p>]]></text>
 </feedback>
 </answer>
@@ -4504,7 +4504,7 @@ FALSE
 </name>
 <questiontext format="html">
 <text><![CDATA[<p>
-<p><strong>R2018_0024</strong>. Sobre una muestra de 789 casos, el intervalo que estima el tiempo medio de reacción a un estímulo es (2.17, 3.18) segundos. Si la muestra hubiese sido de 780 casos, el intervalo podría ser:</p>
+<p><strong>R2018_0024</strong>. Sobre una muestra de 841 casos, el intervalo que estima el tiempo medio de reacción a un estímulo es (1.47, 3.22) segundos. Si la muestra hubiese sido de 847 casos, el intervalo podría ser:</p>
 </p>]]></text>
 </questiontext>
 <generalfeedback format="html">
@@ -4524,7 +4524,7 @@ FALSE
 <answernumbering>abc</answernumbering>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-De mayor precisión
+De menor precisión
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -4534,7 +4534,7 @@ FALSE
 </answer>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-De menor amplitud
+De la misma precisión
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -4544,7 +4544,7 @@ FALSE
 </answer>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-De la misma amplitud
+De mayor amplitud
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -4554,7 +4554,7 @@ FALSE
 </answer>
 <answer fraction="100" format="html">
 <text><![CDATA[<p>
-De menor precisión
+De menor amplitud
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -4571,15 +4571,15 @@ TRUE
 </name>
 <questiontext format="html">
 <text><![CDATA[<p>
-<p><strong>R2018_0024</strong>. Sobre una muestra de 706 casos, el intervalo que estima el tiempo medio de reacción a un estímulo es (1.71, 2.93) segundos. Si la muestra hubiese sido de 619 casos, el intervalo podría ser:</p>
+<p><strong>R2018_0024</strong>. Sobre una muestra de 904 casos, el intervalo que estima el tiempo medio de reacción a un estímulo es (2.36, 3.53) segundos. Si la muestra hubiese sido de 301 casos, el intervalo podría ser:</p>
 </p>]]></text>
 </questiontext>
 <generalfeedback format="html">
 <text><![CDATA[<p>
 <ol type = "a">
-<li> FALSE </li>
-<li> FALSE </li>
 <li> TRUE </li>
+<li> FALSE </li>
+<li> FALSE </li>
 <li> FALSE </li>
 </ol>
 </p>]]></text>
@@ -4589,13 +4589,13 @@ TRUE
 <shuffleanswers>false</shuffleanswers>
 <single>true</single>
 <answernumbering>abc</answernumbering>
-<answer fraction="0" format="html">
+<answer fraction="100" format="html">
 <text><![CDATA[<p>
-De mayor precisión
+De mayor amplitud
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
-FALSE
+TRUE
 </p>]]></text>
 </feedback>
 </answer>
@@ -4609,19 +4609,19 @@ FALSE
 </p>]]></text>
 </feedback>
 </answer>
-<answer fraction="100" format="html">
+<answer fraction="0" format="html">
 <text><![CDATA[<p>
-De mayor amplitud
+De la misma precisión
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
-TRUE
+FALSE
 </p>]]></text>
 </feedback>
 </answer>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-De la misma precisión
+De mayor precisión
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -4638,7 +4638,7 @@ FALSE
 </name>
 <questiontext format="html">
 <text><![CDATA[<p>
-<p><strong>R2018_0024</strong>. Sobre una muestra de 896 casos, el intervalo que estima el tiempo medio de reacción a un estímulo es (1.96, 3.43) segundos. Si la muestra hubiese sido de 888 casos, el intervalo podría ser:</p>
+<p><strong>R2018_0024</strong>. Sobre una muestra de 639 casos, el intervalo que estima el tiempo medio de reacción a un estímulo es (1.26, 3.24) segundos. Si la muestra hubiese sido de 803 casos, el intervalo podría ser:</p>
 </p>]]></text>
 </questiontext>
 <generalfeedback format="html">
@@ -4646,8 +4646,8 @@ FALSE
 <ol type = "a">
 <li> FALSE </li>
 <li> FALSE </li>
-<li> TRUE </li>
 <li> FALSE </li>
+<li> TRUE </li>
 </ol>
 </p>]]></text>
 </generalfeedback>
@@ -4658,7 +4658,7 @@ FALSE
 <answernumbering>abc</answernumbering>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-De la misma precisión
+De mayor amplitud
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -4668,7 +4668,17 @@ FALSE
 </answer>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-De menor amplitud
+De menor precisión
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+De la misma amplitud
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -4678,21 +4688,11 @@ FALSE
 </answer>
 <answer fraction="100" format="html">
 <text><![CDATA[<p>
-De menor precisión
+De menor amplitud
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
 TRUE
-</p>]]></text>
-</feedback>
-</answer>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
-De mayor precisión
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-FALSE
 </p>]]></text>
 </feedback>
 </answer>
@@ -4705,16 +4705,16 @@ FALSE
 </name>
 <questiontext format="html">
 <text><![CDATA[<p>
-<p><strong>R2018_0024</strong>. Sobre una muestra de 760 casos, el intervalo que estima el tiempo medio de reacción a un estímulo es (2.01, 3.49) segundos. Si la muestra hubiese sido de 919 casos, el intervalo podría ser:</p>
+<p><strong>R2018_0024</strong>. Sobre una muestra de 989 casos, el intervalo que estima el tiempo medio de reacción a un estímulo es (1.59, 2.61) segundos. Si la muestra hubiese sido de 711 casos, el intervalo podría ser:</p>
 </p>]]></text>
 </questiontext>
 <generalfeedback format="html">
 <text><![CDATA[<p>
 <ol type = "a">
+<li> FALSE </li>
+<li> FALSE </li>
+<li> FALSE </li>
 <li> TRUE </li>
-<li> FALSE </li>
-<li> FALSE </li>
-<li> FALSE </li>
 </ol>
 </p>]]></text>
 </generalfeedback>
@@ -4723,29 +4723,9 @@ FALSE
 <shuffleanswers>false</shuffleanswers>
 <single>true</single>
 <answernumbering>abc</answernumbering>
-<answer fraction="100" format="html">
-<text><![CDATA[<p>
-De mayor precisión
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-TRUE
-</p>]]></text>
-</feedback>
-</answer>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-De menor precisión
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-FALSE
-</p>]]></text>
-</feedback>
-</answer>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
-De mayor amplitud
+De menor amplitud
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -4760,6 +4740,26 @@ De la misma amplitud
 <feedback format="html">
 <text><![CDATA[<p>
 FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+De mayor precisión
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+De menor precisión
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+TRUE
 </p>]]></text>
 </feedback>
 </answer>
@@ -4772,7 +4772,7 @@ FALSE
 </name>
 <questiontext format="html">
 <text><![CDATA[<p>
-<p><strong>R2018_0024</strong>. Sobre una muestra de 411 casos, el intervalo que estima el tiempo medio de reacción a un estímulo es (1.96, 3.3) segundos. Si la muestra hubiese sido de 582 casos, el intervalo podría ser:</p>
+<p><strong>R2018_0024</strong>. Sobre una muestra de 340 casos, el intervalo que estima el tiempo medio de reacción a un estímulo es (1.57, 3.01) segundos. Si la muestra hubiese sido de 949 casos, el intervalo podría ser:</p>
 </p>]]></text>
 </questiontext>
 <generalfeedback format="html">
@@ -4780,8 +4780,8 @@ FALSE
 <ol type = "a">
 <li> FALSE </li>
 <li> FALSE </li>
-<li> FALSE </li>
 <li> TRUE </li>
+<li> FALSE </li>
 </ol>
 </p>]]></text>
 </generalfeedback>
@@ -4792,7 +4792,7 @@ FALSE
 <answernumbering>abc</answernumbering>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-De la misma amplitud
+De mayor amplitud
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -4810,16 +4810,6 @@ FALSE
 </p>]]></text>
 </feedback>
 </answer>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
-De mayor amplitud
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-FALSE
-</p>]]></text>
-</feedback>
-</answer>
 <answer fraction="100" format="html">
 <text><![CDATA[<p>
 De menor amplitud
@@ -4827,6 +4817,16 @@ De menor amplitud
 <feedback format="html">
 <text><![CDATA[<p>
 TRUE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+De la misma amplitud
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
 </p>]]></text>
 </feedback>
 </answer>
@@ -4839,7 +4839,7 @@ TRUE
 </name>
 <questiontext format="html">
 <text><![CDATA[<p>
-<p><strong>R2018_0024</strong>. Sobre una muestra de 563 casos, el intervalo que estima el tiempo medio de reacción a un estímulo es (1.77, 3.55) segundos. Si la muestra hubiese sido de 710 casos, el intervalo podría ser:</p>
+<p><strong>R2018_0024</strong>. Sobre una muestra de 728 casos, el intervalo que estima el tiempo medio de reacción a un estímulo es (1.34, 3.1) segundos. Si la muestra hubiese sido de 919 casos, el intervalo podría ser:</p>
 </p>]]></text>
 </questiontext>
 <generalfeedback format="html">
@@ -4859,7 +4859,7 @@ TRUE
 <answernumbering>abc</answernumbering>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-De la misma precisión
+De mayor amplitud
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -4869,7 +4869,7 @@ FALSE
 </answer>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-De mayor amplitud
+De menor precisión
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -4879,7 +4879,7 @@ FALSE
 </answer>
 <answer fraction="100" format="html">
 <text><![CDATA[<p>
-De menor amplitud
+De mayor precisión
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -4889,7 +4889,7 @@ TRUE
 </answer>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-De menor precisión
+De la misma precisión
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -4906,7 +4906,7 @@ FALSE
 </name>
 <questiontext format="html">
 <text><![CDATA[<p>
-<p><strong>R2018_0024</strong>. Sobre una muestra de 377 casos, el intervalo que estima el tiempo medio de reacción a un estímulo es (1.85, 2.9) segundos. Si la muestra hubiese sido de 682 casos, el intervalo podría ser:</p>
+<p><strong>R2018_0024</strong>. Sobre una muestra de 814 casos, el intervalo que estima el tiempo medio de reacción a un estímulo es (2.07, 3.61) segundos. Si la muestra hubiese sido de 712 casos, el intervalo podría ser:</p>
 </p>]]></text>
 </questiontext>
 <generalfeedback format="html">
@@ -4914,8 +4914,8 @@ FALSE
 <ol type = "a">
 <li> FALSE </li>
 <li> FALSE </li>
-<li> FALSE </li>
 <li> TRUE </li>
+<li> FALSE </li>
 </ol>
 </p>]]></text>
 </generalfeedback>
@@ -4926,7 +4926,7 @@ FALSE
 <answernumbering>abc</answernumbering>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-De la misma precisión
+De menor amplitud
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -4936,17 +4936,7 @@ FALSE
 </answer>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-De mayor amplitud
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-FALSE
-</p>]]></text>
-</feedback>
-</answer>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
-De menor precisión
+De mayor precisión
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -4956,11 +4946,21 @@ FALSE
 </answer>
 <answer fraction="100" format="html">
 <text><![CDATA[<p>
-De menor amplitud
+De menor precisión
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
 TRUE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+De la misma amplitud
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
 </p>]]></text>
 </feedback>
 </answer>
@@ -4973,14 +4973,14 @@ TRUE
 </name>
 <questiontext format="html">
 <text><![CDATA[<p>
-<p><strong>R2018_0024</strong>. Sobre una muestra de 917 casos, el intervalo que estima el tiempo medio de reacción a un estímulo es (1.8, 3.31) segundos. Si la muestra hubiese sido de 872 casos, el intervalo podría ser:</p>
+<p><strong>R2018_0024</strong>. Sobre una muestra de 330 casos, el intervalo que estima el tiempo medio de reacción a un estímulo es (1.7, 3.26) segundos. Si la muestra hubiese sido de 695 casos, el intervalo podría ser:</p>
 </p>]]></text>
 </questiontext>
 <generalfeedback format="html">
 <text><![CDATA[<p>
 <ol type = "a">
-<li> FALSE </li>
 <li> TRUE </li>
+<li> FALSE </li>
 <li> FALSE </li>
 <li> FALSE </li>
 </ol>
@@ -4991,19 +4991,9 @@ TRUE
 <shuffleanswers>false</shuffleanswers>
 <single>true</single>
 <answernumbering>abc</answernumbering>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
-De menor amplitud
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-FALSE
-</p>]]></text>
-</feedback>
-</answer>
 <answer fraction="100" format="html">
 <text><![CDATA[<p>
-De mayor amplitud
+De menor amplitud
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -5023,7 +5013,17 @@ FALSE
 </answer>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-De mayor precisión
+De menor precisión
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+De mayor amplitud
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -5040,7 +5040,7 @@ FALSE
 </name>
 <questiontext format="html">
 <text><![CDATA[<p>
-<p><strong>R2018_0024</strong>. Sobre una muestra de 939 casos, el intervalo que estima el tiempo medio de reacción a un estímulo es (1.46, 2.66) segundos. Si la muestra hubiese sido de 815 casos, el intervalo podría ser:</p>
+<p><strong>R2018_0024</strong>. Sobre una muestra de 900 casos, el intervalo que estima el tiempo medio de reacción a un estímulo es (1.87, 3.73) segundos. Si la muestra hubiese sido de 854 casos, el intervalo podría ser:</p>
 </p>]]></text>
 </questiontext>
 <generalfeedback format="html">
@@ -5048,8 +5048,8 @@ FALSE
 <ol type = "a">
 <li> FALSE </li>
 <li> FALSE </li>
-<li> FALSE </li>
 <li> TRUE </li>
+<li> FALSE </li>
 </ol>
 </p>]]></text>
 </generalfeedback>
@@ -5060,11 +5060,31 @@ FALSE
 <answernumbering>abc</answernumbering>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
+De menor amplitud
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
 De la misma amplitud
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
 FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+De mayor amplitud
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+TRUE
 </p>]]></text>
 </feedback>
 </answer>
@@ -5075,6 +5095,43 @@ De mayor precisión
 <feedback format="html">
 <text><![CDATA[<p>
 FALSE
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R077 Q1 : preguntas_html_R2018_0024 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p><strong>R2018_0024</strong>. Sobre una muestra de 855 casos, el intervalo que estima el tiempo medio de reacción a un estímulo es (2.05, 3.24) segundos. Si la muestra hubiese sido de 394 casos, el intervalo podría ser:</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<ol type = "a">
+<li> TRUE </li>
+<li> FALSE </li>
+<li> FALSE </li>
+<li> FALSE </li>
+</ol>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+De menor precisión
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+TRUE
 </p>]]></text>
 </feedback>
 </answer>
@@ -5088,46 +5145,9 @@ FALSE
 </p>]]></text>
 </feedback>
 </answer>
-<answer fraction="100" format="html">
-<text><![CDATA[<p>
-De mayor amplitud
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-TRUE
-</p>]]></text>
-</feedback>
-</answer>
-</question>
-
-
-<question type="multichoice">
-<name>
-<text> R077 Q1 : preguntas_html_R2018_0024 </text>
-</name>
-<questiontext format="html">
-<text><![CDATA[<p>
-<p><strong>R2018_0024</strong>. Sobre una muestra de 493 casos, el intervalo que estima el tiempo medio de reacción a un estímulo es (1.84, 3.66) segundos. Si la muestra hubiese sido de 576 casos, el intervalo podría ser:</p>
-</p>]]></text>
-</questiontext>
-<generalfeedback format="html">
-<text><![CDATA[<p>
-<ol type = "a">
-<li> FALSE </li>
-<li> TRUE </li>
-<li> FALSE </li>
-<li> FALSE </li>
-</ol>
-</p>]]></text>
-</generalfeedback>
-<penalty>0</penalty>
-<defaultgrade>1</defaultgrade>
-<shuffleanswers>false</shuffleanswers>
-<single>true</single>
-<answernumbering>abc</answernumbering>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-De mayor amplitud
+De la misma amplitud
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -5135,29 +5155,9 @@ FALSE
 </p>]]></text>
 </feedback>
 </answer>
-<answer fraction="100" format="html">
+<answer fraction="0" format="html">
 <text><![CDATA[<p>
 De mayor precisión
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-TRUE
-</p>]]></text>
-</feedback>
-</answer>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
-De menor precisión
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-FALSE
-</p>]]></text>
-</feedback>
-</answer>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
-De la misma precisión
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -5174,7 +5174,7 @@ FALSE
 </name>
 <questiontext format="html">
 <text><![CDATA[<p>
-<p><strong>R2018_0024</strong>. Sobre una muestra de 705 casos, el intervalo que estima el tiempo medio de reacción a un estímulo es (1.77, 3.75) segundos. Si la muestra hubiese sido de 588 casos, el intervalo podría ser:</p>
+<p><strong>R2018_0024</strong>. Sobre una muestra de 396 casos, el intervalo que estima el tiempo medio de reacción a un estímulo es (1.55, 2.66) segundos. Si la muestra hubiese sido de 537 casos, el intervalo podría ser:</p>
 </p>]]></text>
 </questiontext>
 <generalfeedback format="html">
@@ -5194,7 +5194,7 @@ FALSE
 <answernumbering>abc</answernumbering>
 <answer fraction="100" format="html">
 <text><![CDATA[<p>
-De menor precisión
+De menor amplitud
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -5204,27 +5204,27 @@ TRUE
 </answer>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
+De menor precisión
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+De mayor amplitud
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
 De la misma amplitud
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-FALSE
-</p>]]></text>
-</feedback>
-</answer>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
-De menor amplitud
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-FALSE
-</p>]]></text>
-</feedback>
-</answer>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
-De mayor precisión
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -5241,14 +5241,14 @@ FALSE
 </name>
 <questiontext format="html">
 <text><![CDATA[<p>
-<p><strong>R2018_0024</strong>. Sobre una muestra de 607 casos, el intervalo que estima el tiempo medio de reacción a un estímulo es (1.97, 3.77) segundos. Si la muestra hubiese sido de 365 casos, el intervalo podría ser:</p>
+<p><strong>R2018_0024</strong>. Sobre una muestra de 566 casos, el intervalo que estima el tiempo medio de reacción a un estímulo es (1.7, 3.44) segundos. Si la muestra hubiese sido de 880 casos, el intervalo podría ser:</p>
 </p>]]></text>
 </questiontext>
 <generalfeedback format="html">
 <text><![CDATA[<p>
 <ol type = "a">
-<li> TRUE </li>
 <li> FALSE </li>
+<li> TRUE </li>
 <li> FALSE </li>
 <li> FALSE </li>
 </ol>
@@ -5259,9 +5259,19 @@ FALSE
 <shuffleanswers>false</shuffleanswers>
 <single>true</single>
 <answernumbering>abc</answernumbering>
-<answer fraction="100" format="html">
+<answer fraction="0" format="html">
 <text><![CDATA[<p>
 De menor precisión
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+De menor amplitud
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -5271,7 +5281,7 @@ TRUE
 </answer>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-De menor amplitud
+De mayor amplitud
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -5282,16 +5292,6 @@ FALSE
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
 De la misma amplitud
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-FALSE
-</p>]]></text>
-</feedback>
-</answer>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
-De mayor precisión
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -5308,16 +5308,16 @@ FALSE
 </name>
 <questiontext format="html">
 <text><![CDATA[<p>
-<p><strong>R2018_0024</strong>. Sobre una muestra de 646 casos, el intervalo que estima el tiempo medio de reacción a un estímulo es (1.6, 2.77) segundos. Si la muestra hubiese sido de 961 casos, el intervalo podría ser:</p>
+<p><strong>R2018_0024</strong>. Sobre una muestra de 785 casos, el intervalo que estima el tiempo medio de reacción a un estímulo es (1.68, 2.92) segundos. Si la muestra hubiese sido de 510 casos, el intervalo podría ser:</p>
 </p>]]></text>
 </questiontext>
 <generalfeedback format="html">
 <text><![CDATA[<p>
 <ol type = "a">
-<li> FALSE </li>
-<li> FALSE </li>
-<li> FALSE </li>
 <li> TRUE </li>
+<li> FALSE </li>
+<li> FALSE </li>
+<li> FALSE </li>
 </ol>
 </p>]]></text>
 </generalfeedback>
@@ -5326,29 +5326,29 @@ FALSE
 <shuffleanswers>false</shuffleanswers>
 <single>true</single>
 <answernumbering>abc</answernumbering>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
-De la misma amplitud
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-FALSE
-</p>]]></text>
-</feedback>
-</answer>
-<answer fraction="0" format="html">
+<answer fraction="100" format="html">
 <text><![CDATA[<p>
 De mayor amplitud
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
+TRUE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+De menor amplitud
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
 FALSE
 </p>]]></text>
 </feedback>
 </answer>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-De menor precisión
+De mayor precisión
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -5356,13 +5356,13 @@ FALSE
 </p>]]></text>
 </feedback>
 </answer>
-<answer fraction="100" format="html">
+<answer fraction="0" format="html">
 <text><![CDATA[<p>
-De menor amplitud
+De la misma precisión
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
-TRUE
+FALSE
 </p>]]></text>
 </feedback>
 </answer>
@@ -5375,15 +5375,15 @@ TRUE
 </name>
 <questiontext format="html">
 <text><![CDATA[<p>
-<p><strong>R2018_0024</strong>. Sobre una muestra de 532 casos, el intervalo que estima el tiempo medio de reacción a un estímulo es (1.01, 3.01) segundos. Si la muestra hubiese sido de 644 casos, el intervalo podría ser:</p>
+<p><strong>R2018_0024</strong>. Sobre una muestra de 500 casos, el intervalo que estima el tiempo medio de reacción a un estímulo es (1.34, 3.11) segundos. Si la muestra hubiese sido de 485 casos, el intervalo podría ser:</p>
 </p>]]></text>
 </questiontext>
 <generalfeedback format="html">
 <text><![CDATA[<p>
 <ol type = "a">
-<li> FALSE </li>
-<li> FALSE </li>
 <li> TRUE </li>
+<li> FALSE </li>
+<li> FALSE </li>
 <li> FALSE </li>
 </ol>
 </p>]]></text>
@@ -5393,29 +5393,9 @@ TRUE
 <shuffleanswers>false</shuffleanswers>
 <single>true</single>
 <answernumbering>abc</answernumbering>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
-De la misma amplitud
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-FALSE
-</p>]]></text>
-</feedback>
-</answer>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
-De mayor amplitud
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-FALSE
-</p>]]></text>
-</feedback>
-</answer>
 <answer fraction="100" format="html">
 <text><![CDATA[<p>
-De menor amplitud
+De menor precisión
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -5425,7 +5405,27 @@ TRUE
 </answer>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-De menor precisión
+De menor amplitud
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+De la misma precisión
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+De mayor precisión
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -5442,16 +5442,16 @@ FALSE
 </name>
 <questiontext format="html">
 <text><![CDATA[<p>
-<p><strong>R2018_0024</strong>. Sobre una muestra de 327 casos, el intervalo que estima el tiempo medio de reacción a un estímulo es (1.79, 3.42) segundos. Si la muestra hubiese sido de 816 casos, el intervalo podría ser:</p>
+<p><strong>R2018_0024</strong>. Sobre una muestra de 766 casos, el intervalo que estima el tiempo medio de reacción a un estímulo es (1.17, 2.94) segundos. Si la muestra hubiese sido de 963 casos, el intervalo podría ser:</p>
 </p>]]></text>
 </questiontext>
 <generalfeedback format="html">
 <text><![CDATA[<p>
 <ol type = "a">
 <li> FALSE </li>
-<li> FALSE </li>
-<li> FALSE </li>
 <li> TRUE </li>
+<li> FALSE </li>
+<li> FALSE </li>
 </ol>
 </p>]]></text>
 </generalfeedback>
@@ -5467,6 +5467,16 @@ De menor precisión
 <feedback format="html">
 <text><![CDATA[<p>
 FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+De mayor precisión
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+TRUE
 </p>]]></text>
 </feedback>
 </answer>
@@ -5490,16 +5500,6 @@ FALSE
 </p>]]></text>
 </feedback>
 </answer>
-<answer fraction="100" format="html">
-<text><![CDATA[<p>
-De menor amplitud
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-TRUE
-</p>]]></text>
-</feedback>
-</answer>
 </question>
 
 
@@ -5509,7 +5509,7 @@ TRUE
 </name>
 <questiontext format="html">
 <text><![CDATA[<p>
-<p><strong>R2018_0024</strong>. Sobre una muestra de 821 casos, el intervalo que estima el tiempo medio de reacción a un estímulo es (2.08, 3.59) segundos. Si la muestra hubiese sido de 364 casos, el intervalo podría ser:</p>
+<p><strong>R2018_0024</strong>. Sobre una muestra de 964 casos, el intervalo que estima el tiempo medio de reacción a un estímulo es (2.02, 3.61) segundos. Si la muestra hubiese sido de 342 casos, el intervalo podría ser:</p>
 </p>]]></text>
 </questiontext>
 <generalfeedback format="html">
@@ -5529,7 +5529,7 @@ TRUE
 <answernumbering>abc</answernumbering>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-De mayor precisión
+De la misma amplitud
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -5539,7 +5539,7 @@ FALSE
 </answer>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-De la misma precisión
+De mayor precisión
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -5576,16 +5576,16 @@ FALSE
 </name>
 <questiontext format="html">
 <text><![CDATA[<p>
-<p><strong>R2018_0024</strong>. Sobre una muestra de 418 casos, el intervalo que estima el tiempo medio de reacción a un estímulo es (1.56, 3.2) segundos. Si la muestra hubiese sido de 991 casos, el intervalo podría ser:</p>
+<p><strong>R2018_0024</strong>. Sobre una muestra de 686 casos, el intervalo que estima el tiempo medio de reacción a un estímulo es (1.23, 3.18) segundos. Si la muestra hubiese sido de 756 casos, el intervalo podría ser:</p>
 </p>]]></text>
 </questiontext>
 <generalfeedback format="html">
 <text><![CDATA[<p>
 <ol type = "a">
 <li> FALSE </li>
+<li> FALSE </li>
+<li> FALSE </li>
 <li> TRUE </li>
-<li> FALSE </li>
-<li> FALSE </li>
 </ol>
 </p>]]></text>
 </generalfeedback>
@@ -5596,7 +5596,7 @@ FALSE
 <answernumbering>abc</answernumbering>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-De mayor amplitud
+De la misma precisión
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -5604,19 +5604,9 @@ FALSE
 </p>]]></text>
 </feedback>
 </answer>
-<answer fraction="100" format="html">
-<text><![CDATA[<p>
-De menor amplitud
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-TRUE
-</p>]]></text>
-</feedback>
-</answer>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-De la misma precisión
+De mayor amplitud
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -5631,6 +5621,16 @@ De menor precisión
 <feedback format="html">
 <text><![CDATA[<p>
 FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+De mayor precisión
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+TRUE
 </p>]]></text>
 </feedback>
 </answer>
@@ -5643,7 +5643,7 @@ FALSE
 </name>
 <questiontext format="html">
 <text><![CDATA[<p>
-<p><strong>R2018_0024</strong>. Sobre una muestra de 522 casos, el intervalo que estima el tiempo medio de reacción a un estímulo es (1.25, 2.92) segundos. Si la muestra hubiese sido de 384 casos, el intervalo podría ser:</p>
+<p><strong>R2018_0024</strong>. Sobre una muestra de 741 casos, el intervalo que estima el tiempo medio de reacción a un estímulo es (1.85, 3.71) segundos. Si la muestra hubiese sido de 530 casos, el intervalo podría ser:</p>
 </p>]]></text>
 </questiontext>
 <generalfeedback format="html">
@@ -5663,7 +5663,7 @@ FALSE
 <answernumbering>abc</answernumbering>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-De mayor precisión
+De la misma amplitud
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -5673,7 +5673,7 @@ FALSE
 </answer>
 <answer fraction="100" format="html">
 <text><![CDATA[<p>
-De menor precisión
+De mayor amplitud
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -5683,7 +5683,7 @@ TRUE
 </answer>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-De menor amplitud
+De mayor precisión
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -5693,7 +5693,7 @@ FALSE
 </answer>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-De la misma precisión
+De menor amplitud
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -5710,15 +5710,15 @@ FALSE
 </name>
 <questiontext format="html">
 <text><![CDATA[<p>
-<p><strong>R2018_0024</strong>. Sobre una muestra de 798 casos, el intervalo que estima el tiempo medio de reacción a un estímulo es (1.28, 3.2) segundos. Si la muestra hubiese sido de 678 casos, el intervalo podría ser:</p>
+<p><strong>R2018_0024</strong>. Sobre una muestra de 405 casos, el intervalo que estima el tiempo medio de reacción a un estímulo es (1.55, 2.63) segundos. Si la muestra hubiese sido de 739 casos, el intervalo podría ser:</p>
 </p>]]></text>
 </questiontext>
 <generalfeedback format="html">
 <text><![CDATA[<p>
 <ol type = "a">
-<li> FALSE </li>
-<li> FALSE </li>
 <li> TRUE </li>
+<li> FALSE </li>
+<li> FALSE </li>
 <li> FALSE </li>
 </ol>
 </p>]]></text>
@@ -5728,29 +5728,9 @@ FALSE
 <shuffleanswers>false</shuffleanswers>
 <single>true</single>
 <answernumbering>abc</answernumbering>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
-De menor amplitud
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-FALSE
-</p>]]></text>
-</feedback>
-</answer>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
-De la misma amplitud
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-FALSE
-</p>]]></text>
-</feedback>
-</answer>
 <answer fraction="100" format="html">
 <text><![CDATA[<p>
-De mayor amplitud
+De mayor precisión
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -5760,7 +5740,27 @@ TRUE
 </answer>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-De mayor precisión
+De menor precisión
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+De mayor amplitud
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+De la misma precisión
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -5777,14 +5777,14 @@ FALSE
 </name>
 <questiontext format="html">
 <text><![CDATA[<p>
-<p><strong>R2018_0024</strong>. Sobre una muestra de 317 casos, el intervalo que estima el tiempo medio de reacción a un estímulo es (1.79, 3.05) segundos. Si la muestra hubiese sido de 744 casos, el intervalo podría ser:</p>
+<p><strong>R2018_0024</strong>. Sobre una muestra de 877 casos, el intervalo que estima el tiempo medio de reacción a un estímulo es (2.1, 3.16) segundos. Si la muestra hubiese sido de 834 casos, el intervalo podría ser:</p>
 </p>]]></text>
 </questiontext>
 <generalfeedback format="html">
 <text><![CDATA[<p>
 <ol type = "a">
-<li> TRUE </li>
 <li> FALSE </li>
+<li> TRUE </li>
 <li> FALSE </li>
 <li> FALSE </li>
 </ol>
@@ -5795,9 +5795,19 @@ FALSE
 <shuffleanswers>false</shuffleanswers>
 <single>true</single>
 <answernumbering>abc</answernumbering>
-<answer fraction="100" format="html">
+<answer fraction="0" format="html">
 <text><![CDATA[<p>
 De mayor precisión
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+De mayor amplitud
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -5807,27 +5817,17 @@ TRUE
 </answer>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
+De menor amplitud
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
 De la misma precisión
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-FALSE
-</p>]]></text>
-</feedback>
-</answer>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
-De menor precisión
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-FALSE
-</p>]]></text>
-</feedback>
-</answer>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
-De mayor amplitud
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -5844,16 +5844,16 @@ FALSE
 </name>
 <questiontext format="html">
 <text><![CDATA[<p>
-<p><strong>R2018_0024</strong>. Sobre una muestra de 562 casos, el intervalo que estima el tiempo medio de reacción a un estímulo es (1.9, 3.8) segundos. Si la muestra hubiese sido de 447 casos, el intervalo podría ser:</p>
+<p><strong>R2018_0024</strong>. Sobre una muestra de 346 casos, el intervalo que estima el tiempo medio de reacción a un estímulo es (1.96, 3.81) segundos. Si la muestra hubiese sido de 433 casos, el intervalo podría ser:</p>
 </p>]]></text>
 </questiontext>
 <generalfeedback format="html">
 <text><![CDATA[<p>
 <ol type = "a">
+<li> FALSE </li>
+<li> FALSE </li>
+<li> FALSE </li>
 <li> TRUE </li>
-<li> FALSE </li>
-<li> FALSE </li>
-<li> FALSE </li>
 </ol>
 </p>]]></text>
 </generalfeedback>
@@ -5862,19 +5862,19 @@ FALSE
 <shuffleanswers>false</shuffleanswers>
 <single>true</single>
 <answernumbering>abc</answernumbering>
-<answer fraction="100" format="html">
+<answer fraction="0" format="html">
 <text><![CDATA[<p>
-De mayor amplitud
+De menor precisión
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
-TRUE
+FALSE
 </p>]]></text>
 </feedback>
 </answer>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-De menor amplitud
+De mayor amplitud
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -5892,13 +5892,13 @@ FALSE
 </p>]]></text>
 </feedback>
 </answer>
-<answer fraction="0" format="html">
+<answer fraction="100" format="html">
 <text><![CDATA[<p>
-De mayor precisión
+De menor amplitud
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
-FALSE
+TRUE
 </p>]]></text>
 </feedback>
 </answer>
@@ -5911,15 +5911,15 @@ FALSE
 </name>
 <questiontext format="html">
 <text><![CDATA[<p>
-<p><strong>R2018_0024</strong>. Sobre una muestra de 596 casos, el intervalo que estima el tiempo medio de reacción a un estímulo es (2.22, 3.64) segundos. Si la muestra hubiese sido de 566 casos, el intervalo podría ser:</p>
+<p><strong>R2018_0024</strong>. Sobre una muestra de 586 casos, el intervalo que estima el tiempo medio de reacción a un estímulo es (2.13, 3.63) segundos. Si la muestra hubiese sido de 485 casos, el intervalo podría ser:</p>
 </p>]]></text>
 </questiontext>
 <generalfeedback format="html">
 <text><![CDATA[<p>
 <ol type = "a">
+<li> FALSE </li>
+<li> FALSE </li>
 <li> TRUE </li>
-<li> FALSE </li>
-<li> FALSE </li>
 <li> FALSE </li>
 </ol>
 </p>]]></text>
@@ -5929,16 +5929,6 @@ FALSE
 <shuffleanswers>false</shuffleanswers>
 <single>true</single>
 <answernumbering>abc</answernumbering>
-<answer fraction="100" format="html">
-<text><![CDATA[<p>
-De mayor amplitud
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-TRUE
-</p>]]></text>
-</feedback>
-</answer>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
 De menor amplitud
@@ -5951,7 +5941,7 @@ FALSE
 </answer>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-De la misma amplitud
+De mayor precisión
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -5959,9 +5949,19 @@ FALSE
 </p>]]></text>
 </feedback>
 </answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+De mayor amplitud
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+TRUE
+</p>]]></text>
+</feedback>
+</answer>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-De mayor precisión
+De la misma amplitud
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -5978,7 +5978,74 @@ FALSE
 </name>
 <questiontext format="html">
 <text><![CDATA[<p>
-<p><strong>R2018_0024</strong>. Sobre una muestra de 389 casos, el intervalo que estima el tiempo medio de reacción a un estímulo es (1.19, 3.08) segundos. Si la muestra hubiese sido de 776 casos, el intervalo podría ser:</p>
+<p><strong>R2018_0024</strong>. Sobre una muestra de 926 casos, el intervalo que estima el tiempo medio de reacción a un estímulo es (2.34, 3.36) segundos. Si la muestra hubiese sido de 562 casos, el intervalo podría ser:</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<ol type = "a">
+<li> FALSE </li>
+<li> TRUE </li>
+<li> FALSE </li>
+<li> FALSE </li>
+</ol>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+De menor amplitud
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+De menor precisión
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+TRUE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+De la misma amplitud
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+De mayor precisión
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R091 Q1 : preguntas_html_R2018_0024 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p><strong>R2018_0024</strong>. Sobre una muestra de 872 casos, el intervalo que estima el tiempo medio de reacción a un estímulo es (2.02, 3.35) segundos. Si la muestra hubiese sido de 693 casos, el intervalo podría ser:</p>
 </p>]]></text>
 </questiontext>
 <generalfeedback format="html">
@@ -5998,7 +6065,7 @@ FALSE
 <answernumbering>abc</answernumbering>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-De la misma amplitud
+De la misma precisión
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -6008,11 +6075,68 @@ FALSE
 </answer>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-De menor precisión
+De menor amplitud
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
 FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+De mayor precisión
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+De menor precisión
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+TRUE
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R092 Q1 : preguntas_html_R2018_0024 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p><strong>R2018_0024</strong>. Sobre una muestra de 514 casos, el intervalo que estima el tiempo medio de reacción a un estímulo es (1.47, 2.77) segundos. Si la muestra hubiese sido de 605 casos, el intervalo podría ser:</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<ol type = "a">
+<li> TRUE </li>
+<li> FALSE </li>
+<li> FALSE </li>
+<li> FALSE </li>
+</ol>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+De menor amplitud
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+TRUE
 </p>]]></text>
 </feedback>
 </answer>
@@ -6026,73 +6150,6 @@ FALSE
 </p>]]></text>
 </feedback>
 </answer>
-<answer fraction="100" format="html">
-<text><![CDATA[<p>
-De menor amplitud
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-TRUE
-</p>]]></text>
-</feedback>
-</answer>
-</question>
-
-
-<question type="multichoice">
-<name>
-<text> R091 Q1 : preguntas_html_R2018_0024 </text>
-</name>
-<questiontext format="html">
-<text><![CDATA[<p>
-<p><strong>R2018_0024</strong>. Sobre una muestra de 943 casos, el intervalo que estima el tiempo medio de reacción a un estímulo es (1.79, 3.48) segundos. Si la muestra hubiese sido de 746 casos, el intervalo podría ser:</p>
-</p>]]></text>
-</questiontext>
-<generalfeedback format="html">
-<text><![CDATA[<p>
-<ol type = "a">
-<li> FALSE </li>
-<li> TRUE </li>
-<li> FALSE </li>
-<li> FALSE </li>
-</ol>
-</p>]]></text>
-</generalfeedback>
-<penalty>0</penalty>
-<defaultgrade>1</defaultgrade>
-<shuffleanswers>false</shuffleanswers>
-<single>true</single>
-<answernumbering>abc</answernumbering>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
-De menor amplitud
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-FALSE
-</p>]]></text>
-</feedback>
-</answer>
-<answer fraction="100" format="html">
-<text><![CDATA[<p>
-De menor precisión
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-TRUE
-</p>]]></text>
-</feedback>
-</answer>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
-De mayor precisión
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-FALSE
-</p>]]></text>
-</feedback>
-</answer>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
 De la misma amplitud
@@ -6103,66 +6160,9 @@ FALSE
 </p>]]></text>
 </feedback>
 </answer>
-</question>
-
-
-<question type="multichoice">
-<name>
-<text> R092 Q1 : preguntas_html_R2018_0024 </text>
-</name>
-<questiontext format="html">
-<text><![CDATA[<p>
-<p><strong>R2018_0024</strong>. Sobre una muestra de 701 casos, el intervalo que estima el tiempo medio de reacción a un estímulo es (1.71, 3) segundos. Si la muestra hubiese sido de 675 casos, el intervalo podría ser:</p>
-</p>]]></text>
-</questiontext>
-<generalfeedback format="html">
-<text><![CDATA[<p>
-<ol type = "a">
-<li> FALSE </li>
-<li> TRUE </li>
-<li> FALSE </li>
-<li> FALSE </li>
-</ol>
-</p>]]></text>
-</generalfeedback>
-<penalty>0</penalty>
-<defaultgrade>1</defaultgrade>
-<shuffleanswers>false</shuffleanswers>
-<single>true</single>
-<answernumbering>abc</answernumbering>
 <answer fraction="0" format="html">
-<text><![CDATA[<p>
-De la misma amplitud
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-FALSE
-</p>]]></text>
-</feedback>
-</answer>
-<answer fraction="100" format="html">
 <text><![CDATA[<p>
 De menor precisión
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-TRUE
-</p>]]></text>
-</feedback>
-</answer>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
-De mayor precisión
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-FALSE
-</p>]]></text>
-</feedback>
-</answer>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
-De menor amplitud
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -6179,15 +6179,15 @@ FALSE
 </name>
 <questiontext format="html">
 <text><![CDATA[<p>
-<p><strong>R2018_0024</strong>. Sobre una muestra de 785 casos, el intervalo que estima el tiempo medio de reacción a un estímulo es (1.94, 2.99) segundos. Si la muestra hubiese sido de 656 casos, el intervalo podría ser:</p>
+<p><strong>R2018_0024</strong>. Sobre una muestra de 806 casos, el intervalo que estima el tiempo medio de reacción a un estímulo es (2.03, 3.45) segundos. Si la muestra hubiese sido de 855 casos, el intervalo podría ser:</p>
 </p>]]></text>
 </questiontext>
 <generalfeedback format="html">
 <text><![CDATA[<p>
 <ol type = "a">
 <li> FALSE </li>
-<li> FALSE </li>
 <li> TRUE </li>
+<li> FALSE </li>
 <li> FALSE </li>
 </ol>
 </p>]]></text>
@@ -6197,6 +6197,26 @@ FALSE
 <shuffleanswers>false</shuffleanswers>
 <single>true</single>
 <answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+De menor precisión
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+De menor amplitud
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+TRUE
+</p>]]></text>
+</feedback>
+</answer>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
 De la misma amplitud
@@ -6209,27 +6229,7 @@ FALSE
 </answer>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-De mayor precisión
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-FALSE
-</p>]]></text>
-</feedback>
-</answer>
-<answer fraction="100" format="html">
-<text><![CDATA[<p>
-De menor precisión
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-TRUE
-</p>]]></text>
-</feedback>
-</answer>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
-De menor amplitud
+De mayor amplitud
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -6246,14 +6246,14 @@ FALSE
 </name>
 <questiontext format="html">
 <text><![CDATA[<p>
-<p><strong>R2018_0024</strong>. Sobre una muestra de 315 casos, el intervalo que estima el tiempo medio de reacción a un estímulo es (1.7, 3.49) segundos. Si la muestra hubiese sido de 370 casos, el intervalo podría ser:</p>
+<p><strong>R2018_0024</strong>. Sobre una muestra de 920 casos, el intervalo que estima el tiempo medio de reacción a un estímulo es (1.67, 3.44) segundos. Si la muestra hubiese sido de 810 casos, el intervalo podría ser:</p>
 </p>]]></text>
 </questiontext>
 <generalfeedback format="html">
 <text><![CDATA[<p>
 <ol type = "a">
-<li> FALSE </li>
 <li> TRUE </li>
+<li> FALSE </li>
 <li> FALSE </li>
 <li> FALSE </li>
 </ol>
@@ -6264,19 +6264,9 @@ FALSE
 <shuffleanswers>false</shuffleanswers>
 <single>true</single>
 <answernumbering>abc</answernumbering>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
-De la misma precisión
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-FALSE
-</p>]]></text>
-</feedback>
-</answer>
 <answer fraction="100" format="html">
 <text><![CDATA[<p>
-De mayor precisión
+De menor precisión
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -6286,7 +6276,7 @@ TRUE
 </answer>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-De mayor amplitud
+De menor amplitud
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -6296,7 +6286,17 @@ FALSE
 </answer>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-De menor precisión
+De la misma amplitud
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+De mayor precisión
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -6313,7 +6313,7 @@ FALSE
 </name>
 <questiontext format="html">
 <text><![CDATA[<p>
-<p><strong>R2018_0024</strong>. Sobre una muestra de 808 casos, el intervalo que estima el tiempo medio de reacción a un estímulo es (1.54, 2.75) segundos. Si la muestra hubiese sido de 587 casos, el intervalo podría ser:</p>
+<p><strong>R2018_0024</strong>. Sobre una muestra de 873 casos, el intervalo que estima el tiempo medio de reacción a un estímulo es (1.29, 2.89) segundos. Si la muestra hubiese sido de 396 casos, el intervalo podría ser:</p>
 </p>]]></text>
 </questiontext>
 <generalfeedback format="html">
@@ -6333,7 +6333,7 @@ FALSE
 <answernumbering>abc</answernumbering>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-De menor amplitud
+De la misma precisión
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -6353,7 +6353,7 @@ FALSE
 </answer>
 <answer fraction="100" format="html">
 <text><![CDATA[<p>
-De mayor amplitud
+De menor precisión
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -6363,7 +6363,7 @@ TRUE
 </answer>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-De la misma amplitud
+De menor amplitud
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -6380,7 +6380,7 @@ FALSE
 </name>
 <questiontext format="html">
 <text><![CDATA[<p>
-<p><strong>R2018_0024</strong>. Sobre una muestra de 532 casos, el intervalo que estima el tiempo medio de reacción a un estímulo es (1.63, 3.1) segundos. Si la muestra hubiese sido de 971 casos, el intervalo podría ser:</p>
+<p><strong>R2018_0024</strong>. Sobre una muestra de 609 casos, el intervalo que estima el tiempo medio de reacción a un estímulo es (2.09, 3.81) segundos. Si la muestra hubiese sido de 714 casos, el intervalo podría ser:</p>
 </p>]]></text>
 </questiontext>
 <generalfeedback format="html">
@@ -6388,8 +6388,8 @@ FALSE
 <ol type = "a">
 <li> FALSE </li>
 <li> FALSE </li>
-<li> FALSE </li>
 <li> TRUE </li>
+<li> FALSE </li>
 </ol>
 </p>]]></text>
 </generalfeedback>
@@ -6400,7 +6400,7 @@ FALSE
 <answernumbering>abc</answernumbering>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-De la misma precisión
+De menor precisión
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -6418,23 +6418,23 @@ FALSE
 </p>]]></text>
 </feedback>
 </answer>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
-De menor precisión
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-FALSE
-</p>]]></text>
-</feedback>
-</answer>
 <answer fraction="100" format="html">
 <text><![CDATA[<p>
-De mayor precisión
+De menor amplitud
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
 TRUE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+De la misma precisión
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
 </p>]]></text>
 </feedback>
 </answer>
@@ -6447,15 +6447,15 @@ TRUE
 </name>
 <questiontext format="html">
 <text><![CDATA[<p>
-<p><strong>R2018_0024</strong>. Sobre una muestra de 625 casos, el intervalo que estima el tiempo medio de reacción a un estímulo es (1.16, 3.07) segundos. Si la muestra hubiese sido de 404 casos, el intervalo podría ser:</p>
+<p><strong>R2018_0024</strong>. Sobre una muestra de 588 casos, el intervalo que estima el tiempo medio de reacción a un estímulo es (2.12, 3.58) segundos. Si la muestra hubiese sido de 784 casos, el intervalo podría ser:</p>
 </p>]]></text>
 </questiontext>
 <generalfeedback format="html">
 <text><![CDATA[<p>
 <ol type = "a">
 <li> FALSE </li>
-<li> FALSE </li>
 <li> TRUE </li>
+<li> FALSE </li>
 <li> FALSE </li>
 </ol>
 </p>]]></text>
@@ -6467,17 +6467,7 @@ TRUE
 <answernumbering>abc</answernumbering>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-De mayor precisión
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-FALSE
-</p>]]></text>
-</feedback>
-</answer>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
-De la misma precisión
+De mayor amplitud
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -6487,7 +6477,7 @@ FALSE
 </answer>
 <answer fraction="100" format="html">
 <text><![CDATA[<p>
-De mayor amplitud
+De menor amplitud
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -6497,7 +6487,17 @@ TRUE
 </answer>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-De menor amplitud
+De la misma amplitud
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+De menor precisión
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -6514,7 +6514,7 @@ FALSE
 </name>
 <questiontext format="html">
 <text><![CDATA[<p>
-<p><strong>R2018_0024</strong>. Sobre una muestra de 540 casos, el intervalo que estima el tiempo medio de reacción a un estímulo es (1.86, 3.69) segundos. Si la muestra hubiese sido de 321 casos, el intervalo podría ser:</p>
+<p><strong>R2018_0024</strong>. Sobre una muestra de 458 casos, el intervalo que estima el tiempo medio de reacción a un estímulo es (1.78, 3.66) segundos. Si la muestra hubiese sido de 432 casos, el intervalo podría ser:</p>
 </p>]]></text>
 </questiontext>
 <generalfeedback format="html">
@@ -6535,83 +6535,6 @@ FALSE
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
 De menor amplitud
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-FALSE
-</p>]]></text>
-</feedback>
-</answer>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
-De mayor precisión
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-FALSE
-</p>]]></text>
-</feedback>
-</answer>
-<answer fraction="100" format="html">
-<text><![CDATA[<p>
-De mayor amplitud
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-TRUE
-</p>]]></text>
-</feedback>
-</answer>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
-De la misma amplitud
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-FALSE
-</p>]]></text>
-</feedback>
-</answer>
-</question>
-
-
-<question type="multichoice">
-<name>
-<text> R099 Q1 : preguntas_html_R2018_0024 </text>
-</name>
-<questiontext format="html">
-<text><![CDATA[<p>
-<p><strong>R2018_0024</strong>. Sobre una muestra de 392 casos, el intervalo que estima el tiempo medio de reacción a un estímulo es (2.16, 3.51) segundos. Si la muestra hubiese sido de 1000 casos, el intervalo podría ser:</p>
-</p>]]></text>
-</questiontext>
-<generalfeedback format="html">
-<text><![CDATA[<p>
-<ol type = "a">
-<li> TRUE </li>
-<li> FALSE </li>
-<li> FALSE </li>
-<li> FALSE </li>
-</ol>
-</p>]]></text>
-</generalfeedback>
-<penalty>0</penalty>
-<defaultgrade>1</defaultgrade>
-<shuffleanswers>false</shuffleanswers>
-<single>true</single>
-<answernumbering>abc</answernumbering>
-<answer fraction="100" format="html">
-<text><![CDATA[<p>
-De mayor precisión
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-TRUE
-</p>]]></text>
-</feedback>
-</answer>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
-De mayor amplitud
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -6629,9 +6552,19 @@ FALSE
 </p>]]></text>
 </feedback>
 </answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+De mayor amplitud
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+TRUE
+</p>]]></text>
+</feedback>
+</answer>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-De menor precisión
+De mayor precisión
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -6644,20 +6577,20 @@ FALSE
 
 <question type="multichoice">
 <name>
-<text> R100 Q1 : preguntas_html_R2018_0024 </text>
+<text> R099 Q1 : preguntas_html_R2018_0024 </text>
 </name>
 <questiontext format="html">
 <text><![CDATA[<p>
-<p><strong>R2018_0024</strong>. Sobre una muestra de 867 casos, el intervalo que estima el tiempo medio de reacción a un estímulo es (1.63, 2.83) segundos. Si la muestra hubiese sido de 648 casos, el intervalo podría ser:</p>
+<p><strong>R2018_0024</strong>. Sobre una muestra de 814 casos, el intervalo que estima el tiempo medio de reacción a un estímulo es (1.63, 3.21) segundos. Si la muestra hubiese sido de 809 casos, el intervalo podría ser:</p>
 </p>]]></text>
 </questiontext>
 <generalfeedback format="html">
 <text><![CDATA[<p>
 <ol type = "a">
 <li> FALSE </li>
-<li> FALSE </li>
-<li> FALSE </li>
 <li> TRUE </li>
+<li> FALSE </li>
+<li> FALSE </li>
 </ol>
 </p>]]></text>
 </generalfeedback>
@@ -6666,6 +6599,26 @@ FALSE
 <shuffleanswers>false</shuffleanswers>
 <single>true</single>
 <answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+De mayor precisión
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+De menor precisión
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+TRUE
+</p>]]></text>
+</feedback>
+</answer>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
 De la misma amplitud
@@ -6686,6 +6639,53 @@ FALSE
 </p>]]></text>
 </feedback>
 </answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R100 Q1 : preguntas_html_R2018_0024 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p><strong>R2018_0024</strong>. Sobre una muestra de 930 casos, el intervalo que estima el tiempo medio de reacción a un estímulo es (2.11, 3.49) segundos. Si la muestra hubiese sido de 661 casos, el intervalo podría ser:</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<ol type = "a">
+<li> TRUE </li>
+<li> FALSE </li>
+<li> FALSE </li>
+<li> FALSE </li>
+</ol>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+De menor precisión
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+TRUE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+De la misma amplitud
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
 De mayor precisión
@@ -6696,13 +6696,13 @@ FALSE
 </p>]]></text>
 </feedback>
 </answer>
-<answer fraction="100" format="html">
+<answer fraction="0" format="html">
 <text><![CDATA[<p>
-De menor precisión
+De menor amplitud
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
-TRUE
+FALSE
 </p>]]></text>
 </feedback>
 </answer>

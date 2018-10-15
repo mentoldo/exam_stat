@@ -1,7 +1,7 @@
 ```{r data generation, echo = FALSE, results = "hide"}
 ## Generación de datos
 df <- data.frame(codigo = 1:6,
-                 medida = c("absoluta", "relativa", "absoluta simple", "absoluta relativa", "relativa simple", "relativa acumulada"),
+                 medida = c("absoluta", "relativa", "absoluta simple", "absoluta acumulada", "relativa simple", "relativa acumulada"),
                  tipo = factor(c(1, 2, 1, 1, 2, 2),
                                levels = 1:6,
                                labels = c("cantidad de casos", "proporción de casos", "variable", "unidad de análisis", "una categoría", "un valor de la variable")))
