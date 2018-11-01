@@ -1,0 +1,58 @@
+```{r data generation, echo = FALSE, results = "hide"}
+## Generación de datos
+media <- round(runif(1, 50, 300))
+sd <- round(runif(1, .05 * media, .20 * media))
+x <- round(media + sample(c(-1, 1), 1) * runif(1, -2.2, 2.2) * sd)
+
+
+correcta <- round((x - media) / sd, 2)
+
+incorrectas <- c(round((x - media + sample(c(-1, 1), 1) * .05 * media) / sd, 2),
+                 x - media,
+                 round(sd / media, 2)
+                 )
+
+
+opciones <- c(correcta, incorrectas)
+
+# incorrectas <- which(!names(opciones) == cat)
+# correcta <- which(names(opciones) == cat)
+## QUESTION/ANSWER GENERATION
+questions <- character(4)
+solutions <- logical(4)
+
+questions[1] <- opciones[1]
+solutions[1] <- TRUE
+
+questions[2] <- opciones[2]
+solutions[2] <- FALSE
+    
+questions[3] <- opciones[3]
+solutions[3] <- FALSE
+
+questions[4] <- opciones[4]
+solutions[4] <- FALSE
+```
+
+
+Question
+========
+**R2018_0044**. Un sujeto obtiene un puntaje bruto de `r x` en una prueba de habilidad lingüística que tiene distribución normal con media `r media` y desvío estándar de `r sd`. El puntaje z para esa observación es de:
+
+```{r questionlist, echo = FALSE, results = "asis"}
+answerlist(questions, markup = "markdown")
+```
+  
+Solution
+========
+
+```{r solutionlist, echo = FALSE, results = "asis"}
+answerlist(solutions, markup = "markdown")
+```
+
+Meta-information
+================
+exname: R2018_0044
+extype: schoice
+exsolution: 1000
+exshuffle: TRUE
