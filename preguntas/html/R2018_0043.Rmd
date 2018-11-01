@@ -1,0 +1,78 @@
+```{r data generation, echo = FALSE, results = "hide"}
+library(ggplot2)
+
+## Generamos datos aleatorios
+media <- runif(1, 10, 500)
+x <- rnorm(1000, media, media * 10/100)
+Fn <- ecdf(x) ## Devuelve una función que toma un valor y devuelve la densidad empírica acumulada
+
+df <- data.frame(values = x, density = Fn(x))
+
+## Gráfico
+g <- ggplot(df, aes(values, density)) +
+    geom_line() +
+    labs(x = "", y = "Frecuencia relativa acumulada")
+
+i <- sample(1:5, 1)
+
+# correcta <- names(quantile(x)[i])
+df <- data.frame(codigo = 1:5,
+                 respuesta = c("es el valor mínimo",
+                               "es el percentil 25%",
+                               "es el percentil 50%",
+                               "es el percentil 75%",
+                               "es el valor máximo"),
+                 valor = round(quantile(x), 2))
+
+correcta <- df$respuesta[df$codigo == i]
+incorrectas <- sample(df$respuesta[df$codigo != i], 3)
+
+opciones <- c(as.character(correcta), as.character(incorrectas))
+
+## QUESTION/ANSWER GENERATION
+questions <- character(4)
+solutions <- logical(4)
+
+questions[1] <- opciones[1]
+solutions[1] <- TRUE
+
+questions[2] <- opciones[2]
+solutions[2] <- FALSE
+    
+questions[3] <- opciones[3]
+solutions[3] <- FALSE
+
+questions[4] <- opciones[4]
+solutions[4] <- FALSE
+```
+
+Question
+========
+
+**R2018_0043** Observe la siguiente ojiva de Galton y responda.
+\
+```{r ojiva1, fig.height = 4, echo = FALSE, results='hide', fig.path=""}
+
+g
+
+```
+  
+El valor `r df$valor[df$codigo == i]`   
+  
+```{r questionlist, echo = FALSE, results = "asis"}
+answerlist(questions, markup = "markdown")
+```
+
+Solution
+========
+```{r solutionlist, echo = FALSE, results = "asis"}
+answerlist(solutions, markup = "markdown")
+```
+
+
+Meta-information
+================
+exname: R2018_0043
+extype: schoice
+exsolution: `r paste(as.numeric(solutions), collapse = "")`
+exshuffle: TRUE
