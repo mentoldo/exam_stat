@@ -1,0 +1,121 @@
+```{r data generation, echo = FALSE, results = "hide"}
+library(kableExtra)
+library(dplyr)
+
+## Generación de datos
+rendimiento <- factor(c(rep(1:3, 2), sample(1:3, 4, replace = TRUE)),
+                      levels = 1:3,
+                      labels = c("bajo", "medio", "alto"))
+tipo <- factor(c(rep(1:2, each = 3), sample(1:2, 4, replace = TRUE)),
+               labels = c("autoritaria", "democrática"))
+
+df <- data.frame(rendimiento = rendimiento, tipo.de.enseñanza = tipo)
+
+df <- df[sample(1:nrow(df)), ]
+
+## 4 tipos de pregunta: frecuencia conjunta, relativas por fila, relativas por columna, relativas al total
+i <- sample(1:4, 1)
+
+## Seleccionamos la pregunta
+i_rend <- sample(levels(rendimiento), 1)
+i_tipo <- sample(levels(tipo), 1)
+
+## Realizamos la tabla de contingencia
+crosstbl <- table(df)
+
+preguntas <- c(paste("Indique la ",
+                 sample(c("frecuencia conjunta", "cantidad"), 1),
+                 " de alumnos que recibieron un tipo de enseñanza ",
+                 i_tipo,
+                 " y obtuvieron un rendimiento ",
+                 i_rend, ".", sep = ""),
+
+               paste("Indique, de los alumnos que recibieron un tipo de enseñanza ",
+                      i_tipo, ", el porcentaje de alumnos que obtuvieron un rendimiento ",
+                      i_rend, ".", sep = ""),
+                
+               paste("Indique, de los alumnos que obtuvieron un rendimiento ",
+                      i_rend, ", el porcentaje de alumnos que tuvo un tipo de enseñanza ",
+                      i_tipo, ".", sep = ""),
+               
+               paste("Indique el porcentaje de alumnos que obtuvieron un rendimiento ",
+                      i_rend, " y un tipo de enseñanza ",
+                      i_tipo, ".", sep = ""))
+                  
+correctas_num <- c(crosstbl[i_rend, i_tipo],
+               round(prop.table(crosstbl, 2)[i_rend, i_tipo] * 100, 2),
+               round(prop.table(crosstbl, 1)[i_rend, i_tipo] * 100, 2),
+               round(prop.table(crosstbl)[i_rend, i_tipo] * 100, 2)
+               )
+                                
+incorrectas <- list(c(correctas_num[1] + sample(c(-1, 1), 1) * 2,
+                      paste(correctas_num[2], "%", sep = ""),
+                      paste(correctas_num[4], "%", sep = "")),
+        
+                    c(paste(correctas_num[2] + sample(c(-1, 1), 1) * 5, "%", sep = ""),
+                      paste(correctas_num[4], "%", sep = ""),
+                      correctas_num[1]),
+                   
+                    c(paste(correctas_num[3] + sample(c(-1, 1), 1) * 5, "%", sep = ""),
+                      paste(correctas_num[4], "%", sep = ""),
+                      correctas_num[1]),
+                   
+                    c(paste(correctas_num[4] + sample(c(-1, 1), 1) * 5, "%", sep = ""),
+                      paste(correctas_num[3], "%", sep = ""),
+                      correctas_num[1])
+)
+
+correctas <- c(paste(correctas_num[1]),
+               paste(correctas_num[2], "%", sep = ""),
+               paste(correctas_num[3], "%", sep = ""),
+               paste(correctas_num[4], "%", sep = ""))
+
+opciones <- c(correctas[i], incorrectas[[i]])
+
+## QUESTION/ANSWER GENERATION
+questions <- character(4)
+solutions <- logical(4)
+
+questions[1] <- opciones[1]
+solutions[1] <- TRUE
+
+questions[2] <- opciones[2]
+solutions[2] <- FALSE
+    
+questions[3] <- opciones[3]
+solutions[3] <- FALSE
+
+questions[4] <- opciones[4]
+solutions[4] <- FALSE
+```
+Question
+========
+**R2018_0042**. Se realizó un estudio para evaluar si el tipo de enseñanza (democrática y autoritaria), está asociada con el rendimiento académico. Considere la siguiente matriz de datos:
+
+```{r tabla_frecuencia_4, echo = FALSE, comment = NA}
+kable(df, row.names = FALSE, format = "latex",
+      booktabs = TRUE)  %>% 
+    kable_styling()
+```  
+  
+  
+`r preguntas[i]`  
+
+
+```{r questionlist, echo = FALSE, results = "asis"}
+answerlist(questions, markup = "markdown")
+```
+  
+Solution
+========
+
+```{r solutionlist, echo = FALSE, results = "asis"}
+answerlist(solutions, markup = "markdown")
+```
+
+Meta-information
+================
+exname: R2018_0042
+extype: schoice
+exsolution: 1000
+exshuffle: TRUE

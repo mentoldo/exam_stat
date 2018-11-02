@@ -1,0 +1,96 @@
+```{r data generation, echo = FALSE, results = "hide"}
+library(dplyr)
+library(kableExtra)
+
+## Generación de datos
+df <- data.frame(codigo = 1:7,
+                 `Palabras recordadas` = 10:16,
+                 f = round(rnorm(7, runif(1, 40, 60), 10)))
+
+## Calculo la frecuencia relativa
+fprima <- df$f/sum(df$f)
+
+## Convierto la frecuencia relativa
+df$`f'` <- paste(round(fprima * 100), "%")
+
+## Cuatro opciones de respuesta
+df2 <- data.frame(codigo = 1:4,
+                  tipo = c("Palabras recordadas",
+                           "Valor",
+                           "Frecuencia absoluta",
+                           "Frecuencia relativa"),
+                  opciones = c("La variable",
+                               "Un valor de la variable",
+                               "Una frecuencia absoluta",
+                               "Una frecuencia relativa"))
+
+
+## Elegimos el tipo de pregunta
+
+x <- sample(1:4, 1)
+
+
+## Determinamos la pregunta
+asignarpregunta <- function(x){
+    switch(x,    
+        `1` = as.character(df2$tipo[1]),
+        `2` = paste(sample(df$Palabras.recordadas, 1), "palabras"),
+        `3` = paste(sample(df$f, 1), "personas"),
+        `4` = sample(df$`f'`, 1)
+)
+}
+
+pregunta <- asignarpregunta(x)
+
+## Asignamos las opciones de respuesta
+
+correcta <- as.character(df2$opciones[df2$codigo == x])
+incorrectas <- as.character(sample(df2$opciones[df2$codigo != x], 3))
+
+## Opciones
+opciones <- c(correcta, incorrectas)
+
+## QUESTION/ANSWER GENERATION
+questions <- character(4)
+solutions <- logical(4)
+
+questions[1] <- opciones[1]
+solutions[1] <- TRUE
+
+questions[2] <- opciones[2]
+solutions[2] <- FALSE
+    
+questions[3] <- opciones[3]
+solutions[3] <- FALSE
+
+questions[4] <- opciones[4]
+solutions[4] <- FALSE
+```
+Question
+========
+**R2018_0018**. Se realiza un experimento de memoria en personas. Se les enseña una lista de 20 palabras y se les pide que las recuerden. Se obtiene la siguiente tabla de distribución de frecuencias.
+
+```{r tabla2018_0018, echo = FALSE, comment = NA}
+kable(df[, 2:4], digits = 0, format = "latex", booktabs = TRUE) %>% 
+    kable_styling()
+```  
+
+"`r pregunta`" es:
+
+```{r questionlist, echo = FALSE, results = "asis"}
+answerlist(questions, markup = "markdown")
+```
+  
+Solution
+========
+
+```{r solutionlist, echo = FALSE, results = "asis"}
+answerlist(solutions, markup = "markdown")
+```
+
+Meta-information
+================
+exname: R2018_0018
+extype: schoice
+exsolution: 1000
+exshuffle: TRUE
