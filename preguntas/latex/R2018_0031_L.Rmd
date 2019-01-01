@@ -1,0 +1,128 @@
+```{r data generation, echo = FALSE, results = "hide"}
+library(kableExtra)
+library(dplyr)
+
+## Generación de datos
+df <- data.frame(id = 1:10, cantidad.de.palabras = round(rnorm(10, runif(1, 12, 18), 2)))
+
+
+## Creamos una tabla de distribución de frecuencias
+freq <- df %>% 
+    group_by(cantidad.de.palabras) %>% 
+    summarise(freq = n()) %>% 
+    mutate(freqrel = freq/sum(freq), cum = cumsum(freq)) %>% 
+    mutate(cumrel = cumsum(freqrel))
+
+## Elegimos aleatorimaente un valor de la variable para la tabla de distribución de frecuencias
+i <- sample(1:nrow(freq), 1)
+
+
+## Sorteamos un tipo de pregunta
+
+preguntas <- c(paste("La frecuencia absoluta simple de ", freq$cantidad.de.palabras[i], " es igual a:", sep = ""),
+               paste("La cantidad de personas que recordaron ", freq$cantidad.de.palabras[i], " palabras es igual a:", sep = ""),
+               
+               paste("La frecuencia relativa simple de ", freq$cantidad.de.palabras[i], " es igual a:", sep = ""),
+               paste("El porcentaje de personas que recordaron ", freq$cantidad.de.palabras[i], " palabras es igual a:", sep = ""),
+               paste("La proporción de personas que recordaron ", freq$cantidad.de.palabras[i], " palabras es igual a:", sep = ""),
+               
+               paste("La frecuencia absoluta acumulada de ", freq$cantidad.de.palabras[i], " es igual a:", sep = ""),
+               paste("La cantidad de personas que recordaron ", freq$cantidad.de.palabras[i], " palabras o menos es igual a:", sep = ""),
+               paste("La cantidad de personas que recordaron ", freq$cantidad.de.palabras[i], " palabras o más es igual a:", sep = ""),
+               
+               paste("La frecuencia relativa acumulada de ", freq$cantidad.de.palabras[i], " es igual a:", sep = ""),
+               paste("El porcentaje de personas que recordaron ", freq$cantidad.de.palabras[i], " palabras o menos es igual a:", sep = ""),
+               paste("El porcentaje de personas que recordaron ", freq$cantidad.de.palabras[i], " palabras o más es igual a:", sep = "")
+               )
+
+               
+
+correctas <- c(as.character(freq$freq[i]),
+               as.character(freq$freq[i]),
+               
+               as.character(freq$freqrel[i]),
+               paste(freq$freqrel[i] * 100, "%", sep = ""),
+               as.character(freq$freqrel[i]),
+               
+               as.character(freq$cum[i]),
+               as.character(freq$cum[i]),
+               as.character(sum(freq$freq[i:nrow(freq)])),
+               
+               as.character(freq$cumrel[i]),
+               paste(freq$cumrel[i] * 100, "%", sep = ""),
+               paste(sum(freq$freqrel[i:nrow(freq)]) * 100, "%", sep = "")
+               )
+
+
+## Hay frecuencias simples y acumuladas que pueden tener valores iguales
+## Por lo tanto, debemos asegurarnos que esos valores no seran elegidos como distractores.
+
+incorrectas <- list(c(correctas[3], correctas[4], ifelse(correctas[6] != correctas[1], correctas[6], as.character(freq$cum[i] + 1))),
+                    c(correctas[3], correctas[4], ifelse(correctas[6] != correctas[1], correctas[6], as.character(freq$cum[i] + 1))),
+                    
+                    c(correctas[1], "No se puede calcular", ifelse(correctas[9] != correctas[3], correctas[9], as.character(freq$cumrel[i] + 0.1))),
+                    c(correctas[1], correctas[3], ifelse(correctas[10] != correctas[4], correctas[10], paste(freq$cumrel[i] + 10, "%", sep = ""))),
+                    c(correctas[1], correctas[4], ifelse(correctas[9] != correctas[3], correctas[9], as.character(freq$cumrel[i] + 0.1))),
+                    
+                    c(correctas[3], correctas[4], ifelse(correctas[1] != correctas[5], correctas[1], as.character(freq$freqrel[i] + 0.1))),
+                    c(correctas[3], correctas[4], ifelse(correctas[1] != correctas[5], correctas[1], as.character(freq$freqrel[i] + 0.1))),
+                    c(correctas[3], correctas[4], ifelse(correctas[1] != correctas[7], correctas[1], as.character(freq$freqrel[i] + 0.1))),
+                    
+                    c(correctas[1], "No se puede calcular", ifelse(correctas[3] != correctas[9], correctas[3], as.character(freq$freqrel[i] + 0.1))),
+                    c(correctas[3], correctas[6], ifelse(correctas[11] != correctas[10], correctas[11], paste(freq$cumrel[i] + 10, "%", sep = ""))),
+                    c(correctas[3], correctas[8], ifelse(correctas[10] != correctas[11], correctas[10], paste(freq$cumrel[i] + 10, "%", sep = "")))
+)
+
+
+## Elegimos un tipo de pregunta
+
+x <- sample(1:11, 1)
+
+opciones <- c(correctas[x], incorrectas[[x]])
+
+## QUESTION/ANSWER GENERATION
+questions <- character(4)
+solutions <- logical(4)
+
+questions[1] <- opciones[1]
+solutions[1] <- TRUE
+
+questions[2] <- opciones[2]
+solutions[2] <- FALSE
+    
+questions[3] <- opciones[3]
+solutions[3] <- FALSE
+
+questions[4] <- opciones[4]
+solutions[4] <- FALSE
+```
+Question
+========
+**R2018_0031**. Se realizó experimento de memoria. Se les enseñó 30 palabras a cada uno de los participantes y se registró el número de palabras recordadas. Dado el siguiente fragmento de matriz de datos:  
+
+
+```{r tabla2018_0030, echo = FALSE, comment = NA}
+kable(df, booktabs = TRUE, format = "latex")  %>% 
+    kable_styling()
+```  
+  
+`r preguntas[x]`
+
+
+```{r questionlist, echo = FALSE, results = "asis"}
+answerlist(questions, markup = "markdown")
+```
+  
+Solution
+========
+
+```{r solutionlist, echo = FALSE, results = "asis"}
+answerlist(solutions, markup = "markdown")
+```
+
+Meta-information
+================
+exname: R2018_0031
+extype: schoice
+exsolution: 1000
+exshuffle: TRUE

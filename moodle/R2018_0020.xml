@@ -15,16 +15,16 @@
 </name>
 <questiontext format="html">
 <text><![CDATA[<p>
-<p><strong>R2018_0020</strong>. La siguiente variable: &quot;Color de pelo&quot; tiene nivel de medición:</p>
+<p><strong>R2018_0020</strong>. La siguiente variable: &quot;Partido político al que está afiliado&quot; tiene nivel de medición:</p>
 </p>]]></text>
 </questiontext>
 <generalfeedback format="html">
 <text><![CDATA[<p>
 <ol type = "a">
+<li> FALSE </li>
+<li> FALSE </li>
+<li> FALSE </li>
 <li> TRUE </li>
-<li> FALSE </li>
-<li> FALSE </li>
-<li> FALSE </li>
 </ol>
 </p>]]></text>
 </generalfeedback>
@@ -33,16 +33,6 @@
 <shuffleanswers>false</shuffleanswers>
 <single>true</single>
 <answernumbering>abc</answernumbering>
-<answer fraction="100" format="html">
-<text><![CDATA[<p>
-Nominal
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-TRUE
-</p>]]></text>
-</feedback>
-</answer>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
 Intervalar
@@ -70,6 +60,16 @@ Ordinal
 <feedback format="html">
 <text><![CDATA[<p>
 FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+Nominal
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+TRUE
 </p>]]></text>
 </feedback>
 </answer>
@@ -82,15 +82,15 @@ FALSE
 </name>
 <questiontext format="html">
 <text><![CDATA[<p>
-<p><strong>R2018_0020</strong>. La siguiente variable: &quot;Talla&quot; tiene nivel de medición:</p>
+<p><strong>R2018_0020</strong>. La siguiente variable: &quot;Cantidad de libros leídos en el último mes&quot; tiene nivel de medición:</p>
 </p>]]></text>
 </questiontext>
 <generalfeedback format="html">
 <text><![CDATA[<p>
 <ol type = "a">
 <li> FALSE </li>
-<li> TRUE </li>
 <li> FALSE </li>
+<li> TRUE </li>
 <li> FALSE </li>
 </ol>
 </p>]]></text>
@@ -102,7 +102,17 @@ FALSE
 <answernumbering>abc</answernumbering>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-Ordinal
+Nominal
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Intervalar
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -122,17 +132,7 @@ TRUE
 </answer>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-Nominal
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-FALSE
-</p>]]></text>
-</feedback>
-</answer>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
-Intervalar
+Ordinal
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -149,7 +149,7 @@ FALSE
 </name>
 <questiontext format="html">
 <text><![CDATA[<p>
-<p><strong>R2018_0020</strong>. La siguiente variable: &quot;Semanas de gestación&quot; tiene nivel de medición:</p>
+<p><strong>R2018_0020</strong>. La siguiente variable: &quot;Máxima distancia alcanzada en un salto&quot; tiene nivel de medición:</p>
 </p>]]></text>
 </questiontext>
 <generalfeedback format="html">
@@ -169,7 +169,7 @@ FALSE
 <answernumbering>abc</answernumbering>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-Ordinal
+Nominal
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -199,7 +199,7 @@ FALSE
 </answer>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-Nominal
+Ordinal
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -216,7 +216,7 @@ FALSE
 </name>
 <questiontext format="html">
 <text><![CDATA[<p>
-<p><strong>R2018_0020</strong>. La siguiente variable: &quot;Peso&quot; tiene nivel de medición:</p>
+<p><strong>R2018_0020</strong>. La siguiente variable: &quot;Tiempo que dedica a usar redes sociales&quot; tiene nivel de medición:</p>
 </p>]]></text>
 </questiontext>
 <generalfeedback format="html">
@@ -224,8 +224,8 @@ FALSE
 <ol type = "a">
 <li> FALSE </li>
 <li> FALSE </li>
-<li> FALSE </li>
 <li> TRUE </li>
+<li> FALSE </li>
 </ol>
 </p>]]></text>
 </generalfeedback>
@@ -234,16 +234,6 @@ FALSE
 <shuffleanswers>false</shuffleanswers>
 <single>true</single>
 <answernumbering>abc</answernumbering>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
-Intervalar
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-FALSE
-</p>]]></text>
-</feedback>
-</answer>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
 Ordinal
@@ -256,7 +246,7 @@ FALSE
 </answer>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-Nominal
+Intervalar
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -271,6 +261,16 @@ Proporcional
 <feedback format="html">
 <text><![CDATA[<p>
 TRUE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Nominal
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
 </p>]]></text>
 </feedback>
 </answer>
@@ -283,16 +283,16 @@ TRUE
 </name>
 <questiontext format="html">
 <text><![CDATA[<p>
-<p><strong>R2018_0020</strong>. La siguiente variable: &quot;Tiempo que dedica a usar redes sociales&quot; tiene nivel de medición:</p>
+<p><strong>R2018_0020</strong>. La siguiente variable: &quot;Cantidad de goles en un partido&quot; tiene nivel de medición:</p>
 </p>]]></text>
 </questiontext>
 <generalfeedback format="html">
 <text><![CDATA[<p>
 <ol type = "a">
+<li> FALSE </li>
+<li> FALSE </li>
+<li> FALSE </li>
 <li> TRUE </li>
-<li> FALSE </li>
-<li> FALSE </li>
-<li> FALSE </li>
 </ol>
 </p>]]></text>
 </generalfeedback>
@@ -301,26 +301,6 @@ TRUE
 <shuffleanswers>false</shuffleanswers>
 <single>true</single>
 <answernumbering>abc</answernumbering>
-<answer fraction="100" format="html">
-<text><![CDATA[<p>
-Proporcional
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-TRUE
-</p>]]></text>
-</feedback>
-</answer>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
-Nominal
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-FALSE
-</p>]]></text>
-</feedback>
-</answer>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
 Ordinal
@@ -338,6 +318,26 @@ Intervalar
 <feedback format="html">
 <text><![CDATA[<p>
 FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Nominal
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+Proporcional
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+TRUE
 </p>]]></text>
 </feedback>
 </answer>
@@ -350,16 +350,16 @@ FALSE
 </name>
 <questiontext format="html">
 <text><![CDATA[<p>
-<p><strong>R2018_0020</strong>. La siguiente variable: &quot;Semanas de gestación&quot; tiene nivel de medición:</p>
+<p><strong>R2018_0020</strong>. La siguiente variable: &quot;Cantidad de aciertos en una prueba&quot; tiene nivel de medición:</p>
 </p>]]></text>
 </questiontext>
 <generalfeedback format="html">
 <text><![CDATA[<p>
 <ol type = "a">
+<li> FALSE </li>
+<li> FALSE </li>
+<li> FALSE </li>
 <li> TRUE </li>
-<li> FALSE </li>
-<li> FALSE </li>
-<li> FALSE </li>
 </ol>
 </p>]]></text>
 </generalfeedback>
@@ -368,29 +368,9 @@ FALSE
 <shuffleanswers>false</shuffleanswers>
 <single>true</single>
 <answernumbering>abc</answernumbering>
-<answer fraction="100" format="html">
-<text><![CDATA[<p>
-Proporcional
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-TRUE
-</p>]]></text>
-</feedback>
-</answer>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
 Ordinal
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-FALSE
-</p>]]></text>
-</feedback>
-</answer>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
-Nominal
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -408,6 +388,26 @@ FALSE
 </p>]]></text>
 </feedback>
 </answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Nominal
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+Proporcional
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+TRUE
+</p>]]></text>
+</feedback>
+</answer>
 </question>
 
 
@@ -417,7 +417,7 @@ FALSE
 </name>
 <questiontext format="html">
 <text><![CDATA[<p>
-<p><strong>R2018_0020</strong>. La siguiente variable: &quot;Tiempo para resolver una tarea&quot; tiene nivel de medición:</p>
+<p><strong>R2018_0020</strong>. La siguiente variable: &quot;Cantidad de veces al año que va a misa&quot; tiene nivel de medición:</p>
 </p>]]></text>
 </questiontext>
 <generalfeedback format="html">
@@ -484,7 +484,7 @@ FALSE
 </name>
 <questiontext format="html">
 <text><![CDATA[<p>
-<p><strong>R2018_0020</strong>. La siguiente variable: &quot;Cantidad de goles en un partido&quot; tiene nivel de medición:</p>
+<p><strong>R2018_0020</strong>. La siguiente variable: &quot;Cantidad de aciertos en una prueba&quot; tiene nivel de medición:</p>
 </p>]]></text>
 </questiontext>
 <generalfeedback format="html">
@@ -551,15 +551,15 @@ FALSE
 </name>
 <questiontext format="html">
 <text><![CDATA[<p>
-<p><strong>R2018_0020</strong>. La siguiente variable: &quot;Puntaje en el test de inteligencia WAIS-IV&quot; tiene nivel de medición:</p>
+<p><strong>R2018_0020</strong>. La siguiente variable: &quot;Cantidad de aciertos en una prueba&quot; tiene nivel de medición:</p>
 </p>]]></text>
 </questiontext>
 <generalfeedback format="html">
 <text><![CDATA[<p>
 <ol type = "a">
-<li> FALSE </li>
-<li> FALSE </li>
 <li> TRUE </li>
+<li> FALSE </li>
+<li> FALSE </li>
 <li> FALSE </li>
 </ol>
 </p>]]></text>
@@ -569,29 +569,9 @@ FALSE
 <shuffleanswers>false</shuffleanswers>
 <single>true</single>
 <answernumbering>abc</answernumbering>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
-Proporcional
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-FALSE
-</p>]]></text>
-</feedback>
-</answer>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
-Nominal
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-FALSE
-</p>]]></text>
-</feedback>
-</answer>
 <answer fraction="100" format="html">
 <text><![CDATA[<p>
-Intervalar
+Proporcional
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -609,6 +589,26 @@ FALSE
 </p>]]></text>
 </feedback>
 </answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Nominal
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Intervalar
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
 </question>
 
 
@@ -618,15 +618,15 @@ FALSE
 </name>
 <questiontext format="html">
 <text><![CDATA[<p>
-<p><strong>R2018_0020</strong>. La siguiente variable: &quot;Talla&quot; tiene nivel de medición:</p>
+<p><strong>R2018_0020</strong>. La siguiente variable: &quot;Puntaje en el test de depresión de Beck&quot; tiene nivel de medición:</p>
 </p>]]></text>
 </questiontext>
 <generalfeedback format="html">
 <text><![CDATA[<p>
 <ol type = "a">
 <li> FALSE </li>
-<li> TRUE </li>
 <li> FALSE </li>
+<li> TRUE </li>
 <li> FALSE </li>
 </ol>
 </p>]]></text>
@@ -638,21 +638,11 @@ FALSE
 <answernumbering>abc</answernumbering>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-Intervalar
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-FALSE
-</p>]]></text>
-</feedback>
-</answer>
-<answer fraction="100" format="html">
-<text><![CDATA[<p>
 Proporcional
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
-TRUE
+FALSE
 </p>]]></text>
 </feedback>
 </answer>
@@ -663,6 +653,16 @@ Nominal
 <feedback format="html">
 <text><![CDATA[<p>
 FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+Intervalar
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+TRUE
 </p>]]></text>
 </feedback>
 </answer>
@@ -682,1413 +682,6 @@ FALSE
 <question type="multichoice">
 <name>
 <text> R011 Q1 : preguntas_html_R2018_0020 </text>
-</name>
-<questiontext format="html">
-<text><![CDATA[<p>
-<p><strong>R2018_0020</strong>. La siguiente variable: &quot;Tamaño de la organización (1. Grande, 2. Mediana, 3. Pequeña)&quot; tiene nivel de medición:</p>
-</p>]]></text>
-</questiontext>
-<generalfeedback format="html">
-<text><![CDATA[<p>
-<ol type = "a">
-<li> FALSE </li>
-<li> FALSE </li>
-<li> TRUE </li>
-<li> FALSE </li>
-</ol>
-</p>]]></text>
-</generalfeedback>
-<penalty>0</penalty>
-<defaultgrade>1</defaultgrade>
-<shuffleanswers>false</shuffleanswers>
-<single>true</single>
-<answernumbering>abc</answernumbering>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
-Nominal
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-FALSE
-</p>]]></text>
-</feedback>
-</answer>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
-Intervalar
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-FALSE
-</p>]]></text>
-</feedback>
-</answer>
-<answer fraction="100" format="html">
-<text><![CDATA[<p>
-Ordinal
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-TRUE
-</p>]]></text>
-</feedback>
-</answer>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
-Proporcional
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-FALSE
-</p>]]></text>
-</feedback>
-</answer>
-</question>
-
-
-<question type="multichoice">
-<name>
-<text> R012 Q1 : preguntas_html_R2018_0020 </text>
-</name>
-<questiontext format="html">
-<text><![CDATA[<p>
-<p><strong>R2018_0020</strong>. La siguiente variable: &quot;Perímetro craneal&quot; tiene nivel de medición:</p>
-</p>]]></text>
-</questiontext>
-<generalfeedback format="html">
-<text><![CDATA[<p>
-<ol type = "a">
-<li> FALSE </li>
-<li> TRUE </li>
-<li> FALSE </li>
-<li> FALSE </li>
-</ol>
-</p>]]></text>
-</generalfeedback>
-<penalty>0</penalty>
-<defaultgrade>1</defaultgrade>
-<shuffleanswers>false</shuffleanswers>
-<single>true</single>
-<answernumbering>abc</answernumbering>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
-Intervalar
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-FALSE
-</p>]]></text>
-</feedback>
-</answer>
-<answer fraction="100" format="html">
-<text><![CDATA[<p>
-Proporcional
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-TRUE
-</p>]]></text>
-</feedback>
-</answer>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
-Ordinal
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-FALSE
-</p>]]></text>
-</feedback>
-</answer>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
-Nominal
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-FALSE
-</p>]]></text>
-</feedback>
-</answer>
-</question>
-
-
-<question type="multichoice">
-<name>
-<text> R013 Q1 : preguntas_html_R2018_0020 </text>
-</name>
-<questiontext format="html">
-<text><![CDATA[<p>
-<p><strong>R2018_0020</strong>. La siguiente variable: &quot;Color de pelo&quot; tiene nivel de medición:</p>
-</p>]]></text>
-</questiontext>
-<generalfeedback format="html">
-<text><![CDATA[<p>
-<ol type = "a">
-<li> FALSE </li>
-<li> TRUE </li>
-<li> FALSE </li>
-<li> FALSE </li>
-</ol>
-</p>]]></text>
-</generalfeedback>
-<penalty>0</penalty>
-<defaultgrade>1</defaultgrade>
-<shuffleanswers>false</shuffleanswers>
-<single>true</single>
-<answernumbering>abc</answernumbering>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
-Intervalar
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-FALSE
-</p>]]></text>
-</feedback>
-</answer>
-<answer fraction="100" format="html">
-<text><![CDATA[<p>
-Nominal
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-TRUE
-</p>]]></text>
-</feedback>
-</answer>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
-Proporcional
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-FALSE
-</p>]]></text>
-</feedback>
-</answer>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
-Ordinal
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-FALSE
-</p>]]></text>
-</feedback>
-</answer>
-</question>
-
-
-<question type="multichoice">
-<name>
-<text> R014 Q1 : preguntas_html_R2018_0020 </text>
-</name>
-<questiontext format="html">
-<text><![CDATA[<p>
-<p><strong>R2018_0020</strong>. La siguiente variable: &quot;Dosis de alcohol ingerida&quot; tiene nivel de medición:</p>
-</p>]]></text>
-</questiontext>
-<generalfeedback format="html">
-<text><![CDATA[<p>
-<ol type = "a">
-<li> FALSE </li>
-<li> FALSE </li>
-<li> FALSE </li>
-<li> TRUE </li>
-</ol>
-</p>]]></text>
-</generalfeedback>
-<penalty>0</penalty>
-<defaultgrade>1</defaultgrade>
-<shuffleanswers>false</shuffleanswers>
-<single>true</single>
-<answernumbering>abc</answernumbering>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
-Nominal
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-FALSE
-</p>]]></text>
-</feedback>
-</answer>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
-Ordinal
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-FALSE
-</p>]]></text>
-</feedback>
-</answer>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
-Intervalar
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-FALSE
-</p>]]></text>
-</feedback>
-</answer>
-<answer fraction="100" format="html">
-<text><![CDATA[<p>
-Proporcional
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-TRUE
-</p>]]></text>
-</feedback>
-</answer>
-</question>
-
-
-<question type="multichoice">
-<name>
-<text> R015 Q1 : preguntas_html_R2018_0020 </text>
-</name>
-<questiontext format="html">
-<text><![CDATA[<p>
-<p><strong>R2018_0020</strong>. La siguiente variable: &quot;Tamaño de la organización (1. Grande, 2. Mediana, 3. Pequeña)&quot; tiene nivel de medición:</p>
-</p>]]></text>
-</questiontext>
-<generalfeedback format="html">
-<text><![CDATA[<p>
-<ol type = "a">
-<li> TRUE </li>
-<li> FALSE </li>
-<li> FALSE </li>
-<li> FALSE </li>
-</ol>
-</p>]]></text>
-</generalfeedback>
-<penalty>0</penalty>
-<defaultgrade>1</defaultgrade>
-<shuffleanswers>false</shuffleanswers>
-<single>true</single>
-<answernumbering>abc</answernumbering>
-<answer fraction="100" format="html">
-<text><![CDATA[<p>
-Ordinal
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-TRUE
-</p>]]></text>
-</feedback>
-</answer>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
-Nominal
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-FALSE
-</p>]]></text>
-</feedback>
-</answer>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
-Intervalar
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-FALSE
-</p>]]></text>
-</feedback>
-</answer>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
-Proporcional
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-FALSE
-</p>]]></text>
-</feedback>
-</answer>
-</question>
-
-
-<question type="multichoice">
-<name>
-<text> R016 Q1 : preguntas_html_R2018_0020 </text>
-</name>
-<questiontext format="html">
-<text><![CDATA[<p>
-<p><strong>R2018_0020</strong>. La siguiente variable: &quot;Puntaje en el test de inteligencia WAIS-IV&quot; tiene nivel de medición:</p>
-</p>]]></text>
-</questiontext>
-<generalfeedback format="html">
-<text><![CDATA[<p>
-<ol type = "a">
-<li> FALSE </li>
-<li> FALSE </li>
-<li> TRUE </li>
-<li> FALSE </li>
-</ol>
-</p>]]></text>
-</generalfeedback>
-<penalty>0</penalty>
-<defaultgrade>1</defaultgrade>
-<shuffleanswers>false</shuffleanswers>
-<single>true</single>
-<answernumbering>abc</answernumbering>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
-Ordinal
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-FALSE
-</p>]]></text>
-</feedback>
-</answer>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
-Proporcional
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-FALSE
-</p>]]></text>
-</feedback>
-</answer>
-<answer fraction="100" format="html">
-<text><![CDATA[<p>
-Intervalar
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-TRUE
-</p>]]></text>
-</feedback>
-</answer>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
-Nominal
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-FALSE
-</p>]]></text>
-</feedback>
-</answer>
-</question>
-
-
-<question type="multichoice">
-<name>
-<text> R017 Q1 : preguntas_html_R2018_0020 </text>
-</name>
-<questiontext format="html">
-<text><![CDATA[<p>
-<p><strong>R2018_0020</strong>. La siguiente variable: &quot;Cantidad de aciertos en una prueba&quot; tiene nivel de medición:</p>
-</p>]]></text>
-</questiontext>
-<generalfeedback format="html">
-<text><![CDATA[<p>
-<ol type = "a">
-<li> FALSE </li>
-<li> FALSE </li>
-<li> TRUE </li>
-<li> FALSE </li>
-</ol>
-</p>]]></text>
-</generalfeedback>
-<penalty>0</penalty>
-<defaultgrade>1</defaultgrade>
-<shuffleanswers>false</shuffleanswers>
-<single>true</single>
-<answernumbering>abc</answernumbering>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
-Nominal
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-FALSE
-</p>]]></text>
-</feedback>
-</answer>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
-Ordinal
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-FALSE
-</p>]]></text>
-</feedback>
-</answer>
-<answer fraction="100" format="html">
-<text><![CDATA[<p>
-Proporcional
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-TRUE
-</p>]]></text>
-</feedback>
-</answer>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
-Intervalar
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-FALSE
-</p>]]></text>
-</feedback>
-</answer>
-</question>
-
-
-<question type="multichoice">
-<name>
-<text> R018 Q1 : preguntas_html_R2018_0020 </text>
-</name>
-<questiontext format="html">
-<text><![CDATA[<p>
-<p><strong>R2018_0020</strong>. La siguiente variable: &quot;Cantidad de aciertos en una prueba&quot; tiene nivel de medición:</p>
-</p>]]></text>
-</questiontext>
-<generalfeedback format="html">
-<text><![CDATA[<p>
-<ol type = "a">
-<li> FALSE </li>
-<li> FALSE </li>
-<li> FALSE </li>
-<li> TRUE </li>
-</ol>
-</p>]]></text>
-</generalfeedback>
-<penalty>0</penalty>
-<defaultgrade>1</defaultgrade>
-<shuffleanswers>false</shuffleanswers>
-<single>true</single>
-<answernumbering>abc</answernumbering>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
-Nominal
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-FALSE
-</p>]]></text>
-</feedback>
-</answer>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
-Ordinal
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-FALSE
-</p>]]></text>
-</feedback>
-</answer>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
-Intervalar
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-FALSE
-</p>]]></text>
-</feedback>
-</answer>
-<answer fraction="100" format="html">
-<text><![CDATA[<p>
-Proporcional
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-TRUE
-</p>]]></text>
-</feedback>
-</answer>
-</question>
-
-
-<question type="multichoice">
-<name>
-<text> R019 Q1 : preguntas_html_R2018_0020 </text>
-</name>
-<questiontext format="html">
-<text><![CDATA[<p>
-<p><strong>R2018_0020</strong>. La siguiente variable: &quot;Cantidad de aplazos&quot; tiene nivel de medición:</p>
-</p>]]></text>
-</questiontext>
-<generalfeedback format="html">
-<text><![CDATA[<p>
-<ol type = "a">
-<li> FALSE </li>
-<li> FALSE </li>
-<li> FALSE </li>
-<li> TRUE </li>
-</ol>
-</p>]]></text>
-</generalfeedback>
-<penalty>0</penalty>
-<defaultgrade>1</defaultgrade>
-<shuffleanswers>false</shuffleanswers>
-<single>true</single>
-<answernumbering>abc</answernumbering>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
-Nominal
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-FALSE
-</p>]]></text>
-</feedback>
-</answer>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
-Intervalar
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-FALSE
-</p>]]></text>
-</feedback>
-</answer>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
-Ordinal
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-FALSE
-</p>]]></text>
-</feedback>
-</answer>
-<answer fraction="100" format="html">
-<text><![CDATA[<p>
-Proporcional
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-TRUE
-</p>]]></text>
-</feedback>
-</answer>
-</question>
-
-
-<question type="multichoice">
-<name>
-<text> R020 Q1 : preguntas_html_R2018_0020 </text>
-</name>
-<questiontext format="html">
-<text><![CDATA[<p>
-<p><strong>R2018_0020</strong>. La siguiente variable: &quot;Máxima distancia alcanzada en un salto&quot; tiene nivel de medición:</p>
-</p>]]></text>
-</questiontext>
-<generalfeedback format="html">
-<text><![CDATA[<p>
-<ol type = "a">
-<li> TRUE </li>
-<li> FALSE </li>
-<li> FALSE </li>
-<li> FALSE </li>
-</ol>
-</p>]]></text>
-</generalfeedback>
-<penalty>0</penalty>
-<defaultgrade>1</defaultgrade>
-<shuffleanswers>false</shuffleanswers>
-<single>true</single>
-<answernumbering>abc</answernumbering>
-<answer fraction="100" format="html">
-<text><![CDATA[<p>
-Proporcional
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-TRUE
-</p>]]></text>
-</feedback>
-</answer>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
-Ordinal
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-FALSE
-</p>]]></text>
-</feedback>
-</answer>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
-Intervalar
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-FALSE
-</p>]]></text>
-</feedback>
-</answer>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
-Nominal
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-FALSE
-</p>]]></text>
-</feedback>
-</answer>
-</question>
-
-
-<question type="multichoice">
-<name>
-<text> R021 Q1 : preguntas_html_R2018_0020 </text>
-</name>
-<questiontext format="html">
-<text><![CDATA[<p>
-<p><strong>R2018_0020</strong>. La siguiente variable: &quot;Color de pelo&quot; tiene nivel de medición:</p>
-</p>]]></text>
-</questiontext>
-<generalfeedback format="html">
-<text><![CDATA[<p>
-<ol type = "a">
-<li> FALSE </li>
-<li> FALSE </li>
-<li> TRUE </li>
-<li> FALSE </li>
-</ol>
-</p>]]></text>
-</generalfeedback>
-<penalty>0</penalty>
-<defaultgrade>1</defaultgrade>
-<shuffleanswers>false</shuffleanswers>
-<single>true</single>
-<answernumbering>abc</answernumbering>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
-Intervalar
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-FALSE
-</p>]]></text>
-</feedback>
-</answer>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
-Ordinal
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-FALSE
-</p>]]></text>
-</feedback>
-</answer>
-<answer fraction="100" format="html">
-<text><![CDATA[<p>
-Nominal
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-TRUE
-</p>]]></text>
-</feedback>
-</answer>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
-Proporcional
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-FALSE
-</p>]]></text>
-</feedback>
-</answer>
-</question>
-
-
-<question type="multichoice">
-<name>
-<text> R022 Q1 : preguntas_html_R2018_0020 </text>
-</name>
-<questiontext format="html">
-<text><![CDATA[<p>
-<p><strong>R2018_0020</strong>. La siguiente variable: &quot;Peso&quot; tiene nivel de medición:</p>
-</p>]]></text>
-</questiontext>
-<generalfeedback format="html">
-<text><![CDATA[<p>
-<ol type = "a">
-<li> TRUE </li>
-<li> FALSE </li>
-<li> FALSE </li>
-<li> FALSE </li>
-</ol>
-</p>]]></text>
-</generalfeedback>
-<penalty>0</penalty>
-<defaultgrade>1</defaultgrade>
-<shuffleanswers>false</shuffleanswers>
-<single>true</single>
-<answernumbering>abc</answernumbering>
-<answer fraction="100" format="html">
-<text><![CDATA[<p>
-Proporcional
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-TRUE
-</p>]]></text>
-</feedback>
-</answer>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
-Intervalar
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-FALSE
-</p>]]></text>
-</feedback>
-</answer>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
-Nominal
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-FALSE
-</p>]]></text>
-</feedback>
-</answer>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
-Ordinal
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-FALSE
-</p>]]></text>
-</feedback>
-</answer>
-</question>
-
-
-<question type="multichoice">
-<name>
-<text> R023 Q1 : preguntas_html_R2018_0020 </text>
-</name>
-<questiontext format="html">
-<text><![CDATA[<p>
-<p><strong>R2018_0020</strong>. La siguiente variable: &quot;Cantidad de aciertos en una prueba&quot; tiene nivel de medición:</p>
-</p>]]></text>
-</questiontext>
-<generalfeedback format="html">
-<text><![CDATA[<p>
-<ol type = "a">
-<li> FALSE </li>
-<li> FALSE </li>
-<li> FALSE </li>
-<li> TRUE </li>
-</ol>
-</p>]]></text>
-</generalfeedback>
-<penalty>0</penalty>
-<defaultgrade>1</defaultgrade>
-<shuffleanswers>false</shuffleanswers>
-<single>true</single>
-<answernumbering>abc</answernumbering>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
-Nominal
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-FALSE
-</p>]]></text>
-</feedback>
-</answer>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
-Ordinal
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-FALSE
-</p>]]></text>
-</feedback>
-</answer>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
-Intervalar
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-FALSE
-</p>]]></text>
-</feedback>
-</answer>
-<answer fraction="100" format="html">
-<text><![CDATA[<p>
-Proporcional
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-TRUE
-</p>]]></text>
-</feedback>
-</answer>
-</question>
-
-
-<question type="multichoice">
-<name>
-<text> R024 Q1 : preguntas_html_R2018_0020 </text>
-</name>
-<questiontext format="html">
-<text><![CDATA[<p>
-<p><strong>R2018_0020</strong>. La siguiente variable: &quot;Cantidad de aplazos&quot; tiene nivel de medición:</p>
-</p>]]></text>
-</questiontext>
-<generalfeedback format="html">
-<text><![CDATA[<p>
-<ol type = "a">
-<li> FALSE </li>
-<li> TRUE </li>
-<li> FALSE </li>
-<li> FALSE </li>
-</ol>
-</p>]]></text>
-</generalfeedback>
-<penalty>0</penalty>
-<defaultgrade>1</defaultgrade>
-<shuffleanswers>false</shuffleanswers>
-<single>true</single>
-<answernumbering>abc</answernumbering>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
-Intervalar
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-FALSE
-</p>]]></text>
-</feedback>
-</answer>
-<answer fraction="100" format="html">
-<text><![CDATA[<p>
-Proporcional
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-TRUE
-</p>]]></text>
-</feedback>
-</answer>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
-Nominal
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-FALSE
-</p>]]></text>
-</feedback>
-</answer>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
-Ordinal
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-FALSE
-</p>]]></text>
-</feedback>
-</answer>
-</question>
-
-
-<question type="multichoice">
-<name>
-<text> R025 Q1 : preguntas_html_R2018_0020 </text>
-</name>
-<questiontext format="html">
-<text><![CDATA[<p>
-<p><strong>R2018_0020</strong>. La siguiente variable: &quot;Jerarquía militar&quot; tiene nivel de medición:</p>
-</p>]]></text>
-</questiontext>
-<generalfeedback format="html">
-<text><![CDATA[<p>
-<ol type = "a">
-<li> FALSE </li>
-<li> TRUE </li>
-<li> FALSE </li>
-<li> FALSE </li>
-</ol>
-</p>]]></text>
-</generalfeedback>
-<penalty>0</penalty>
-<defaultgrade>1</defaultgrade>
-<shuffleanswers>false</shuffleanswers>
-<single>true</single>
-<answernumbering>abc</answernumbering>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
-Proporcional
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-FALSE
-</p>]]></text>
-</feedback>
-</answer>
-<answer fraction="100" format="html">
-<text><![CDATA[<p>
-Ordinal
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-TRUE
-</p>]]></text>
-</feedback>
-</answer>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
-Intervalar
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-FALSE
-</p>]]></text>
-</feedback>
-</answer>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
-Nominal
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-FALSE
-</p>]]></text>
-</feedback>
-</answer>
-</question>
-
-
-<question type="multichoice">
-<name>
-<text> R026 Q1 : preguntas_html_R2018_0020 </text>
-</name>
-<questiontext format="html">
-<text><![CDATA[<p>
-<p><strong>R2018_0020</strong>. La siguiente variable: &quot;Tiempo que dedica a usar redes sociales&quot; tiene nivel de medición:</p>
-</p>]]></text>
-</questiontext>
-<generalfeedback format="html">
-<text><![CDATA[<p>
-<ol type = "a">
-<li> TRUE </li>
-<li> FALSE </li>
-<li> FALSE </li>
-<li> FALSE </li>
-</ol>
-</p>]]></text>
-</generalfeedback>
-<penalty>0</penalty>
-<defaultgrade>1</defaultgrade>
-<shuffleanswers>false</shuffleanswers>
-<single>true</single>
-<answernumbering>abc</answernumbering>
-<answer fraction="100" format="html">
-<text><![CDATA[<p>
-Proporcional
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-TRUE
-</p>]]></text>
-</feedback>
-</answer>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
-Nominal
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-FALSE
-</p>]]></text>
-</feedback>
-</answer>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
-Intervalar
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-FALSE
-</p>]]></text>
-</feedback>
-</answer>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
-Ordinal
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-FALSE
-</p>]]></text>
-</feedback>
-</answer>
-</question>
-
-
-<question type="multichoice">
-<name>
-<text> R027 Q1 : preguntas_html_R2018_0020 </text>
-</name>
-<questiontext format="html">
-<text><![CDATA[<p>
-<p><strong>R2018_0020</strong>. La siguiente variable: &quot;Dosis de alcohol ingerida&quot; tiene nivel de medición:</p>
-</p>]]></text>
-</questiontext>
-<generalfeedback format="html">
-<text><![CDATA[<p>
-<ol type = "a">
-<li> FALSE </li>
-<li> TRUE </li>
-<li> FALSE </li>
-<li> FALSE </li>
-</ol>
-</p>]]></text>
-</generalfeedback>
-<penalty>0</penalty>
-<defaultgrade>1</defaultgrade>
-<shuffleanswers>false</shuffleanswers>
-<single>true</single>
-<answernumbering>abc</answernumbering>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
-Nominal
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-FALSE
-</p>]]></text>
-</feedback>
-</answer>
-<answer fraction="100" format="html">
-<text><![CDATA[<p>
-Proporcional
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-TRUE
-</p>]]></text>
-</feedback>
-</answer>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
-Intervalar
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-FALSE
-</p>]]></text>
-</feedback>
-</answer>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
-Ordinal
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-FALSE
-</p>]]></text>
-</feedback>
-</answer>
-</question>
-
-
-<question type="multichoice">
-<name>
-<text> R028 Q1 : preguntas_html_R2018_0020 </text>
-</name>
-<questiontext format="html">
-<text><![CDATA[<p>
-<p><strong>R2018_0020</strong>. La siguiente variable: &quot;Cantidad de veces al año que va a misa&quot; tiene nivel de medición:</p>
-</p>]]></text>
-</questiontext>
-<generalfeedback format="html">
-<text><![CDATA[<p>
-<ol type = "a">
-<li> FALSE </li>
-<li> FALSE </li>
-<li> FALSE </li>
-<li> TRUE </li>
-</ol>
-</p>]]></text>
-</generalfeedback>
-<penalty>0</penalty>
-<defaultgrade>1</defaultgrade>
-<shuffleanswers>false</shuffleanswers>
-<single>true</single>
-<answernumbering>abc</answernumbering>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
-Intervalar
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-FALSE
-</p>]]></text>
-</feedback>
-</answer>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
-Nominal
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-FALSE
-</p>]]></text>
-</feedback>
-</answer>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
-Ordinal
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-FALSE
-</p>]]></text>
-</feedback>
-</answer>
-<answer fraction="100" format="html">
-<text><![CDATA[<p>
-Proporcional
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-TRUE
-</p>]]></text>
-</feedback>
-</answer>
-</question>
-
-
-<question type="multichoice">
-<name>
-<text> R029 Q1 : preguntas_html_R2018_0020 </text>
-</name>
-<questiontext format="html">
-<text><![CDATA[<p>
-<p><strong>R2018_0020</strong>. La siguiente variable: &quot;Perímetro craneal&quot; tiene nivel de medición:</p>
-</p>]]></text>
-</questiontext>
-<generalfeedback format="html">
-<text><![CDATA[<p>
-<ol type = "a">
-<li> FALSE </li>
-<li> FALSE </li>
-<li> TRUE </li>
-<li> FALSE </li>
-</ol>
-</p>]]></text>
-</generalfeedback>
-<penalty>0</penalty>
-<defaultgrade>1</defaultgrade>
-<shuffleanswers>false</shuffleanswers>
-<single>true</single>
-<answernumbering>abc</answernumbering>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
-Intervalar
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-FALSE
-</p>]]></text>
-</feedback>
-</answer>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
-Ordinal
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-FALSE
-</p>]]></text>
-</feedback>
-</answer>
-<answer fraction="100" format="html">
-<text><![CDATA[<p>
-Proporcional
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-TRUE
-</p>]]></text>
-</feedback>
-</answer>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
-Nominal
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-FALSE
-</p>]]></text>
-</feedback>
-</answer>
-</question>
-
-
-<question type="multichoice">
-<name>
-<text> R030 Q1 : preguntas_html_R2018_0020 </text>
-</name>
-<questiontext format="html">
-<text><![CDATA[<p>
-<p><strong>R2018_0020</strong>. La siguiente variable: &quot;Puntaje en el test de inteligencia WAIS-IV&quot; tiene nivel de medición:</p>
-</p>]]></text>
-</questiontext>
-<generalfeedback format="html">
-<text><![CDATA[<p>
-<ol type = "a">
-<li> FALSE </li>
-<li> TRUE </li>
-<li> FALSE </li>
-<li> FALSE </li>
-</ol>
-</p>]]></text>
-</generalfeedback>
-<penalty>0</penalty>
-<defaultgrade>1</defaultgrade>
-<shuffleanswers>false</shuffleanswers>
-<single>true</single>
-<answernumbering>abc</answernumbering>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
-Nominal
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-FALSE
-</p>]]></text>
-</feedback>
-</answer>
-<answer fraction="100" format="html">
-<text><![CDATA[<p>
-Intervalar
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-TRUE
-</p>]]></text>
-</feedback>
-</answer>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
-Ordinal
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-FALSE
-</p>]]></text>
-</feedback>
-</answer>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
-Proporcional
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-FALSE
-</p>]]></text>
-</feedback>
-</answer>
-</question>
-
-
-<question type="multichoice">
-<name>
-<text> R031 Q1 : preguntas_html_R2018_0020 </text>
-</name>
-<questiontext format="html">
-<text><![CDATA[<p>
-<p><strong>R2018_0020</strong>. La siguiente variable: &quot;Partido político al que está afiliado&quot; tiene nivel de medición:</p>
-</p>]]></text>
-</questiontext>
-<generalfeedback format="html">
-<text><![CDATA[<p>
-<ol type = "a">
-<li> FALSE </li>
-<li> FALSE </li>
-<li> TRUE </li>
-<li> FALSE </li>
-</ol>
-</p>]]></text>
-</generalfeedback>
-<penalty>0</penalty>
-<defaultgrade>1</defaultgrade>
-<shuffleanswers>false</shuffleanswers>
-<single>true</single>
-<answernumbering>abc</answernumbering>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
-Ordinal
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-FALSE
-</p>]]></text>
-</feedback>
-</answer>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
-Proporcional
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-FALSE
-</p>]]></text>
-</feedback>
-</answer>
-<answer fraction="100" format="html">
-<text><![CDATA[<p>
-Nominal
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-TRUE
-</p>]]></text>
-</feedback>
-</answer>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
-Intervalar
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-FALSE
-</p>]]></text>
-</feedback>
-</answer>
-</question>
-
-
-<question type="multichoice">
-<name>
-<text> R032 Q1 : preguntas_html_R2018_0020 </text>
 </name>
 <questiontext format="html">
 <text><![CDATA[<p>
@@ -2155,11 +748,882 @@ TRUE
 
 <question type="multichoice">
 <name>
-<text> R033 Q1 : preguntas_html_R2018_0020 </text>
+<text> R012 Q1 : preguntas_html_R2018_0020 </text>
 </name>
 <questiontext format="html">
 <text><![CDATA[<p>
 <p><strong>R2018_0020</strong>. La siguiente variable: &quot;Máxima distancia alcanzada en un salto&quot; tiene nivel de medición:</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<ol type = "a">
+<li> FALSE </li>
+<li> TRUE </li>
+<li> FALSE </li>
+<li> FALSE </li>
+</ol>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Ordinal
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+Proporcional
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+TRUE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Nominal
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Intervalar
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R013 Q1 : preguntas_html_R2018_0020 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p><strong>R2018_0020</strong>. La siguiente variable: &quot;Cantidad de veces al año que va a misa&quot; tiene nivel de medición:</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<ol type = "a">
+<li> TRUE </li>
+<li> FALSE </li>
+<li> FALSE </li>
+<li> FALSE </li>
+</ol>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+Proporcional
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+TRUE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Ordinal
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Nominal
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Intervalar
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R014 Q1 : preguntas_html_R2018_0020 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p><strong>R2018_0020</strong>. La siguiente variable: &quot;Cantidad de aplazos&quot; tiene nivel de medición:</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<ol type = "a">
+<li> FALSE </li>
+<li> FALSE </li>
+<li> FALSE </li>
+<li> TRUE </li>
+</ol>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Intervalar
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Ordinal
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Nominal
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+Proporcional
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+TRUE
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R015 Q1 : preguntas_html_R2018_0020 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p><strong>R2018_0020</strong>. La siguiente variable: &quot;Semanas de gestación&quot; tiene nivel de medición:</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<ol type = "a">
+<li> FALSE </li>
+<li> FALSE </li>
+<li> TRUE </li>
+<li> FALSE </li>
+</ol>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Ordinal
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Nominal
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+Proporcional
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+TRUE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Intervalar
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R016 Q1 : preguntas_html_R2018_0020 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p><strong>R2018_0020</strong>. La siguiente variable: &quot;Semanas de gestación&quot; tiene nivel de medición:</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<ol type = "a">
+<li> FALSE </li>
+<li> TRUE </li>
+<li> FALSE </li>
+<li> FALSE </li>
+</ol>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Intervalar
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+Proporcional
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+TRUE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Nominal
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Ordinal
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R017 Q1 : preguntas_html_R2018_0020 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p><strong>R2018_0020</strong>. La siguiente variable: &quot;Partido político al que está afiliado&quot; tiene nivel de medición:</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<ol type = "a">
+<li> FALSE </li>
+<li> FALSE </li>
+<li> FALSE </li>
+<li> TRUE </li>
+</ol>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Ordinal
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Proporcional
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Intervalar
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+Nominal
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+TRUE
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R018 Q1 : preguntas_html_R2018_0020 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p><strong>R2018_0020</strong>. La siguiente variable: &quot;Cantidad de aciertos en una prueba&quot; tiene nivel de medición:</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<ol type = "a">
+<li> FALSE </li>
+<li> TRUE </li>
+<li> FALSE </li>
+<li> FALSE </li>
+</ol>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Nominal
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+Proporcional
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+TRUE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Ordinal
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Intervalar
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R019 Q1 : preguntas_html_R2018_0020 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p><strong>R2018_0020</strong>. La siguiente variable: &quot;Partido político al que está afiliado&quot; tiene nivel de medición:</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<ol type = "a">
+<li> FALSE </li>
+<li> TRUE </li>
+<li> FALSE </li>
+<li> FALSE </li>
+</ol>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Ordinal
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+Nominal
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+TRUE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Proporcional
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Intervalar
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R020 Q1 : preguntas_html_R2018_0020 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p><strong>R2018_0020</strong>. La siguiente variable: &quot;Cantidad de aplazos&quot; tiene nivel de medición:</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<ol type = "a">
+<li> FALSE </li>
+<li> TRUE </li>
+<li> FALSE </li>
+<li> FALSE </li>
+</ol>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Nominal
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+Proporcional
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+TRUE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Ordinal
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Intervalar
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R021 Q1 : preguntas_html_R2018_0020 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p><strong>R2018_0020</strong>. La siguiente variable: &quot;Cantidad de goles en un partido&quot; tiene nivel de medición:</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<ol type = "a">
+<li> TRUE </li>
+<li> FALSE </li>
+<li> FALSE </li>
+<li> FALSE </li>
+</ol>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+Proporcional
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+TRUE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Ordinal
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Intervalar
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Nominal
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R022 Q1 : preguntas_html_R2018_0020 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p><strong>R2018_0020</strong>. La siguiente variable: &quot;Cantidad de aciertos en una prueba&quot; tiene nivel de medición:</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<ol type = "a">
+<li> TRUE </li>
+<li> FALSE </li>
+<li> FALSE </li>
+<li> FALSE </li>
+</ol>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+Proporcional
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+TRUE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Ordinal
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Nominal
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Intervalar
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R023 Q1 : preguntas_html_R2018_0020 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p><strong>R2018_0020</strong>. La siguiente variable: &quot;Partido político al que está afiliado&quot; tiene nivel de medición:</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<ol type = "a">
+<li> FALSE </li>
+<li> FALSE </li>
+<li> FALSE </li>
+<li> TRUE </li>
+</ol>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Proporcional
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Ordinal
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Intervalar
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+Nominal
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+TRUE
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R024 Q1 : preguntas_html_R2018_0020 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p><strong>R2018_0020</strong>. La siguiente variable: &quot;Jerarquía militar&quot; tiene nivel de medición:</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<ol type = "a">
+<li> FALSE </li>
+<li> FALSE </li>
+<li> TRUE </li>
+<li> FALSE </li>
+</ol>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Nominal
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Proporcional
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+Ordinal
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+TRUE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Intervalar
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R025 Q1 : preguntas_html_R2018_0020 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p><strong>R2018_0020</strong>. La siguiente variable: &quot;Perímetro craneal&quot; tiene nivel de medición:</p>
 </p>]]></text>
 </questiontext>
 <generalfeedback format="html">
@@ -2214,6 +1678,542 @@ Proporcional
 <feedback format="html">
 <text><![CDATA[<p>
 TRUE
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R026 Q1 : preguntas_html_R2018_0020 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p><strong>R2018_0020</strong>. La siguiente variable: &quot;Jerarquía militar&quot; tiene nivel de medición:</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<ol type = "a">
+<li> FALSE </li>
+<li> TRUE </li>
+<li> FALSE </li>
+<li> FALSE </li>
+</ol>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Nominal
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+Ordinal
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+TRUE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Intervalar
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Proporcional
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R027 Q1 : preguntas_html_R2018_0020 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p><strong>R2018_0020</strong>. La siguiente variable: &quot;Puntaje en el test de inteligencia WAIS-IV&quot; tiene nivel de medición:</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<ol type = "a">
+<li> TRUE </li>
+<li> FALSE </li>
+<li> FALSE </li>
+<li> FALSE </li>
+</ol>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+Intervalar
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+TRUE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Ordinal
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Nominal
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Proporcional
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R028 Q1 : preguntas_html_R2018_0020 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p><strong>R2018_0020</strong>. La siguiente variable: &quot;Cantidad de aplazos&quot; tiene nivel de medición:</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<ol type = "a">
+<li> FALSE </li>
+<li> TRUE </li>
+<li> FALSE </li>
+<li> FALSE </li>
+</ol>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Ordinal
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+Proporcional
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+TRUE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Nominal
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Intervalar
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R029 Q1 : preguntas_html_R2018_0020 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p><strong>R2018_0020</strong>. La siguiente variable: &quot;Semanas de gestación&quot; tiene nivel de medición:</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<ol type = "a">
+<li> FALSE </li>
+<li> FALSE </li>
+<li> TRUE </li>
+<li> FALSE </li>
+</ol>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Ordinal
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Intervalar
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+Proporcional
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+TRUE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Nominal
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R030 Q1 : preguntas_html_R2018_0020 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p><strong>R2018_0020</strong>. La siguiente variable: &quot;Color de pelo&quot; tiene nivel de medición:</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<ol type = "a">
+<li> FALSE </li>
+<li> FALSE </li>
+<li> TRUE </li>
+<li> FALSE </li>
+</ol>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Proporcional
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Intervalar
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+Nominal
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+TRUE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Ordinal
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R031 Q1 : preguntas_html_R2018_0020 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p><strong>R2018_0020</strong>. La siguiente variable: &quot;Cantidad de aplazos&quot; tiene nivel de medición:</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<ol type = "a">
+<li> TRUE </li>
+<li> FALSE </li>
+<li> FALSE </li>
+<li> FALSE </li>
+</ol>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+Proporcional
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+TRUE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Ordinal
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Intervalar
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Nominal
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R032 Q1 : preguntas_html_R2018_0020 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p><strong>R2018_0020</strong>. La siguiente variable: &quot;Talla&quot; tiene nivel de medición:</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<ol type = "a">
+<li> FALSE </li>
+<li> TRUE </li>
+<li> FALSE </li>
+<li> FALSE </li>
+</ol>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Nominal
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+Proporcional
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+TRUE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Ordinal
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Intervalar
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R033 Q1 : preguntas_html_R2018_0020 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p><strong>R2018_0020</strong>. La siguiente variable: &quot;Partido político al que está afiliado&quot; tiene nivel de medición:</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<ol type = "a">
+<li> FALSE </li>
+<li> FALSE </li>
+<li> TRUE </li>
+<li> FALSE </li>
+</ol>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Ordinal
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Intervalar
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+Nominal
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+TRUE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Proporcional
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
 </p>]]></text>
 </feedback>
 </answer>
@@ -2226,16 +2226,16 @@ TRUE
 </name>
 <questiontext format="html">
 <text><![CDATA[<p>
-<p><strong>R2018_0020</strong>. La siguiente variable: &quot;Peso&quot; tiene nivel de medición:</p>
+<p><strong>R2018_0020</strong>. La siguiente variable: &quot;Cantidad de veces al año que va a misa&quot; tiene nivel de medición:</p>
 </p>]]></text>
 </questiontext>
 <generalfeedback format="html">
 <text><![CDATA[<p>
 <ol type = "a">
-<li> FALSE </li>
-<li> FALSE </li>
-<li> FALSE </li>
 <li> TRUE </li>
+<li> FALSE </li>
+<li> FALSE </li>
+<li> FALSE </li>
 </ol>
 </p>]]></text>
 </generalfeedback>
@@ -2244,19 +2244,19 @@ TRUE
 <shuffleanswers>false</shuffleanswers>
 <single>true</single>
 <answernumbering>abc</answernumbering>
-<answer fraction="0" format="html">
+<answer fraction="100" format="html">
 <text><![CDATA[<p>
-Ordinal
+Proporcional
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
-FALSE
+TRUE
 </p>]]></text>
 </feedback>
 </answer>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-Nominal
+Ordinal
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -2274,13 +2274,13 @@ FALSE
 </p>]]></text>
 </feedback>
 </answer>
-<answer fraction="100" format="html">
+<answer fraction="0" format="html">
 <text><![CDATA[<p>
-Proporcional
+Nominal
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
-TRUE
+FALSE
 </p>]]></text>
 </feedback>
 </answer>
@@ -2293,7 +2293,7 @@ TRUE
 </name>
 <questiontext format="html">
 <text><![CDATA[<p>
-<p><strong>R2018_0020</strong>. La siguiente variable: &quot;Tiempo que dedica a usar redes sociales&quot; tiene nivel de medición:</p>
+<p><strong>R2018_0020</strong>. La siguiente variable: &quot;Talla&quot; tiene nivel de medición:</p>
 </p>]]></text>
 </questiontext>
 <generalfeedback format="html">
@@ -2301,8 +2301,8 @@ TRUE
 <ol type = "a">
 <li> FALSE </li>
 <li> FALSE </li>
-<li> TRUE </li>
 <li> FALSE </li>
+<li> TRUE </li>
 </ol>
 </p>]]></text>
 </generalfeedback>
@@ -2313,7 +2313,7 @@ TRUE
 <answernumbering>abc</answernumbering>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-Intervalar
+Nominal
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -2323,7 +2323,17 @@ FALSE
 </answer>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-Nominal
+Ordinal
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Intervalar
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -2338,16 +2348,6 @@ Proporcional
 <feedback format="html">
 <text><![CDATA[<p>
 TRUE
-</p>]]></text>
-</feedback>
-</answer>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
-Ordinal
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-FALSE
 </p>]]></text>
 </feedback>
 </answer>
@@ -2360,15 +2360,15 @@ FALSE
 </name>
 <questiontext format="html">
 <text><![CDATA[<p>
-<p><strong>R2018_0020</strong>. La siguiente variable: &quot;Perímetro craneal&quot; tiene nivel de medición:</p>
+<p><strong>R2018_0020</strong>. La siguiente variable: &quot;Cantidad de aplazos&quot; tiene nivel de medición:</p>
 </p>]]></text>
 </questiontext>
 <generalfeedback format="html">
 <text><![CDATA[<p>
 <ol type = "a">
+<li> FALSE </li>
+<li> FALSE </li>
 <li> TRUE </li>
-<li> FALSE </li>
-<li> FALSE </li>
 <li> FALSE </li>
 </ol>
 </p>]]></text>
@@ -2378,16 +2378,6 @@ FALSE
 <shuffleanswers>false</shuffleanswers>
 <single>true</single>
 <answernumbering>abc</answernumbering>
-<answer fraction="100" format="html">
-<text><![CDATA[<p>
-Proporcional
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-TRUE
-</p>]]></text>
-</feedback>
-</answer>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
 Nominal
@@ -2405,6 +2395,16 @@ Ordinal
 <feedback format="html">
 <text><![CDATA[<p>
 FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+Proporcional
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+TRUE
 </p>]]></text>
 </feedback>
 </answer>
@@ -2427,7 +2427,7 @@ FALSE
 </name>
 <questiontext format="html">
 <text><![CDATA[<p>
-<p><strong>R2018_0020</strong>. La siguiente variable: &quot;Cantidad de veces al año que va a misa&quot; tiene nivel de medición:</p>
+<p><strong>R2018_0020</strong>. La siguiente variable: &quot;Máxima distancia alcanzada en un salto&quot; tiene nivel de medición:</p>
 </p>]]></text>
 </questiontext>
 <generalfeedback format="html">
@@ -2435,8 +2435,8 @@ FALSE
 <ol type = "a">
 <li> FALSE </li>
 <li> FALSE </li>
-<li> FALSE </li>
 <li> TRUE </li>
+<li> FALSE </li>
 </ol>
 </p>]]></text>
 </generalfeedback>
@@ -2445,16 +2445,6 @@ FALSE
 <shuffleanswers>false</shuffleanswers>
 <single>true</single>
 <answernumbering>abc</answernumbering>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
-Intervalar
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-FALSE
-</p>]]></text>
-</feedback>
-</answer>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
 Nominal
@@ -2482,6 +2472,16 @@ Proporcional
 <feedback format="html">
 <text><![CDATA[<p>
 TRUE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Intervalar
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
 </p>]]></text>
 </feedback>
 </answer>
@@ -2494,7 +2494,7 @@ TRUE
 </name>
 <questiontext format="html">
 <text><![CDATA[<p>
-<p><strong>R2018_0020</strong>. La siguiente variable: &quot;Jerarquía militar&quot; tiene nivel de medición:</p>
+<p><strong>R2018_0020</strong>. La siguiente variable: &quot;Puntaje en el test de depresión de Beck&quot; tiene nivel de medición:</p>
 </p>]]></text>
 </questiontext>
 <generalfeedback format="html">
@@ -2514,7 +2514,7 @@ TRUE
 <answernumbering>abc</answernumbering>
 <answer fraction="100" format="html">
 <text><![CDATA[<p>
-Ordinal
+Intervalar
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -2534,7 +2534,7 @@ FALSE
 </answer>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-Proporcional
+Ordinal
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -2544,7 +2544,7 @@ FALSE
 </answer>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-Intervalar
+Proporcional
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -2591,6 +2591,16 @@ TRUE
 </answer>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
+Intervalar
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
 Nominal
 </p>]]></text>
 <feedback format="html">
@@ -2602,16 +2612,6 @@ FALSE
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
 Ordinal
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-FALSE
-</p>]]></text>
-</feedback>
-</answer>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
-Intervalar
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -2628,16 +2628,16 @@ FALSE
 </name>
 <questiontext format="html">
 <text><![CDATA[<p>
-<p><strong>R2018_0020</strong>. La siguiente variable: &quot;Cantidad de aplazos&quot; tiene nivel de medición:</p>
+<p><strong>R2018_0020</strong>. La siguiente variable: &quot;Jerarquía militar&quot; tiene nivel de medición:</p>
 </p>]]></text>
 </questiontext>
 <generalfeedback format="html">
 <text><![CDATA[<p>
 <ol type = "a">
+<li> FALSE </li>
+<li> FALSE </li>
+<li> FALSE </li>
 <li> TRUE </li>
-<li> FALSE </li>
-<li> FALSE </li>
-<li> FALSE </li>
 </ol>
 </p>]]></text>
 </generalfeedback>
@@ -2646,26 +2646,6 @@ FALSE
 <shuffleanswers>false</shuffleanswers>
 <single>true</single>
 <answernumbering>abc</answernumbering>
-<answer fraction="100" format="html">
-<text><![CDATA[<p>
-Proporcional
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-TRUE
-</p>]]></text>
-</feedback>
-</answer>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
-Ordinal
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-FALSE
-</p>]]></text>
-</feedback>
-</answer>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
 Intervalar
@@ -2683,6 +2663,26 @@ Nominal
 <feedback format="html">
 <text><![CDATA[<p>
 FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Proporcional
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+Ordinal
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+TRUE
 </p>]]></text>
 </feedback>
 </answer>
@@ -2695,7 +2695,7 @@ FALSE
 </name>
 <questiontext format="html">
 <text><![CDATA[<p>
-<p><strong>R2018_0020</strong>. La siguiente variable: &quot;Tiempo para resolver una tarea&quot; tiene nivel de medición:</p>
+<p><strong>R2018_0020</strong>. La siguiente variable: &quot;Sexo&quot; tiene nivel de medición:</p>
 </p>]]></text>
 </questiontext>
 <generalfeedback format="html">
@@ -2715,7 +2715,7 @@ FALSE
 <answernumbering>abc</answernumbering>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-Nominal
+Ordinal
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -2725,7 +2725,7 @@ FALSE
 </answer>
 <answer fraction="100" format="html">
 <text><![CDATA[<p>
-Proporcional
+Nominal
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -2735,7 +2735,7 @@ TRUE
 </answer>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-Ordinal
+Intervalar
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -2745,7 +2745,7 @@ FALSE
 </answer>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-Intervalar
+Proporcional
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -2759,6 +2759,743 @@ FALSE
 <question type="multichoice">
 <name>
 <text> R042 Q1 : preguntas_html_R2018_0020 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p><strong>R2018_0020</strong>. La siguiente variable: &quot;Máxima distancia alcanzada en un salto&quot; tiene nivel de medición:</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<ol type = "a">
+<li> FALSE </li>
+<li> TRUE </li>
+<li> FALSE </li>
+<li> FALSE </li>
+</ol>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Intervalar
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+Proporcional
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+TRUE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Nominal
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Ordinal
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R043 Q1 : preguntas_html_R2018_0020 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p><strong>R2018_0020</strong>. La siguiente variable: &quot;Cantidad de goles en un partido&quot; tiene nivel de medición:</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<ol type = "a">
+<li> FALSE </li>
+<li> TRUE </li>
+<li> FALSE </li>
+<li> FALSE </li>
+</ol>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Nominal
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+Proporcional
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+TRUE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Ordinal
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Intervalar
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R044 Q1 : preguntas_html_R2018_0020 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p><strong>R2018_0020</strong>. La siguiente variable: &quot;Tiempo para resolver una tarea&quot; tiene nivel de medición:</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<ol type = "a">
+<li> FALSE </li>
+<li> FALSE </li>
+<li> FALSE </li>
+<li> TRUE </li>
+</ol>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Intervalar
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Ordinal
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Nominal
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+Proporcional
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+TRUE
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R045 Q1 : preguntas_html_R2018_0020 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p><strong>R2018_0020</strong>. La siguiente variable: &quot;Talla&quot; tiene nivel de medición:</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<ol type = "a">
+<li> TRUE </li>
+<li> FALSE </li>
+<li> FALSE </li>
+<li> FALSE </li>
+</ol>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+Proporcional
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+TRUE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Intervalar
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Nominal
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Ordinal
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R046 Q1 : preguntas_html_R2018_0020 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p><strong>R2018_0020</strong>. La siguiente variable: &quot;Peso&quot; tiene nivel de medición:</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<ol type = "a">
+<li> TRUE </li>
+<li> FALSE </li>
+<li> FALSE </li>
+<li> FALSE </li>
+</ol>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+Proporcional
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+TRUE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Nominal
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Intervalar
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Ordinal
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R047 Q1 : preguntas_html_R2018_0020 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p><strong>R2018_0020</strong>. La siguiente variable: &quot;Dosis de alcohol ingerida&quot; tiene nivel de medición:</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<ol type = "a">
+<li> TRUE </li>
+<li> FALSE </li>
+<li> FALSE </li>
+<li> FALSE </li>
+</ol>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+Proporcional
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+TRUE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Nominal
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Ordinal
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Intervalar
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R048 Q1 : preguntas_html_R2018_0020 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p><strong>R2018_0020</strong>. La siguiente variable: &quot;Jerarquía militar&quot; tiene nivel de medición:</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<ol type = "a">
+<li> TRUE </li>
+<li> FALSE </li>
+<li> FALSE </li>
+<li> FALSE </li>
+</ol>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+Ordinal
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+TRUE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Proporcional
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Nominal
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Intervalar
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R049 Q1 : preguntas_html_R2018_0020 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p><strong>R2018_0020</strong>. La siguiente variable: &quot;Cantidad de veces al año que va a misa&quot; tiene nivel de medición:</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<ol type = "a">
+<li> FALSE </li>
+<li> TRUE </li>
+<li> FALSE </li>
+<li> FALSE </li>
+</ol>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Intervalar
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+Proporcional
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+TRUE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Nominal
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Ordinal
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R050 Q1 : preguntas_html_R2018_0020 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p><strong>R2018_0020</strong>. La siguiente variable: &quot;Cantidad de veces al año que va a misa&quot; tiene nivel de medición:</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<ol type = "a">
+<li> FALSE </li>
+<li> TRUE </li>
+<li> FALSE </li>
+<li> FALSE </li>
+</ol>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Nominal
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+Proporcional
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+TRUE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Ordinal
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Intervalar
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R051 Q1 : preguntas_html_R2018_0020 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p><strong>R2018_0020</strong>. La siguiente variable: &quot;Tiempo que dedica a usar redes sociales&quot; tiene nivel de medición:</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<ol type = "a">
+<li> TRUE </li>
+<li> FALSE </li>
+<li> FALSE </li>
+<li> FALSE </li>
+</ol>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+Proporcional
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+TRUE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Intervalar
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Nominal
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Ordinal
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R052 Q1 : preguntas_html_R2018_0020 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p><strong>R2018_0020</strong>. La siguiente variable: &quot;Puntaje en el test de inteligencia WAIS-IV&quot; tiene nivel de medición:</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<ol type = "a">
+<li> TRUE </li>
+<li> FALSE </li>
+<li> FALSE </li>
+<li> FALSE </li>
+</ol>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+Intervalar
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+TRUE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Nominal
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Ordinal
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Proporcional
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R053 Q1 : preguntas_html_R2018_0020 </text>
 </name>
 <questiontext format="html">
 <text><![CDATA[<p>
@@ -2782,6 +3519,16 @@ FALSE
 <answernumbering>abc</answernumbering>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
+Intervalar
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
 Nominal
 </p>]]></text>
 <feedback format="html">
@@ -2793,16 +3540,6 @@ FALSE
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
 Ordinal
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-FALSE
-</p>]]></text>
-</feedback>
-</answer>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
-Intervalar
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -2825,19 +3562,19 @@ TRUE
 
 <question type="multichoice">
 <name>
-<text> R043 Q1 : preguntas_html_R2018_0020 </text>
+<text> R054 Q1 : preguntas_html_R2018_0020 </text>
 </name>
 <questiontext format="html">
 <text><![CDATA[<p>
-<p><strong>R2018_0020</strong>. La siguiente variable: &quot;Dosis de alcohol ingerida&quot; tiene nivel de medición:</p>
+<p><strong>R2018_0020</strong>. La siguiente variable: &quot;Cantidad de veces al año que va a misa&quot; tiene nivel de medición:</p>
 </p>]]></text>
 </questiontext>
 <generalfeedback format="html">
 <text><![CDATA[<p>
 <ol type = "a">
 <li> FALSE </li>
-<li> FALSE </li>
 <li> TRUE </li>
+<li> FALSE </li>
 <li> FALSE </li>
 </ol>
 </p>]]></text>
@@ -2857,16 +3594,6 @@ FALSE
 </p>]]></text>
 </feedback>
 </answer>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
-Intervalar
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-FALSE
-</p>]]></text>
-</feedback>
-</answer>
 <answer fraction="100" format="html">
 <text><![CDATA[<p>
 Proporcional
@@ -2887,24 +3614,34 @@ FALSE
 </p>]]></text>
 </feedback>
 </answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Intervalar
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
 </question>
 
 
 <question type="multichoice">
 <name>
-<text> R044 Q1 : preguntas_html_R2018_0020 </text>
+<text> R055 Q1 : preguntas_html_R2018_0020 </text>
 </name>
 <questiontext format="html">
 <text><![CDATA[<p>
-<p><strong>R2018_0020</strong>. La siguiente variable: &quot;Puntaje en el test de inteligencia WAIS-IV&quot; tiene nivel de medición:</p>
+<p><strong>R2018_0020</strong>. La siguiente variable: &quot;Jerarquía militar&quot; tiene nivel de medición:</p>
 </p>]]></text>
 </questiontext>
 <generalfeedback format="html">
 <text><![CDATA[<p>
 <ol type = "a">
 <li> FALSE </li>
-<li> FALSE </li>
 <li> TRUE </li>
+<li> FALSE </li>
 <li> FALSE </li>
 </ol>
 </p>]]></text>
@@ -2916,17 +3653,7 @@ FALSE
 <answernumbering>abc</answernumbering>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-Ordinal
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-FALSE
-</p>]]></text>
-</feedback>
-</answer>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
-Proporcional
+Intervalar
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -2936,7 +3663,7 @@ FALSE
 </answer>
 <answer fraction="100" format="html">
 <text><![CDATA[<p>
-Intervalar
+Ordinal
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -2954,12 +3681,22 @@ FALSE
 </p>]]></text>
 </feedback>
 </answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Proporcional
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
 </question>
 
 
 <question type="multichoice">
 <name>
-<text> R045 Q1 : preguntas_html_R2018_0020 </text>
+<text> R056 Q1 : preguntas_html_R2018_0020 </text>
 </name>
 <questiontext format="html">
 <text><![CDATA[<p>
@@ -2983,7 +3720,7 @@ FALSE
 <answernumbering>abc</answernumbering>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-Ordinal
+Nominal
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -2993,7 +3730,7 @@ FALSE
 </answer>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-Nominal
+Ordinal
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -3026,7 +3763,7 @@ TRUE
 
 <question type="multichoice">
 <name>
-<text> R046 Q1 : preguntas_html_R2018_0020 </text>
+<text> R057 Q1 : preguntas_html_R2018_0020 </text>
 </name>
 <questiontext format="html">
 <text><![CDATA[<p>
@@ -3038,142 +3775,8 @@ TRUE
 <ol type = "a">
 <li> FALSE </li>
 <li> FALSE </li>
-<li> TRUE </li>
-<li> FALSE </li>
-</ol>
-</p>]]></text>
-</generalfeedback>
-<penalty>0</penalty>
-<defaultgrade>1</defaultgrade>
-<shuffleanswers>false</shuffleanswers>
-<single>true</single>
-<answernumbering>abc</answernumbering>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
-Proporcional
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-FALSE
-</p>]]></text>
-</feedback>
-</answer>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
-Ordinal
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-FALSE
-</p>]]></text>
-</feedback>
-</answer>
-<answer fraction="100" format="html">
-<text><![CDATA[<p>
-Nominal
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-TRUE
-</p>]]></text>
-</feedback>
-</answer>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
-Intervalar
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-FALSE
-</p>]]></text>
-</feedback>
-</answer>
-</question>
-
-
-<question type="multichoice">
-<name>
-<text> R047 Q1 : preguntas_html_R2018_0020 </text>
-</name>
-<questiontext format="html">
-<text><![CDATA[<p>
-<p><strong>R2018_0020</strong>. La siguiente variable: &quot;Semanas de gestación&quot; tiene nivel de medición:</p>
-</p>]]></text>
-</questiontext>
-<generalfeedback format="html">
-<text><![CDATA[<p>
-<ol type = "a">
-<li> FALSE </li>
 <li> FALSE </li>
 <li> TRUE </li>
-<li> FALSE </li>
-</ol>
-</p>]]></text>
-</generalfeedback>
-<penalty>0</penalty>
-<defaultgrade>1</defaultgrade>
-<shuffleanswers>false</shuffleanswers>
-<single>true</single>
-<answernumbering>abc</answernumbering>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
-Ordinal
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-FALSE
-</p>]]></text>
-</feedback>
-</answer>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
-Nominal
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-FALSE
-</p>]]></text>
-</feedback>
-</answer>
-<answer fraction="100" format="html">
-<text><![CDATA[<p>
-Proporcional
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-TRUE
-</p>]]></text>
-</feedback>
-</answer>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
-Intervalar
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-FALSE
-</p>]]></text>
-</feedback>
-</answer>
-</question>
-
-
-<question type="multichoice">
-<name>
-<text> R048 Q1 : preguntas_html_R2018_0020 </text>
-</name>
-<questiontext format="html">
-<text><![CDATA[<p>
-<p><strong>R2018_0020</strong>. La siguiente variable: &quot;Máxima distancia alcanzada en un salto&quot; tiene nivel de medición:</p>
-</p>]]></text>
-</questiontext>
-<generalfeedback format="html">
-<text><![CDATA[<p>
-<ol type = "a">
-<li> FALSE </li>
-<li> FALSE </li>
-<li> TRUE </li>
-<li> FALSE </li>
 </ol>
 </p>]]></text>
 </generalfeedback>
@@ -3194,73 +3797,6 @@ FALSE
 </answer>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-Nominal
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-FALSE
-</p>]]></text>
-</feedback>
-</answer>
-<answer fraction="100" format="html">
-<text><![CDATA[<p>
-Proporcional
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-TRUE
-</p>]]></text>
-</feedback>
-</answer>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
-Ordinal
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-FALSE
-</p>]]></text>
-</feedback>
-</answer>
-</question>
-
-
-<question type="multichoice">
-<name>
-<text> R049 Q1 : preguntas_html_R2018_0020 </text>
-</name>
-<questiontext format="html">
-<text><![CDATA[<p>
-<p><strong>R2018_0020</strong>. La siguiente variable: &quot;Tiempo para resolver una tarea&quot; tiene nivel de medición:</p>
-</p>]]></text>
-</questiontext>
-<generalfeedback format="html">
-<text><![CDATA[<p>
-<ol type = "a">
-<li> FALSE </li>
-<li> FALSE </li>
-<li> FALSE </li>
-<li> TRUE </li>
-</ol>
-</p>]]></text>
-</generalfeedback>
-<penalty>0</penalty>
-<defaultgrade>1</defaultgrade>
-<shuffleanswers>false</shuffleanswers>
-<single>true</single>
-<answernumbering>abc</answernumbering>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
-Nominal
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-FALSE
-</p>]]></text>
-</feedback>
-</answer>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
 Ordinal
 </p>]]></text>
 <feedback format="html">
@@ -3271,7 +3807,7 @@ FALSE
 </answer>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-Intervalar
+Proporcional
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -3281,7 +3817,7 @@ FALSE
 </answer>
 <answer fraction="100" format="html">
 <text><![CDATA[<p>
-Proporcional
+Nominal
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -3294,7 +3830,7 @@ TRUE
 
 <question type="multichoice">
 <name>
-<text> R050 Q1 : preguntas_html_R2018_0020 </text>
+<text> R058 Q1 : preguntas_html_R2018_0020 </text>
 </name>
 <questiontext format="html">
 <text><![CDATA[<p>
@@ -3338,73 +3874,6 @@ TRUE
 </answer>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-Ordinal
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-FALSE
-</p>]]></text>
-</feedback>
-</answer>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
-Proporcional
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-FALSE
-</p>]]></text>
-</feedback>
-</answer>
-</question>
-
-
-<question type="multichoice">
-<name>
-<text> R051 Q1 : preguntas_html_R2018_0020 </text>
-</name>
-<questiontext format="html">
-<text><![CDATA[<p>
-<p><strong>R2018_0020</strong>. La siguiente variable: &quot;Puntaje en el test de inteligencia WAIS-IV&quot; tiene nivel de medición:</p>
-</p>]]></text>
-</questiontext>
-<generalfeedback format="html">
-<text><![CDATA[<p>
-<ol type = "a">
-<li> FALSE </li>
-<li> TRUE </li>
-<li> FALSE </li>
-<li> FALSE </li>
-</ol>
-</p>]]></text>
-</generalfeedback>
-<penalty>0</penalty>
-<defaultgrade>1</defaultgrade>
-<shuffleanswers>false</shuffleanswers>
-<single>true</single>
-<answernumbering>abc</answernumbering>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
-Nominal
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-FALSE
-</p>]]></text>
-</feedback>
-</answer>
-<answer fraction="100" format="html">
-<text><![CDATA[<p>
-Intervalar
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-TRUE
-</p>]]></text>
-</feedback>
-</answer>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
 Proporcional
 </p>]]></text>
 <feedback format="html">
@@ -3416,475 +3885,6 @@ FALSE
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
 Ordinal
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-FALSE
-</p>]]></text>
-</feedback>
-</answer>
-</question>
-
-
-<question type="multichoice">
-<name>
-<text> R052 Q1 : preguntas_html_R2018_0020 </text>
-</name>
-<questiontext format="html">
-<text><![CDATA[<p>
-<p><strong>R2018_0020</strong>. La siguiente variable: &quot;Puntaje en el test de inteligencia WAIS-IV&quot; tiene nivel de medición:</p>
-</p>]]></text>
-</questiontext>
-<generalfeedback format="html">
-<text><![CDATA[<p>
-<ol type = "a">
-<li> FALSE </li>
-<li> TRUE </li>
-<li> FALSE </li>
-<li> FALSE </li>
-</ol>
-</p>]]></text>
-</generalfeedback>
-<penalty>0</penalty>
-<defaultgrade>1</defaultgrade>
-<shuffleanswers>false</shuffleanswers>
-<single>true</single>
-<answernumbering>abc</answernumbering>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
-Nominal
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-FALSE
-</p>]]></text>
-</feedback>
-</answer>
-<answer fraction="100" format="html">
-<text><![CDATA[<p>
-Intervalar
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-TRUE
-</p>]]></text>
-</feedback>
-</answer>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
-Proporcional
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-FALSE
-</p>]]></text>
-</feedback>
-</answer>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
-Ordinal
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-FALSE
-</p>]]></text>
-</feedback>
-</answer>
-</question>
-
-
-<question type="multichoice">
-<name>
-<text> R053 Q1 : preguntas_html_R2018_0020 </text>
-</name>
-<questiontext format="html">
-<text><![CDATA[<p>
-<p><strong>R2018_0020</strong>. La siguiente variable: &quot;Puntaje en el test de inteligencia WAIS-IV&quot; tiene nivel de medición:</p>
-</p>]]></text>
-</questiontext>
-<generalfeedback format="html">
-<text><![CDATA[<p>
-<ol type = "a">
-<li> FALSE </li>
-<li> TRUE </li>
-<li> FALSE </li>
-<li> FALSE </li>
-</ol>
-</p>]]></text>
-</generalfeedback>
-<penalty>0</penalty>
-<defaultgrade>1</defaultgrade>
-<shuffleanswers>false</shuffleanswers>
-<single>true</single>
-<answernumbering>abc</answernumbering>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
-Proporcional
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-FALSE
-</p>]]></text>
-</feedback>
-</answer>
-<answer fraction="100" format="html">
-<text><![CDATA[<p>
-Intervalar
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-TRUE
-</p>]]></text>
-</feedback>
-</answer>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
-Ordinal
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-FALSE
-</p>]]></text>
-</feedback>
-</answer>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
-Nominal
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-FALSE
-</p>]]></text>
-</feedback>
-</answer>
-</question>
-
-
-<question type="multichoice">
-<name>
-<text> R054 Q1 : preguntas_html_R2018_0020 </text>
-</name>
-<questiontext format="html">
-<text><![CDATA[<p>
-<p><strong>R2018_0020</strong>. La siguiente variable: &quot;Cantidad de veces al año que va a misa&quot; tiene nivel de medición:</p>
-</p>]]></text>
-</questiontext>
-<generalfeedback format="html">
-<text><![CDATA[<p>
-<ol type = "a">
-<li> TRUE </li>
-<li> FALSE </li>
-<li> FALSE </li>
-<li> FALSE </li>
-</ol>
-</p>]]></text>
-</generalfeedback>
-<penalty>0</penalty>
-<defaultgrade>1</defaultgrade>
-<shuffleanswers>false</shuffleanswers>
-<single>true</single>
-<answernumbering>abc</answernumbering>
-<answer fraction="100" format="html">
-<text><![CDATA[<p>
-Proporcional
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-TRUE
-</p>]]></text>
-</feedback>
-</answer>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
-Ordinal
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-FALSE
-</p>]]></text>
-</feedback>
-</answer>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
-Nominal
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-FALSE
-</p>]]></text>
-</feedback>
-</answer>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
-Intervalar
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-FALSE
-</p>]]></text>
-</feedback>
-</answer>
-</question>
-
-
-<question type="multichoice">
-<name>
-<text> R055 Q1 : preguntas_html_R2018_0020 </text>
-</name>
-<questiontext format="html">
-<text><![CDATA[<p>
-<p><strong>R2018_0020</strong>. La siguiente variable: &quot;Tiempo para resolver una tarea&quot; tiene nivel de medición:</p>
-</p>]]></text>
-</questiontext>
-<generalfeedback format="html">
-<text><![CDATA[<p>
-<ol type = "a">
-<li> TRUE </li>
-<li> FALSE </li>
-<li> FALSE </li>
-<li> FALSE </li>
-</ol>
-</p>]]></text>
-</generalfeedback>
-<penalty>0</penalty>
-<defaultgrade>1</defaultgrade>
-<shuffleanswers>false</shuffleanswers>
-<single>true</single>
-<answernumbering>abc</answernumbering>
-<answer fraction="100" format="html">
-<text><![CDATA[<p>
-Proporcional
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-TRUE
-</p>]]></text>
-</feedback>
-</answer>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
-Ordinal
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-FALSE
-</p>]]></text>
-</feedback>
-</answer>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
-Intervalar
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-FALSE
-</p>]]></text>
-</feedback>
-</answer>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
-Nominal
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-FALSE
-</p>]]></text>
-</feedback>
-</answer>
-</question>
-
-
-<question type="multichoice">
-<name>
-<text> R056 Q1 : preguntas_html_R2018_0020 </text>
-</name>
-<questiontext format="html">
-<text><![CDATA[<p>
-<p><strong>R2018_0020</strong>. La siguiente variable: &quot;Cantidad de veces al año que va a misa&quot; tiene nivel de medición:</p>
-</p>]]></text>
-</questiontext>
-<generalfeedback format="html">
-<text><![CDATA[<p>
-<ol type = "a">
-<li> TRUE </li>
-<li> FALSE </li>
-<li> FALSE </li>
-<li> FALSE </li>
-</ol>
-</p>]]></text>
-</generalfeedback>
-<penalty>0</penalty>
-<defaultgrade>1</defaultgrade>
-<shuffleanswers>false</shuffleanswers>
-<single>true</single>
-<answernumbering>abc</answernumbering>
-<answer fraction="100" format="html">
-<text><![CDATA[<p>
-Proporcional
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-TRUE
-</p>]]></text>
-</feedback>
-</answer>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
-Ordinal
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-FALSE
-</p>]]></text>
-</feedback>
-</answer>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
-Intervalar
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-FALSE
-</p>]]></text>
-</feedback>
-</answer>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
-Nominal
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-FALSE
-</p>]]></text>
-</feedback>
-</answer>
-</question>
-
-
-<question type="multichoice">
-<name>
-<text> R057 Q1 : preguntas_html_R2018_0020 </text>
-</name>
-<questiontext format="html">
-<text><![CDATA[<p>
-<p><strong>R2018_0020</strong>. La siguiente variable: &quot;Talla&quot; tiene nivel de medición:</p>
-</p>]]></text>
-</questiontext>
-<generalfeedback format="html">
-<text><![CDATA[<p>
-<ol type = "a">
-<li> FALSE </li>
-<li> FALSE </li>
-<li> TRUE </li>
-<li> FALSE </li>
-</ol>
-</p>]]></text>
-</generalfeedback>
-<penalty>0</penalty>
-<defaultgrade>1</defaultgrade>
-<shuffleanswers>false</shuffleanswers>
-<single>true</single>
-<answernumbering>abc</answernumbering>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
-Ordinal
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-FALSE
-</p>]]></text>
-</feedback>
-</answer>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
-Intervalar
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-FALSE
-</p>]]></text>
-</feedback>
-</answer>
-<answer fraction="100" format="html">
-<text><![CDATA[<p>
-Proporcional
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-TRUE
-</p>]]></text>
-</feedback>
-</answer>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
-Nominal
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-FALSE
-</p>]]></text>
-</feedback>
-</answer>
-</question>
-
-
-<question type="multichoice">
-<name>
-<text> R058 Q1 : preguntas_html_R2018_0020 </text>
-</name>
-<questiontext format="html">
-<text><![CDATA[<p>
-<p><strong>R2018_0020</strong>. La siguiente variable: &quot;Cantidad de libros leídos en el último mes&quot; tiene nivel de medición:</p>
-</p>]]></text>
-</questiontext>
-<generalfeedback format="html">
-<text><![CDATA[<p>
-<ol type = "a">
-<li> FALSE </li>
-<li> FALSE </li>
-<li> TRUE </li>
-<li> FALSE </li>
-</ol>
-</p>]]></text>
-</generalfeedback>
-<penalty>0</penalty>
-<defaultgrade>1</defaultgrade>
-<shuffleanswers>false</shuffleanswers>
-<single>true</single>
-<answernumbering>abc</answernumbering>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
-Nominal
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-FALSE
-</p>]]></text>
-</feedback>
-</answer>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
-Ordinal
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-FALSE
-</p>]]></text>
-</feedback>
-</answer>
-<answer fraction="100" format="html">
-<text><![CDATA[<p>
-Proporcional
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-TRUE
-</p>]]></text>
-</feedback>
-</answer>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
-Intervalar
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -3901,14 +3901,14 @@ FALSE
 </name>
 <questiontext format="html">
 <text><![CDATA[<p>
-<p><strong>R2018_0020</strong>. La siguiente variable: &quot;Cantidad de libros leídos en el último mes&quot; tiene nivel de medición:</p>
+<p><strong>R2018_0020</strong>. La siguiente variable: &quot;Cantidad de aciertos en una prueba&quot; tiene nivel de medición:</p>
 </p>]]></text>
 </questiontext>
 <generalfeedback format="html">
 <text><![CDATA[<p>
 <ol type = "a">
-<li> TRUE </li>
 <li> FALSE </li>
+<li> TRUE </li>
 <li> FALSE </li>
 <li> FALSE </li>
 </ol>
@@ -3919,6 +3919,16 @@ FALSE
 <shuffleanswers>false</shuffleanswers>
 <single>true</single>
 <answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Ordinal
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
 <answer fraction="100" format="html">
 <text><![CDATA[<p>
 Proporcional
@@ -3931,7 +3941,7 @@ TRUE
 </answer>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-Ordinal
+Nominal
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -3942,16 +3952,6 @@ FALSE
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
 Intervalar
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-FALSE
-</p>]]></text>
-</feedback>
-</answer>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
-Nominal
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -3968,7 +3968,7 @@ FALSE
 </name>
 <questiontext format="html">
 <text><![CDATA[<p>
-<p><strong>R2018_0020</strong>. La siguiente variable: &quot;Semanas de gestación&quot; tiene nivel de medición:</p>
+<p><strong>R2018_0020</strong>. La siguiente variable: &quot;Cantidad de aciertos en una prueba&quot; tiene nivel de medición:</p>
 </p>]]></text>
 </questiontext>
 <generalfeedback format="html">
@@ -4008,7 +4008,7 @@ TRUE
 </answer>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-Nominal
+Intervalar
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -4018,7 +4018,7 @@ FALSE
 </answer>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-Intervalar
+Nominal
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -4035,7 +4035,7 @@ FALSE
 </name>
 <questiontext format="html">
 <text><![CDATA[<p>
-<p><strong>R2018_0020</strong>. La siguiente variable: &quot;Cantidad de aplazos&quot; tiene nivel de medición:</p>
+<p><strong>R2018_0020</strong>. La siguiente variable: &quot;Cantidad de aciertos en una prueba&quot; tiene nivel de medición:</p>
 </p>]]></text>
 </questiontext>
 <generalfeedback format="html">
@@ -4055,7 +4055,7 @@ FALSE
 <answernumbering>abc</answernumbering>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-Nominal
+Intervalar
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -4065,7 +4065,7 @@ FALSE
 </answer>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-Intervalar
+Nominal
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -4110,8 +4110,8 @@ TRUE
 <ol type = "a">
 <li> FALSE </li>
 <li> FALSE </li>
-<li> FALSE </li>
 <li> TRUE </li>
+<li> FALSE </li>
 </ol>
 </p>]]></text>
 </generalfeedback>
@@ -4122,7 +4122,7 @@ TRUE
 <answernumbering>abc</answernumbering>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-Proporcional
+Intervalar
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -4140,16 +4140,6 @@ FALSE
 </p>]]></text>
 </feedback>
 </answer>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
-Intervalar
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-FALSE
-</p>]]></text>
-</feedback>
-</answer>
 <answer fraction="100" format="html">
 <text><![CDATA[<p>
 Ordinal
@@ -4157,6 +4147,16 @@ Ordinal
 <feedback format="html">
 <text><![CDATA[<p>
 TRUE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Proporcional
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
 </p>]]></text>
 </feedback>
 </answer>
@@ -4169,14 +4169,14 @@ TRUE
 </name>
 <questiontext format="html">
 <text><![CDATA[<p>
-<p><strong>R2018_0020</strong>. La siguiente variable: &quot;Partido político al que está afiliado&quot; tiene nivel de medición:</p>
+<p><strong>R2018_0020</strong>. La siguiente variable: &quot;Sexo&quot; tiene nivel de medición:</p>
 </p>]]></text>
 </questiontext>
 <generalfeedback format="html">
 <text><![CDATA[<p>
 <ol type = "a">
-<li> TRUE </li>
 <li> FALSE </li>
+<li> TRUE </li>
 <li> FALSE </li>
 <li> FALSE </li>
 </ol>
@@ -4187,16 +4187,6 @@ TRUE
 <shuffleanswers>false</shuffleanswers>
 <single>true</single>
 <answernumbering>abc</answernumbering>
-<answer fraction="100" format="html">
-<text><![CDATA[<p>
-Nominal
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-TRUE
-</p>]]></text>
-</feedback>
-</answer>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
 Ordinal
@@ -4204,6 +4194,16 @@ Ordinal
 <feedback format="html">
 <text><![CDATA[<p>
 FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+Nominal
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+TRUE
 </p>]]></text>
 </feedback>
 </answer>
@@ -4236,15 +4236,15 @@ FALSE
 </name>
 <questiontext format="html">
 <text><![CDATA[<p>
-<p><strong>R2018_0020</strong>. La siguiente variable: &quot;Tamaño de la organización (1. Grande, 2. Mediana, 3. Pequeña)&quot; tiene nivel de medición:</p>
+<p><strong>R2018_0020</strong>. La siguiente variable: &quot;Tiempo para resolver una tarea&quot; tiene nivel de medición:</p>
 </p>]]></text>
 </questiontext>
 <generalfeedback format="html">
 <text><![CDATA[<p>
 <ol type = "a">
+<li> FALSE </li>
+<li> FALSE </li>
 <li> TRUE </li>
-<li> FALSE </li>
-<li> FALSE </li>
 <li> FALSE </li>
 </ol>
 </p>]]></text>
@@ -4254,13 +4254,13 @@ FALSE
 <shuffleanswers>false</shuffleanswers>
 <single>true</single>
 <answernumbering>abc</answernumbering>
-<answer fraction="100" format="html">
+<answer fraction="0" format="html">
 <text><![CDATA[<p>
-Ordinal
+Nominal
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
-TRUE
+FALSE
 </p>]]></text>
 </feedback>
 </answer>
@@ -4274,19 +4274,19 @@ FALSE
 </p>]]></text>
 </feedback>
 </answer>
-<answer fraction="0" format="html">
+<answer fraction="100" format="html">
 <text><![CDATA[<p>
-Nominal
+Proporcional
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
-FALSE
+TRUE
 </p>]]></text>
 </feedback>
 </answer>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-Proporcional
+Ordinal
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -4303,15 +4303,15 @@ FALSE
 </name>
 <questiontext format="html">
 <text><![CDATA[<p>
-<p><strong>R2018_0020</strong>. La siguiente variable: &quot;Puntaje en el test de inteligencia WAIS-IV&quot; tiene nivel de medición:</p>
+<p><strong>R2018_0020</strong>. La siguiente variable: &quot;Máxima distancia alcanzada en un salto&quot; tiene nivel de medición:</p>
 </p>]]></text>
 </questiontext>
 <generalfeedback format="html">
 <text><![CDATA[<p>
 <ol type = "a">
 <li> FALSE </li>
-<li> FALSE </li>
 <li> TRUE </li>
+<li> FALSE </li>
 <li> FALSE </li>
 </ol>
 </p>]]></text>
@@ -4321,16 +4321,6 @@ FALSE
 <shuffleanswers>false</shuffleanswers>
 <single>true</single>
 <answernumbering>abc</answernumbering>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
-Ordinal
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-FALSE
-</p>]]></text>
-</feedback>
-</answer>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
 Nominal
@@ -4343,7 +4333,7 @@ FALSE
 </answer>
 <answer fraction="100" format="html">
 <text><![CDATA[<p>
-Intervalar
+Proporcional
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -4353,7 +4343,17 @@ TRUE
 </answer>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-Proporcional
+Ordinal
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Intervalar
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -4370,7 +4370,7 @@ FALSE
 </name>
 <questiontext format="html">
 <text><![CDATA[<p>
-<p><strong>R2018_0020</strong>. La siguiente variable: &quot;Jerarquía militar&quot; tiene nivel de medición:</p>
+<p><strong>R2018_0020</strong>. La siguiente variable: &quot;Puntaje en el test de inteligencia WAIS-IV&quot; tiene nivel de medición:</p>
 </p>]]></text>
 </questiontext>
 <generalfeedback format="html">
@@ -4400,7 +4400,7 @@ FALSE
 </answer>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-Intervalar
+Ordinal
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -4420,7 +4420,7 @@ FALSE
 </answer>
 <answer fraction="100" format="html">
 <text><![CDATA[<p>
-Ordinal
+Intervalar
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -4437,15 +4437,15 @@ TRUE
 </name>
 <questiontext format="html">
 <text><![CDATA[<p>
-<p><strong>R2018_0020</strong>. La siguiente variable: &quot;Cantidad de veces al año que va a misa&quot; tiene nivel de medición:</p>
+<p><strong>R2018_0020</strong>. La siguiente variable: &quot;Sexo&quot; tiene nivel de medición:</p>
 </p>]]></text>
 </questiontext>
 <generalfeedback format="html">
 <text><![CDATA[<p>
 <ol type = "a">
+<li> FALSE </li>
+<li> FALSE </li>
 <li> TRUE </li>
-<li> FALSE </li>
-<li> FALSE </li>
 <li> FALSE </li>
 </ol>
 </p>]]></text>
@@ -4455,26 +4455,6 @@ TRUE
 <shuffleanswers>false</shuffleanswers>
 <single>true</single>
 <answernumbering>abc</answernumbering>
-<answer fraction="100" format="html">
-<text><![CDATA[<p>
-Proporcional
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-TRUE
-</p>]]></text>
-</feedback>
-</answer>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
-Ordinal
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-FALSE
-</p>]]></text>
-</feedback>
-</answer>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
 Intervalar
@@ -4487,7 +4467,27 @@ FALSE
 </answer>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
+Proporcional
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
 Nominal
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+TRUE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Ordinal
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -4504,15 +4504,15 @@ FALSE
 </name>
 <questiontext format="html">
 <text><![CDATA[<p>
-<p><strong>R2018_0020</strong>. La siguiente variable: &quot;Jerarquía militar&quot; tiene nivel de medición:</p>
+<p><strong>R2018_0020</strong>. La siguiente variable: &quot;Máxima distancia alcanzada en un salto&quot; tiene nivel de medición:</p>
 </p>]]></text>
 </questiontext>
 <generalfeedback format="html">
 <text><![CDATA[<p>
 <ol type = "a">
+<li> FALSE </li>
+<li> FALSE </li>
 <li> TRUE </li>
-<li> FALSE </li>
-<li> FALSE </li>
 <li> FALSE </li>
 </ol>
 </p>]]></text>
@@ -4522,9 +4522,29 @@ FALSE
 <shuffleanswers>false</shuffleanswers>
 <single>true</single>
 <answernumbering>abc</answernumbering>
-<answer fraction="100" format="html">
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Intervalar
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
 <text><![CDATA[<p>
 Ordinal
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+Proporcional
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -4535,26 +4555,6 @@ TRUE
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
 Nominal
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-FALSE
-</p>]]></text>
-</feedback>
-</answer>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
-Proporcional
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-FALSE
-</p>]]></text>
-</feedback>
-</answer>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
-Intervalar
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -4571,15 +4571,15 @@ FALSE
 </name>
 <questiontext format="html">
 <text><![CDATA[<p>
-<p><strong>R2018_0020</strong>. La siguiente variable: &quot;Color de pelo&quot; tiene nivel de medición:</p>
+<p><strong>R2018_0020</strong>. La siguiente variable: &quot;Perímetro craneal&quot; tiene nivel de medición:</p>
 </p>]]></text>
 </questiontext>
 <generalfeedback format="html">
 <text><![CDATA[<p>
 <ol type = "a">
-<li> FALSE </li>
-<li> FALSE </li>
 <li> TRUE </li>
+<li> FALSE </li>
+<li> FALSE </li>
 <li> FALSE </li>
 </ol>
 </p>]]></text>
@@ -4589,6 +4589,16 @@ FALSE
 <shuffleanswers>false</shuffleanswers>
 <single>true</single>
 <answernumbering>abc</answernumbering>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+Proporcional
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+TRUE
+</p>]]></text>
+</feedback>
+</answer>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
 Ordinal
@@ -4609,19 +4619,9 @@ FALSE
 </p>]]></text>
 </feedback>
 </answer>
-<answer fraction="100" format="html">
-<text><![CDATA[<p>
-Nominal
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-TRUE
-</p>]]></text>
-</feedback>
-</answer>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-Proporcional
+Nominal
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -4638,16 +4638,16 @@ FALSE
 </name>
 <questiontext format="html">
 <text><![CDATA[<p>
-<p><strong>R2018_0020</strong>. La siguiente variable: &quot;Color de pelo&quot; tiene nivel de medición:</p>
+<p><strong>R2018_0020</strong>. La siguiente variable: &quot;Partido político al que está afiliado&quot; tiene nivel de medición:</p>
 </p>]]></text>
 </questiontext>
 <generalfeedback format="html">
 <text><![CDATA[<p>
 <ol type = "a">
 <li> FALSE </li>
-<li> FALSE </li>
-<li> FALSE </li>
 <li> TRUE </li>
+<li> FALSE </li>
+<li> FALSE </li>
 </ol>
 </p>]]></text>
 </generalfeedback>
@@ -4656,26 +4656,6 @@ FALSE
 <shuffleanswers>false</shuffleanswers>
 <single>true</single>
 <answernumbering>abc</answernumbering>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
-Proporcional
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-FALSE
-</p>]]></text>
-</feedback>
-</answer>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
-Intervalar
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-FALSE
-</p>]]></text>
-</feedback>
-</answer>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
 Ordinal
@@ -4693,6 +4673,26 @@ Nominal
 <feedback format="html">
 <text><![CDATA[<p>
 TRUE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Proporcional
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Intervalar
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
 </p>]]></text>
 </feedback>
 </answer>
@@ -4705,7 +4705,7 @@ TRUE
 </name>
 <questiontext format="html">
 <text><![CDATA[<p>
-<p><strong>R2018_0020</strong>. La siguiente variable: &quot;Jerarquía militar&quot; tiene nivel de medición:</p>
+<p><strong>R2018_0020</strong>. La siguiente variable: &quot;Peso&quot; tiene nivel de medición:</p>
 </p>]]></text>
 </questiontext>
 <generalfeedback format="html">
@@ -4735,7 +4735,7 @@ FALSE
 </answer>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-Proporcional
+Nominal
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -4745,7 +4745,7 @@ FALSE
 </answer>
 <answer fraction="100" format="html">
 <text><![CDATA[<p>
-Ordinal
+Proporcional
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -4755,7 +4755,7 @@ TRUE
 </answer>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-Nominal
+Ordinal
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -4772,16 +4772,16 @@ FALSE
 </name>
 <questiontext format="html">
 <text><![CDATA[<p>
-<p><strong>R2018_0020</strong>. La siguiente variable: &quot;Peso&quot; tiene nivel de medición:</p>
+<p><strong>R2018_0020</strong>. La siguiente variable: &quot;Color de pelo&quot; tiene nivel de medición:</p>
 </p>]]></text>
 </questiontext>
 <generalfeedback format="html">
 <text><![CDATA[<p>
 <ol type = "a">
-<li> FALSE </li>
-<li> FALSE </li>
-<li> FALSE </li>
 <li> TRUE </li>
+<li> FALSE </li>
+<li> FALSE </li>
+<li> FALSE </li>
 </ol>
 </p>]]></text>
 </generalfeedback>
@@ -4790,9 +4790,29 @@ FALSE
 <shuffleanswers>false</shuffleanswers>
 <single>true</single>
 <answernumbering>abc</answernumbering>
-<answer fraction="0" format="html">
+<answer fraction="100" format="html">
 <text><![CDATA[<p>
 Nominal
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+TRUE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Proporcional
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Ordinal
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -4810,26 +4830,6 @@ FALSE
 </p>]]></text>
 </feedback>
 </answer>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
-Ordinal
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-FALSE
-</p>]]></text>
-</feedback>
-</answer>
-<answer fraction="100" format="html">
-<text><![CDATA[<p>
-Proporcional
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-TRUE
-</p>]]></text>
-</feedback>
-</answer>
 </question>
 
 
@@ -4839,15 +4839,15 @@ TRUE
 </name>
 <questiontext format="html">
 <text><![CDATA[<p>
-<p><strong>R2018_0020</strong>. La siguiente variable: &quot;Cantidad de libros leídos en el último mes&quot; tiene nivel de medición:</p>
+<p><strong>R2018_0020</strong>. La siguiente variable: &quot;Tamaño de la organización (1. Grande, 2. Mediana, 3. Pequeña)&quot; tiene nivel de medición:</p>
 </p>]]></text>
 </questiontext>
 <generalfeedback format="html">
 <text><![CDATA[<p>
 <ol type = "a">
 <li> FALSE </li>
-<li> FALSE </li>
 <li> TRUE </li>
+<li> FALSE </li>
 <li> FALSE </li>
 </ol>
 </p>]]></text>
@@ -4867,23 +4867,23 @@ FALSE
 </p>]]></text>
 </feedback>
 </answer>
-<answer fraction="0" format="html">
+<answer fraction="100" format="html">
 <text><![CDATA[<p>
 Ordinal
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
-FALSE
+TRUE
 </p>]]></text>
 </feedback>
 </answer>
-<answer fraction="100" format="html">
+<answer fraction="0" format="html">
 <text><![CDATA[<p>
 Proporcional
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
-TRUE
+FALSE
 </p>]]></text>
 </feedback>
 </answer>
@@ -4906,15 +4906,15 @@ FALSE
 </name>
 <questiontext format="html">
 <text><![CDATA[<p>
-<p><strong>R2018_0020</strong>. La siguiente variable: &quot;Cantidad de libros leídos en el último mes&quot; tiene nivel de medición:</p>
+<p><strong>R2018_0020</strong>. La siguiente variable: &quot;Dosis de alcohol ingerida&quot; tiene nivel de medición:</p>
 </p>]]></text>
 </questiontext>
 <generalfeedback format="html">
 <text><![CDATA[<p>
 <ol type = "a">
 <li> FALSE </li>
-<li> TRUE </li>
 <li> FALSE </li>
+<li> TRUE </li>
 <li> FALSE </li>
 </ol>
 </p>]]></text>
@@ -4924,26 +4924,6 @@ FALSE
 <shuffleanswers>false</shuffleanswers>
 <single>true</single>
 <answernumbering>abc</answernumbering>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
-Ordinal
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-FALSE
-</p>]]></text>
-</feedback>
-</answer>
-<answer fraction="100" format="html">
-<text><![CDATA[<p>
-Proporcional
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-TRUE
-</p>]]></text>
-</feedback>
-</answer>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
 Intervalar
@@ -4964,36 +4944,9 @@ FALSE
 </p>]]></text>
 </feedback>
 </answer>
-</question>
-
-
-<question type="multichoice">
-<name>
-<text> R075 Q1 : preguntas_html_R2018_0020 </text>
-</name>
-<questiontext format="html">
-<text><![CDATA[<p>
-<p><strong>R2018_0020</strong>. La siguiente variable: &quot;Color de pelo&quot; tiene nivel de medición:</p>
-</p>]]></text>
-</questiontext>
-<generalfeedback format="html">
-<text><![CDATA[<p>
-<ol type = "a">
-<li> TRUE </li>
-<li> FALSE </li>
-<li> FALSE </li>
-<li> FALSE </li>
-</ol>
-</p>]]></text>
-</generalfeedback>
-<penalty>0</penalty>
-<defaultgrade>1</defaultgrade>
-<shuffleanswers>false</shuffleanswers>
-<single>true</single>
-<answernumbering>abc</answernumbering>
 <answer fraction="100" format="html">
 <text><![CDATA[<p>
-Nominal
+Proporcional
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -5011,13 +4964,60 @@ FALSE
 </p>]]></text>
 </feedback>
 </answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R075 Q1 : preguntas_html_R2018_0020 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p><strong>R2018_0020</strong>. La siguiente variable: &quot;Peso&quot; tiene nivel de medición:</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<ol type = "a">
+<li> FALSE </li>
+<li> FALSE </li>
+<li> TRUE </li>
+<li> FALSE </li>
+</ol>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
 <answer fraction="0" format="html">
+<text><![CDATA[<p>
+Nominal
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Ordinal
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
 <text><![CDATA[<p>
 Proporcional
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
-FALSE
+TRUE
 </p>]]></text>
 </feedback>
 </answer>
@@ -5040,7 +5040,7 @@ FALSE
 </name>
 <questiontext format="html">
 <text><![CDATA[<p>
-<p><strong>R2018_0020</strong>. La siguiente variable: &quot;Partido político al que está afiliado&quot; tiene nivel de medición:</p>
+<p><strong>R2018_0020</strong>. La siguiente variable: &quot;Peso&quot; tiene nivel de medición:</p>
 </p>]]></text>
 </questiontext>
 <generalfeedback format="html">
@@ -5060,7 +5060,7 @@ FALSE
 <answernumbering>abc</answernumbering>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-Intervalar
+Ordinal
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -5070,7 +5070,7 @@ FALSE
 </answer>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-Ordinal
+Nominal
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -5080,7 +5080,7 @@ FALSE
 </answer>
 <answer fraction="100" format="html">
 <text><![CDATA[<p>
-Nominal
+Proporcional
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -5090,7 +5090,7 @@ TRUE
 </answer>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-Proporcional
+Intervalar
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -5107,7 +5107,7 @@ FALSE
 </name>
 <questiontext format="html">
 <text><![CDATA[<p>
-<p><strong>R2018_0020</strong>. La siguiente variable: &quot;Cantidad de goles en un partido&quot; tiene nivel de medición:</p>
+<p><strong>R2018_0020</strong>. La siguiente variable: &quot;Puntaje en el test de inteligencia WAIS-IV&quot; tiene nivel de medición:</p>
 </p>]]></text>
 </questiontext>
 <generalfeedback format="html">
@@ -5137,7 +5137,7 @@ FALSE
 </answer>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-Intervalar
+Ordinal
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -5147,7 +5147,7 @@ FALSE
 </answer>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-Ordinal
+Proporcional
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -5157,7 +5157,7 @@ FALSE
 </answer>
 <answer fraction="100" format="html">
 <text><![CDATA[<p>
-Proporcional
+Intervalar
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -5174,14 +5174,14 @@ TRUE
 </name>
 <questiontext format="html">
 <text><![CDATA[<p>
-<p><strong>R2018_0020</strong>. La siguiente variable: &quot;Puntaje en el test de depresión de Beck&quot; tiene nivel de medición:</p>
+<p><strong>R2018_0020</strong>. La siguiente variable: &quot;Jerarquía militar&quot; tiene nivel de medición:</p>
 </p>]]></text>
 </questiontext>
 <generalfeedback format="html">
 <text><![CDATA[<p>
 <ol type = "a">
-<li> TRUE </li>
 <li> FALSE </li>
+<li> TRUE </li>
 <li> FALSE </li>
 <li> FALSE </li>
 </ol>
@@ -5192,23 +5192,23 @@ TRUE
 <shuffleanswers>false</shuffleanswers>
 <single>true</single>
 <answernumbering>abc</answernumbering>
-<answer fraction="100" format="html">
+<answer fraction="0" format="html">
 <text><![CDATA[<p>
 Intervalar
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
-TRUE
+FALSE
 </p>]]></text>
 </feedback>
 </answer>
-<answer fraction="0" format="html">
+<answer fraction="100" format="html">
 <text><![CDATA[<p>
-Proporcional
+Ordinal
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
-FALSE
+TRUE
 </p>]]></text>
 </feedback>
 </answer>
@@ -5224,7 +5224,7 @@ FALSE
 </answer>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-Ordinal
+Proporcional
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -5248,8 +5248,8 @@ FALSE
 <text><![CDATA[<p>
 <ol type = "a">
 <li> FALSE </li>
-<li> TRUE </li>
 <li> FALSE </li>
+<li> TRUE </li>
 <li> FALSE </li>
 </ol>
 </p>]]></text>
@@ -5261,7 +5261,17 @@ FALSE
 <answernumbering>abc</answernumbering>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-Ordinal
+Nominal
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Intervalar
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -5281,17 +5291,7 @@ TRUE
 </answer>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-Nominal
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-FALSE
-</p>]]></text>
-</feedback>
-</answer>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
-Intervalar
+Ordinal
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -5305,207 +5305,6 @@ FALSE
 <question type="multichoice">
 <name>
 <text> R080 Q1 : preguntas_html_R2018_0020 </text>
-</name>
-<questiontext format="html">
-<text><![CDATA[<p>
-<p><strong>R2018_0020</strong>. La siguiente variable: &quot;Puntaje en el test de depresión de Beck&quot; tiene nivel de medición:</p>
-</p>]]></text>
-</questiontext>
-<generalfeedback format="html">
-<text><![CDATA[<p>
-<ol type = "a">
-<li> FALSE </li>
-<li> FALSE </li>
-<li> FALSE </li>
-<li> TRUE </li>
-</ol>
-</p>]]></text>
-</generalfeedback>
-<penalty>0</penalty>
-<defaultgrade>1</defaultgrade>
-<shuffleanswers>false</shuffleanswers>
-<single>true</single>
-<answernumbering>abc</answernumbering>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
-Ordinal
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-FALSE
-</p>]]></text>
-</feedback>
-</answer>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
-Nominal
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-FALSE
-</p>]]></text>
-</feedback>
-</answer>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
-Proporcional
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-FALSE
-</p>]]></text>
-</feedback>
-</answer>
-<answer fraction="100" format="html">
-<text><![CDATA[<p>
-Intervalar
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-TRUE
-</p>]]></text>
-</feedback>
-</answer>
-</question>
-
-
-<question type="multichoice">
-<name>
-<text> R081 Q1 : preguntas_html_R2018_0020 </text>
-</name>
-<questiontext format="html">
-<text><![CDATA[<p>
-<p><strong>R2018_0020</strong>. La siguiente variable: &quot;Tiempo para resolver una tarea&quot; tiene nivel de medición:</p>
-</p>]]></text>
-</questiontext>
-<generalfeedback format="html">
-<text><![CDATA[<p>
-<ol type = "a">
-<li> TRUE </li>
-<li> FALSE </li>
-<li> FALSE </li>
-<li> FALSE </li>
-</ol>
-</p>]]></text>
-</generalfeedback>
-<penalty>0</penalty>
-<defaultgrade>1</defaultgrade>
-<shuffleanswers>false</shuffleanswers>
-<single>true</single>
-<answernumbering>abc</answernumbering>
-<answer fraction="100" format="html">
-<text><![CDATA[<p>
-Proporcional
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-TRUE
-</p>]]></text>
-</feedback>
-</answer>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
-Ordinal
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-FALSE
-</p>]]></text>
-</feedback>
-</answer>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
-Nominal
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-FALSE
-</p>]]></text>
-</feedback>
-</answer>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
-Intervalar
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-FALSE
-</p>]]></text>
-</feedback>
-</answer>
-</question>
-
-
-<question type="multichoice">
-<name>
-<text> R082 Q1 : preguntas_html_R2018_0020 </text>
-</name>
-<questiontext format="html">
-<text><![CDATA[<p>
-<p><strong>R2018_0020</strong>. La siguiente variable: &quot;Jerarquía militar&quot; tiene nivel de medición:</p>
-</p>]]></text>
-</questiontext>
-<generalfeedback format="html">
-<text><![CDATA[<p>
-<ol type = "a">
-<li> FALSE </li>
-<li> FALSE </li>
-<li> FALSE </li>
-<li> TRUE </li>
-</ol>
-</p>]]></text>
-</generalfeedback>
-<penalty>0</penalty>
-<defaultgrade>1</defaultgrade>
-<shuffleanswers>false</shuffleanswers>
-<single>true</single>
-<answernumbering>abc</answernumbering>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
-Intervalar
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-FALSE
-</p>]]></text>
-</feedback>
-</answer>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
-Proporcional
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-FALSE
-</p>]]></text>
-</feedback>
-</answer>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
-Nominal
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-FALSE
-</p>]]></text>
-</feedback>
-</answer>
-<answer fraction="100" format="html">
-<text><![CDATA[<p>
-Ordinal
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-TRUE
-</p>]]></text>
-</feedback>
-</answer>
-</question>
-
-
-<question type="multichoice">
-<name>
-<text> R083 Q1 : preguntas_html_R2018_0020 </text>
 </name>
 <questiontext format="html">
 <text><![CDATA[<p>
@@ -5572,11 +5371,11 @@ FALSE
 
 <question type="multichoice">
 <name>
-<text> R084 Q1 : preguntas_html_R2018_0020 </text>
+<text> R081 Q1 : preguntas_html_R2018_0020 </text>
 </name>
 <questiontext format="html">
 <text><![CDATA[<p>
-<p><strong>R2018_0020</strong>. La siguiente variable: &quot;Peso&quot; tiene nivel de medición:</p>
+<p><strong>R2018_0020</strong>. La siguiente variable: &quot;Cantidad de goles en un partido&quot; tiene nivel de medición:</p>
 </p>]]></text>
 </questiontext>
 <generalfeedback format="html">
@@ -5606,6 +5405,16 @@ TRUE
 </answer>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
+Intervalar
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
 Ordinal
 </p>]]></text>
 <feedback format="html">
@@ -5617,16 +5426,6 @@ FALSE
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
 Nominal
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-FALSE
-</p>]]></text>
-</feedback>
-</answer>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
-Intervalar
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -5639,18 +5438,18 @@ FALSE
 
 <question type="multichoice">
 <name>
-<text> R085 Q1 : preguntas_html_R2018_0020 </text>
+<text> R082 Q1 : preguntas_html_R2018_0020 </text>
 </name>
 <questiontext format="html">
 <text><![CDATA[<p>
-<p><strong>R2018_0020</strong>. La siguiente variable: &quot;Tamaño de la organización (1. Grande, 2. Mediana, 3. Pequeña)&quot; tiene nivel de medición:</p>
+<p><strong>R2018_0020</strong>. La siguiente variable: &quot;Cantidad de veces al año que va a misa&quot; tiene nivel de medición:</p>
 </p>]]></text>
 </questiontext>
 <generalfeedback format="html">
 <text><![CDATA[<p>
 <ol type = "a">
-<li> TRUE </li>
 <li> FALSE </li>
+<li> TRUE </li>
 <li> FALSE </li>
 <li> FALSE </li>
 </ol>
@@ -5661,9 +5460,19 @@ FALSE
 <shuffleanswers>false</shuffleanswers>
 <single>true</single>
 <answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Intervalar
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
 <answer fraction="100" format="html">
 <text><![CDATA[<p>
-Ordinal
+Proporcional
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -5683,7 +5492,54 @@ FALSE
 </answer>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-Proporcional
+Ordinal
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R083 Q1 : preguntas_html_R2018_0020 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p><strong>R2018_0020</strong>. La siguiente variable: &quot;Cantidad de libros leídos en el último mes&quot; tiene nivel de medición:</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<ol type = "a">
+<li> FALSE </li>
+<li> FALSE </li>
+<li> FALSE </li>
+<li> TRUE </li>
+</ol>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Ordinal
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Nominal
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -5694,6 +5550,150 @@ FALSE
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
 Intervalar
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+Proporcional
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+TRUE
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R084 Q1 : preguntas_html_R2018_0020 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p><strong>R2018_0020</strong>. La siguiente variable: &quot;Peso&quot; tiene nivel de medición:</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<ol type = "a">
+<li> FALSE </li>
+<li> FALSE </li>
+<li> FALSE </li>
+<li> TRUE </li>
+</ol>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Ordinal
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Intervalar
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Nominal
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+Proporcional
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+TRUE
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R085 Q1 : preguntas_html_R2018_0020 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p><strong>R2018_0020</strong>. La siguiente variable: &quot;Cantidad de libros leídos en el último mes&quot; tiene nivel de medición:</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<ol type = "a">
+<li> FALSE </li>
+<li> TRUE </li>
+<li> FALSE </li>
+<li> FALSE </li>
+</ol>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Nominal
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+Proporcional
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+TRUE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Intervalar
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Ordinal
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -5707,810 +5707,6 @@ FALSE
 <question type="multichoice">
 <name>
 <text> R086 Q1 : preguntas_html_R2018_0020 </text>
-</name>
-<questiontext format="html">
-<text><![CDATA[<p>
-<p><strong>R2018_0020</strong>. La siguiente variable: &quot;Cantidad de goles en un partido&quot; tiene nivel de medición:</p>
-</p>]]></text>
-</questiontext>
-<generalfeedback format="html">
-<text><![CDATA[<p>
-<ol type = "a">
-<li> FALSE </li>
-<li> FALSE </li>
-<li> TRUE </li>
-<li> FALSE </li>
-</ol>
-</p>]]></text>
-</generalfeedback>
-<penalty>0</penalty>
-<defaultgrade>1</defaultgrade>
-<shuffleanswers>false</shuffleanswers>
-<single>true</single>
-<answernumbering>abc</answernumbering>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
-Nominal
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-FALSE
-</p>]]></text>
-</feedback>
-</answer>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
-Ordinal
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-FALSE
-</p>]]></text>
-</feedback>
-</answer>
-<answer fraction="100" format="html">
-<text><![CDATA[<p>
-Proporcional
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-TRUE
-</p>]]></text>
-</feedback>
-</answer>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
-Intervalar
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-FALSE
-</p>]]></text>
-</feedback>
-</answer>
-</question>
-
-
-<question type="multichoice">
-<name>
-<text> R087 Q1 : preguntas_html_R2018_0020 </text>
-</name>
-<questiontext format="html">
-<text><![CDATA[<p>
-<p><strong>R2018_0020</strong>. La siguiente variable: &quot;Semanas de gestación&quot; tiene nivel de medición:</p>
-</p>]]></text>
-</questiontext>
-<generalfeedback format="html">
-<text><![CDATA[<p>
-<ol type = "a">
-<li> TRUE </li>
-<li> FALSE </li>
-<li> FALSE </li>
-<li> FALSE </li>
-</ol>
-</p>]]></text>
-</generalfeedback>
-<penalty>0</penalty>
-<defaultgrade>1</defaultgrade>
-<shuffleanswers>false</shuffleanswers>
-<single>true</single>
-<answernumbering>abc</answernumbering>
-<answer fraction="100" format="html">
-<text><![CDATA[<p>
-Proporcional
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-TRUE
-</p>]]></text>
-</feedback>
-</answer>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
-Ordinal
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-FALSE
-</p>]]></text>
-</feedback>
-</answer>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
-Intervalar
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-FALSE
-</p>]]></text>
-</feedback>
-</answer>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
-Nominal
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-FALSE
-</p>]]></text>
-</feedback>
-</answer>
-</question>
-
-
-<question type="multichoice">
-<name>
-<text> R088 Q1 : preguntas_html_R2018_0020 </text>
-</name>
-<questiontext format="html">
-<text><![CDATA[<p>
-<p><strong>R2018_0020</strong>. La siguiente variable: &quot;Tiempo que dedica a usar redes sociales&quot; tiene nivel de medición:</p>
-</p>]]></text>
-</questiontext>
-<generalfeedback format="html">
-<text><![CDATA[<p>
-<ol type = "a">
-<li> FALSE </li>
-<li> FALSE </li>
-<li> FALSE </li>
-<li> TRUE </li>
-</ol>
-</p>]]></text>
-</generalfeedback>
-<penalty>0</penalty>
-<defaultgrade>1</defaultgrade>
-<shuffleanswers>false</shuffleanswers>
-<single>true</single>
-<answernumbering>abc</answernumbering>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
-Ordinal
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-FALSE
-</p>]]></text>
-</feedback>
-</answer>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
-Nominal
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-FALSE
-</p>]]></text>
-</feedback>
-</answer>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
-Intervalar
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-FALSE
-</p>]]></text>
-</feedback>
-</answer>
-<answer fraction="100" format="html">
-<text><![CDATA[<p>
-Proporcional
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-TRUE
-</p>]]></text>
-</feedback>
-</answer>
-</question>
-
-
-<question type="multichoice">
-<name>
-<text> R089 Q1 : preguntas_html_R2018_0020 </text>
-</name>
-<questiontext format="html">
-<text><![CDATA[<p>
-<p><strong>R2018_0020</strong>. La siguiente variable: &quot;Color de pelo&quot; tiene nivel de medición:</p>
-</p>]]></text>
-</questiontext>
-<generalfeedback format="html">
-<text><![CDATA[<p>
-<ol type = "a">
-<li> FALSE </li>
-<li> FALSE </li>
-<li> FALSE </li>
-<li> TRUE </li>
-</ol>
-</p>]]></text>
-</generalfeedback>
-<penalty>0</penalty>
-<defaultgrade>1</defaultgrade>
-<shuffleanswers>false</shuffleanswers>
-<single>true</single>
-<answernumbering>abc</answernumbering>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
-Intervalar
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-FALSE
-</p>]]></text>
-</feedback>
-</answer>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
-Ordinal
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-FALSE
-</p>]]></text>
-</feedback>
-</answer>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
-Proporcional
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-FALSE
-</p>]]></text>
-</feedback>
-</answer>
-<answer fraction="100" format="html">
-<text><![CDATA[<p>
-Nominal
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-TRUE
-</p>]]></text>
-</feedback>
-</answer>
-</question>
-
-
-<question type="multichoice">
-<name>
-<text> R090 Q1 : preguntas_html_R2018_0020 </text>
-</name>
-<questiontext format="html">
-<text><![CDATA[<p>
-<p><strong>R2018_0020</strong>. La siguiente variable: &quot;Jerarquía militar&quot; tiene nivel de medición:</p>
-</p>]]></text>
-</questiontext>
-<generalfeedback format="html">
-<text><![CDATA[<p>
-<ol type = "a">
-<li> FALSE </li>
-<li> FALSE </li>
-<li> FALSE </li>
-<li> TRUE </li>
-</ol>
-</p>]]></text>
-</generalfeedback>
-<penalty>0</penalty>
-<defaultgrade>1</defaultgrade>
-<shuffleanswers>false</shuffleanswers>
-<single>true</single>
-<answernumbering>abc</answernumbering>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
-Intervalar
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-FALSE
-</p>]]></text>
-</feedback>
-</answer>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
-Nominal
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-FALSE
-</p>]]></text>
-</feedback>
-</answer>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
-Proporcional
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-FALSE
-</p>]]></text>
-</feedback>
-</answer>
-<answer fraction="100" format="html">
-<text><![CDATA[<p>
-Ordinal
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-TRUE
-</p>]]></text>
-</feedback>
-</answer>
-</question>
-
-
-<question type="multichoice">
-<name>
-<text> R091 Q1 : preguntas_html_R2018_0020 </text>
-</name>
-<questiontext format="html">
-<text><![CDATA[<p>
-<p><strong>R2018_0020</strong>. La siguiente variable: &quot;Color de pelo&quot; tiene nivel de medición:</p>
-</p>]]></text>
-</questiontext>
-<generalfeedback format="html">
-<text><![CDATA[<p>
-<ol type = "a">
-<li> TRUE </li>
-<li> FALSE </li>
-<li> FALSE </li>
-<li> FALSE </li>
-</ol>
-</p>]]></text>
-</generalfeedback>
-<penalty>0</penalty>
-<defaultgrade>1</defaultgrade>
-<shuffleanswers>false</shuffleanswers>
-<single>true</single>
-<answernumbering>abc</answernumbering>
-<answer fraction="100" format="html">
-<text><![CDATA[<p>
-Nominal
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-TRUE
-</p>]]></text>
-</feedback>
-</answer>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
-Intervalar
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-FALSE
-</p>]]></text>
-</feedback>
-</answer>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
-Proporcional
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-FALSE
-</p>]]></text>
-</feedback>
-</answer>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
-Ordinal
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-FALSE
-</p>]]></text>
-</feedback>
-</answer>
-</question>
-
-
-<question type="multichoice">
-<name>
-<text> R092 Q1 : preguntas_html_R2018_0020 </text>
-</name>
-<questiontext format="html">
-<text><![CDATA[<p>
-<p><strong>R2018_0020</strong>. La siguiente variable: &quot;Perímetro craneal&quot; tiene nivel de medición:</p>
-</p>]]></text>
-</questiontext>
-<generalfeedback format="html">
-<text><![CDATA[<p>
-<ol type = "a">
-<li> FALSE </li>
-<li> FALSE </li>
-<li> TRUE </li>
-<li> FALSE </li>
-</ol>
-</p>]]></text>
-</generalfeedback>
-<penalty>0</penalty>
-<defaultgrade>1</defaultgrade>
-<shuffleanswers>false</shuffleanswers>
-<single>true</single>
-<answernumbering>abc</answernumbering>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
-Ordinal
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-FALSE
-</p>]]></text>
-</feedback>
-</answer>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
-Intervalar
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-FALSE
-</p>]]></text>
-</feedback>
-</answer>
-<answer fraction="100" format="html">
-<text><![CDATA[<p>
-Proporcional
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-TRUE
-</p>]]></text>
-</feedback>
-</answer>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
-Nominal
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-FALSE
-</p>]]></text>
-</feedback>
-</answer>
-</question>
-
-
-<question type="multichoice">
-<name>
-<text> R093 Q1 : preguntas_html_R2018_0020 </text>
-</name>
-<questiontext format="html">
-<text><![CDATA[<p>
-<p><strong>R2018_0020</strong>. La siguiente variable: &quot;Jerarquía militar&quot; tiene nivel de medición:</p>
-</p>]]></text>
-</questiontext>
-<generalfeedback format="html">
-<text><![CDATA[<p>
-<ol type = "a">
-<li> FALSE </li>
-<li> FALSE </li>
-<li> FALSE </li>
-<li> TRUE </li>
-</ol>
-</p>]]></text>
-</generalfeedback>
-<penalty>0</penalty>
-<defaultgrade>1</defaultgrade>
-<shuffleanswers>false</shuffleanswers>
-<single>true</single>
-<answernumbering>abc</answernumbering>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
-Intervalar
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-FALSE
-</p>]]></text>
-</feedback>
-</answer>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
-Nominal
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-FALSE
-</p>]]></text>
-</feedback>
-</answer>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
-Proporcional
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-FALSE
-</p>]]></text>
-</feedback>
-</answer>
-<answer fraction="100" format="html">
-<text><![CDATA[<p>
-Ordinal
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-TRUE
-</p>]]></text>
-</feedback>
-</answer>
-</question>
-
-
-<question type="multichoice">
-<name>
-<text> R094 Q1 : preguntas_html_R2018_0020 </text>
-</name>
-<questiontext format="html">
-<text><![CDATA[<p>
-<p><strong>R2018_0020</strong>. La siguiente variable: &quot;Cantidad de aplazos&quot; tiene nivel de medición:</p>
-</p>]]></text>
-</questiontext>
-<generalfeedback format="html">
-<text><![CDATA[<p>
-<ol type = "a">
-<li> FALSE </li>
-<li> FALSE </li>
-<li> TRUE </li>
-<li> FALSE </li>
-</ol>
-</p>]]></text>
-</generalfeedback>
-<penalty>0</penalty>
-<defaultgrade>1</defaultgrade>
-<shuffleanswers>false</shuffleanswers>
-<single>true</single>
-<answernumbering>abc</answernumbering>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
-Intervalar
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-FALSE
-</p>]]></text>
-</feedback>
-</answer>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
-Nominal
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-FALSE
-</p>]]></text>
-</feedback>
-</answer>
-<answer fraction="100" format="html">
-<text><![CDATA[<p>
-Proporcional
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-TRUE
-</p>]]></text>
-</feedback>
-</answer>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
-Ordinal
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-FALSE
-</p>]]></text>
-</feedback>
-</answer>
-</question>
-
-
-<question type="multichoice">
-<name>
-<text> R095 Q1 : preguntas_html_R2018_0020 </text>
-</name>
-<questiontext format="html">
-<text><![CDATA[<p>
-<p><strong>R2018_0020</strong>. La siguiente variable: &quot;Tamaño de la organización (1. Grande, 2. Mediana, 3. Pequeña)&quot; tiene nivel de medición:</p>
-</p>]]></text>
-</questiontext>
-<generalfeedback format="html">
-<text><![CDATA[<p>
-<ol type = "a">
-<li> TRUE </li>
-<li> FALSE </li>
-<li> FALSE </li>
-<li> FALSE </li>
-</ol>
-</p>]]></text>
-</generalfeedback>
-<penalty>0</penalty>
-<defaultgrade>1</defaultgrade>
-<shuffleanswers>false</shuffleanswers>
-<single>true</single>
-<answernumbering>abc</answernumbering>
-<answer fraction="100" format="html">
-<text><![CDATA[<p>
-Ordinal
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-TRUE
-</p>]]></text>
-</feedback>
-</answer>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
-Intervalar
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-FALSE
-</p>]]></text>
-</feedback>
-</answer>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
-Proporcional
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-FALSE
-</p>]]></text>
-</feedback>
-</answer>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
-Nominal
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-FALSE
-</p>]]></text>
-</feedback>
-</answer>
-</question>
-
-
-<question type="multichoice">
-<name>
-<text> R096 Q1 : preguntas_html_R2018_0020 </text>
-</name>
-<questiontext format="html">
-<text><![CDATA[<p>
-<p><strong>R2018_0020</strong>. La siguiente variable: &quot;Cantidad de libros leídos en el último mes&quot; tiene nivel de medición:</p>
-</p>]]></text>
-</questiontext>
-<generalfeedback format="html">
-<text><![CDATA[<p>
-<ol type = "a">
-<li> FALSE </li>
-<li> FALSE </li>
-<li> TRUE </li>
-<li> FALSE </li>
-</ol>
-</p>]]></text>
-</generalfeedback>
-<penalty>0</penalty>
-<defaultgrade>1</defaultgrade>
-<shuffleanswers>false</shuffleanswers>
-<single>true</single>
-<answernumbering>abc</answernumbering>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
-Intervalar
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-FALSE
-</p>]]></text>
-</feedback>
-</answer>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
-Nominal
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-FALSE
-</p>]]></text>
-</feedback>
-</answer>
-<answer fraction="100" format="html">
-<text><![CDATA[<p>
-Proporcional
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-TRUE
-</p>]]></text>
-</feedback>
-</answer>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
-Ordinal
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-FALSE
-</p>]]></text>
-</feedback>
-</answer>
-</question>
-
-
-<question type="multichoice">
-<name>
-<text> R097 Q1 : preguntas_html_R2018_0020 </text>
-</name>
-<questiontext format="html">
-<text><![CDATA[<p>
-<p><strong>R2018_0020</strong>. La siguiente variable: &quot;Cantidad de libros leídos en el último mes&quot; tiene nivel de medición:</p>
-</p>]]></text>
-</questiontext>
-<generalfeedback format="html">
-<text><![CDATA[<p>
-<ol type = "a">
-<li> FALSE </li>
-<li> FALSE </li>
-<li> TRUE </li>
-<li> FALSE </li>
-</ol>
-</p>]]></text>
-</generalfeedback>
-<penalty>0</penalty>
-<defaultgrade>1</defaultgrade>
-<shuffleanswers>false</shuffleanswers>
-<single>true</single>
-<answernumbering>abc</answernumbering>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
-Intervalar
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-FALSE
-</p>]]></text>
-</feedback>
-</answer>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
-Ordinal
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-FALSE
-</p>]]></text>
-</feedback>
-</answer>
-<answer fraction="100" format="html">
-<text><![CDATA[<p>
-Proporcional
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-TRUE
-</p>]]></text>
-</feedback>
-</answer>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
-Nominal
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-FALSE
-</p>]]></text>
-</feedback>
-</answer>
-</question>
-
-
-<question type="multichoice">
-<name>
-<text> R098 Q1 : preguntas_html_R2018_0020 </text>
 </name>
 <questiontext format="html">
 <text><![CDATA[<p>
@@ -6577,11 +5773,11 @@ FALSE
 
 <question type="multichoice">
 <name>
-<text> R099 Q1 : preguntas_html_R2018_0020 </text>
+<text> R087 Q1 : preguntas_html_R2018_0020 </text>
 </name>
 <questiontext format="html">
 <text><![CDATA[<p>
-<p><strong>R2018_0020</strong>. La siguiente variable: &quot;Puntaje en el test de depresión de Beck&quot; tiene nivel de medición:</p>
+<p><strong>R2018_0020</strong>. La siguiente variable: &quot;Dosis de alcohol ingerida&quot; tiene nivel de medición:</p>
 </p>]]></text>
 </questiontext>
 <generalfeedback format="html">
@@ -6611,7 +5807,7 @@ FALSE
 </answer>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-Proporcional
+Intervalar
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -6621,7 +5817,7 @@ FALSE
 </answer>
 <answer fraction="100" format="html">
 <text><![CDATA[<p>
-Intervalar
+Proporcional
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -6644,18 +5840,18 @@ FALSE
 
 <question type="multichoice">
 <name>
-<text> R100 Q1 : preguntas_html_R2018_0020 </text>
+<text> R088 Q1 : preguntas_html_R2018_0020 </text>
 </name>
 <questiontext format="html">
 <text><![CDATA[<p>
-<p><strong>R2018_0020</strong>. La siguiente variable: &quot;Tiempo que dedica a usar redes sociales&quot; tiene nivel de medición:</p>
+<p><strong>R2018_0020</strong>. La siguiente variable: &quot;Cantidad de aplazos&quot; tiene nivel de medición:</p>
 </p>]]></text>
 </questiontext>
 <generalfeedback format="html">
 <text><![CDATA[<p>
 <ol type = "a">
-<li> TRUE </li>
 <li> FALSE </li>
+<li> TRUE </li>
 <li> FALSE </li>
 <li> FALSE </li>
 </ol>
@@ -6666,6 +5862,83 @@ FALSE
 <shuffleanswers>false</shuffleanswers>
 <single>true</single>
 <answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Ordinal
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+Proporcional
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+TRUE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Nominal
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Intervalar
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R089 Q1 : preguntas_html_R2018_0020 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p><strong>R2018_0020</strong>. La siguiente variable: &quot;Tiempo para resolver una tarea&quot; tiene nivel de medición:</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<ol type = "a">
+<li> FALSE </li>
+<li> TRUE </li>
+<li> FALSE </li>
+<li> FALSE </li>
+</ol>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Ordinal
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
 <answer fraction="100" format="html">
 <text><![CDATA[<p>
 Proporcional
@@ -6696,6 +5969,33 @@ FALSE
 </p>]]></text>
 </feedback>
 </answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R090 Q1 : preguntas_html_R2018_0020 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p><strong>R2018_0020</strong>. La siguiente variable: &quot;Tiempo para resolver una tarea&quot; tiene nivel de medición:</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<ol type = "a">
+<li> FALSE </li>
+<li> TRUE </li>
+<li> FALSE </li>
+<li> FALSE </li>
+</ol>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
 Ordinal
@@ -6703,6 +6003,706 @@ Ordinal
 <feedback format="html">
 <text><![CDATA[<p>
 FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+Proporcional
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+TRUE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Intervalar
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Nominal
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R091 Q1 : preguntas_html_R2018_0020 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p><strong>R2018_0020</strong>. La siguiente variable: &quot;Puntaje en el test de inteligencia WAIS-IV&quot; tiene nivel de medición:</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<ol type = "a">
+<li> TRUE </li>
+<li> FALSE </li>
+<li> FALSE </li>
+<li> FALSE </li>
+</ol>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+Intervalar
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+TRUE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Ordinal
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Proporcional
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Nominal
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R092 Q1 : preguntas_html_R2018_0020 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p><strong>R2018_0020</strong>. La siguiente variable: &quot;Máxima distancia alcanzada en un salto&quot; tiene nivel de medición:</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<ol type = "a">
+<li> FALSE </li>
+<li> FALSE </li>
+<li> TRUE </li>
+<li> FALSE </li>
+</ol>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Intervalar
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Ordinal
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+Proporcional
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+TRUE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Nominal
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R093 Q1 : preguntas_html_R2018_0020 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p><strong>R2018_0020</strong>. La siguiente variable: &quot;Cantidad de veces al año que va a misa&quot; tiene nivel de medición:</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<ol type = "a">
+<li> FALSE </li>
+<li> FALSE </li>
+<li> TRUE </li>
+<li> FALSE </li>
+</ol>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Nominal
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Ordinal
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+Proporcional
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+TRUE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Intervalar
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R094 Q1 : preguntas_html_R2018_0020 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p><strong>R2018_0020</strong>. La siguiente variable: &quot;Tamaño de la organización (1. Grande, 2. Mediana, 3. Pequeña)&quot; tiene nivel de medición:</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<ol type = "a">
+<li> FALSE </li>
+<li> FALSE </li>
+<li> FALSE </li>
+<li> TRUE </li>
+</ol>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Proporcional
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Nominal
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Intervalar
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+Ordinal
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+TRUE
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R095 Q1 : preguntas_html_R2018_0020 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p><strong>R2018_0020</strong>. La siguiente variable: &quot;Perímetro craneal&quot; tiene nivel de medición:</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<ol type = "a">
+<li> TRUE </li>
+<li> FALSE </li>
+<li> FALSE </li>
+<li> FALSE </li>
+</ol>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+Proporcional
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+TRUE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Ordinal
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Intervalar
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Nominal
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R096 Q1 : preguntas_html_R2018_0020 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p><strong>R2018_0020</strong>. La siguiente variable: &quot;Cantidad de aciertos en una prueba&quot; tiene nivel de medición:</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<ol type = "a">
+<li> FALSE </li>
+<li> FALSE </li>
+<li> FALSE </li>
+<li> TRUE </li>
+</ol>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Ordinal
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Intervalar
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Nominal
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+Proporcional
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+TRUE
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R097 Q1 : preguntas_html_R2018_0020 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p><strong>R2018_0020</strong>. La siguiente variable: &quot;Semanas de gestación&quot; tiene nivel de medición:</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<ol type = "a">
+<li> FALSE </li>
+<li> TRUE </li>
+<li> FALSE </li>
+<li> FALSE </li>
+</ol>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Ordinal
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+Proporcional
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+TRUE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Intervalar
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Nominal
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R098 Q1 : preguntas_html_R2018_0020 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p><strong>R2018_0020</strong>. La siguiente variable: &quot;Sexo&quot; tiene nivel de medición:</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<ol type = "a">
+<li> FALSE </li>
+<li> TRUE </li>
+<li> FALSE </li>
+<li> FALSE </li>
+</ol>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Proporcional
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+Nominal
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+TRUE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Intervalar
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Ordinal
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R099 Q1 : preguntas_html_R2018_0020 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p><strong>R2018_0020</strong>. La siguiente variable: &quot;Cantidad de goles en un partido&quot; tiene nivel de medición:</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<ol type = "a">
+<li> FALSE </li>
+<li> FALSE </li>
+<li> TRUE </li>
+<li> FALSE </li>
+</ol>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Ordinal
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Intervalar
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+Proporcional
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+TRUE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Nominal
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R100 Q1 : preguntas_html_R2018_0020 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p><strong>R2018_0020</strong>. La siguiente variable: &quot;Talla&quot; tiene nivel de medición:</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<ol type = "a">
+<li> FALSE </li>
+<li> FALSE </li>
+<li> FALSE </li>
+<li> TRUE </li>
+</ol>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Intervalar
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Nominal
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Ordinal
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+Proporcional
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+TRUE
 </p>]]></text>
 </feedback>
 </answer>

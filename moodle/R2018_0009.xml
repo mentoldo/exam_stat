@@ -15,7 +15,7 @@
 </name>
 <questiontext format="html">
 <text><![CDATA[<p>
-<p><strong>R2018_0009</strong>. Si el percentil 98 de los puntajes de una prueba es 2140, entonces:</p>
+<p><strong>R2018_0009</strong>. Si el percentil 15 de los puntajes de una prueba es 4598, entonces:</p>
 </p>]]></text>
 </questiontext>
 <generalfeedback format="html">
@@ -23,8 +23,8 @@
 <ol type = "a">
 <li> FALSE </li>
 <li> FALSE </li>
-<li> FALSE </li>
 <li> TRUE </li>
+<li> FALSE </li>
 </ol>
 </p>]]></text>
 </generalfeedback>
@@ -35,7 +35,7 @@
 <answernumbering>abc</answernumbering>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-El 98 % de los sujetos obtuvo puntajes por encima de 2140
+El 85 % de los sujetos obtuvo puntajes por debajo de 4598
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -45,17 +45,7 @@ FALSE
 </answer>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-El 2 % de los sujetos obtuvo puntajes por debajo de 2140
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-FALSE
-</p>]]></text>
-</feedback>
-</answer>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
-El 98 % de los sujetos obtuvo puntajes iguales a 2140
+El 15 % de los sujetos obtuvo puntajes por encima de 4598
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -65,11 +55,21 @@ FALSE
 </answer>
 <answer fraction="100" format="html">
 <text><![CDATA[<p>
-El 98 % de los sujetos obtuvo puntajes por debajo de 2140
+El 15 % de los sujetos obtuvo puntajes por debajo de 4598
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
 TRUE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+El 15 % de los sujetos obtuvo puntajes iguales a 4598
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
 </p>]]></text>
 </feedback>
 </answer>
@@ -82,16 +82,16 @@ TRUE
 </name>
 <questiontext format="html">
 <text><![CDATA[<p>
-<p><strong>R2018_0009</strong>. Si el percentil 71 de los puntajes de una prueba es 1158, entonces:</p>
+<p><strong>R2018_0009</strong>. Si el percentil 54 de los puntajes de una prueba es 209, entonces:</p>
 </p>]]></text>
 </questiontext>
 <generalfeedback format="html">
 <text><![CDATA[<p>
 <ol type = "a">
+<li> FALSE </li>
+<li> FALSE </li>
+<li> FALSE </li>
 <li> TRUE </li>
-<li> FALSE </li>
-<li> FALSE </li>
-<li> FALSE </li>
 </ol>
 </p>]]></text>
 </generalfeedback>
@@ -100,43 +100,43 @@ TRUE
 <shuffleanswers>false</shuffleanswers>
 <single>true</single>
 <answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+El 54 % de los sujetos obtuvo puntajes iguales a 209
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+El 46 % de los sujetos obtuvo puntajes por debajo de 209
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+El 54 % de los sujetos obtuvo puntajes por encima de 209
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
 <answer fraction="100" format="html">
 <text><![CDATA[<p>
-El 71 % de los sujetos obtuvo puntajes por debajo de 1158
+El 54 % de los sujetos obtuvo puntajes por debajo de 209
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
 TRUE
-</p>]]></text>
-</feedback>
-</answer>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
-El 71 % de los sujetos obtuvo puntajes por encima de 1158
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-FALSE
-</p>]]></text>
-</feedback>
-</answer>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
-El 29 % de los sujetos obtuvo puntajes por debajo de 1158
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-FALSE
-</p>]]></text>
-</feedback>
-</answer>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
-El 71 % de los sujetos obtuvo puntajes iguales a 1158
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-FALSE
 </p>]]></text>
 </feedback>
 </answer>
@@ -149,16 +149,16 @@ FALSE
 </name>
 <questiontext format="html">
 <text><![CDATA[<p>
-<p><strong>R2018_0009</strong>. Si el percentil 97 de los puntajes de una prueba es 3559, entonces:</p>
+<p><strong>R2018_0009</strong>. Si el percentil 43 de los puntajes de una prueba es 1117, entonces:</p>
 </p>]]></text>
 </questiontext>
 <generalfeedback format="html">
 <text><![CDATA[<p>
 <ol type = "a">
 <li> FALSE </li>
-<li> FALSE </li>
-<li> FALSE </li>
 <li> TRUE </li>
+<li> FALSE </li>
+<li> FALSE </li>
 </ol>
 </p>]]></text>
 </generalfeedback>
@@ -169,27 +169,7 @@ FALSE
 <answernumbering>abc</answernumbering>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-El 3 % de los sujetos obtuvo puntajes por debajo de 3559
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-FALSE
-</p>]]></text>
-</feedback>
-</answer>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
-El 97 % de los sujetos obtuvo puntajes iguales a 3559
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-FALSE
-</p>]]></text>
-</feedback>
-</answer>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
-El 97 % de los sujetos obtuvo puntajes por encima de 3559
+El 43 % de los sujetos obtuvo puntajes por encima de 1117
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -199,11 +179,31 @@ FALSE
 </answer>
 <answer fraction="100" format="html">
 <text><![CDATA[<p>
-El 97 % de los sujetos obtuvo puntajes por debajo de 3559
+El 43 % de los sujetos obtuvo puntajes por debajo de 1117
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
 TRUE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+El 57 % de los sujetos obtuvo puntajes por debajo de 1117
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+El 43 % de los sujetos obtuvo puntajes iguales a 1117
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
 </p>]]></text>
 </feedback>
 </answer>
@@ -216,15 +216,15 @@ TRUE
 </name>
 <questiontext format="html">
 <text><![CDATA[<p>
-<p><strong>R2018_0009</strong>. Si el percentil 1 de los puntajes de una prueba es 72, entonces:</p>
+<p><strong>R2018_0009</strong>. Si el percentil 34 de los puntajes de una prueba es 3276, entonces:</p>
 </p>]]></text>
 </questiontext>
 <generalfeedback format="html">
 <text><![CDATA[<p>
 <ol type = "a">
+<li> FALSE </li>
+<li> FALSE </li>
 <li> TRUE </li>
-<li> FALSE </li>
-<li> FALSE </li>
 <li> FALSE </li>
 </ol>
 </p>]]></text>
@@ -234,9 +234,29 @@ TRUE
 <shuffleanswers>false</shuffleanswers>
 <single>true</single>
 <answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+El 34 % de los sujetos obtuvo puntajes por encima de 3276
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+El 66 % de los sujetos obtuvo puntajes por debajo de 3276
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
 <answer fraction="100" format="html">
 <text><![CDATA[<p>
-El 1 % de los sujetos obtuvo puntajes por debajo de 72
+El 34 % de los sujetos obtuvo puntajes por debajo de 3276
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -246,27 +266,7 @@ TRUE
 </answer>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-El 1 % de los sujetos obtuvo puntajes por encima de 72
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-FALSE
-</p>]]></text>
-</feedback>
-</answer>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
-El 99 % de los sujetos obtuvo puntajes por debajo de 72
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-FALSE
-</p>]]></text>
-</feedback>
-</answer>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
-El 1 % de los sujetos obtuvo puntajes iguales a 72
+El 34 % de los sujetos obtuvo puntajes iguales a 3276
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -283,15 +283,15 @@ FALSE
 </name>
 <questiontext format="html">
 <text><![CDATA[<p>
-<p><strong>R2018_0009</strong>. Si el percentil 61 de los puntajes de una prueba es 4277, entonces:</p>
+<p><strong>R2018_0009</strong>. Si el percentil 56 de los puntajes de una prueba es 1772, entonces:</p>
 </p>]]></text>
 </questiontext>
 <generalfeedback format="html">
 <text><![CDATA[<p>
 <ol type = "a">
 <li> FALSE </li>
-<li> TRUE </li>
 <li> FALSE </li>
+<li> TRUE </li>
 <li> FALSE </li>
 </ol>
 </p>]]></text>
@@ -303,7 +303,17 @@ FALSE
 <answernumbering>abc</answernumbering>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-El 61 % de los sujetos obtuvo puntajes por encima de 4277
+El 56 % de los sujetos obtuvo puntajes iguales a 1772
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+El 56 % de los sujetos obtuvo puntajes por encima de 1772
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -313,7 +323,7 @@ FALSE
 </answer>
 <answer fraction="100" format="html">
 <text><![CDATA[<p>
-El 61 % de los sujetos obtuvo puntajes por debajo de 4277
+El 56 % de los sujetos obtuvo puntajes por debajo de 1772
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -323,17 +333,7 @@ TRUE
 </answer>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-El 39 % de los sujetos obtuvo puntajes por debajo de 4277
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-FALSE
-</p>]]></text>
-</feedback>
-</answer>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
-El 61 % de los sujetos obtuvo puntajes iguales a 4277
+El 44 % de los sujetos obtuvo puntajes por debajo de 1772
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -350,16 +350,16 @@ FALSE
 </name>
 <questiontext format="html">
 <text><![CDATA[<p>
-<p><strong>R2018_0009</strong>. Si el percentil 18 de los puntajes de una prueba es 4163, entonces:</p>
+<p><strong>R2018_0009</strong>. Si el percentil 25 de los puntajes de una prueba es 1030, entonces:</p>
 </p>]]></text>
 </questiontext>
 <generalfeedback format="html">
 <text><![CDATA[<p>
 <ol type = "a">
-<li> FALSE </li>
-<li> FALSE </li>
-<li> FALSE </li>
 <li> TRUE </li>
+<li> FALSE </li>
+<li> FALSE </li>
+<li> FALSE </li>
 </ol>
 </p>]]></text>
 </generalfeedback>
@@ -368,43 +368,43 @@ FALSE
 <shuffleanswers>false</shuffleanswers>
 <single>true</single>
 <answernumbering>abc</answernumbering>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
-El 18 % de los sujetos obtuvo puntajes iguales a 4163
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-FALSE
-</p>]]></text>
-</feedback>
-</answer>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
-El 82 % de los sujetos obtuvo puntajes por debajo de 4163
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-FALSE
-</p>]]></text>
-</feedback>
-</answer>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
-El 18 % de los sujetos obtuvo puntajes por encima de 4163
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-FALSE
-</p>]]></text>
-</feedback>
-</answer>
 <answer fraction="100" format="html">
 <text><![CDATA[<p>
-El 18 % de los sujetos obtuvo puntajes por debajo de 4163
+El 25 % de los sujetos obtuvo puntajes por debajo de 1030
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
 TRUE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+El 75 % de los sujetos obtuvo puntajes por debajo de 1030
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+El 25 % de los sujetos obtuvo puntajes iguales a 1030
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+El 25 % de los sujetos obtuvo puntajes por encima de 1030
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
 </p>]]></text>
 </feedback>
 </answer>
@@ -417,15 +417,15 @@ TRUE
 </name>
 <questiontext format="html">
 <text><![CDATA[<p>
-<p><strong>R2018_0009</strong>. Si el percentil 62 de los puntajes de una prueba es 2319, entonces:</p>
+<p><strong>R2018_0009</strong>. Si el percentil 87 de los puntajes de una prueba es 4309, entonces:</p>
 </p>]]></text>
 </questiontext>
 <generalfeedback format="html">
 <text><![CDATA[<p>
 <ol type = "a">
-<li> FALSE </li>
-<li> FALSE </li>
 <li> TRUE </li>
+<li> FALSE </li>
+<li> FALSE </li>
 <li> FALSE </li>
 </ol>
 </p>]]></text>
@@ -435,29 +435,9 @@ TRUE
 <shuffleanswers>false</shuffleanswers>
 <single>true</single>
 <answernumbering>abc</answernumbering>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
-El 62 % de los sujetos obtuvo puntajes por encima de 2319
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-FALSE
-</p>]]></text>
-</feedback>
-</answer>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
-El 62 % de los sujetos obtuvo puntajes iguales a 2319
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-FALSE
-</p>]]></text>
-</feedback>
-</answer>
 <answer fraction="100" format="html">
 <text><![CDATA[<p>
-El 62 % de los sujetos obtuvo puntajes por debajo de 2319
+El 87 % de los sujetos obtuvo puntajes por debajo de 4309
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -467,7 +447,27 @@ TRUE
 </answer>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-El 38 % de los sujetos obtuvo puntajes por debajo de 2319
+El 87 % de los sujetos obtuvo puntajes iguales a 4309
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+El 13 % de los sujetos obtuvo puntajes por debajo de 4309
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+El 87 % de los sujetos obtuvo puntajes por encima de 4309
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -484,16 +484,16 @@ FALSE
 </name>
 <questiontext format="html">
 <text><![CDATA[<p>
-<p><strong>R2018_0009</strong>. Si el percentil 60 de los puntajes de una prueba es 1685, entonces:</p>
+<p><strong>R2018_0009</strong>. Si el percentil 75 de los puntajes de una prueba es 4389, entonces:</p>
 </p>]]></text>
 </questiontext>
 <generalfeedback format="html">
 <text><![CDATA[<p>
 <ol type = "a">
-<li> FALSE </li>
-<li> FALSE </li>
-<li> FALSE </li>
 <li> TRUE </li>
+<li> FALSE </li>
+<li> FALSE </li>
+<li> FALSE </li>
 </ol>
 </p>]]></text>
 </generalfeedback>
@@ -502,43 +502,43 @@ FALSE
 <shuffleanswers>false</shuffleanswers>
 <single>true</single>
 <answernumbering>abc</answernumbering>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
-El 60 % de los sujetos obtuvo puntajes por encima de 1685
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-FALSE
-</p>]]></text>
-</feedback>
-</answer>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
-El 40 % de los sujetos obtuvo puntajes por debajo de 1685
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-FALSE
-</p>]]></text>
-</feedback>
-</answer>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
-El 60 % de los sujetos obtuvo puntajes iguales a 1685
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-FALSE
-</p>]]></text>
-</feedback>
-</answer>
 <answer fraction="100" format="html">
 <text><![CDATA[<p>
-El 60 % de los sujetos obtuvo puntajes por debajo de 1685
+El 75 % de los sujetos obtuvo puntajes por debajo de 4389
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
 TRUE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+El 25 % de los sujetos obtuvo puntajes por debajo de 4389
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+El 75 % de los sujetos obtuvo puntajes iguales a 4389
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+El 75 % de los sujetos obtuvo puntajes por encima de 4389
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
 </p>]]></text>
 </feedback>
 </answer>
@@ -551,7 +551,7 @@ TRUE
 </name>
 <questiontext format="html">
 <text><![CDATA[<p>
-<p><strong>R2018_0009</strong>. Si el percentil 18 de los puntajes de una prueba es 988, entonces:</p>
+<p><strong>R2018_0009</strong>. Si el percentil 81 de los puntajes de una prueba es 2887, entonces:</p>
 </p>]]></text>
 </questiontext>
 <generalfeedback format="html">
@@ -559,8 +559,8 @@ TRUE
 <ol type = "a">
 <li> FALSE </li>
 <li> FALSE </li>
-<li> TRUE </li>
 <li> FALSE </li>
+<li> TRUE </li>
 </ol>
 </p>]]></text>
 </generalfeedback>
@@ -571,7 +571,7 @@ TRUE
 <answernumbering>abc</answernumbering>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-El 82 % de los sujetos obtuvo puntajes por debajo de 988
+El 81 % de los sujetos obtuvo puntajes iguales a 2887
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -581,7 +581,17 @@ FALSE
 </answer>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-El 18 % de los sujetos obtuvo puntajes por encima de 988
+El 81 % de los sujetos obtuvo puntajes por encima de 2887
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+El 19 % de los sujetos obtuvo puntajes por debajo de 2887
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -591,21 +601,11 @@ FALSE
 </answer>
 <answer fraction="100" format="html">
 <text><![CDATA[<p>
-El 18 % de los sujetos obtuvo puntajes por debajo de 988
+El 81 % de los sujetos obtuvo puntajes por debajo de 2887
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
 TRUE
-</p>]]></text>
-</feedback>
-</answer>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
-El 18 % de los sujetos obtuvo puntajes iguales a 988
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-FALSE
 </p>]]></text>
 </feedback>
 </answer>
@@ -618,7 +618,7 @@ FALSE
 </name>
 <questiontext format="html">
 <text><![CDATA[<p>
-<p><strong>R2018_0009</strong>. Si el percentil 53 de los puntajes de una prueba es 1586, entonces:</p>
+<p><strong>R2018_0009</strong>. Si el percentil 61 de los puntajes de una prueba es 2557, entonces:</p>
 </p>]]></text>
 </questiontext>
 <generalfeedback format="html">
@@ -638,7 +638,7 @@ FALSE
 <answernumbering>abc</answernumbering>
 <answer fraction="100" format="html">
 <text><![CDATA[<p>
-El 53 % de los sujetos obtuvo puntajes por debajo de 1586
+El 61 % de los sujetos obtuvo puntajes por debajo de 2557
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -648,7 +648,7 @@ TRUE
 </answer>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-El 53 % de los sujetos obtuvo puntajes iguales a 1586
+El 61 % de los sujetos obtuvo puntajes iguales a 2557
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -658,7 +658,7 @@ FALSE
 </answer>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-El 47 % de los sujetos obtuvo puntajes por debajo de 1586
+El 61 % de los sujetos obtuvo puntajes por encima de 2557
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -668,7 +668,7 @@ FALSE
 </answer>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-El 53 % de los sujetos obtuvo puntajes por encima de 1586
+El 39 % de los sujetos obtuvo puntajes por debajo de 2557
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -685,16 +685,16 @@ FALSE
 </name>
 <questiontext format="html">
 <text><![CDATA[<p>
-<p><strong>R2018_0009</strong>. Si el percentil 95 de los puntajes de una prueba es 3716, entonces:</p>
+<p><strong>R2018_0009</strong>. Si el percentil 74 de los puntajes de una prueba es 1935, entonces:</p>
 </p>]]></text>
 </questiontext>
 <generalfeedback format="html">
 <text><![CDATA[<p>
 <ol type = "a">
 <li> FALSE </li>
+<li> FALSE </li>
+<li> FALSE </li>
 <li> TRUE </li>
-<li> FALSE </li>
-<li> FALSE </li>
 </ol>
 </p>]]></text>
 </generalfeedback>
@@ -705,7 +705,27 @@ FALSE
 <answernumbering>abc</answernumbering>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-El 95 % de los sujetos obtuvo puntajes por encima de 3716
+El 74 % de los sujetos obtuvo puntajes iguales a 1935
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+El 26 % de los sujetos obtuvo puntajes por debajo de 1935
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+El 74 % de los sujetos obtuvo puntajes por encima de 1935
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -715,31 +735,11 @@ FALSE
 </answer>
 <answer fraction="100" format="html">
 <text><![CDATA[<p>
-El 95 % de los sujetos obtuvo puntajes por debajo de 3716
+El 74 % de los sujetos obtuvo puntajes por debajo de 1935
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
 TRUE
-</p>]]></text>
-</feedback>
-</answer>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
-El 95 % de los sujetos obtuvo puntajes iguales a 3716
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-FALSE
-</p>]]></text>
-</feedback>
-</answer>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
-El 5 % de los sujetos obtuvo puntajes por debajo de 3716
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-FALSE
 </p>]]></text>
 </feedback>
 </answer>
@@ -752,16 +752,16 @@ FALSE
 </name>
 <questiontext format="html">
 <text><![CDATA[<p>
-<p><strong>R2018_0009</strong>. Si el percentil 34 de los puntajes de una prueba es 848, entonces:</p>
+<p><strong>R2018_0009</strong>. Si el percentil 22 de los puntajes de una prueba es 2695, entonces:</p>
 </p>]]></text>
 </questiontext>
 <generalfeedback format="html">
 <text><![CDATA[<p>
 <ol type = "a">
+<li> FALSE </li>
+<li> FALSE </li>
+<li> FALSE </li>
 <li> TRUE </li>
-<li> FALSE </li>
-<li> FALSE </li>
-<li> FALSE </li>
 </ol>
 </p>]]></text>
 </generalfeedback>
@@ -770,43 +770,43 @@ FALSE
 <shuffleanswers>false</shuffleanswers>
 <single>true</single>
 <answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+El 22 % de los sujetos obtuvo puntajes iguales a 2695
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+El 22 % de los sujetos obtuvo puntajes por encima de 2695
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+El 78 % de los sujetos obtuvo puntajes por debajo de 2695
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
 <answer fraction="100" format="html">
 <text><![CDATA[<p>
-El 34 % de los sujetos obtuvo puntajes por debajo de 848
+El 22 % de los sujetos obtuvo puntajes por debajo de 2695
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
 TRUE
-</p>]]></text>
-</feedback>
-</answer>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
-El 34 % de los sujetos obtuvo puntajes por encima de 848
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-FALSE
-</p>]]></text>
-</feedback>
-</answer>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
-El 66 % de los sujetos obtuvo puntajes por debajo de 848
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-FALSE
-</p>]]></text>
-</feedback>
-</answer>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
-El 34 % de los sujetos obtuvo puntajes iguales a 848
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-FALSE
 </p>]]></text>
 </feedback>
 </answer>
@@ -819,15 +819,15 @@ FALSE
 </name>
 <questiontext format="html">
 <text><![CDATA[<p>
-<p><strong>R2018_0009</strong>. Si el percentil 77 de los puntajes de una prueba es 3117, entonces:</p>
+<p><strong>R2018_0009</strong>. Si el percentil 25 de los puntajes de una prueba es 1026, entonces:</p>
 </p>]]></text>
 </questiontext>
 <generalfeedback format="html">
 <text><![CDATA[<p>
 <ol type = "a">
 <li> FALSE </li>
-<li> TRUE </li>
 <li> FALSE </li>
+<li> TRUE </li>
 <li> FALSE </li>
 </ol>
 </p>]]></text>
@@ -839,7 +839,17 @@ FALSE
 <answernumbering>abc</answernumbering>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-El 77 % de los sujetos obtuvo puntajes iguales a 3117
+El 25 % de los sujetos obtuvo puntajes iguales a 1026
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+El 75 % de los sujetos obtuvo puntajes por debajo de 1026
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -849,7 +859,7 @@ FALSE
 </answer>
 <answer fraction="100" format="html">
 <text><![CDATA[<p>
-El 77 % de los sujetos obtuvo puntajes por debajo de 3117
+El 25 % de los sujetos obtuvo puntajes por debajo de 1026
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -859,17 +869,7 @@ TRUE
 </answer>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-El 23 % de los sujetos obtuvo puntajes por debajo de 3117
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-FALSE
-</p>]]></text>
-</feedback>
-</answer>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
-El 77 % de los sujetos obtuvo puntajes por encima de 3117
+El 25 % de los sujetos obtuvo puntajes por encima de 1026
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -886,16 +886,16 @@ FALSE
 </name>
 <questiontext format="html">
 <text><![CDATA[<p>
-<p><strong>R2018_0009</strong>. Si el percentil 99 de los puntajes de una prueba es 1761, entonces:</p>
+<p><strong>R2018_0009</strong>. Si el percentil 69 de los puntajes de una prueba es 3287, entonces:</p>
 </p>]]></text>
 </questiontext>
 <generalfeedback format="html">
 <text><![CDATA[<p>
 <ol type = "a">
+<li> FALSE </li>
+<li> FALSE </li>
+<li> FALSE </li>
 <li> TRUE </li>
-<li> FALSE </li>
-<li> FALSE </li>
-<li> FALSE </li>
 </ol>
 </p>]]></text>
 </generalfeedback>
@@ -904,43 +904,43 @@ FALSE
 <shuffleanswers>false</shuffleanswers>
 <single>true</single>
 <answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+El 69 % de los sujetos obtuvo puntajes iguales a 3287
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+El 31 % de los sujetos obtuvo puntajes por debajo de 3287
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+El 69 % de los sujetos obtuvo puntajes por encima de 3287
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
 <answer fraction="100" format="html">
 <text><![CDATA[<p>
-El 99 % de los sujetos obtuvo puntajes por debajo de 1761
+El 69 % de los sujetos obtuvo puntajes por debajo de 3287
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
 TRUE
-</p>]]></text>
-</feedback>
-</answer>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
-El 1 % de los sujetos obtuvo puntajes por debajo de 1761
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-FALSE
-</p>]]></text>
-</feedback>
-</answer>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
-El 99 % de los sujetos obtuvo puntajes por encima de 1761
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-FALSE
-</p>]]></text>
-</feedback>
-</answer>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
-El 99 % de los sujetos obtuvo puntajes iguales a 1761
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-FALSE
 </p>]]></text>
 </feedback>
 </answer>
@@ -953,15 +953,15 @@ FALSE
 </name>
 <questiontext format="html">
 <text><![CDATA[<p>
-<p><strong>R2018_0009</strong>. Si el percentil 97 de los puntajes de una prueba es 3937, entonces:</p>
+<p><strong>R2018_0009</strong>. Si el percentil 77 de los puntajes de una prueba es 3384, entonces:</p>
 </p>]]></text>
 </questiontext>
 <generalfeedback format="html">
 <text><![CDATA[<p>
 <ol type = "a">
-<li> FALSE </li>
-<li> FALSE </li>
 <li> TRUE </li>
+<li> FALSE </li>
+<li> FALSE </li>
 <li> FALSE </li>
 </ol>
 </p>]]></text>
@@ -971,29 +971,9 @@ FALSE
 <shuffleanswers>false</shuffleanswers>
 <single>true</single>
 <answernumbering>abc</answernumbering>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
-El 97 % de los sujetos obtuvo puntajes por encima de 3937
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-FALSE
-</p>]]></text>
-</feedback>
-</answer>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
-El 3 % de los sujetos obtuvo puntajes por debajo de 3937
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-FALSE
-</p>]]></text>
-</feedback>
-</answer>
 <answer fraction="100" format="html">
 <text><![CDATA[<p>
-El 97 % de los sujetos obtuvo puntajes por debajo de 3937
+El 77 % de los sujetos obtuvo puntajes por debajo de 3384
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -1003,7 +983,27 @@ TRUE
 </answer>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-El 97 % de los sujetos obtuvo puntajes iguales a 3937
+El 77 % de los sujetos obtuvo puntajes iguales a 3384
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+El 23 % de los sujetos obtuvo puntajes por debajo de 3384
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+El 77 % de los sujetos obtuvo puntajes por encima de 3384
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -1020,15 +1020,15 @@ FALSE
 </name>
 <questiontext format="html">
 <text><![CDATA[<p>
-<p><strong>R2018_0009</strong>. Si el percentil 22 de los puntajes de una prueba es 1701, entonces:</p>
+<p><strong>R2018_0009</strong>. Si el percentil 90 de los puntajes de una prueba es 3957, entonces:</p>
 </p>]]></text>
 </questiontext>
 <generalfeedback format="html">
 <text><![CDATA[<p>
 <ol type = "a">
+<li> FALSE </li>
+<li> FALSE </li>
 <li> TRUE </li>
-<li> FALSE </li>
-<li> FALSE </li>
 <li> FALSE </li>
 </ol>
 </p>]]></text>
@@ -1038,9 +1038,29 @@ FALSE
 <shuffleanswers>false</shuffleanswers>
 <single>true</single>
 <answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+El 90 % de los sujetos obtuvo puntajes iguales a 3957
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+El 90 % de los sujetos obtuvo puntajes por encima de 3957
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
 <answer fraction="100" format="html">
 <text><![CDATA[<p>
-El 22 % de los sujetos obtuvo puntajes por debajo de 1701
+El 90 % de los sujetos obtuvo puntajes por debajo de 3957
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -1050,27 +1070,7 @@ TRUE
 </answer>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-El 22 % de los sujetos obtuvo puntajes iguales a 1701
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-FALSE
-</p>]]></text>
-</feedback>
-</answer>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
-El 78 % de los sujetos obtuvo puntajes por debajo de 1701
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-FALSE
-</p>]]></text>
-</feedback>
-</answer>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
-El 22 % de los sujetos obtuvo puntajes por encima de 1701
+El 10 % de los sujetos obtuvo puntajes por debajo de 3957
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -1087,15 +1087,15 @@ FALSE
 </name>
 <questiontext format="html">
 <text><![CDATA[<p>
-<p><strong>R2018_0009</strong>. Si el percentil 26 de los puntajes de una prueba es 2298, entonces:</p>
+<p><strong>R2018_0009</strong>. Si el percentil 42 de los puntajes de una prueba es 1605, entonces:</p>
 </p>]]></text>
 </questiontext>
 <generalfeedback format="html">
 <text><![CDATA[<p>
 <ol type = "a">
+<li> FALSE </li>
+<li> FALSE </li>
 <li> TRUE </li>
-<li> FALSE </li>
-<li> FALSE </li>
 <li> FALSE </li>
 </ol>
 </p>]]></text>
@@ -1105,9 +1105,29 @@ FALSE
 <shuffleanswers>false</shuffleanswers>
 <single>true</single>
 <answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+El 42 % de los sujetos obtuvo puntajes iguales a 1605
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+El 58 % de los sujetos obtuvo puntajes por debajo de 1605
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
 <answer fraction="100" format="html">
 <text><![CDATA[<p>
-El 26 % de los sujetos obtuvo puntajes por debajo de 2298
+El 42 % de los sujetos obtuvo puntajes por debajo de 1605
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -1117,27 +1137,7 @@ TRUE
 </answer>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-El 26 % de los sujetos obtuvo puntajes iguales a 2298
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-FALSE
-</p>]]></text>
-</feedback>
-</answer>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
-El 74 % de los sujetos obtuvo puntajes por debajo de 2298
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-FALSE
-</p>]]></text>
-</feedback>
-</answer>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
-El 26 % de los sujetos obtuvo puntajes por encima de 2298
+El 42 % de los sujetos obtuvo puntajes por encima de 1605
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -1154,16 +1154,16 @@ FALSE
 </name>
 <questiontext format="html">
 <text><![CDATA[<p>
-<p><strong>R2018_0009</strong>. Si el percentil 56 de los puntajes de una prueba es 1326, entonces:</p>
+<p><strong>R2018_0009</strong>. Si el percentil 71 de los puntajes de una prueba es 2184, entonces:</p>
 </p>]]></text>
 </questiontext>
 <generalfeedback format="html">
 <text><![CDATA[<p>
 <ol type = "a">
+<li> FALSE </li>
+<li> FALSE </li>
+<li> FALSE </li>
 <li> TRUE </li>
-<li> FALSE </li>
-<li> FALSE </li>
-<li> FALSE </li>
 </ol>
 </p>]]></text>
 </generalfeedback>
@@ -1172,43 +1172,43 @@ FALSE
 <shuffleanswers>false</shuffleanswers>
 <single>true</single>
 <answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+El 71 % de los sujetos obtuvo puntajes por encima de 2184
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+El 29 % de los sujetos obtuvo puntajes por debajo de 2184
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+El 71 % de los sujetos obtuvo puntajes iguales a 2184
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
 <answer fraction="100" format="html">
 <text><![CDATA[<p>
-El 56 % de los sujetos obtuvo puntajes por debajo de 1326
+El 71 % de los sujetos obtuvo puntajes por debajo de 2184
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
 TRUE
-</p>]]></text>
-</feedback>
-</answer>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
-El 56 % de los sujetos obtuvo puntajes iguales a 1326
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-FALSE
-</p>]]></text>
-</feedback>
-</answer>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
-El 44 % de los sujetos obtuvo puntajes por debajo de 1326
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-FALSE
-</p>]]></text>
-</feedback>
-</answer>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
-El 56 % de los sujetos obtuvo puntajes por encima de 1326
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-FALSE
 </p>]]></text>
 </feedback>
 </answer>
@@ -1221,16 +1221,16 @@ FALSE
 </name>
 <questiontext format="html">
 <text><![CDATA[<p>
-<p><strong>R2018_0009</strong>. Si el percentil 42 de los puntajes de una prueba es 347, entonces:</p>
+<p><strong>R2018_0009</strong>. Si el percentil 91 de los puntajes de una prueba es 1483, entonces:</p>
 </p>]]></text>
 </questiontext>
 <generalfeedback format="html">
 <text><![CDATA[<p>
 <ol type = "a">
 <li> FALSE </li>
+<li> FALSE </li>
+<li> FALSE </li>
 <li> TRUE </li>
-<li> FALSE </li>
-<li> FALSE </li>
 </ol>
 </p>]]></text>
 </generalfeedback>
@@ -1241,7 +1241,27 @@ FALSE
 <answernumbering>abc</answernumbering>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-El 42 % de los sujetos obtuvo puntajes por encima de 347
+El 91 % de los sujetos obtuvo puntajes iguales a 1483
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+El 91 % de los sujetos obtuvo puntajes por encima de 1483
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+El 9 % de los sujetos obtuvo puntajes por debajo de 1483
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -1251,31 +1271,11 @@ FALSE
 </answer>
 <answer fraction="100" format="html">
 <text><![CDATA[<p>
-El 42 % de los sujetos obtuvo puntajes por debajo de 347
+El 91 % de los sujetos obtuvo puntajes por debajo de 1483
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
 TRUE
-</p>]]></text>
-</feedback>
-</answer>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
-El 58 % de los sujetos obtuvo puntajes por debajo de 347
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-FALSE
-</p>]]></text>
-</feedback>
-</answer>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
-El 42 % de los sujetos obtuvo puntajes iguales a 347
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-FALSE
 </p>]]></text>
 </feedback>
 </answer>
@@ -1288,15 +1288,15 @@ FALSE
 </name>
 <questiontext format="html">
 <text><![CDATA[<p>
-<p><strong>R2018_0009</strong>. Si el percentil 55 de los puntajes de una prueba es 689, entonces:</p>
+<p><strong>R2018_0009</strong>. Si el percentil 87 de los puntajes de una prueba es 899, entonces:</p>
 </p>]]></text>
 </questiontext>
 <generalfeedback format="html">
 <text><![CDATA[<p>
 <ol type = "a">
-<li> FALSE </li>
-<li> FALSE </li>
 <li> TRUE </li>
+<li> FALSE </li>
+<li> FALSE </li>
 <li> FALSE </li>
 </ol>
 </p>]]></text>
@@ -1306,29 +1306,9 @@ FALSE
 <shuffleanswers>false</shuffleanswers>
 <single>true</single>
 <answernumbering>abc</answernumbering>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
-El 55 % de los sujetos obtuvo puntajes por encima de 689
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-FALSE
-</p>]]></text>
-</feedback>
-</answer>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
-El 55 % de los sujetos obtuvo puntajes iguales a 689
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-FALSE
-</p>]]></text>
-</feedback>
-</answer>
 <answer fraction="100" format="html">
 <text><![CDATA[<p>
-El 55 % de los sujetos obtuvo puntajes por debajo de 689
+El 87 % de los sujetos obtuvo puntajes por debajo de 899
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -1338,7 +1318,27 @@ TRUE
 </answer>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-El 45 % de los sujetos obtuvo puntajes por debajo de 689
+El 87 % de los sujetos obtuvo puntajes iguales a 899
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+El 87 % de los sujetos obtuvo puntajes por encima de 899
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+El 13 % de los sujetos obtuvo puntajes por debajo de 899
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -1355,15 +1355,15 @@ FALSE
 </name>
 <questiontext format="html">
 <text><![CDATA[<p>
-<p><strong>R2018_0009</strong>. Si el percentil 22 de los puntajes de una prueba es 3100, entonces:</p>
+<p><strong>R2018_0009</strong>. Si el percentil 44 de los puntajes de una prueba es 1820, entonces:</p>
 </p>]]></text>
 </questiontext>
 <generalfeedback format="html">
 <text><![CDATA[<p>
 <ol type = "a">
 <li> FALSE </li>
-<li> FALSE </li>
 <li> TRUE </li>
+<li> FALSE </li>
 <li> FALSE </li>
 </ol>
 </p>]]></text>
@@ -1375,17 +1375,7 @@ FALSE
 <answernumbering>abc</answernumbering>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-El 22 % de los sujetos obtuvo puntajes iguales a 3100
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-FALSE
-</p>]]></text>
-</feedback>
-</answer>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
-El 78 % de los sujetos obtuvo puntajes por debajo de 3100
+El 44 % de los sujetos obtuvo puntajes por encima de 1820
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -1395,7 +1385,7 @@ FALSE
 </answer>
 <answer fraction="100" format="html">
 <text><![CDATA[<p>
-El 22 % de los sujetos obtuvo puntajes por debajo de 3100
+El 44 % de los sujetos obtuvo puntajes por debajo de 1820
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -1405,7 +1395,17 @@ TRUE
 </answer>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-El 22 % de los sujetos obtuvo puntajes por encima de 3100
+El 56 % de los sujetos obtuvo puntajes por debajo de 1820
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+El 44 % de los sujetos obtuvo puntajes iguales a 1820
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -1422,16 +1422,16 @@ FALSE
 </name>
 <questiontext format="html">
 <text><![CDATA[<p>
-<p><strong>R2018_0009</strong>. Si el percentil 5 de los puntajes de una prueba es 4042, entonces:</p>
+<p><strong>R2018_0009</strong>. Si el percentil 22 de los puntajes de una prueba es 4186, entonces:</p>
 </p>]]></text>
 </questiontext>
 <generalfeedback format="html">
 <text><![CDATA[<p>
 <ol type = "a">
 <li> FALSE </li>
-<li> FALSE </li>
-<li> FALSE </li>
 <li> TRUE </li>
+<li> FALSE </li>
+<li> FALSE </li>
 </ol>
 </p>]]></text>
 </generalfeedback>
@@ -1442,27 +1442,7 @@ FALSE
 <answernumbering>abc</answernumbering>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-El 5 % de los sujetos obtuvo puntajes por encima de 4042
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-FALSE
-</p>]]></text>
-</feedback>
-</answer>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
-El 95 % de los sujetos obtuvo puntajes por debajo de 4042
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-FALSE
-</p>]]></text>
-</feedback>
-</answer>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
-El 5 % de los sujetos obtuvo puntajes iguales a 4042
+El 78 % de los sujetos obtuvo puntajes por debajo de 4186
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -1472,11 +1452,31 @@ FALSE
 </answer>
 <answer fraction="100" format="html">
 <text><![CDATA[<p>
-El 5 % de los sujetos obtuvo puntajes por debajo de 4042
+El 22 % de los sujetos obtuvo puntajes por debajo de 4186
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
 TRUE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+El 22 % de los sujetos obtuvo puntajes iguales a 4186
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+El 22 % de los sujetos obtuvo puntajes por encima de 4186
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
 </p>]]></text>
 </feedback>
 </answer>
@@ -1489,16 +1489,16 @@ TRUE
 </name>
 <questiontext format="html">
 <text><![CDATA[<p>
-<p><strong>R2018_0009</strong>. Si el percentil 93 de los puntajes de una prueba es 2280, entonces:</p>
+<p><strong>R2018_0009</strong>. Si el percentil 88 de los puntajes de una prueba es 309, entonces:</p>
 </p>]]></text>
 </questiontext>
 <generalfeedback format="html">
 <text><![CDATA[<p>
 <ol type = "a">
 <li> FALSE </li>
+<li> FALSE </li>
+<li> FALSE </li>
 <li> TRUE </li>
-<li> FALSE </li>
-<li> FALSE </li>
 </ol>
 </p>]]></text>
 </generalfeedback>
@@ -1509,7 +1509,27 @@ TRUE
 <answernumbering>abc</answernumbering>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-El 7 % de los sujetos obtuvo puntajes por debajo de 2280
+El 88 % de los sujetos obtuvo puntajes iguales a 309
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+El 88 % de los sujetos obtuvo puntajes por encima de 309
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+El 12 % de los sujetos obtuvo puntajes por debajo de 309
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -1519,31 +1539,11 @@ FALSE
 </answer>
 <answer fraction="100" format="html">
 <text><![CDATA[<p>
-El 93 % de los sujetos obtuvo puntajes por debajo de 2280
+El 88 % de los sujetos obtuvo puntajes por debajo de 309
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
 TRUE
-</p>]]></text>
-</feedback>
-</answer>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
-El 93 % de los sujetos obtuvo puntajes iguales a 2280
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-FALSE
-</p>]]></text>
-</feedback>
-</answer>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
-El 93 % de los sujetos obtuvo puntajes por encima de 2280
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-FALSE
 </p>]]></text>
 </feedback>
 </answer>
@@ -1556,7 +1556,7 @@ FALSE
 </name>
 <questiontext format="html">
 <text><![CDATA[<p>
-<p><strong>R2018_0009</strong>. Si el percentil 91 de los puntajes de una prueba es 1696, entonces:</p>
+<p><strong>R2018_0009</strong>. Si el percentil 1 de los puntajes de una prueba es 3212, entonces:</p>
 </p>]]></text>
 </questiontext>
 <generalfeedback format="html">
@@ -1564,8 +1564,8 @@ FALSE
 <ol type = "a">
 <li> FALSE </li>
 <li> FALSE </li>
-<li> TRUE </li>
 <li> FALSE </li>
+<li> TRUE </li>
 </ol>
 </p>]]></text>
 </generalfeedback>
@@ -1576,7 +1576,7 @@ FALSE
 <answernumbering>abc</answernumbering>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-El 91 % de los sujetos obtuvo puntajes por encima de 1696
+El 1 % de los sujetos obtuvo puntajes iguales a 3212
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -1586,7 +1586,17 @@ FALSE
 </answer>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-El 91 % de los sujetos obtuvo puntajes iguales a 1696
+El 99 % de los sujetos obtuvo puntajes por debajo de 3212
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+El 1 % de los sujetos obtuvo puntajes por encima de 3212
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -1596,21 +1606,11 @@ FALSE
 </answer>
 <answer fraction="100" format="html">
 <text><![CDATA[<p>
-El 91 % de los sujetos obtuvo puntajes por debajo de 1696
+El 1 % de los sujetos obtuvo puntajes por debajo de 3212
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
 TRUE
-</p>]]></text>
-</feedback>
-</answer>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
-El 9 % de los sujetos obtuvo puntajes por debajo de 1696
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-FALSE
 </p>]]></text>
 </feedback>
 </answer>
@@ -1623,15 +1623,15 @@ FALSE
 </name>
 <questiontext format="html">
 <text><![CDATA[<p>
-<p><strong>R2018_0009</strong>. Si el percentil 9 de los puntajes de una prueba es 937, entonces:</p>
+<p><strong>R2018_0009</strong>. Si el percentil 76 de los puntajes de una prueba es 3942, entonces:</p>
 </p>]]></text>
 </questiontext>
 <generalfeedback format="html">
 <text><![CDATA[<p>
 <ol type = "a">
-<li> FALSE </li>
-<li> FALSE </li>
 <li> TRUE </li>
+<li> FALSE </li>
+<li> FALSE </li>
 <li> FALSE </li>
 </ol>
 </p>]]></text>
@@ -1641,29 +1641,9 @@ FALSE
 <shuffleanswers>false</shuffleanswers>
 <single>true</single>
 <answernumbering>abc</answernumbering>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
-El 9 % de los sujetos obtuvo puntajes iguales a 937
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-FALSE
-</p>]]></text>
-</feedback>
-</answer>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
-El 9 % de los sujetos obtuvo puntajes por encima de 937
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-FALSE
-</p>]]></text>
-</feedback>
-</answer>
 <answer fraction="100" format="html">
 <text><![CDATA[<p>
-El 9 % de los sujetos obtuvo puntajes por debajo de 937
+El 76 % de los sujetos obtuvo puntajes por debajo de 3942
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -1673,7 +1653,27 @@ TRUE
 </answer>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-El 91 % de los sujetos obtuvo puntajes por debajo de 937
+El 76 % de los sujetos obtuvo puntajes iguales a 3942
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+El 76 % de los sujetos obtuvo puntajes por encima de 3942
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+El 24 % de los sujetos obtuvo puntajes por debajo de 3942
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -1690,7 +1690,7 @@ FALSE
 </name>
 <questiontext format="html">
 <text><![CDATA[<p>
-<p><strong>R2018_0009</strong>. Si el percentil 33 de los puntajes de una prueba es 2547, entonces:</p>
+<p><strong>R2018_0009</strong>. Si el percentil 64 de los puntajes de una prueba es 3580, entonces:</p>
 </p>]]></text>
 </questiontext>
 <generalfeedback format="html">
@@ -1710,7 +1710,7 @@ FALSE
 <answernumbering>abc</answernumbering>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-El 33 % de los sujetos obtuvo puntajes por encima de 2547
+El 64 % de los sujetos obtuvo puntajes por encima de 3580
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -1720,7 +1720,7 @@ FALSE
 </answer>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-El 67 % de los sujetos obtuvo puntajes por debajo de 2547
+El 36 % de los sujetos obtuvo puntajes por debajo de 3580
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -1730,7 +1730,7 @@ FALSE
 </answer>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-El 33 % de los sujetos obtuvo puntajes iguales a 2547
+El 64 % de los sujetos obtuvo puntajes iguales a 3580
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -1740,7 +1740,7 @@ FALSE
 </answer>
 <answer fraction="100" format="html">
 <text><![CDATA[<p>
-El 33 % de los sujetos obtuvo puntajes por debajo de 2547
+El 64 % de los sujetos obtuvo puntajes por debajo de 3580
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -1757,7 +1757,7 @@ TRUE
 </name>
 <questiontext format="html">
 <text><![CDATA[<p>
-<p><strong>R2018_0009</strong>. Si el percentil 78 de los puntajes de una prueba es 371, entonces:</p>
+<p><strong>R2018_0009</strong>. Si el percentil 2 de los puntajes de una prueba es 2827, entonces:</p>
 </p>]]></text>
 </questiontext>
 <generalfeedback format="html">
@@ -1777,7 +1777,7 @@ TRUE
 <answernumbering>abc</answernumbering>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-El 78 % de los sujetos obtuvo puntajes por encima de 371
+El 2 % de los sujetos obtuvo puntajes por encima de 2827
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -1787,7 +1787,7 @@ FALSE
 </answer>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-El 78 % de los sujetos obtuvo puntajes iguales a 371
+El 2 % de los sujetos obtuvo puntajes iguales a 2827
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -1797,7 +1797,7 @@ FALSE
 </answer>
 <answer fraction="100" format="html">
 <text><![CDATA[<p>
-El 78 % de los sujetos obtuvo puntajes por debajo de 371
+El 2 % de los sujetos obtuvo puntajes por debajo de 2827
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -1807,7 +1807,7 @@ TRUE
 </answer>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-El 22 % de los sujetos obtuvo puntajes por debajo de 371
+El 98 % de los sujetos obtuvo puntajes por debajo de 2827
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -1824,7 +1824,7 @@ FALSE
 </name>
 <questiontext format="html">
 <text><![CDATA[<p>
-<p><strong>R2018_0009</strong>. Si el percentil 47 de los puntajes de una prueba es 1699, entonces:</p>
+<p><strong>R2018_0009</strong>. Si el percentil 38 de los puntajes de una prueba es 167, entonces:</p>
 </p>]]></text>
 </questiontext>
 <generalfeedback format="html">
@@ -1844,7 +1844,7 @@ FALSE
 <answernumbering>abc</answernumbering>
 <answer fraction="100" format="html">
 <text><![CDATA[<p>
-El 47 % de los sujetos obtuvo puntajes por debajo de 1699
+El 38 % de los sujetos obtuvo puntajes por debajo de 167
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -1854,7 +1854,7 @@ TRUE
 </answer>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-El 47 % de los sujetos obtuvo puntajes por encima de 1699
+El 62 % de los sujetos obtuvo puntajes por debajo de 167
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -1864,7 +1864,7 @@ FALSE
 </answer>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-El 47 % de los sujetos obtuvo puntajes iguales a 1699
+El 38 % de los sujetos obtuvo puntajes por encima de 167
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -1874,7 +1874,7 @@ FALSE
 </answer>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-El 53 % de los sujetos obtuvo puntajes por debajo de 1699
+El 38 % de los sujetos obtuvo puntajes iguales a 167
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -1891,14 +1891,14 @@ FALSE
 </name>
 <questiontext format="html">
 <text><![CDATA[<p>
-<p><strong>R2018_0009</strong>. Si el percentil 28 de los puntajes de una prueba es 4545, entonces:</p>
+<p><strong>R2018_0009</strong>. Si el percentil 34 de los puntajes de una prueba es 3569, entonces:</p>
 </p>]]></text>
 </questiontext>
 <generalfeedback format="html">
 <text><![CDATA[<p>
 <ol type = "a">
-<li> FALSE </li>
 <li> TRUE </li>
+<li> FALSE </li>
 <li> FALSE </li>
 <li> FALSE </li>
 </ol>
@@ -1909,19 +1909,9 @@ FALSE
 <shuffleanswers>false</shuffleanswers>
 <single>true</single>
 <answernumbering>abc</answernumbering>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
-El 72 % de los sujetos obtuvo puntajes por debajo de 4545
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-FALSE
-</p>]]></text>
-</feedback>
-</answer>
 <answer fraction="100" format="html">
 <text><![CDATA[<p>
-El 28 % de los sujetos obtuvo puntajes por debajo de 4545
+El 34 % de los sujetos obtuvo puntajes por debajo de 3569
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -1931,7 +1921,7 @@ TRUE
 </answer>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-El 28 % de los sujetos obtuvo puntajes por encima de 4545
+El 66 % de los sujetos obtuvo puntajes por debajo de 3569
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -1941,7 +1931,17 @@ FALSE
 </answer>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-El 28 % de los sujetos obtuvo puntajes iguales a 4545
+El 34 % de los sujetos obtuvo puntajes iguales a 3569
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+El 34 % de los sujetos obtuvo puntajes por encima de 3569
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -1958,16 +1958,16 @@ FALSE
 </name>
 <questiontext format="html">
 <text><![CDATA[<p>
-<p><strong>R2018_0009</strong>. Si el percentil 82 de los puntajes de una prueba es 422, entonces:</p>
+<p><strong>R2018_0009</strong>. Si el percentil 66 de los puntajes de una prueba es 559, entonces:</p>
 </p>]]></text>
 </questiontext>
 <generalfeedback format="html">
 <text><![CDATA[<p>
 <ol type = "a">
-<li> FALSE </li>
-<li> FALSE </li>
-<li> FALSE </li>
 <li> TRUE </li>
+<li> FALSE </li>
+<li> FALSE </li>
+<li> FALSE </li>
 </ol>
 </p>]]></text>
 </generalfeedback>
@@ -1976,43 +1976,43 @@ FALSE
 <shuffleanswers>false</shuffleanswers>
 <single>true</single>
 <answernumbering>abc</answernumbering>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
-El 82 % de los sujetos obtuvo puntajes iguales a 422
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-FALSE
-</p>]]></text>
-</feedback>
-</answer>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
-El 18 % de los sujetos obtuvo puntajes por debajo de 422
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-FALSE
-</p>]]></text>
-</feedback>
-</answer>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
-El 82 % de los sujetos obtuvo puntajes por encima de 422
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-FALSE
-</p>]]></text>
-</feedback>
-</answer>
 <answer fraction="100" format="html">
 <text><![CDATA[<p>
-El 82 % de los sujetos obtuvo puntajes por debajo de 422
+El 66 % de los sujetos obtuvo puntajes por debajo de 559
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
 TRUE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+El 66 % de los sujetos obtuvo puntajes iguales a 559
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+El 66 % de los sujetos obtuvo puntajes por encima de 559
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+El 34 % de los sujetos obtuvo puntajes por debajo de 559
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
 </p>]]></text>
 </feedback>
 </answer>
@@ -2025,16 +2025,16 @@ TRUE
 </name>
 <questiontext format="html">
 <text><![CDATA[<p>
-<p><strong>R2018_0009</strong>. Si el percentil 15 de los puntajes de una prueba es 2630, entonces:</p>
+<p><strong>R2018_0009</strong>. Si el percentil 13 de los puntajes de una prueba es 165, entonces:</p>
 </p>]]></text>
 </questiontext>
 <generalfeedback format="html">
 <text><![CDATA[<p>
 <ol type = "a">
 <li> FALSE </li>
-<li> FALSE </li>
-<li> FALSE </li>
 <li> TRUE </li>
+<li> FALSE </li>
+<li> FALSE </li>
 </ol>
 </p>]]></text>
 </generalfeedback>
@@ -2045,27 +2045,7 @@ TRUE
 <answernumbering>abc</answernumbering>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-El 15 % de los sujetos obtuvo puntajes por encima de 2630
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-FALSE
-</p>]]></text>
-</feedback>
-</answer>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
-El 15 % de los sujetos obtuvo puntajes iguales a 2630
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-FALSE
-</p>]]></text>
-</feedback>
-</answer>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
-El 85 % de los sujetos obtuvo puntajes por debajo de 2630
+El 13 % de los sujetos obtuvo puntajes por encima de 165
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -2075,11 +2055,31 @@ FALSE
 </answer>
 <answer fraction="100" format="html">
 <text><![CDATA[<p>
-El 15 % de los sujetos obtuvo puntajes por debajo de 2630
+El 13 % de los sujetos obtuvo puntajes por debajo de 165
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
 TRUE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+El 13 % de los sujetos obtuvo puntajes iguales a 165
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+El 87 % de los sujetos obtuvo puntajes por debajo de 165
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
 </p>]]></text>
 </feedback>
 </answer>
@@ -2092,14 +2092,14 @@ TRUE
 </name>
 <questiontext format="html">
 <text><![CDATA[<p>
-<p><strong>R2018_0009</strong>. Si el percentil 29 de los puntajes de una prueba es 4581, entonces:</p>
+<p><strong>R2018_0009</strong>. Si el percentil 32 de los puntajes de una prueba es 4125, entonces:</p>
 </p>]]></text>
 </questiontext>
 <generalfeedback format="html">
 <text><![CDATA[<p>
 <ol type = "a">
-<li> TRUE </li>
 <li> FALSE </li>
+<li> TRUE </li>
 <li> FALSE </li>
 <li> FALSE </li>
 </ol>
@@ -2110,9 +2110,19 @@ TRUE
 <shuffleanswers>false</shuffleanswers>
 <single>true</single>
 <answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+El 32 % de los sujetos obtuvo puntajes iguales a 4125
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
 <answer fraction="100" format="html">
 <text><![CDATA[<p>
-El 29 % de los sujetos obtuvo puntajes por debajo de 4581
+El 32 % de los sujetos obtuvo puntajes por debajo de 4125
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -2122,7 +2132,7 @@ TRUE
 </answer>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-El 29 % de los sujetos obtuvo puntajes iguales a 4581
+El 32 % de los sujetos obtuvo puntajes por encima de 4125
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -2132,17 +2142,7 @@ FALSE
 </answer>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-El 71 % de los sujetos obtuvo puntajes por debajo de 4581
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-FALSE
-</p>]]></text>
-</feedback>
-</answer>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
-El 29 % de los sujetos obtuvo puntajes por encima de 4581
+El 68 % de los sujetos obtuvo puntajes por debajo de 4125
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -2159,16 +2159,16 @@ FALSE
 </name>
 <questiontext format="html">
 <text><![CDATA[<p>
-<p><strong>R2018_0009</strong>. Si el percentil 33 de los puntajes de una prueba es 4689, entonces:</p>
+<p><strong>R2018_0009</strong>. Si el percentil 85 de los puntajes de una prueba es 2007, entonces:</p>
 </p>]]></text>
 </questiontext>
 <generalfeedback format="html">
 <text><![CDATA[<p>
 <ol type = "a">
 <li> FALSE </li>
-<li> FALSE </li>
-<li> FALSE </li>
 <li> TRUE </li>
+<li> FALSE </li>
+<li> FALSE </li>
 </ol>
 </p>]]></text>
 </generalfeedback>
@@ -2179,27 +2179,7 @@ FALSE
 <answernumbering>abc</answernumbering>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-El 33 % de los sujetos obtuvo puntajes por encima de 4689
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-FALSE
-</p>]]></text>
-</feedback>
-</answer>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
-El 67 % de los sujetos obtuvo puntajes por debajo de 4689
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-FALSE
-</p>]]></text>
-</feedback>
-</answer>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
-El 33 % de los sujetos obtuvo puntajes iguales a 4689
+El 85 % de los sujetos obtuvo puntajes por encima de 2007
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -2209,11 +2189,31 @@ FALSE
 </answer>
 <answer fraction="100" format="html">
 <text><![CDATA[<p>
-El 33 % de los sujetos obtuvo puntajes por debajo de 4689
+El 85 % de los sujetos obtuvo puntajes por debajo de 2007
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
 TRUE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+El 85 % de los sujetos obtuvo puntajes iguales a 2007
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+El 15 % de los sujetos obtuvo puntajes por debajo de 2007
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
 </p>]]></text>
 </feedback>
 </answer>
@@ -2226,7 +2226,7 @@ TRUE
 </name>
 <questiontext format="html">
 <text><![CDATA[<p>
-<p><strong>R2018_0009</strong>. Si el percentil 79 de los puntajes de una prueba es 2703, entonces:</p>
+<p><strong>R2018_0009</strong>. Si el percentil 49 de los puntajes de una prueba es 1041, entonces:</p>
 </p>]]></text>
 </questiontext>
 <generalfeedback format="html">
@@ -2234,8 +2234,8 @@ TRUE
 <ol type = "a">
 <li> FALSE </li>
 <li> FALSE </li>
-<li> TRUE </li>
 <li> FALSE </li>
+<li> TRUE </li>
 </ol>
 </p>]]></text>
 </generalfeedback>
@@ -2246,7 +2246,7 @@ TRUE
 <answernumbering>abc</answernumbering>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-El 79 % de los sujetos obtuvo puntajes por encima de 2703
+El 49 % de los sujetos obtuvo puntajes iguales a 1041
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -2256,7 +2256,17 @@ FALSE
 </answer>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-El 79 % de los sujetos obtuvo puntajes iguales a 2703
+El 49 % de los sujetos obtuvo puntajes por encima de 1041
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+El 51 % de los sujetos obtuvo puntajes por debajo de 1041
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -2266,21 +2276,11 @@ FALSE
 </answer>
 <answer fraction="100" format="html">
 <text><![CDATA[<p>
-El 79 % de los sujetos obtuvo puntajes por debajo de 2703
+El 49 % de los sujetos obtuvo puntajes por debajo de 1041
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
 TRUE
-</p>]]></text>
-</feedback>
-</answer>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
-El 21 % de los sujetos obtuvo puntajes por debajo de 2703
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-FALSE
 </p>]]></text>
 </feedback>
 </answer>
@@ -2293,15 +2293,15 @@ FALSE
 </name>
 <questiontext format="html">
 <text><![CDATA[<p>
-<p><strong>R2018_0009</strong>. Si el percentil 83 de los puntajes de una prueba es 277, entonces:</p>
+<p><strong>R2018_0009</strong>. Si el percentil 36 de los puntajes de una prueba es 4344, entonces:</p>
 </p>]]></text>
 </questiontext>
 <generalfeedback format="html">
 <text><![CDATA[<p>
 <ol type = "a">
+<li> FALSE </li>
+<li> FALSE </li>
 <li> TRUE </li>
-<li> FALSE </li>
-<li> FALSE </li>
 <li> FALSE </li>
 </ol>
 </p>]]></text>
@@ -2311,9 +2311,29 @@ FALSE
 <shuffleanswers>false</shuffleanswers>
 <single>true</single>
 <answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+El 36 % de los sujetos obtuvo puntajes iguales a 4344
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+El 36 % de los sujetos obtuvo puntajes por encima de 4344
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
 <answer fraction="100" format="html">
 <text><![CDATA[<p>
-El 83 % de los sujetos obtuvo puntajes por debajo de 277
+El 36 % de los sujetos obtuvo puntajes por debajo de 4344
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -2323,27 +2343,7 @@ TRUE
 </answer>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-El 83 % de los sujetos obtuvo puntajes iguales a 277
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-FALSE
-</p>]]></text>
-</feedback>
-</answer>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
-El 17 % de los sujetos obtuvo puntajes por debajo de 277
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-FALSE
-</p>]]></text>
-</feedback>
-</answer>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
-El 83 % de los sujetos obtuvo puntajes por encima de 277
+El 64 % de los sujetos obtuvo puntajes por debajo de 4344
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -2360,7 +2360,7 @@ FALSE
 </name>
 <questiontext format="html">
 <text><![CDATA[<p>
-<p><strong>R2018_0009</strong>. Si el percentil 17 de los puntajes de una prueba es 1664, entonces:</p>
+<p><strong>R2018_0009</strong>. Si el percentil 39 de los puntajes de una prueba es 2650, entonces:</p>
 </p>]]></text>
 </questiontext>
 <generalfeedback format="html">
@@ -2380,7 +2380,7 @@ FALSE
 <answernumbering>abc</answernumbering>
 <answer fraction="100" format="html">
 <text><![CDATA[<p>
-El 17 % de los sujetos obtuvo puntajes por debajo de 1664
+El 39 % de los sujetos obtuvo puntajes por debajo de 2650
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -2390,7 +2390,7 @@ TRUE
 </answer>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-El 17 % de los sujetos obtuvo puntajes por encima de 1664
+El 39 % de los sujetos obtuvo puntajes por encima de 2650
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -2400,7 +2400,7 @@ FALSE
 </answer>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-El 17 % de los sujetos obtuvo puntajes iguales a 1664
+El 61 % de los sujetos obtuvo puntajes por debajo de 2650
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -2410,7 +2410,7 @@ FALSE
 </answer>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-El 83 % de los sujetos obtuvo puntajes por debajo de 1664
+El 39 % de los sujetos obtuvo puntajes iguales a 2650
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -2427,7 +2427,7 @@ FALSE
 </name>
 <questiontext format="html">
 <text><![CDATA[<p>
-<p><strong>R2018_0009</strong>. Si el percentil 56 de los puntajes de una prueba es 3864, entonces:</p>
+<p><strong>R2018_0009</strong>. Si el percentil 58 de los puntajes de una prueba es 4458, entonces:</p>
 </p>]]></text>
 </questiontext>
 <generalfeedback format="html">
@@ -2435,8 +2435,8 @@ FALSE
 <ol type = "a">
 <li> FALSE </li>
 <li> FALSE </li>
-<li> FALSE </li>
 <li> TRUE </li>
+<li> FALSE </li>
 </ol>
 </p>]]></text>
 </generalfeedback>
@@ -2447,7 +2447,7 @@ FALSE
 <answernumbering>abc</answernumbering>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-El 56 % de los sujetos obtuvo puntajes por encima de 3864
+El 58 % de los sujetos obtuvo puntajes por encima de 4458
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -2457,17 +2457,7 @@ FALSE
 </answer>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-El 56 % de los sujetos obtuvo puntajes iguales a 3864
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-FALSE
-</p>]]></text>
-</feedback>
-</answer>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
-El 44 % de los sujetos obtuvo puntajes por debajo de 3864
+El 42 % de los sujetos obtuvo puntajes por debajo de 4458
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -2477,11 +2467,21 @@ FALSE
 </answer>
 <answer fraction="100" format="html">
 <text><![CDATA[<p>
-El 56 % de los sujetos obtuvo puntajes por debajo de 3864
+El 58 % de los sujetos obtuvo puntajes por debajo de 4458
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
 TRUE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+El 58 % de los sujetos obtuvo puntajes iguales a 4458
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
 </p>]]></text>
 </feedback>
 </answer>
@@ -2494,16 +2494,16 @@ TRUE
 </name>
 <questiontext format="html">
 <text><![CDATA[<p>
-<p><strong>R2018_0009</strong>. Si el percentil 44 de los puntajes de una prueba es 2165, entonces:</p>
+<p><strong>R2018_0009</strong>. Si el percentil 77 de los puntajes de una prueba es 612, entonces:</p>
 </p>]]></text>
 </questiontext>
 <generalfeedback format="html">
 <text><![CDATA[<p>
 <ol type = "a">
+<li> FALSE </li>
+<li> FALSE </li>
+<li> FALSE </li>
 <li> TRUE </li>
-<li> FALSE </li>
-<li> FALSE </li>
-<li> FALSE </li>
 </ol>
 </p>]]></text>
 </generalfeedback>
@@ -2512,43 +2512,43 @@ TRUE
 <shuffleanswers>false</shuffleanswers>
 <single>true</single>
 <answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+El 23 % de los sujetos obtuvo puntajes por debajo de 612
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+El 77 % de los sujetos obtuvo puntajes iguales a 612
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+El 77 % de los sujetos obtuvo puntajes por encima de 612
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
 <answer fraction="100" format="html">
 <text><![CDATA[<p>
-El 44 % de los sujetos obtuvo puntajes por debajo de 2165
+El 77 % de los sujetos obtuvo puntajes por debajo de 612
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
 TRUE
-</p>]]></text>
-</feedback>
-</answer>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
-El 56 % de los sujetos obtuvo puntajes por debajo de 2165
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-FALSE
-</p>]]></text>
-</feedback>
-</answer>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
-El 44 % de los sujetos obtuvo puntajes por encima de 2165
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-FALSE
-</p>]]></text>
-</feedback>
-</answer>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
-El 44 % de los sujetos obtuvo puntajes iguales a 2165
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-FALSE
 </p>]]></text>
 </feedback>
 </answer>
@@ -2561,16 +2561,16 @@ FALSE
 </name>
 <questiontext format="html">
 <text><![CDATA[<p>
-<p><strong>R2018_0009</strong>. Si el percentil 30 de los puntajes de una prueba es 2978, entonces:</p>
+<p><strong>R2018_0009</strong>. Si el percentil 22 de los puntajes de una prueba es 797, entonces:</p>
 </p>]]></text>
 </questiontext>
 <generalfeedback format="html">
 <text><![CDATA[<p>
 <ol type = "a">
-<li> FALSE </li>
-<li> FALSE </li>
-<li> FALSE </li>
 <li> TRUE </li>
+<li> FALSE </li>
+<li> FALSE </li>
+<li> FALSE </li>
 </ol>
 </p>]]></text>
 </generalfeedback>
@@ -2579,43 +2579,43 @@ FALSE
 <shuffleanswers>false</shuffleanswers>
 <single>true</single>
 <answernumbering>abc</answernumbering>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
-El 30 % de los sujetos obtuvo puntajes iguales a 2978
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-FALSE
-</p>]]></text>
-</feedback>
-</answer>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
-El 30 % de los sujetos obtuvo puntajes por encima de 2978
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-FALSE
-</p>]]></text>
-</feedback>
-</answer>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
-El 70 % de los sujetos obtuvo puntajes por debajo de 2978
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-FALSE
-</p>]]></text>
-</feedback>
-</answer>
 <answer fraction="100" format="html">
 <text><![CDATA[<p>
-El 30 % de los sujetos obtuvo puntajes por debajo de 2978
+El 22 % de los sujetos obtuvo puntajes por debajo de 797
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
 TRUE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+El 78 % de los sujetos obtuvo puntajes por debajo de 797
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+El 22 % de los sujetos obtuvo puntajes iguales a 797
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+El 22 % de los sujetos obtuvo puntajes por encima de 797
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
 </p>]]></text>
 </feedback>
 </answer>
@@ -2628,15 +2628,15 @@ TRUE
 </name>
 <questiontext format="html">
 <text><![CDATA[<p>
-<p><strong>R2018_0009</strong>. Si el percentil 93 de los puntajes de una prueba es 3907, entonces:</p>
+<p><strong>R2018_0009</strong>. Si el percentil 84 de los puntajes de una prueba es 4754, entonces:</p>
 </p>]]></text>
 </questiontext>
 <generalfeedback format="html">
 <text><![CDATA[<p>
 <ol type = "a">
 <li> FALSE </li>
-<li> TRUE </li>
 <li> FALSE </li>
+<li> TRUE </li>
 <li> FALSE </li>
 </ol>
 </p>]]></text>
@@ -2648,7 +2648,17 @@ TRUE
 <answernumbering>abc</answernumbering>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-El 7 % de los sujetos obtuvo puntajes por debajo de 3907
+El 84 % de los sujetos obtuvo puntajes por encima de 4754
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+El 84 % de los sujetos obtuvo puntajes iguales a 4754
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -2658,7 +2668,7 @@ FALSE
 </answer>
 <answer fraction="100" format="html">
 <text><![CDATA[<p>
-El 93 % de los sujetos obtuvo puntajes por debajo de 3907
+El 84 % de los sujetos obtuvo puntajes por debajo de 4754
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -2668,17 +2678,7 @@ TRUE
 </answer>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-El 93 % de los sujetos obtuvo puntajes por encima de 3907
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-FALSE
-</p>]]></text>
-</feedback>
-</answer>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
-El 93 % de los sujetos obtuvo puntajes iguales a 3907
+El 16 % de los sujetos obtuvo puntajes por debajo de 4754
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -2695,14 +2695,14 @@ FALSE
 </name>
 <questiontext format="html">
 <text><![CDATA[<p>
-<p><strong>R2018_0009</strong>. Si el percentil 1 de los puntajes de una prueba es 4739, entonces:</p>
+<p><strong>R2018_0009</strong>. Si el percentil 84 de los puntajes de una prueba es 677, entonces:</p>
 </p>]]></text>
 </questiontext>
 <generalfeedback format="html">
 <text><![CDATA[<p>
 <ol type = "a">
-<li> FALSE </li>
 <li> TRUE </li>
+<li> FALSE </li>
 <li> FALSE </li>
 <li> FALSE </li>
 </ol>
@@ -2713,19 +2713,9 @@ FALSE
 <shuffleanswers>false</shuffleanswers>
 <single>true</single>
 <answernumbering>abc</answernumbering>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
-El 1 % de los sujetos obtuvo puntajes por encima de 4739
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-FALSE
-</p>]]></text>
-</feedback>
-</answer>
 <answer fraction="100" format="html">
 <text><![CDATA[<p>
-El 1 % de los sujetos obtuvo puntajes por debajo de 4739
+El 84 % de los sujetos obtuvo puntajes por debajo de 677
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -2735,7 +2725,7 @@ TRUE
 </answer>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-El 99 % de los sujetos obtuvo puntajes por debajo de 4739
+El 84 % de los sujetos obtuvo puntajes por encima de 677
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -2745,7 +2735,17 @@ FALSE
 </answer>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-El 1 % de los sujetos obtuvo puntajes iguales a 4739
+El 16 % de los sujetos obtuvo puntajes por debajo de 677
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+El 84 % de los sujetos obtuvo puntajes iguales a 677
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -2762,16 +2762,16 @@ FALSE
 </name>
 <questiontext format="html">
 <text><![CDATA[<p>
-<p><strong>R2018_0009</strong>. Si el percentil 54 de los puntajes de una prueba es 4544, entonces:</p>
+<p><strong>R2018_0009</strong>. Si el percentil 64 de los puntajes de una prueba es 1015, entonces:</p>
 </p>]]></text>
 </questiontext>
 <generalfeedback format="html">
 <text><![CDATA[<p>
 <ol type = "a">
 <li> FALSE </li>
-<li> FALSE </li>
-<li> FALSE </li>
 <li> TRUE </li>
+<li> FALSE </li>
+<li> FALSE </li>
 </ol>
 </p>]]></text>
 </generalfeedback>
@@ -2782,27 +2782,7 @@ FALSE
 <answernumbering>abc</answernumbering>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-El 54 % de los sujetos obtuvo puntajes por encima de 4544
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-FALSE
-</p>]]></text>
-</feedback>
-</answer>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
-El 46 % de los sujetos obtuvo puntajes por debajo de 4544
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-FALSE
-</p>]]></text>
-</feedback>
-</answer>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
-El 54 % de los sujetos obtuvo puntajes iguales a 4544
+El 64 % de los sujetos obtuvo puntajes por encima de 1015
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -2812,11 +2792,31 @@ FALSE
 </answer>
 <answer fraction="100" format="html">
 <text><![CDATA[<p>
-El 54 % de los sujetos obtuvo puntajes por debajo de 4544
+El 64 % de los sujetos obtuvo puntajes por debajo de 1015
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
 TRUE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+El 64 % de los sujetos obtuvo puntajes iguales a 1015
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+El 36 % de los sujetos obtuvo puntajes por debajo de 1015
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
 </p>]]></text>
 </feedback>
 </answer>
@@ -2829,15 +2829,15 @@ TRUE
 </name>
 <questiontext format="html">
 <text><![CDATA[<p>
-<p><strong>R2018_0009</strong>. Si el percentil 26 de los puntajes de una prueba es 4254, entonces:</p>
+<p><strong>R2018_0009</strong>. Si el percentil 29 de los puntajes de una prueba es 4717, entonces:</p>
 </p>]]></text>
 </questiontext>
 <generalfeedback format="html">
 <text><![CDATA[<p>
 <ol type = "a">
-<li> FALSE </li>
-<li> FALSE </li>
 <li> TRUE </li>
+<li> FALSE </li>
+<li> FALSE </li>
 <li> FALSE </li>
 </ol>
 </p>]]></text>
@@ -2847,29 +2847,9 @@ TRUE
 <shuffleanswers>false</shuffleanswers>
 <single>true</single>
 <answernumbering>abc</answernumbering>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
-El 26 % de los sujetos obtuvo puntajes iguales a 4254
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-FALSE
-</p>]]></text>
-</feedback>
-</answer>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
-El 26 % de los sujetos obtuvo puntajes por encima de 4254
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-FALSE
-</p>]]></text>
-</feedback>
-</answer>
 <answer fraction="100" format="html">
 <text><![CDATA[<p>
-El 26 % de los sujetos obtuvo puntajes por debajo de 4254
+El 29 % de los sujetos obtuvo puntajes por debajo de 4717
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -2879,7 +2859,27 @@ TRUE
 </answer>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-El 74 % de los sujetos obtuvo puntajes por debajo de 4254
+El 29 % de los sujetos obtuvo puntajes iguales a 4717
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+El 71 % de los sujetos obtuvo puntajes por debajo de 4717
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+El 29 % de los sujetos obtuvo puntajes por encima de 4717
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -2896,14 +2896,14 @@ FALSE
 </name>
 <questiontext format="html">
 <text><![CDATA[<p>
-<p><strong>R2018_0009</strong>. Si el percentil 26 de los puntajes de una prueba es 3970, entonces:</p>
+<p><strong>R2018_0009</strong>. Si el percentil 66 de los puntajes de una prueba es 1327, entonces:</p>
 </p>]]></text>
 </questiontext>
 <generalfeedback format="html">
 <text><![CDATA[<p>
 <ol type = "a">
-<li> FALSE </li>
 <li> TRUE </li>
+<li> FALSE </li>
 <li> FALSE </li>
 <li> FALSE </li>
 </ol>
@@ -2914,19 +2914,9 @@ FALSE
 <shuffleanswers>false</shuffleanswers>
 <single>true</single>
 <answernumbering>abc</answernumbering>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
-El 26 % de los sujetos obtuvo puntajes por encima de 3970
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-FALSE
-</p>]]></text>
-</feedback>
-</answer>
 <answer fraction="100" format="html">
 <text><![CDATA[<p>
-El 26 % de los sujetos obtuvo puntajes por debajo de 3970
+El 66 % de los sujetos obtuvo puntajes por debajo de 1327
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -2936,7 +2926,7 @@ TRUE
 </answer>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-El 74 % de los sujetos obtuvo puntajes por debajo de 3970
+El 66 % de los sujetos obtuvo puntajes iguales a 1327
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -2946,7 +2936,17 @@ FALSE
 </answer>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-El 26 % de los sujetos obtuvo puntajes iguales a 3970
+El 66 % de los sujetos obtuvo puntajes por encima de 1327
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+El 34 % de los sujetos obtuvo puntajes por debajo de 1327
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -2963,15 +2963,15 @@ FALSE
 </name>
 <questiontext format="html">
 <text><![CDATA[<p>
-<p><strong>R2018_0009</strong>. Si el percentil 39 de los puntajes de una prueba es 3864, entonces:</p>
+<p><strong>R2018_0009</strong>. Si el percentil 48 de los puntajes de una prueba es 865, entonces:</p>
 </p>]]></text>
 </questiontext>
 <generalfeedback format="html">
 <text><![CDATA[<p>
 <ol type = "a">
 <li> FALSE </li>
-<li> TRUE </li>
 <li> FALSE </li>
+<li> TRUE </li>
 <li> FALSE </li>
 </ol>
 </p>]]></text>
@@ -2983,7 +2983,17 @@ FALSE
 <answernumbering>abc</answernumbering>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-El 39 % de los sujetos obtuvo puntajes por encima de 3864
+El 48 % de los sujetos obtuvo puntajes por encima de 865
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+El 48 % de los sujetos obtuvo puntajes iguales a 865
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -2993,7 +3003,7 @@ FALSE
 </answer>
 <answer fraction="100" format="html">
 <text><![CDATA[<p>
-El 39 % de los sujetos obtuvo puntajes por debajo de 3864
+El 48 % de los sujetos obtuvo puntajes por debajo de 865
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -3003,17 +3013,7 @@ TRUE
 </answer>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-El 39 % de los sujetos obtuvo puntajes iguales a 3864
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-FALSE
-</p>]]></text>
-</feedback>
-</answer>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
-El 61 % de los sujetos obtuvo puntajes por debajo de 3864
+El 52 % de los sujetos obtuvo puntajes por debajo de 865
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -3030,16 +3030,16 @@ FALSE
 </name>
 <questiontext format="html">
 <text><![CDATA[<p>
-<p><strong>R2018_0009</strong>. Si el percentil 95 de los puntajes de una prueba es 3964, entonces:</p>
+<p><strong>R2018_0009</strong>. Si el percentil 14 de los puntajes de una prueba es 2949, entonces:</p>
 </p>]]></text>
 </questiontext>
 <generalfeedback format="html">
 <text><![CDATA[<p>
 <ol type = "a">
 <li> FALSE </li>
-<li> FALSE </li>
-<li> FALSE </li>
 <li> TRUE </li>
+<li> FALSE </li>
+<li> FALSE </li>
 </ol>
 </p>]]></text>
 </generalfeedback>
@@ -3050,27 +3050,7 @@ FALSE
 <answernumbering>abc</answernumbering>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-El 95 % de los sujetos obtuvo puntajes iguales a 3964
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-FALSE
-</p>]]></text>
-</feedback>
-</answer>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
-El 95 % de los sujetos obtuvo puntajes por encima de 3964
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-FALSE
-</p>]]></text>
-</feedback>
-</answer>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
-El 5 % de los sujetos obtuvo puntajes por debajo de 3964
+El 14 % de los sujetos obtuvo puntajes iguales a 2949
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -3080,11 +3060,31 @@ FALSE
 </answer>
 <answer fraction="100" format="html">
 <text><![CDATA[<p>
-El 95 % de los sujetos obtuvo puntajes por debajo de 3964
+El 14 % de los sujetos obtuvo puntajes por debajo de 2949
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
 TRUE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+El 86 % de los sujetos obtuvo puntajes por debajo de 2949
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+El 14 % de los sujetos obtuvo puntajes por encima de 2949
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
 </p>]]></text>
 </feedback>
 </answer>
@@ -3097,14 +3097,14 @@ TRUE
 </name>
 <questiontext format="html">
 <text><![CDATA[<p>
-<p><strong>R2018_0009</strong>. Si el percentil 65 de los puntajes de una prueba es 108, entonces:</p>
+<p><strong>R2018_0009</strong>. Si el percentil 49 de los puntajes de una prueba es 4979, entonces:</p>
 </p>]]></text>
 </questiontext>
 <generalfeedback format="html">
 <text><![CDATA[<p>
 <ol type = "a">
-<li> TRUE </li>
 <li> FALSE </li>
+<li> TRUE </li>
 <li> FALSE </li>
 <li> FALSE </li>
 </ol>
@@ -3115,9 +3115,19 @@ TRUE
 <shuffleanswers>false</shuffleanswers>
 <single>true</single>
 <answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+El 49 % de los sujetos obtuvo puntajes por encima de 4979
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
 <answer fraction="100" format="html">
 <text><![CDATA[<p>
-El 65 % de los sujetos obtuvo puntajes por debajo de 108
+El 49 % de los sujetos obtuvo puntajes por debajo de 4979
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -3127,7 +3137,7 @@ TRUE
 </answer>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-El 35 % de los sujetos obtuvo puntajes por debajo de 108
+El 51 % de los sujetos obtuvo puntajes por debajo de 4979
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -3137,17 +3147,7 @@ FALSE
 </answer>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-El 65 % de los sujetos obtuvo puntajes por encima de 108
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-FALSE
-</p>]]></text>
-</feedback>
-</answer>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
-El 65 % de los sujetos obtuvo puntajes iguales a 108
+El 49 % de los sujetos obtuvo puntajes iguales a 4979
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -3164,14 +3164,14 @@ FALSE
 </name>
 <questiontext format="html">
 <text><![CDATA[<p>
-<p><strong>R2018_0009</strong>. Si el percentil 3 de los puntajes de una prueba es 2888, entonces:</p>
+<p><strong>R2018_0009</strong>. Si el percentil 60 de los puntajes de una prueba es 4841, entonces:</p>
 </p>]]></text>
 </questiontext>
 <generalfeedback format="html">
 <text><![CDATA[<p>
 <ol type = "a">
-<li> TRUE </li>
 <li> FALSE </li>
+<li> TRUE </li>
 <li> FALSE </li>
 <li> FALSE </li>
 </ol>
@@ -3182,9 +3182,19 @@ FALSE
 <shuffleanswers>false</shuffleanswers>
 <single>true</single>
 <answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+El 40 % de los sujetos obtuvo puntajes por debajo de 4841
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
 <answer fraction="100" format="html">
 <text><![CDATA[<p>
-El 3 % de los sujetos obtuvo puntajes por debajo de 2888
+El 60 % de los sujetos obtuvo puntajes por debajo de 4841
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -3194,7 +3204,7 @@ TRUE
 </answer>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-El 3 % de los sujetos obtuvo puntajes iguales a 2888
+El 60 % de los sujetos obtuvo puntajes por encima de 4841
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -3204,17 +3214,7 @@ FALSE
 </answer>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-El 3 % de los sujetos obtuvo puntajes por encima de 2888
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-FALSE
-</p>]]></text>
-</feedback>
-</answer>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
-El 97 % de los sujetos obtuvo puntajes por debajo de 2888
+El 60 % de los sujetos obtuvo puntajes iguales a 4841
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -3231,16 +3231,16 @@ FALSE
 </name>
 <questiontext format="html">
 <text><![CDATA[<p>
-<p><strong>R2018_0009</strong>. Si el percentil 52 de los puntajes de una prueba es 214, entonces:</p>
+<p><strong>R2018_0009</strong>. Si el percentil 21 de los puntajes de una prueba es 4203, entonces:</p>
 </p>]]></text>
 </questiontext>
 <generalfeedback format="html">
 <text><![CDATA[<p>
 <ol type = "a">
 <li> FALSE </li>
-<li> FALSE </li>
-<li> FALSE </li>
 <li> TRUE </li>
+<li> FALSE </li>
+<li> FALSE </li>
 </ol>
 </p>]]></text>
 </generalfeedback>
@@ -3251,27 +3251,7 @@ FALSE
 <answernumbering>abc</answernumbering>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-El 52 % de los sujetos obtuvo puntajes por encima de 214
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-FALSE
-</p>]]></text>
-</feedback>
-</answer>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
-El 52 % de los sujetos obtuvo puntajes iguales a 214
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-FALSE
-</p>]]></text>
-</feedback>
-</answer>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
-El 48 % de los sujetos obtuvo puntajes por debajo de 214
+El 21 % de los sujetos obtuvo puntajes por encima de 4203
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -3281,11 +3261,31 @@ FALSE
 </answer>
 <answer fraction="100" format="html">
 <text><![CDATA[<p>
-El 52 % de los sujetos obtuvo puntajes por debajo de 214
+El 21 % de los sujetos obtuvo puntajes por debajo de 4203
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
 TRUE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+El 79 % de los sujetos obtuvo puntajes por debajo de 4203
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+El 21 % de los sujetos obtuvo puntajes iguales a 4203
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
 </p>]]></text>
 </feedback>
 </answer>
@@ -3298,7 +3298,7 @@ TRUE
 </name>
 <questiontext format="html">
 <text><![CDATA[<p>
-<p><strong>R2018_0009</strong>. Si el percentil 14 de los puntajes de una prueba es 1092, entonces:</p>
+<p><strong>R2018_0009</strong>. Si el percentil 75 de los puntajes de una prueba es 233, entonces:</p>
 </p>]]></text>
 </questiontext>
 <generalfeedback format="html">
@@ -3306,8 +3306,8 @@ TRUE
 <ol type = "a">
 <li> FALSE </li>
 <li> FALSE </li>
-<li> FALSE </li>
 <li> TRUE </li>
+<li> FALSE </li>
 </ol>
 </p>]]></text>
 </generalfeedback>
@@ -3318,7 +3318,7 @@ TRUE
 <answernumbering>abc</answernumbering>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-El 86 % de los sujetos obtuvo puntajes por debajo de 1092
+El 25 % de los sujetos obtuvo puntajes por debajo de 233
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -3328,17 +3328,7 @@ FALSE
 </answer>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-El 14 % de los sujetos obtuvo puntajes iguales a 1092
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-FALSE
-</p>]]></text>
-</feedback>
-</answer>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
-El 14 % de los sujetos obtuvo puntajes por encima de 1092
+El 75 % de los sujetos obtuvo puntajes por encima de 233
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -3348,11 +3338,21 @@ FALSE
 </answer>
 <answer fraction="100" format="html">
 <text><![CDATA[<p>
-El 14 % de los sujetos obtuvo puntajes por debajo de 1092
+El 75 % de los sujetos obtuvo puntajes por debajo de 233
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
 TRUE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+El 75 % de los sujetos obtuvo puntajes iguales a 233
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
 </p>]]></text>
 </feedback>
 </answer>
@@ -3365,16 +3365,16 @@ TRUE
 </name>
 <questiontext format="html">
 <text><![CDATA[<p>
-<p><strong>R2018_0009</strong>. Si el percentil 30 de los puntajes de una prueba es 3930, entonces:</p>
+<p><strong>R2018_0009</strong>. Si el percentil 80 de los puntajes de una prueba es 2519, entonces:</p>
 </p>]]></text>
 </questiontext>
 <generalfeedback format="html">
 <text><![CDATA[<p>
 <ol type = "a">
 <li> FALSE </li>
-<li> FALSE </li>
-<li> FALSE </li>
 <li> TRUE </li>
+<li> FALSE </li>
+<li> FALSE </li>
 </ol>
 </p>]]></text>
 </generalfeedback>
@@ -3385,27 +3385,7 @@ TRUE
 <answernumbering>abc</answernumbering>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-El 70 % de los sujetos obtuvo puntajes por debajo de 3930
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-FALSE
-</p>]]></text>
-</feedback>
-</answer>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
-El 30 % de los sujetos obtuvo puntajes iguales a 3930
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-FALSE
-</p>]]></text>
-</feedback>
-</answer>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
-El 30 % de los sujetos obtuvo puntajes por encima de 3930
+El 80 % de los sujetos obtuvo puntajes iguales a 2519
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -3415,11 +3395,31 @@ FALSE
 </answer>
 <answer fraction="100" format="html">
 <text><![CDATA[<p>
-El 30 % de los sujetos obtuvo puntajes por debajo de 3930
+El 80 % de los sujetos obtuvo puntajes por debajo de 2519
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
 TRUE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+El 80 % de los sujetos obtuvo puntajes por encima de 2519
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+El 20 % de los sujetos obtuvo puntajes por debajo de 2519
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
 </p>]]></text>
 </feedback>
 </answer>
@@ -3432,16 +3432,16 @@ TRUE
 </name>
 <questiontext format="html">
 <text><![CDATA[<p>
-<p><strong>R2018_0009</strong>. Si el percentil 100 de los puntajes de una prueba es 1686, entonces:</p>
+<p><strong>R2018_0009</strong>. Si el percentil 97 de los puntajes de una prueba es 2120, entonces:</p>
 </p>]]></text>
 </questiontext>
 <generalfeedback format="html">
 <text><![CDATA[<p>
 <ol type = "a">
+<li> FALSE </li>
+<li> FALSE </li>
+<li> FALSE </li>
 <li> TRUE </li>
-<li> FALSE </li>
-<li> FALSE </li>
-<li> FALSE </li>
 </ol>
 </p>]]></text>
 </generalfeedback>
@@ -3450,43 +3450,43 @@ TRUE
 <shuffleanswers>false</shuffleanswers>
 <single>true</single>
 <answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+El 3 % de los sujetos obtuvo puntajes por debajo de 2120
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+El 97 % de los sujetos obtuvo puntajes por encima de 2120
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+El 97 % de los sujetos obtuvo puntajes iguales a 2120
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
 <answer fraction="100" format="html">
 <text><![CDATA[<p>
-El 100 % de los sujetos obtuvo puntajes por debajo de 1686
+El 97 % de los sujetos obtuvo puntajes por debajo de 2120
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
 TRUE
-</p>]]></text>
-</feedback>
-</answer>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
-El 100 % de los sujetos obtuvo puntajes iguales a 1686
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-FALSE
-</p>]]></text>
-</feedback>
-</answer>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
-El 100 % de los sujetos obtuvo puntajes por encima de 1686
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-FALSE
-</p>]]></text>
-</feedback>
-</answer>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
-El 0 % de los sujetos obtuvo puntajes por debajo de 1686
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-FALSE
 </p>]]></text>
 </feedback>
 </answer>
@@ -3499,7 +3499,7 @@ FALSE
 </name>
 <questiontext format="html">
 <text><![CDATA[<p>
-<p><strong>R2018_0009</strong>. Si el percentil 64 de los puntajes de una prueba es 2626, entonces:</p>
+<p><strong>R2018_0009</strong>. Si el percentil 49 de los puntajes de una prueba es 4066, entonces:</p>
 </p>]]></text>
 </questiontext>
 <generalfeedback format="html">
@@ -3519,7 +3519,7 @@ FALSE
 <answernumbering>abc</answernumbering>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-El 36 % de los sujetos obtuvo puntajes por debajo de 2626
+El 51 % de los sujetos obtuvo puntajes por debajo de 4066
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -3529,7 +3529,7 @@ FALSE
 </answer>
 <answer fraction="100" format="html">
 <text><![CDATA[<p>
-El 64 % de los sujetos obtuvo puntajes por debajo de 2626
+El 49 % de los sujetos obtuvo puntajes por debajo de 4066
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -3539,7 +3539,7 @@ TRUE
 </answer>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-El 64 % de los sujetos obtuvo puntajes por encima de 2626
+El 49 % de los sujetos obtuvo puntajes iguales a 4066
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -3549,7 +3549,7 @@ FALSE
 </answer>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-El 64 % de los sujetos obtuvo puntajes iguales a 2626
+El 49 % de los sujetos obtuvo puntajes por encima de 4066
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -3566,7 +3566,7 @@ FALSE
 </name>
 <questiontext format="html">
 <text><![CDATA[<p>
-<p><strong>R2018_0009</strong>. Si el percentil 47 de los puntajes de una prueba es 2002, entonces:</p>
+<p><strong>R2018_0009</strong>. Si el percentil 87 de los puntajes de una prueba es 3377, entonces:</p>
 </p>]]></text>
 </questiontext>
 <generalfeedback format="html">
@@ -3586,7 +3586,7 @@ FALSE
 <answernumbering>abc</answernumbering>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-El 47 % de los sujetos obtuvo puntajes iguales a 2002
+El 87 % de los sujetos obtuvo puntajes por encima de 3377
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -3596,7 +3596,7 @@ FALSE
 </answer>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-El 53 % de los sujetos obtuvo puntajes por debajo de 2002
+El 13 % de los sujetos obtuvo puntajes por debajo de 3377
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -3606,7 +3606,7 @@ FALSE
 </answer>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-El 47 % de los sujetos obtuvo puntajes por encima de 2002
+El 87 % de los sujetos obtuvo puntajes iguales a 3377
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -3616,7 +3616,7 @@ FALSE
 </answer>
 <answer fraction="100" format="html">
 <text><![CDATA[<p>
-El 47 % de los sujetos obtuvo puntajes por debajo de 2002
+El 87 % de los sujetos obtuvo puntajes por debajo de 3377
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -3633,7 +3633,7 @@ TRUE
 </name>
 <questiontext format="html">
 <text><![CDATA[<p>
-<p><strong>R2018_0009</strong>. Si el percentil 72 de los puntajes de una prueba es 4432, entonces:</p>
+<p><strong>R2018_0009</strong>. Si el percentil 24 de los puntajes de una prueba es 4021, entonces:</p>
 </p>]]></text>
 </questiontext>
 <generalfeedback format="html">
@@ -3653,7 +3653,7 @@ TRUE
 <answernumbering>abc</answernumbering>
 <answer fraction="100" format="html">
 <text><![CDATA[<p>
-El 72 % de los sujetos obtuvo puntajes por debajo de 4432
+El 24 % de los sujetos obtuvo puntajes por debajo de 4021
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -3663,7 +3663,7 @@ TRUE
 </answer>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-El 28 % de los sujetos obtuvo puntajes por debajo de 4432
+El 24 % de los sujetos obtuvo puntajes por encima de 4021
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -3673,7 +3673,7 @@ FALSE
 </answer>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-El 72 % de los sujetos obtuvo puntajes iguales a 4432
+El 24 % de los sujetos obtuvo puntajes iguales a 4021
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -3683,7 +3683,7 @@ FALSE
 </answer>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-El 72 % de los sujetos obtuvo puntajes por encima de 4432
+El 76 % de los sujetos obtuvo puntajes por debajo de 4021
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -3700,14 +3700,14 @@ FALSE
 </name>
 <questiontext format="html">
 <text><![CDATA[<p>
-<p><strong>R2018_0009</strong>. Si el percentil 55 de los puntajes de una prueba es 612, entonces:</p>
+<p><strong>R2018_0009</strong>. Si el percentil 1 de los puntajes de una prueba es 1248, entonces:</p>
 </p>]]></text>
 </questiontext>
 <generalfeedback format="html">
 <text><![CDATA[<p>
 <ol type = "a">
-<li> FALSE </li>
 <li> TRUE </li>
+<li> FALSE </li>
 <li> FALSE </li>
 <li> FALSE </li>
 </ol>
@@ -3718,19 +3718,9 @@ FALSE
 <shuffleanswers>false</shuffleanswers>
 <single>true</single>
 <answernumbering>abc</answernumbering>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
-El 55 % de los sujetos obtuvo puntajes por encima de 612
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-FALSE
-</p>]]></text>
-</feedback>
-</answer>
 <answer fraction="100" format="html">
 <text><![CDATA[<p>
-El 55 % de los sujetos obtuvo puntajes por debajo de 612
+El 1 % de los sujetos obtuvo puntajes por debajo de 1248
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -3740,7 +3730,7 @@ TRUE
 </answer>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-El 55 % de los sujetos obtuvo puntajes iguales a 612
+El 1 % de los sujetos obtuvo puntajes iguales a 1248
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -3750,7 +3740,17 @@ FALSE
 </answer>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-El 45 % de los sujetos obtuvo puntajes por debajo de 612
+El 1 % de los sujetos obtuvo puntajes por encima de 1248
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+El 99 % de los sujetos obtuvo puntajes por debajo de 1248
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -3767,16 +3767,16 @@ FALSE
 </name>
 <questiontext format="html">
 <text><![CDATA[<p>
-<p><strong>R2018_0009</strong>. Si el percentil 40 de los puntajes de una prueba es 4143, entonces:</p>
+<p><strong>R2018_0009</strong>. Si el percentil 67 de los puntajes de una prueba es 728, entonces:</p>
 </p>]]></text>
 </questiontext>
 <generalfeedback format="html">
 <text><![CDATA[<p>
 <ol type = "a">
-<li> FALSE </li>
-<li> FALSE </li>
-<li> FALSE </li>
 <li> TRUE </li>
+<li> FALSE </li>
+<li> FALSE </li>
+<li> FALSE </li>
 </ol>
 </p>]]></text>
 </generalfeedback>
@@ -3785,43 +3785,43 @@ FALSE
 <shuffleanswers>false</shuffleanswers>
 <single>true</single>
 <answernumbering>abc</answernumbering>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
-El 40 % de los sujetos obtuvo puntajes por encima de 4143
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-FALSE
-</p>]]></text>
-</feedback>
-</answer>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
-El 40 % de los sujetos obtuvo puntajes iguales a 4143
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-FALSE
-</p>]]></text>
-</feedback>
-</answer>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
-El 60 % de los sujetos obtuvo puntajes por debajo de 4143
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-FALSE
-</p>]]></text>
-</feedback>
-</answer>
 <answer fraction="100" format="html">
 <text><![CDATA[<p>
-El 40 % de los sujetos obtuvo puntajes por debajo de 4143
+El 67 % de los sujetos obtuvo puntajes por debajo de 728
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
 TRUE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+El 67 % de los sujetos obtuvo puntajes por encima de 728
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+El 33 % de los sujetos obtuvo puntajes por debajo de 728
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+El 67 % de los sujetos obtuvo puntajes iguales a 728
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
 </p>]]></text>
 </feedback>
 </answer>
@@ -3834,15 +3834,15 @@ TRUE
 </name>
 <questiontext format="html">
 <text><![CDATA[<p>
-<p><strong>R2018_0009</strong>. Si el percentil 76 de los puntajes de una prueba es 4799, entonces:</p>
+<p><strong>R2018_0009</strong>. Si el percentil 26 de los puntajes de una prueba es 2953, entonces:</p>
 </p>]]></text>
 </questiontext>
 <generalfeedback format="html">
 <text><![CDATA[<p>
 <ol type = "a">
 <li> FALSE </li>
-<li> FALSE </li>
 <li> TRUE </li>
+<li> FALSE </li>
 <li> FALSE </li>
 </ol>
 </p>]]></text>
@@ -3854,17 +3854,7 @@ TRUE
 <answernumbering>abc</answernumbering>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-El 76 % de los sujetos obtuvo puntajes por encima de 4799
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-FALSE
-</p>]]></text>
-</feedback>
-</answer>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
-El 24 % de los sujetos obtuvo puntajes por debajo de 4799
+El 74 % de los sujetos obtuvo puntajes por debajo de 2953
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -3874,7 +3864,7 @@ FALSE
 </answer>
 <answer fraction="100" format="html">
 <text><![CDATA[<p>
-El 76 % de los sujetos obtuvo puntajes por debajo de 4799
+El 26 % de los sujetos obtuvo puntajes por debajo de 2953
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -3884,7 +3874,17 @@ TRUE
 </answer>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-El 76 % de los sujetos obtuvo puntajes iguales a 4799
+El 26 % de los sujetos obtuvo puntajes por encima de 2953
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+El 26 % de los sujetos obtuvo puntajes iguales a 2953
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -3901,16 +3901,16 @@ FALSE
 </name>
 <questiontext format="html">
 <text><![CDATA[<p>
-<p><strong>R2018_0009</strong>. Si el percentil 45 de los puntajes de una prueba es 4389, entonces:</p>
+<p><strong>R2018_0009</strong>. Si el percentil 97 de los puntajes de una prueba es 4537, entonces:</p>
 </p>]]></text>
 </questiontext>
 <generalfeedback format="html">
 <text><![CDATA[<p>
 <ol type = "a">
-<li> FALSE </li>
-<li> FALSE </li>
-<li> FALSE </li>
 <li> TRUE </li>
+<li> FALSE </li>
+<li> FALSE </li>
+<li> FALSE </li>
 </ol>
 </p>]]></text>
 </generalfeedback>
@@ -3919,43 +3919,43 @@ FALSE
 <shuffleanswers>false</shuffleanswers>
 <single>true</single>
 <answernumbering>abc</answernumbering>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
-El 55 % de los sujetos obtuvo puntajes por debajo de 4389
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-FALSE
-</p>]]></text>
-</feedback>
-</answer>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
-El 45 % de los sujetos obtuvo puntajes iguales a 4389
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-FALSE
-</p>]]></text>
-</feedback>
-</answer>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
-El 45 % de los sujetos obtuvo puntajes por encima de 4389
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-FALSE
-</p>]]></text>
-</feedback>
-</answer>
 <answer fraction="100" format="html">
 <text><![CDATA[<p>
-El 45 % de los sujetos obtuvo puntajes por debajo de 4389
+El 97 % de los sujetos obtuvo puntajes por debajo de 4537
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
 TRUE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+El 3 % de los sujetos obtuvo puntajes por debajo de 4537
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+El 97 % de los sujetos obtuvo puntajes por encima de 4537
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+El 97 % de los sujetos obtuvo puntajes iguales a 4537
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
 </p>]]></text>
 </feedback>
 </answer>
@@ -3968,15 +3968,15 @@ TRUE
 </name>
 <questiontext format="html">
 <text><![CDATA[<p>
-<p><strong>R2018_0009</strong>. Si el percentil 63 de los puntajes de una prueba es 2523, entonces:</p>
+<p><strong>R2018_0009</strong>. Si el percentil 57 de los puntajes de una prueba es 3985, entonces:</p>
 </p>]]></text>
 </questiontext>
 <generalfeedback format="html">
 <text><![CDATA[<p>
 <ol type = "a">
 <li> FALSE </li>
-<li> TRUE </li>
 <li> FALSE </li>
+<li> TRUE </li>
 <li> FALSE </li>
 </ol>
 </p>]]></text>
@@ -3988,7 +3988,17 @@ TRUE
 <answernumbering>abc</answernumbering>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-El 37 % de los sujetos obtuvo puntajes por debajo de 2523
+El 57 % de los sujetos obtuvo puntajes iguales a 3985
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+El 57 % de los sujetos obtuvo puntajes por encima de 3985
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -3998,7 +4008,7 @@ FALSE
 </answer>
 <answer fraction="100" format="html">
 <text><![CDATA[<p>
-El 63 % de los sujetos obtuvo puntajes por debajo de 2523
+El 57 % de los sujetos obtuvo puntajes por debajo de 3985
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -4008,17 +4018,7 @@ TRUE
 </answer>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-El 63 % de los sujetos obtuvo puntajes iguales a 2523
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-FALSE
-</p>]]></text>
-</feedback>
-</answer>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
-El 63 % de los sujetos obtuvo puntajes por encima de 2523
+El 43 % de los sujetos obtuvo puntajes por debajo de 3985
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -4035,15 +4035,15 @@ FALSE
 </name>
 <questiontext format="html">
 <text><![CDATA[<p>
-<p><strong>R2018_0009</strong>. Si el percentil 97 de los puntajes de una prueba es 3160, entonces:</p>
+<p><strong>R2018_0009</strong>. Si el percentil 22 de los puntajes de una prueba es 4067, entonces:</p>
 </p>]]></text>
 </questiontext>
 <generalfeedback format="html">
 <text><![CDATA[<p>
 <ol type = "a">
-<li> FALSE </li>
-<li> FALSE </li>
 <li> TRUE </li>
+<li> FALSE </li>
+<li> FALSE </li>
 <li> FALSE </li>
 </ol>
 </p>]]></text>
@@ -4053,29 +4053,9 @@ FALSE
 <shuffleanswers>false</shuffleanswers>
 <single>true</single>
 <answernumbering>abc</answernumbering>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
-El 3 % de los sujetos obtuvo puntajes por debajo de 3160
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-FALSE
-</p>]]></text>
-</feedback>
-</answer>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
-El 97 % de los sujetos obtuvo puntajes por encima de 3160
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-FALSE
-</p>]]></text>
-</feedback>
-</answer>
 <answer fraction="100" format="html">
 <text><![CDATA[<p>
-El 97 % de los sujetos obtuvo puntajes por debajo de 3160
+El 22 % de los sujetos obtuvo puntajes por debajo de 4067
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -4085,7 +4065,27 @@ TRUE
 </answer>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-El 97 % de los sujetos obtuvo puntajes iguales a 3160
+El 22 % de los sujetos obtuvo puntajes iguales a 4067
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+El 78 % de los sujetos obtuvo puntajes por debajo de 4067
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+El 22 % de los sujetos obtuvo puntajes por encima de 4067
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -4102,16 +4102,16 @@ FALSE
 </name>
 <questiontext format="html">
 <text><![CDATA[<p>
-<p><strong>R2018_0009</strong>. Si el percentil 81 de los puntajes de una prueba es 1076, entonces:</p>
+<p><strong>R2018_0009</strong>. Si el percentil 30 de los puntajes de una prueba es 481, entonces:</p>
 </p>]]></text>
 </questiontext>
 <generalfeedback format="html">
 <text><![CDATA[<p>
 <ol type = "a">
+<li> FALSE </li>
+<li> FALSE </li>
+<li> FALSE </li>
 <li> TRUE </li>
-<li> FALSE </li>
-<li> FALSE </li>
-<li> FALSE </li>
 </ol>
 </p>]]></text>
 </generalfeedback>
@@ -4120,43 +4120,43 @@ FALSE
 <shuffleanswers>false</shuffleanswers>
 <single>true</single>
 <answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+El 70 % de los sujetos obtuvo puntajes por debajo de 481
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+El 30 % de los sujetos obtuvo puntajes por encima de 481
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+El 30 % de los sujetos obtuvo puntajes iguales a 481
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
 <answer fraction="100" format="html">
 <text><![CDATA[<p>
-El 81 % de los sujetos obtuvo puntajes por debajo de 1076
+El 30 % de los sujetos obtuvo puntajes por debajo de 481
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
 TRUE
-</p>]]></text>
-</feedback>
-</answer>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
-El 81 % de los sujetos obtuvo puntajes por encima de 1076
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-FALSE
-</p>]]></text>
-</feedback>
-</answer>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
-El 81 % de los sujetos obtuvo puntajes iguales a 1076
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-FALSE
-</p>]]></text>
-</feedback>
-</answer>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
-El 19 % de los sujetos obtuvo puntajes por debajo de 1076
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-FALSE
 </p>]]></text>
 </feedback>
 </answer>
@@ -4169,15 +4169,15 @@ FALSE
 </name>
 <questiontext format="html">
 <text><![CDATA[<p>
-<p><strong>R2018_0009</strong>. Si el percentil 73 de los puntajes de una prueba es 4145, entonces:</p>
+<p><strong>R2018_0009</strong>. Si el percentil 81 de los puntajes de una prueba es 2312, entonces:</p>
 </p>]]></text>
 </questiontext>
 <generalfeedback format="html">
 <text><![CDATA[<p>
 <ol type = "a">
-<li> FALSE </li>
-<li> FALSE </li>
 <li> TRUE </li>
+<li> FALSE </li>
+<li> FALSE </li>
 <li> FALSE </li>
 </ol>
 </p>]]></text>
@@ -4187,29 +4187,9 @@ FALSE
 <shuffleanswers>false</shuffleanswers>
 <single>true</single>
 <answernumbering>abc</answernumbering>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
-El 27 % de los sujetos obtuvo puntajes por debajo de 4145
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-FALSE
-</p>]]></text>
-</feedback>
-</answer>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
-El 73 % de los sujetos obtuvo puntajes iguales a 4145
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-FALSE
-</p>]]></text>
-</feedback>
-</answer>
 <answer fraction="100" format="html">
 <text><![CDATA[<p>
-El 73 % de los sujetos obtuvo puntajes por debajo de 4145
+El 81 % de los sujetos obtuvo puntajes por debajo de 2312
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -4219,7 +4199,27 @@ TRUE
 </answer>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-El 73 % de los sujetos obtuvo puntajes por encima de 4145
+El 19 % de los sujetos obtuvo puntajes por debajo de 2312
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+El 81 % de los sujetos obtuvo puntajes iguales a 2312
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+El 81 % de los sujetos obtuvo puntajes por encima de 2312
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -4236,7 +4236,7 @@ FALSE
 </name>
 <questiontext format="html">
 <text><![CDATA[<p>
-<p><strong>R2018_0009</strong>. Si el percentil 36 de los puntajes de una prueba es 637, entonces:</p>
+<p><strong>R2018_0009</strong>. Si el percentil 38 de los puntajes de una prueba es 3952, entonces:</p>
 </p>]]></text>
 </questiontext>
 <generalfeedback format="html">
@@ -4256,7 +4256,7 @@ FALSE
 <answernumbering>abc</answernumbering>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-El 64 % de los sujetos obtuvo puntajes por debajo de 637
+El 38 % de los sujetos obtuvo puntajes por encima de 3952
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -4266,7 +4266,7 @@ FALSE
 </answer>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-El 36 % de los sujetos obtuvo puntajes por encima de 637
+El 62 % de los sujetos obtuvo puntajes por debajo de 3952
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -4276,7 +4276,7 @@ FALSE
 </answer>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-El 36 % de los sujetos obtuvo puntajes iguales a 637
+El 38 % de los sujetos obtuvo puntajes iguales a 3952
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -4286,7 +4286,7 @@ FALSE
 </answer>
 <answer fraction="100" format="html">
 <text><![CDATA[<p>
-El 36 % de los sujetos obtuvo puntajes por debajo de 637
+El 38 % de los sujetos obtuvo puntajes por debajo de 3952
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -4303,15 +4303,15 @@ TRUE
 </name>
 <questiontext format="html">
 <text><![CDATA[<p>
-<p><strong>R2018_0009</strong>. Si el percentil 54 de los puntajes de una prueba es 2859, entonces:</p>
+<p><strong>R2018_0009</strong>. Si el percentil 84 de los puntajes de una prueba es 3278, entonces:</p>
 </p>]]></text>
 </questiontext>
 <generalfeedback format="html">
 <text><![CDATA[<p>
 <ol type = "a">
-<li> FALSE </li>
-<li> FALSE </li>
 <li> TRUE </li>
+<li> FALSE </li>
+<li> FALSE </li>
 <li> FALSE </li>
 </ol>
 </p>]]></text>
@@ -4321,29 +4321,9 @@ TRUE
 <shuffleanswers>false</shuffleanswers>
 <single>true</single>
 <answernumbering>abc</answernumbering>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
-El 54 % de los sujetos obtuvo puntajes iguales a 2859
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-FALSE
-</p>]]></text>
-</feedback>
-</answer>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
-El 46 % de los sujetos obtuvo puntajes por debajo de 2859
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-FALSE
-</p>]]></text>
-</feedback>
-</answer>
 <answer fraction="100" format="html">
 <text><![CDATA[<p>
-El 54 % de los sujetos obtuvo puntajes por debajo de 2859
+El 84 % de los sujetos obtuvo puntajes por debajo de 3278
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -4353,7 +4333,27 @@ TRUE
 </answer>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-El 54 % de los sujetos obtuvo puntajes por encima de 2859
+El 16 % de los sujetos obtuvo puntajes por debajo de 3278
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+El 84 % de los sujetos obtuvo puntajes iguales a 3278
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+El 84 % de los sujetos obtuvo puntajes por encima de 3278
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -4370,7 +4370,7 @@ FALSE
 </name>
 <questiontext format="html">
 <text><![CDATA[<p>
-<p><strong>R2018_0009</strong>. Si el percentil 86 de los puntajes de una prueba es 3742, entonces:</p>
+<p><strong>R2018_0009</strong>. Si el percentil 37 de los puntajes de una prueba es 1788, entonces:</p>
 </p>]]></text>
 </questiontext>
 <generalfeedback format="html">
@@ -4390,7 +4390,7 @@ FALSE
 <answernumbering>abc</answernumbering>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-El 86 % de los sujetos obtuvo puntajes iguales a 3742
+El 37 % de los sujetos obtuvo puntajes por encima de 1788
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -4400,7 +4400,7 @@ FALSE
 </answer>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-El 86 % de los sujetos obtuvo puntajes por encima de 3742
+El 37 % de los sujetos obtuvo puntajes iguales a 1788
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -4410,7 +4410,7 @@ FALSE
 </answer>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-El 14 % de los sujetos obtuvo puntajes por debajo de 3742
+El 63 % de los sujetos obtuvo puntajes por debajo de 1788
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -4420,7 +4420,7 @@ FALSE
 </answer>
 <answer fraction="100" format="html">
 <text><![CDATA[<p>
-El 86 % de los sujetos obtuvo puntajes por debajo de 3742
+El 37 % de los sujetos obtuvo puntajes por debajo de 1788
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -4437,15 +4437,15 @@ TRUE
 </name>
 <questiontext format="html">
 <text><![CDATA[<p>
-<p><strong>R2018_0009</strong>. Si el percentil 13 de los puntajes de una prueba es 504, entonces:</p>
+<p><strong>R2018_0009</strong>. Si el percentil 87 de los puntajes de una prueba es 2006, entonces:</p>
 </p>]]></text>
 </questiontext>
 <generalfeedback format="html">
 <text><![CDATA[<p>
 <ol type = "a">
 <li> FALSE </li>
-<li> FALSE </li>
 <li> TRUE </li>
+<li> FALSE </li>
 <li> FALSE </li>
 </ol>
 </p>]]></text>
@@ -4457,17 +4457,7 @@ TRUE
 <answernumbering>abc</answernumbering>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-El 87 % de los sujetos obtuvo puntajes por debajo de 504
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-FALSE
-</p>]]></text>
-</feedback>
-</answer>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
-El 13 % de los sujetos obtuvo puntajes iguales a 504
+El 87 % de los sujetos obtuvo puntajes por encima de 2006
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -4477,7 +4467,7 @@ FALSE
 </answer>
 <answer fraction="100" format="html">
 <text><![CDATA[<p>
-El 13 % de los sujetos obtuvo puntajes por debajo de 504
+El 87 % de los sujetos obtuvo puntajes por debajo de 2006
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -4487,7 +4477,17 @@ TRUE
 </answer>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-El 13 % de los sujetos obtuvo puntajes por encima de 504
+El 87 % de los sujetos obtuvo puntajes iguales a 2006
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+El 13 % de los sujetos obtuvo puntajes por debajo de 2006
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -4504,16 +4504,16 @@ FALSE
 </name>
 <questiontext format="html">
 <text><![CDATA[<p>
-<p><strong>R2018_0009</strong>. Si el percentil 65 de los puntajes de una prueba es 925, entonces:</p>
+<p><strong>R2018_0009</strong>. Si el percentil 68 de los puntajes de una prueba es 3983, entonces:</p>
 </p>]]></text>
 </questiontext>
 <generalfeedback format="html">
 <text><![CDATA[<p>
 <ol type = "a">
 <li> FALSE </li>
-<li> FALSE </li>
-<li> FALSE </li>
 <li> TRUE </li>
+<li> FALSE </li>
+<li> FALSE </li>
 </ol>
 </p>]]></text>
 </generalfeedback>
@@ -4524,27 +4524,7 @@ FALSE
 <answernumbering>abc</answernumbering>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-El 65 % de los sujetos obtuvo puntajes por encima de 925
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-FALSE
-</p>]]></text>
-</feedback>
-</answer>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
-El 65 % de los sujetos obtuvo puntajes iguales a 925
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-FALSE
-</p>]]></text>
-</feedback>
-</answer>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
-El 35 % de los sujetos obtuvo puntajes por debajo de 925
+El 32 % de los sujetos obtuvo puntajes por debajo de 3983
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -4554,11 +4534,31 @@ FALSE
 </answer>
 <answer fraction="100" format="html">
 <text><![CDATA[<p>
-El 65 % de los sujetos obtuvo puntajes por debajo de 925
+El 68 % de los sujetos obtuvo puntajes por debajo de 3983
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
 TRUE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+El 68 % de los sujetos obtuvo puntajes iguales a 3983
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+El 68 % de los sujetos obtuvo puntajes por encima de 3983
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
 </p>]]></text>
 </feedback>
 </answer>
@@ -4571,15 +4571,15 @@ TRUE
 </name>
 <questiontext format="html">
 <text><![CDATA[<p>
-<p><strong>R2018_0009</strong>. Si el percentil 72 de los puntajes de una prueba es 644, entonces:</p>
+<p><strong>R2018_0009</strong>. Si el percentil 27 de los puntajes de una prueba es 1778, entonces:</p>
 </p>]]></text>
 </questiontext>
 <generalfeedback format="html">
 <text><![CDATA[<p>
 <ol type = "a">
+<li> FALSE </li>
+<li> FALSE </li>
 <li> TRUE </li>
-<li> FALSE </li>
-<li> FALSE </li>
 <li> FALSE </li>
 </ol>
 </p>]]></text>
@@ -4589,9 +4589,29 @@ TRUE
 <shuffleanswers>false</shuffleanswers>
 <single>true</single>
 <answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+El 73 % de los sujetos obtuvo puntajes por debajo de 1778
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+El 27 % de los sujetos obtuvo puntajes por encima de 1778
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
 <answer fraction="100" format="html">
 <text><![CDATA[<p>
-El 72 % de los sujetos obtuvo puntajes por debajo de 644
+El 27 % de los sujetos obtuvo puntajes por debajo de 1778
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -4601,27 +4621,7 @@ TRUE
 </answer>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-El 28 % de los sujetos obtuvo puntajes por debajo de 644
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-FALSE
-</p>]]></text>
-</feedback>
-</answer>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
-El 72 % de los sujetos obtuvo puntajes iguales a 644
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-FALSE
-</p>]]></text>
-</feedback>
-</answer>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
-El 72 % de los sujetos obtuvo puntajes por encima de 644
+El 27 % de los sujetos obtuvo puntajes iguales a 1778
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -4638,16 +4638,16 @@ FALSE
 </name>
 <questiontext format="html">
 <text><![CDATA[<p>
-<p><strong>R2018_0009</strong>. Si el percentil 55 de los puntajes de una prueba es 4031, entonces:</p>
+<p><strong>R2018_0009</strong>. Si el percentil 36 de los puntajes de una prueba es 2942, entonces:</p>
 </p>]]></text>
 </questiontext>
 <generalfeedback format="html">
 <text><![CDATA[<p>
 <ol type = "a">
 <li> FALSE </li>
-<li> FALSE </li>
-<li> FALSE </li>
 <li> TRUE </li>
+<li> FALSE </li>
+<li> FALSE </li>
 </ol>
 </p>]]></text>
 </generalfeedback>
@@ -4658,27 +4658,7 @@ FALSE
 <answernumbering>abc</answernumbering>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-El 55 % de los sujetos obtuvo puntajes por encima de 4031
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-FALSE
-</p>]]></text>
-</feedback>
-</answer>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
-El 55 % de los sujetos obtuvo puntajes iguales a 4031
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-FALSE
-</p>]]></text>
-</feedback>
-</answer>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
-El 45 % de los sujetos obtuvo puntajes por debajo de 4031
+El 36 % de los sujetos obtuvo puntajes iguales a 2942
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -4688,11 +4668,31 @@ FALSE
 </answer>
 <answer fraction="100" format="html">
 <text><![CDATA[<p>
-El 55 % de los sujetos obtuvo puntajes por debajo de 4031
+El 36 % de los sujetos obtuvo puntajes por debajo de 2942
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
 TRUE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+El 36 % de los sujetos obtuvo puntajes por encima de 2942
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+El 64 % de los sujetos obtuvo puntajes por debajo de 2942
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
 </p>]]></text>
 </feedback>
 </answer>
@@ -4705,15 +4705,15 @@ TRUE
 </name>
 <questiontext format="html">
 <text><![CDATA[<p>
-<p><strong>R2018_0009</strong>. Si el percentil 72 de los puntajes de una prueba es 2248, entonces:</p>
+<p><strong>R2018_0009</strong>. Si el percentil 54 de los puntajes de una prueba es 3104, entonces:</p>
 </p>]]></text>
 </questiontext>
 <generalfeedback format="html">
 <text><![CDATA[<p>
 <ol type = "a">
 <li> FALSE </li>
-<li> FALSE </li>
 <li> TRUE </li>
+<li> FALSE </li>
 <li> FALSE </li>
 </ol>
 </p>]]></text>
@@ -4725,17 +4725,7 @@ TRUE
 <answernumbering>abc</answernumbering>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-El 72 % de los sujetos obtuvo puntajes por encima de 2248
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-FALSE
-</p>]]></text>
-</feedback>
-</answer>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
-El 72 % de los sujetos obtuvo puntajes iguales a 2248
+El 54 % de los sujetos obtuvo puntajes iguales a 3104
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -4745,7 +4735,7 @@ FALSE
 </answer>
 <answer fraction="100" format="html">
 <text><![CDATA[<p>
-El 72 % de los sujetos obtuvo puntajes por debajo de 2248
+El 54 % de los sujetos obtuvo puntajes por debajo de 3104
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -4755,7 +4745,17 @@ TRUE
 </answer>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-El 28 % de los sujetos obtuvo puntajes por debajo de 2248
+El 54 % de los sujetos obtuvo puntajes por encima de 3104
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+El 46 % de los sujetos obtuvo puntajes por debajo de 3104
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -4772,16 +4772,16 @@ FALSE
 </name>
 <questiontext format="html">
 <text><![CDATA[<p>
-<p><strong>R2018_0009</strong>. Si el percentil 12 de los puntajes de una prueba es 3232, entonces:</p>
+<p><strong>R2018_0009</strong>. Si el percentil 68 de los puntajes de una prueba es 3913, entonces:</p>
 </p>]]></text>
 </questiontext>
 <generalfeedback format="html">
 <text><![CDATA[<p>
 <ol type = "a">
 <li> FALSE </li>
-<li> FALSE </li>
-<li> FALSE </li>
 <li> TRUE </li>
+<li> FALSE </li>
+<li> FALSE </li>
 </ol>
 </p>]]></text>
 </generalfeedback>
@@ -4792,27 +4792,7 @@ FALSE
 <answernumbering>abc</answernumbering>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-El 88 % de los sujetos obtuvo puntajes por debajo de 3232
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-FALSE
-</p>]]></text>
-</feedback>
-</answer>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
-El 12 % de los sujetos obtuvo puntajes iguales a 3232
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-FALSE
-</p>]]></text>
-</feedback>
-</answer>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
-El 12 % de los sujetos obtuvo puntajes por encima de 3232
+El 32 % de los sujetos obtuvo puntajes por debajo de 3913
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -4822,11 +4802,31 @@ FALSE
 </answer>
 <answer fraction="100" format="html">
 <text><![CDATA[<p>
-El 12 % de los sujetos obtuvo puntajes por debajo de 3232
+El 68 % de los sujetos obtuvo puntajes por debajo de 3913
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
 TRUE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+El 68 % de los sujetos obtuvo puntajes por encima de 3913
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+El 68 % de los sujetos obtuvo puntajes iguales a 3913
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
 </p>]]></text>
 </feedback>
 </answer>
@@ -4839,7 +4839,7 @@ TRUE
 </name>
 <questiontext format="html">
 <text><![CDATA[<p>
-<p><strong>R2018_0009</strong>. Si el percentil 100 de los puntajes de una prueba es 2881, entonces:</p>
+<p><strong>R2018_0009</strong>. Si el percentil 88 de los puntajes de una prueba es 652, entonces:</p>
 </p>]]></text>
 </questiontext>
 <generalfeedback format="html">
@@ -4847,8 +4847,8 @@ TRUE
 <ol type = "a">
 <li> FALSE </li>
 <li> FALSE </li>
-<li> FALSE </li>
 <li> TRUE </li>
+<li> FALSE </li>
 </ol>
 </p>]]></text>
 </generalfeedback>
@@ -4859,7 +4859,7 @@ TRUE
 <answernumbering>abc</answernumbering>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-El 100 % de los sujetos obtuvo puntajes por encima de 2881
+El 88 % de los sujetos obtuvo puntajes por encima de 652
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -4869,17 +4869,7 @@ FALSE
 </answer>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-El 100 % de los sujetos obtuvo puntajes iguales a 2881
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-FALSE
-</p>]]></text>
-</feedback>
-</answer>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
-El 0 % de los sujetos obtuvo puntajes por debajo de 2881
+El 88 % de los sujetos obtuvo puntajes iguales a 652
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -4889,11 +4879,21 @@ FALSE
 </answer>
 <answer fraction="100" format="html">
 <text><![CDATA[<p>
-El 100 % de los sujetos obtuvo puntajes por debajo de 2881
+El 88 % de los sujetos obtuvo puntajes por debajo de 652
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
 TRUE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+El 12 % de los sujetos obtuvo puntajes por debajo de 652
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
 </p>]]></text>
 </feedback>
 </answer>
@@ -4906,7 +4906,7 @@ TRUE
 </name>
 <questiontext format="html">
 <text><![CDATA[<p>
-<p><strong>R2018_0009</strong>. Si el percentil 2 de los puntajes de una prueba es 273, entonces:</p>
+<p><strong>R2018_0009</strong>. Si el percentil 26 de los puntajes de una prueba es 4817, entonces:</p>
 </p>]]></text>
 </questiontext>
 <generalfeedback format="html">
@@ -4926,7 +4926,7 @@ TRUE
 <answernumbering>abc</answernumbering>
 <answer fraction="100" format="html">
 <text><![CDATA[<p>
-El 2 % de los sujetos obtuvo puntajes por debajo de 273
+El 26 % de los sujetos obtuvo puntajes por debajo de 4817
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -4936,7 +4936,7 @@ TRUE
 </answer>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-El 2 % de los sujetos obtuvo puntajes iguales a 273
+El 74 % de los sujetos obtuvo puntajes por debajo de 4817
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -4946,7 +4946,7 @@ FALSE
 </answer>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-El 98 % de los sujetos obtuvo puntajes por debajo de 273
+El 26 % de los sujetos obtuvo puntajes por encima de 4817
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -4956,7 +4956,7 @@ FALSE
 </answer>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-El 2 % de los sujetos obtuvo puntajes por encima de 273
+El 26 % de los sujetos obtuvo puntajes iguales a 4817
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -4973,7 +4973,7 @@ FALSE
 </name>
 <questiontext format="html">
 <text><![CDATA[<p>
-<p><strong>R2018_0009</strong>. Si el percentil 52 de los puntajes de una prueba es 519, entonces:</p>
+<p><strong>R2018_0009</strong>. Si el percentil 57 de los puntajes de una prueba es 551, entonces:</p>
 </p>]]></text>
 </questiontext>
 <generalfeedback format="html">
@@ -4981,8 +4981,8 @@ FALSE
 <ol type = "a">
 <li> FALSE </li>
 <li> FALSE </li>
-<li> FALSE </li>
 <li> TRUE </li>
+<li> FALSE </li>
 </ol>
 </p>]]></text>
 </generalfeedback>
@@ -4993,7 +4993,7 @@ FALSE
 <answernumbering>abc</answernumbering>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-El 52 % de los sujetos obtuvo puntajes por encima de 519
+El 57 % de los sujetos obtuvo puntajes por encima de 551
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -5003,17 +5003,7 @@ FALSE
 </answer>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-El 52 % de los sujetos obtuvo puntajes iguales a 519
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-FALSE
-</p>]]></text>
-</feedback>
-</answer>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
-El 48 % de los sujetos obtuvo puntajes por debajo de 519
+El 57 % de los sujetos obtuvo puntajes iguales a 551
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -5023,11 +5013,21 @@ FALSE
 </answer>
 <answer fraction="100" format="html">
 <text><![CDATA[<p>
-El 52 % de los sujetos obtuvo puntajes por debajo de 519
+El 57 % de los sujetos obtuvo puntajes por debajo de 551
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
 TRUE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+El 43 % de los sujetos obtuvo puntajes por debajo de 551
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
 </p>]]></text>
 </feedback>
 </answer>
@@ -5040,15 +5040,15 @@ TRUE
 </name>
 <questiontext format="html">
 <text><![CDATA[<p>
-<p><strong>R2018_0009</strong>. Si el percentil 20 de los puntajes de una prueba es 4999, entonces:</p>
+<p><strong>R2018_0009</strong>. Si el percentil 31 de los puntajes de una prueba es 541, entonces:</p>
 </p>]]></text>
 </questiontext>
 <generalfeedback format="html">
 <text><![CDATA[<p>
 <ol type = "a">
 <li> FALSE </li>
-<li> TRUE </li>
 <li> FALSE </li>
+<li> TRUE </li>
 <li> FALSE </li>
 </ol>
 </p>]]></text>
@@ -5060,7 +5060,17 @@ TRUE
 <answernumbering>abc</answernumbering>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-El 20 % de los sujetos obtuvo puntajes por encima de 4999
+El 31 % de los sujetos obtuvo puntajes por encima de 541
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+El 31 % de los sujetos obtuvo puntajes iguales a 541
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -5070,7 +5080,7 @@ FALSE
 </answer>
 <answer fraction="100" format="html">
 <text><![CDATA[<p>
-El 20 % de los sujetos obtuvo puntajes por debajo de 4999
+El 31 % de los sujetos obtuvo puntajes por debajo de 541
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -5080,17 +5090,7 @@ TRUE
 </answer>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-El 80 % de los sujetos obtuvo puntajes por debajo de 4999
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-FALSE
-</p>]]></text>
-</feedback>
-</answer>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
-El 20 % de los sujetos obtuvo puntajes iguales a 4999
+El 69 % de los sujetos obtuvo puntajes por debajo de 541
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -5107,15 +5107,15 @@ FALSE
 </name>
 <questiontext format="html">
 <text><![CDATA[<p>
-<p><strong>R2018_0009</strong>. Si el percentil 45 de los puntajes de una prueba es 3836, entonces:</p>
+<p><strong>R2018_0009</strong>. Si el percentil 94 de los puntajes de una prueba es 800, entonces:</p>
 </p>]]></text>
 </questiontext>
 <generalfeedback format="html">
 <text><![CDATA[<p>
 <ol type = "a">
 <li> FALSE </li>
-<li> FALSE </li>
 <li> TRUE </li>
+<li> FALSE </li>
 <li> FALSE </li>
 </ol>
 </p>]]></text>
@@ -5127,17 +5127,7 @@ FALSE
 <answernumbering>abc</answernumbering>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-El 55 % de los sujetos obtuvo puntajes por debajo de 3836
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-FALSE
-</p>]]></text>
-</feedback>
-</answer>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
-El 45 % de los sujetos obtuvo puntajes iguales a 3836
+El 94 % de los sujetos obtuvo puntajes iguales a 800
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -5147,7 +5137,7 @@ FALSE
 </answer>
 <answer fraction="100" format="html">
 <text><![CDATA[<p>
-El 45 % de los sujetos obtuvo puntajes por debajo de 3836
+El 94 % de los sujetos obtuvo puntajes por debajo de 800
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -5157,7 +5147,17 @@ TRUE
 </answer>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-El 45 % de los sujetos obtuvo puntajes por encima de 3836
+El 94 % de los sujetos obtuvo puntajes por encima de 800
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+El 6 % de los sujetos obtuvo puntajes por debajo de 800
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -5174,15 +5174,15 @@ FALSE
 </name>
 <questiontext format="html">
 <text><![CDATA[<p>
-<p><strong>R2018_0009</strong>. Si el percentil 68 de los puntajes de una prueba es 249, entonces:</p>
+<p><strong>R2018_0009</strong>. Si el percentil 5 de los puntajes de una prueba es 4305, entonces:</p>
 </p>]]></text>
 </questiontext>
 <generalfeedback format="html">
 <text><![CDATA[<p>
 <ol type = "a">
 <li> FALSE </li>
-<li> FALSE </li>
 <li> TRUE </li>
+<li> FALSE </li>
 <li> FALSE </li>
 </ol>
 </p>]]></text>
@@ -5194,17 +5194,7 @@ FALSE
 <answernumbering>abc</answernumbering>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-El 32 % de los sujetos obtuvo puntajes por debajo de 249
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-FALSE
-</p>]]></text>
-</feedback>
-</answer>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
-El 68 % de los sujetos obtuvo puntajes iguales a 249
+El 95 % de los sujetos obtuvo puntajes por debajo de 4305
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -5214,7 +5204,7 @@ FALSE
 </answer>
 <answer fraction="100" format="html">
 <text><![CDATA[<p>
-El 68 % de los sujetos obtuvo puntajes por debajo de 249
+El 5 % de los sujetos obtuvo puntajes por debajo de 4305
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -5224,7 +5214,17 @@ TRUE
 </answer>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-El 68 % de los sujetos obtuvo puntajes por encima de 249
+El 5 % de los sujetos obtuvo puntajes iguales a 4305
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+El 5 % de los sujetos obtuvo puntajes por encima de 4305
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -5241,16 +5241,16 @@ FALSE
 </name>
 <questiontext format="html">
 <text><![CDATA[<p>
-<p><strong>R2018_0009</strong>. Si el percentil 54 de los puntajes de una prueba es 147, entonces:</p>
+<p><strong>R2018_0009</strong>. Si el percentil 55 de los puntajes de una prueba es 1359, entonces:</p>
 </p>]]></text>
 </questiontext>
 <generalfeedback format="html">
 <text><![CDATA[<p>
 <ol type = "a">
 <li> FALSE </li>
-<li> FALSE </li>
-<li> FALSE </li>
 <li> TRUE </li>
+<li> FALSE </li>
+<li> FALSE </li>
 </ol>
 </p>]]></text>
 </generalfeedback>
@@ -5261,27 +5261,7 @@ FALSE
 <answernumbering>abc</answernumbering>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-El 54 % de los sujetos obtuvo puntajes por encima de 147
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-FALSE
-</p>]]></text>
-</feedback>
-</answer>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
-El 54 % de los sujetos obtuvo puntajes iguales a 147
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-FALSE
-</p>]]></text>
-</feedback>
-</answer>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
-El 46 % de los sujetos obtuvo puntajes por debajo de 147
+El 45 % de los sujetos obtuvo puntajes por debajo de 1359
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -5291,11 +5271,31 @@ FALSE
 </answer>
 <answer fraction="100" format="html">
 <text><![CDATA[<p>
-El 54 % de los sujetos obtuvo puntajes por debajo de 147
+El 55 % de los sujetos obtuvo puntajes por debajo de 1359
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
 TRUE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+El 55 % de los sujetos obtuvo puntajes por encima de 1359
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+El 55 % de los sujetos obtuvo puntajes iguales a 1359
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
 </p>]]></text>
 </feedback>
 </answer>
@@ -5308,7 +5308,7 @@ TRUE
 </name>
 <questiontext format="html">
 <text><![CDATA[<p>
-<p><strong>R2018_0009</strong>. Si el percentil 52 de los puntajes de una prueba es 1952, entonces:</p>
+<p><strong>R2018_0009</strong>. Si el percentil 94 de los puntajes de una prueba es 309, entonces:</p>
 </p>]]></text>
 </questiontext>
 <generalfeedback format="html">
@@ -5316,8 +5316,8 @@ TRUE
 <ol type = "a">
 <li> FALSE </li>
 <li> FALSE </li>
-<li> FALSE </li>
 <li> TRUE </li>
+<li> FALSE </li>
 </ol>
 </p>]]></text>
 </generalfeedback>
@@ -5328,7 +5328,7 @@ TRUE
 <answernumbering>abc</answernumbering>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-El 48 % de los sujetos obtuvo puntajes por debajo de 1952
+El 6 % de los sujetos obtuvo puntajes por debajo de 309
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -5338,17 +5338,7 @@ FALSE
 </answer>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-El 52 % de los sujetos obtuvo puntajes iguales a 1952
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-FALSE
-</p>]]></text>
-</feedback>
-</answer>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
-El 52 % de los sujetos obtuvo puntajes por encima de 1952
+El 94 % de los sujetos obtuvo puntajes por encima de 309
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -5358,11 +5348,21 @@ FALSE
 </answer>
 <answer fraction="100" format="html">
 <text><![CDATA[<p>
-El 52 % de los sujetos obtuvo puntajes por debajo de 1952
+El 94 % de los sujetos obtuvo puntajes por debajo de 309
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
 TRUE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+El 94 % de los sujetos obtuvo puntajes iguales a 309
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
 </p>]]></text>
 </feedback>
 </answer>
@@ -5375,16 +5375,16 @@ TRUE
 </name>
 <questiontext format="html">
 <text><![CDATA[<p>
-<p><strong>R2018_0009</strong>. Si el percentil 81 de los puntajes de una prueba es 4607, entonces:</p>
+<p><strong>R2018_0009</strong>. Si el percentil 93 de los puntajes de una prueba es 4388, entonces:</p>
 </p>]]></text>
 </questiontext>
 <generalfeedback format="html">
 <text><![CDATA[<p>
 <ol type = "a">
+<li> FALSE </li>
+<li> FALSE </li>
+<li> FALSE </li>
 <li> TRUE </li>
-<li> FALSE </li>
-<li> FALSE </li>
-<li> FALSE </li>
 </ol>
 </p>]]></text>
 </generalfeedback>
@@ -5393,43 +5393,43 @@ TRUE
 <shuffleanswers>false</shuffleanswers>
 <single>true</single>
 <answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+El 7 % de los sujetos obtuvo puntajes por debajo de 4388
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+El 93 % de los sujetos obtuvo puntajes iguales a 4388
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+El 93 % de los sujetos obtuvo puntajes por encima de 4388
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
 <answer fraction="100" format="html">
 <text><![CDATA[<p>
-El 81 % de los sujetos obtuvo puntajes por debajo de 4607
+El 93 % de los sujetos obtuvo puntajes por debajo de 4388
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
 TRUE
-</p>]]></text>
-</feedback>
-</answer>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
-El 81 % de los sujetos obtuvo puntajes iguales a 4607
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-FALSE
-</p>]]></text>
-</feedback>
-</answer>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
-El 19 % de los sujetos obtuvo puntajes por debajo de 4607
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-FALSE
-</p>]]></text>
-</feedback>
-</answer>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
-El 81 % de los sujetos obtuvo puntajes por encima de 4607
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-FALSE
 </p>]]></text>
 </feedback>
 </answer>
@@ -5442,7 +5442,7 @@ FALSE
 </name>
 <questiontext format="html">
 <text><![CDATA[<p>
-<p><strong>R2018_0009</strong>. Si el percentil 52 de los puntajes de una prueba es 3038, entonces:</p>
+<p><strong>R2018_0009</strong>. Si el percentil 29 de los puntajes de una prueba es 1613, entonces:</p>
 </p>]]></text>
 </questiontext>
 <generalfeedback format="html">
@@ -5450,8 +5450,8 @@ FALSE
 <ol type = "a">
 <li> FALSE </li>
 <li> FALSE </li>
-<li> FALSE </li>
 <li> TRUE </li>
+<li> FALSE </li>
 </ol>
 </p>]]></text>
 </generalfeedback>
@@ -5462,7 +5462,7 @@ FALSE
 <answernumbering>abc</answernumbering>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-El 48 % de los sujetos obtuvo puntajes por debajo de 3038
+El 29 % de los sujetos obtuvo puntajes iguales a 1613
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -5472,17 +5472,7 @@ FALSE
 </answer>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-El 52 % de los sujetos obtuvo puntajes por encima de 3038
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-FALSE
-</p>]]></text>
-</feedback>
-</answer>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
-El 52 % de los sujetos obtuvo puntajes iguales a 3038
+El 29 % de los sujetos obtuvo puntajes por encima de 1613
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -5492,11 +5482,21 @@ FALSE
 </answer>
 <answer fraction="100" format="html">
 <text><![CDATA[<p>
-El 52 % de los sujetos obtuvo puntajes por debajo de 3038
+El 29 % de los sujetos obtuvo puntajes por debajo de 1613
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
 TRUE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+El 71 % de los sujetos obtuvo puntajes por debajo de 1613
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
 </p>]]></text>
 </feedback>
 </answer>
@@ -5509,14 +5509,14 @@ TRUE
 </name>
 <questiontext format="html">
 <text><![CDATA[<p>
-<p><strong>R2018_0009</strong>. Si el percentil 93 de los puntajes de una prueba es 2656, entonces:</p>
+<p><strong>R2018_0009</strong>. Si el percentil 93 de los puntajes de una prueba es 306, entonces:</p>
 </p>]]></text>
 </questiontext>
 <generalfeedback format="html">
 <text><![CDATA[<p>
 <ol type = "a">
-<li> FALSE </li>
 <li> TRUE </li>
+<li> FALSE </li>
 <li> FALSE </li>
 <li> FALSE </li>
 </ol>
@@ -5527,19 +5527,9 @@ TRUE
 <shuffleanswers>false</shuffleanswers>
 <single>true</single>
 <answernumbering>abc</answernumbering>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
-El 7 % de los sujetos obtuvo puntajes por debajo de 2656
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-FALSE
-</p>]]></text>
-</feedback>
-</answer>
 <answer fraction="100" format="html">
 <text><![CDATA[<p>
-El 93 % de los sujetos obtuvo puntajes por debajo de 2656
+El 93 % de los sujetos obtuvo puntajes por debajo de 306
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -5549,7 +5539,7 @@ TRUE
 </answer>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-El 93 % de los sujetos obtuvo puntajes por encima de 2656
+El 93 % de los sujetos obtuvo puntajes por encima de 306
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -5559,7 +5549,17 @@ FALSE
 </answer>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-El 93 % de los sujetos obtuvo puntajes iguales a 2656
+El 93 % de los sujetos obtuvo puntajes iguales a 306
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+El 7 % de los sujetos obtuvo puntajes por debajo de 306
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -5576,14 +5576,14 @@ FALSE
 </name>
 <questiontext format="html">
 <text><![CDATA[<p>
-<p><strong>R2018_0009</strong>. Si el percentil 29 de los puntajes de una prueba es 1958, entonces:</p>
+<p><strong>R2018_0009</strong>. Si el percentil 6 de los puntajes de una prueba es 3086, entonces:</p>
 </p>]]></text>
 </questiontext>
 <generalfeedback format="html">
 <text><![CDATA[<p>
 <ol type = "a">
-<li> FALSE </li>
 <li> TRUE </li>
+<li> FALSE </li>
 <li> FALSE </li>
 <li> FALSE </li>
 </ol>
@@ -5594,19 +5594,9 @@ FALSE
 <shuffleanswers>false</shuffleanswers>
 <single>true</single>
 <answernumbering>abc</answernumbering>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
-El 29 % de los sujetos obtuvo puntajes iguales a 1958
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-FALSE
-</p>]]></text>
-</feedback>
-</answer>
 <answer fraction="100" format="html">
 <text><![CDATA[<p>
-El 29 % de los sujetos obtuvo puntajes por debajo de 1958
+El 6 % de los sujetos obtuvo puntajes por debajo de 3086
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -5616,7 +5606,7 @@ TRUE
 </answer>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-El 29 % de los sujetos obtuvo puntajes por encima de 1958
+El 6 % de los sujetos obtuvo puntajes iguales a 3086
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -5626,7 +5616,17 @@ FALSE
 </answer>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-El 71 % de los sujetos obtuvo puntajes por debajo de 1958
+El 6 % de los sujetos obtuvo puntajes por encima de 3086
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+El 94 % de los sujetos obtuvo puntajes por debajo de 3086
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -5643,7 +5643,7 @@ FALSE
 </name>
 <questiontext format="html">
 <text><![CDATA[<p>
-<p><strong>R2018_0009</strong>. Si el percentil 53 de los puntajes de una prueba es 3479, entonces:</p>
+<p><strong>R2018_0009</strong>. Si el percentil 38 de los puntajes de una prueba es 4419, entonces:</p>
 </p>]]></text>
 </questiontext>
 <generalfeedback format="html">
@@ -5663,7 +5663,7 @@ FALSE
 <answernumbering>abc</answernumbering>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-El 47 % de los sujetos obtuvo puntajes por debajo de 3479
+El 38 % de los sujetos obtuvo puntajes iguales a 4419
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -5673,7 +5673,7 @@ FALSE
 </answer>
 <answer fraction="100" format="html">
 <text><![CDATA[<p>
-El 53 % de los sujetos obtuvo puntajes por debajo de 3479
+El 38 % de los sujetos obtuvo puntajes por debajo de 4419
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -5683,7 +5683,7 @@ TRUE
 </answer>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-El 53 % de los sujetos obtuvo puntajes por encima de 3479
+El 62 % de los sujetos obtuvo puntajes por debajo de 4419
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -5693,7 +5693,7 @@ FALSE
 </answer>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-El 53 % de los sujetos obtuvo puntajes iguales a 3479
+El 38 % de los sujetos obtuvo puntajes por encima de 4419
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -5710,16 +5710,16 @@ FALSE
 </name>
 <questiontext format="html">
 <text><![CDATA[<p>
-<p><strong>R2018_0009</strong>. Si el percentil 93 de los puntajes de una prueba es 4973, entonces:</p>
+<p><strong>R2018_0009</strong>. Si el percentil 22 de los puntajes de una prueba es 3484, entonces:</p>
 </p>]]></text>
 </questiontext>
 <generalfeedback format="html">
 <text><![CDATA[<p>
 <ol type = "a">
 <li> FALSE </li>
-<li> FALSE </li>
-<li> FALSE </li>
 <li> TRUE </li>
+<li> FALSE </li>
+<li> FALSE </li>
 </ol>
 </p>]]></text>
 </generalfeedback>
@@ -5730,27 +5730,7 @@ FALSE
 <answernumbering>abc</answernumbering>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-El 93 % de los sujetos obtuvo puntajes por encima de 4973
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-FALSE
-</p>]]></text>
-</feedback>
-</answer>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
-El 93 % de los sujetos obtuvo puntajes iguales a 4973
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-FALSE
-</p>]]></text>
-</feedback>
-</answer>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
-El 7 % de los sujetos obtuvo puntajes por debajo de 4973
+El 22 % de los sujetos obtuvo puntajes por encima de 3484
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -5760,11 +5740,31 @@ FALSE
 </answer>
 <answer fraction="100" format="html">
 <text><![CDATA[<p>
-El 93 % de los sujetos obtuvo puntajes por debajo de 4973
+El 22 % de los sujetos obtuvo puntajes por debajo de 3484
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
 TRUE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+El 22 % de los sujetos obtuvo puntajes iguales a 3484
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+El 78 % de los sujetos obtuvo puntajes por debajo de 3484
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
 </p>]]></text>
 </feedback>
 </answer>
@@ -5777,7 +5777,7 @@ TRUE
 </name>
 <questiontext format="html">
 <text><![CDATA[<p>
-<p><strong>R2018_0009</strong>. Si el percentil 14 de los puntajes de una prueba es 60, entonces:</p>
+<p><strong>R2018_0009</strong>. Si el percentil 34 de los puntajes de una prueba es 92, entonces:</p>
 </p>]]></text>
 </questiontext>
 <generalfeedback format="html">
@@ -5797,7 +5797,7 @@ TRUE
 <answernumbering>abc</answernumbering>
 <answer fraction="100" format="html">
 <text><![CDATA[<p>
-El 14 % de los sujetos obtuvo puntajes por debajo de 60
+El 34 % de los sujetos obtuvo puntajes por debajo de 92
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -5807,7 +5807,7 @@ TRUE
 </answer>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-El 14 % de los sujetos obtuvo puntajes iguales a 60
+El 66 % de los sujetos obtuvo puntajes por debajo de 92
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -5817,7 +5817,7 @@ FALSE
 </answer>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-El 86 % de los sujetos obtuvo puntajes por debajo de 60
+El 34 % de los sujetos obtuvo puntajes por encima de 92
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -5827,7 +5827,7 @@ FALSE
 </answer>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-El 14 % de los sujetos obtuvo puntajes por encima de 60
+El 34 % de los sujetos obtuvo puntajes iguales a 92
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -5844,16 +5844,16 @@ FALSE
 </name>
 <questiontext format="html">
 <text><![CDATA[<p>
-<p><strong>R2018_0009</strong>. Si el percentil 87 de los puntajes de una prueba es 4092, entonces:</p>
+<p><strong>R2018_0009</strong>. Si el percentil 70 de los puntajes de una prueba es 1552, entonces:</p>
 </p>]]></text>
 </questiontext>
 <generalfeedback format="html">
 <text><![CDATA[<p>
 <ol type = "a">
 <li> FALSE </li>
+<li> FALSE </li>
+<li> FALSE </li>
 <li> TRUE </li>
-<li> FALSE </li>
-<li> FALSE </li>
 </ol>
 </p>]]></text>
 </generalfeedback>
@@ -5864,7 +5864,27 @@ FALSE
 <answernumbering>abc</answernumbering>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-El 87 % de los sujetos obtuvo puntajes por encima de 4092
+El 70 % de los sujetos obtuvo puntajes iguales a 1552
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+El 70 % de los sujetos obtuvo puntajes por encima de 1552
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+El 30 % de los sujetos obtuvo puntajes por debajo de 1552
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -5874,31 +5894,11 @@ FALSE
 </answer>
 <answer fraction="100" format="html">
 <text><![CDATA[<p>
-El 87 % de los sujetos obtuvo puntajes por debajo de 4092
+El 70 % de los sujetos obtuvo puntajes por debajo de 1552
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
 TRUE
-</p>]]></text>
-</feedback>
-</answer>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
-El 13 % de los sujetos obtuvo puntajes por debajo de 4092
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-FALSE
-</p>]]></text>
-</feedback>
-</answer>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
-El 87 % de los sujetos obtuvo puntajes iguales a 4092
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-FALSE
 </p>]]></text>
 </feedback>
 </answer>
@@ -5911,15 +5911,15 @@ FALSE
 </name>
 <questiontext format="html">
 <text><![CDATA[<p>
-<p><strong>R2018_0009</strong>. Si el percentil 43 de los puntajes de una prueba es 3086, entonces:</p>
+<p><strong>R2018_0009</strong>. Si el percentil 75 de los puntajes de una prueba es 2582, entonces:</p>
 </p>]]></text>
 </questiontext>
 <generalfeedback format="html">
 <text><![CDATA[<p>
 <ol type = "a">
+<li> FALSE </li>
+<li> FALSE </li>
 <li> TRUE </li>
-<li> FALSE </li>
-<li> FALSE </li>
 <li> FALSE </li>
 </ol>
 </p>]]></text>
@@ -5929,9 +5929,29 @@ FALSE
 <shuffleanswers>false</shuffleanswers>
 <single>true</single>
 <answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+El 25 % de los sujetos obtuvo puntajes por debajo de 2582
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+El 75 % de los sujetos obtuvo puntajes iguales a 2582
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
 <answer fraction="100" format="html">
 <text><![CDATA[<p>
-El 43 % de los sujetos obtuvo puntajes por debajo de 3086
+El 75 % de los sujetos obtuvo puntajes por debajo de 2582
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -5941,27 +5961,7 @@ TRUE
 </answer>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-El 43 % de los sujetos obtuvo puntajes por encima de 3086
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-FALSE
-</p>]]></text>
-</feedback>
-</answer>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
-El 57 % de los sujetos obtuvo puntajes por debajo de 3086
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-FALSE
-</p>]]></text>
-</feedback>
-</answer>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
-El 43 % de los sujetos obtuvo puntajes iguales a 3086
+El 75 % de los sujetos obtuvo puntajes por encima de 2582
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -5978,7 +5978,7 @@ FALSE
 </name>
 <questiontext format="html">
 <text><![CDATA[<p>
-<p><strong>R2018_0009</strong>. Si el percentil 9 de los puntajes de una prueba es 3908, entonces:</p>
+<p><strong>R2018_0009</strong>. Si el percentil 36 de los puntajes de una prueba es 4736, entonces:</p>
 </p>]]></text>
 </questiontext>
 <generalfeedback format="html">
@@ -5998,7 +5998,7 @@ FALSE
 <answernumbering>abc</answernumbering>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-El 91 % de los sujetos obtuvo puntajes por debajo de 3908
+El 36 % de los sujetos obtuvo puntajes iguales a 4736
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -6008,7 +6008,7 @@ FALSE
 </answer>
 <answer fraction="100" format="html">
 <text><![CDATA[<p>
-El 9 % de los sujetos obtuvo puntajes por debajo de 3908
+El 36 % de los sujetos obtuvo puntajes por debajo de 4736
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -6018,7 +6018,7 @@ TRUE
 </answer>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-El 9 % de los sujetos obtuvo puntajes iguales a 3908
+El 36 % de los sujetos obtuvo puntajes por encima de 4736
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -6028,7 +6028,7 @@ FALSE
 </answer>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-El 9 % de los sujetos obtuvo puntajes por encima de 3908
+El 64 % de los sujetos obtuvo puntajes por debajo de 4736
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -6045,7 +6045,7 @@ FALSE
 </name>
 <questiontext format="html">
 <text><![CDATA[<p>
-<p><strong>R2018_0009</strong>. Si el percentil 100 de los puntajes de una prueba es 4023, entonces:</p>
+<p><strong>R2018_0009</strong>. Si el percentil 36 de los puntajes de una prueba es 4328, entonces:</p>
 </p>]]></text>
 </questiontext>
 <generalfeedback format="html">
@@ -6065,7 +6065,7 @@ FALSE
 <answernumbering>abc</answernumbering>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-El 0 % de los sujetos obtuvo puntajes por debajo de 4023
+El 36 % de los sujetos obtuvo puntajes por encima de 4328
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -6075,7 +6075,7 @@ FALSE
 </answer>
 <answer fraction="100" format="html">
 <text><![CDATA[<p>
-El 100 % de los sujetos obtuvo puntajes por debajo de 4023
+El 36 % de los sujetos obtuvo puntajes por debajo de 4328
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -6085,7 +6085,7 @@ TRUE
 </answer>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-El 100 % de los sujetos obtuvo puntajes iguales a 4023
+El 36 % de los sujetos obtuvo puntajes iguales a 4328
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -6095,7 +6095,7 @@ FALSE
 </answer>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-El 100 % de los sujetos obtuvo puntajes por encima de 4023
+El 64 % de los sujetos obtuvo puntajes por debajo de 4328
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -6112,15 +6112,15 @@ FALSE
 </name>
 <questiontext format="html">
 <text><![CDATA[<p>
-<p><strong>R2018_0009</strong>. Si el percentil 23 de los puntajes de una prueba es 2139, entonces:</p>
+<p><strong>R2018_0009</strong>. Si el percentil 28 de los puntajes de una prueba es 2454, entonces:</p>
 </p>]]></text>
 </questiontext>
 <generalfeedback format="html">
 <text><![CDATA[<p>
 <ol type = "a">
 <li> FALSE </li>
-<li> FALSE </li>
 <li> TRUE </li>
+<li> FALSE </li>
 <li> FALSE </li>
 </ol>
 </p>]]></text>
@@ -6132,17 +6132,7 @@ FALSE
 <answernumbering>abc</answernumbering>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-El 23 % de los sujetos obtuvo puntajes por encima de 2139
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-FALSE
-</p>]]></text>
-</feedback>
-</answer>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
-El 77 % de los sujetos obtuvo puntajes por debajo de 2139
+El 72 % de los sujetos obtuvo puntajes por debajo de 2454
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -6152,7 +6142,7 @@ FALSE
 </answer>
 <answer fraction="100" format="html">
 <text><![CDATA[<p>
-El 23 % de los sujetos obtuvo puntajes por debajo de 2139
+El 28 % de los sujetos obtuvo puntajes por debajo de 2454
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -6162,7 +6152,17 @@ TRUE
 </answer>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-El 23 % de los sujetos obtuvo puntajes iguales a 2139
+El 28 % de los sujetos obtuvo puntajes iguales a 2454
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+El 28 % de los sujetos obtuvo puntajes por encima de 2454
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -6179,16 +6179,16 @@ FALSE
 </name>
 <questiontext format="html">
 <text><![CDATA[<p>
-<p><strong>R2018_0009</strong>. Si el percentil 27 de los puntajes de una prueba es 1235, entonces:</p>
+<p><strong>R2018_0009</strong>. Si el percentil 25 de los puntajes de una prueba es 2149, entonces:</p>
 </p>]]></text>
 </questiontext>
 <generalfeedback format="html">
 <text><![CDATA[<p>
 <ol type = "a">
 <li> FALSE </li>
-<li> FALSE </li>
-<li> FALSE </li>
 <li> TRUE </li>
+<li> FALSE </li>
+<li> FALSE </li>
 </ol>
 </p>]]></text>
 </generalfeedback>
@@ -6199,27 +6199,7 @@ FALSE
 <answernumbering>abc</answernumbering>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-El 27 % de los sujetos obtuvo puntajes por encima de 1235
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-FALSE
-</p>]]></text>
-</feedback>
-</answer>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
-El 27 % de los sujetos obtuvo puntajes iguales a 1235
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-FALSE
-</p>]]></text>
-</feedback>
-</answer>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
-El 73 % de los sujetos obtuvo puntajes por debajo de 1235
+El 75 % de los sujetos obtuvo puntajes por debajo de 2149
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -6229,11 +6209,31 @@ FALSE
 </answer>
 <answer fraction="100" format="html">
 <text><![CDATA[<p>
-El 27 % de los sujetos obtuvo puntajes por debajo de 1235
+El 25 % de los sujetos obtuvo puntajes por debajo de 2149
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
 TRUE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+El 25 % de los sujetos obtuvo puntajes por encima de 2149
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+El 25 % de los sujetos obtuvo puntajes iguales a 2149
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
 </p>]]></text>
 </feedback>
 </answer>
@@ -6246,7 +6246,7 @@ TRUE
 </name>
 <questiontext format="html">
 <text><![CDATA[<p>
-<p><strong>R2018_0009</strong>. Si el percentil 6 de los puntajes de una prueba es 2416, entonces:</p>
+<p><strong>R2018_0009</strong>. Si el percentil 4 de los puntajes de una prueba es 1373, entonces:</p>
 </p>]]></text>
 </questiontext>
 <generalfeedback format="html">
@@ -6266,7 +6266,7 @@ TRUE
 <answernumbering>abc</answernumbering>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-El 94 % de los sujetos obtuvo puntajes por debajo de 2416
+El 4 % de los sujetos obtuvo puntajes por encima de 1373
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -6276,7 +6276,7 @@ FALSE
 </answer>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-El 6 % de los sujetos obtuvo puntajes por encima de 2416
+El 4 % de los sujetos obtuvo puntajes iguales a 1373
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -6286,7 +6286,7 @@ FALSE
 </answer>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-El 6 % de los sujetos obtuvo puntajes iguales a 2416
+El 96 % de los sujetos obtuvo puntajes por debajo de 1373
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -6296,7 +6296,7 @@ FALSE
 </answer>
 <answer fraction="100" format="html">
 <text><![CDATA[<p>
-El 6 % de los sujetos obtuvo puntajes por debajo de 2416
+El 4 % de los sujetos obtuvo puntajes por debajo de 1373
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -6313,7 +6313,7 @@ TRUE
 </name>
 <questiontext format="html">
 <text><![CDATA[<p>
-<p><strong>R2018_0009</strong>. Si el percentil 81 de los puntajes de una prueba es 4473, entonces:</p>
+<p><strong>R2018_0009</strong>. Si el percentil 37 de los puntajes de una prueba es 1277, entonces:</p>
 </p>]]></text>
 </questiontext>
 <generalfeedback format="html">
@@ -6333,7 +6333,7 @@ TRUE
 <answernumbering>abc</answernumbering>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-El 81 % de los sujetos obtuvo puntajes iguales a 4473
+El 63 % de los sujetos obtuvo puntajes por debajo de 1277
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -6343,7 +6343,7 @@ FALSE
 </answer>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-El 19 % de los sujetos obtuvo puntajes por debajo de 4473
+El 37 % de los sujetos obtuvo puntajes iguales a 1277
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -6353,7 +6353,7 @@ FALSE
 </answer>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-El 81 % de los sujetos obtuvo puntajes por encima de 4473
+El 37 % de los sujetos obtuvo puntajes por encima de 1277
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -6363,7 +6363,7 @@ FALSE
 </answer>
 <answer fraction="100" format="html">
 <text><![CDATA[<p>
-El 81 % de los sujetos obtuvo puntajes por debajo de 4473
+El 37 % de los sujetos obtuvo puntajes por debajo de 1277
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -6380,14 +6380,14 @@ TRUE
 </name>
 <questiontext format="html">
 <text><![CDATA[<p>
-<p><strong>R2018_0009</strong>. Si el percentil 42 de los puntajes de una prueba es 3537, entonces:</p>
+<p><strong>R2018_0009</strong>. Si el percentil 62 de los puntajes de una prueba es 379, entonces:</p>
 </p>]]></text>
 </questiontext>
 <generalfeedback format="html">
 <text><![CDATA[<p>
 <ol type = "a">
-<li> FALSE </li>
 <li> TRUE </li>
+<li> FALSE </li>
 <li> FALSE </li>
 <li> FALSE </li>
 </ol>
@@ -6398,19 +6398,9 @@ TRUE
 <shuffleanswers>false</shuffleanswers>
 <single>true</single>
 <answernumbering>abc</answernumbering>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
-El 58 % de los sujetos obtuvo puntajes por debajo de 3537
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-FALSE
-</p>]]></text>
-</feedback>
-</answer>
 <answer fraction="100" format="html">
 <text><![CDATA[<p>
-El 42 % de los sujetos obtuvo puntajes por debajo de 3537
+El 62 % de los sujetos obtuvo puntajes por debajo de 379
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -6420,7 +6410,7 @@ TRUE
 </answer>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-El 42 % de los sujetos obtuvo puntajes iguales a 3537
+El 38 % de los sujetos obtuvo puntajes por debajo de 379
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -6430,7 +6420,17 @@ FALSE
 </answer>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-El 42 % de los sujetos obtuvo puntajes por encima de 3537
+El 62 % de los sujetos obtuvo puntajes por encima de 379
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+El 62 % de los sujetos obtuvo puntajes iguales a 379
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -6447,7 +6447,7 @@ FALSE
 </name>
 <questiontext format="html">
 <text><![CDATA[<p>
-<p><strong>R2018_0009</strong>. Si el percentil 80 de los puntajes de una prueba es 1361, entonces:</p>
+<p><strong>R2018_0009</strong>. Si el percentil 83 de los puntajes de una prueba es 1806, entonces:</p>
 </p>]]></text>
 </questiontext>
 <generalfeedback format="html">
@@ -6467,7 +6467,7 @@ FALSE
 <answernumbering>abc</answernumbering>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-El 80 % de los sujetos obtuvo puntajes iguales a 1361
+El 83 % de los sujetos obtuvo puntajes por encima de 1806
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -6477,7 +6477,7 @@ FALSE
 </answer>
 <answer fraction="100" format="html">
 <text><![CDATA[<p>
-El 80 % de los sujetos obtuvo puntajes por debajo de 1361
+El 83 % de los sujetos obtuvo puntajes por debajo de 1806
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -6487,7 +6487,7 @@ TRUE
 </answer>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-El 20 % de los sujetos obtuvo puntajes por debajo de 1361
+El 17 % de los sujetos obtuvo puntajes por debajo de 1806
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -6497,7 +6497,7 @@ FALSE
 </answer>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-El 80 % de los sujetos obtuvo puntajes por encima de 1361
+El 83 % de los sujetos obtuvo puntajes iguales a 1806
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -6514,14 +6514,14 @@ FALSE
 </name>
 <questiontext format="html">
 <text><![CDATA[<p>
-<p><strong>R2018_0009</strong>. Si el percentil 19 de los puntajes de una prueba es 613, entonces:</p>
+<p><strong>R2018_0009</strong>. Si el percentil 74 de los puntajes de una prueba es 4568, entonces:</p>
 </p>]]></text>
 </questiontext>
 <generalfeedback format="html">
 <text><![CDATA[<p>
 <ol type = "a">
-<li> FALSE </li>
 <li> TRUE </li>
+<li> FALSE </li>
 <li> FALSE </li>
 <li> FALSE </li>
 </ol>
@@ -6532,19 +6532,9 @@ FALSE
 <shuffleanswers>false</shuffleanswers>
 <single>true</single>
 <answernumbering>abc</answernumbering>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
-El 19 % de los sujetos obtuvo puntajes iguales a 613
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-FALSE
-</p>]]></text>
-</feedback>
-</answer>
 <answer fraction="100" format="html">
 <text><![CDATA[<p>
-El 19 % de los sujetos obtuvo puntajes por debajo de 613
+El 74 % de los sujetos obtuvo puntajes por debajo de 4568
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -6554,7 +6544,7 @@ TRUE
 </answer>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-El 81 % de los sujetos obtuvo puntajes por debajo de 613
+El 26 % de los sujetos obtuvo puntajes por debajo de 4568
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -6564,7 +6554,17 @@ FALSE
 </answer>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-El 19 % de los sujetos obtuvo puntajes por encima de 613
+El 74 % de los sujetos obtuvo puntajes por encima de 4568
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+El 74 % de los sujetos obtuvo puntajes iguales a 4568
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -6581,15 +6581,15 @@ FALSE
 </name>
 <questiontext format="html">
 <text><![CDATA[<p>
-<p><strong>R2018_0009</strong>. Si el percentil 76 de los puntajes de una prueba es 3310, entonces:</p>
+<p><strong>R2018_0009</strong>. Si el percentil 98 de los puntajes de una prueba es 2830, entonces:</p>
 </p>]]></text>
 </questiontext>
 <generalfeedback format="html">
 <text><![CDATA[<p>
 <ol type = "a">
+<li> FALSE </li>
+<li> FALSE </li>
 <li> TRUE </li>
-<li> FALSE </li>
-<li> FALSE </li>
 <li> FALSE </li>
 </ol>
 </p>]]></text>
@@ -6599,9 +6599,29 @@ FALSE
 <shuffleanswers>false</shuffleanswers>
 <single>true</single>
 <answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+El 98 % de los sujetos obtuvo puntajes iguales a 2830
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+El 98 % de los sujetos obtuvo puntajes por encima de 2830
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
 <answer fraction="100" format="html">
 <text><![CDATA[<p>
-El 76 % de los sujetos obtuvo puntajes por debajo de 3310
+El 98 % de los sujetos obtuvo puntajes por debajo de 2830
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -6611,27 +6631,7 @@ TRUE
 </answer>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-El 76 % de los sujetos obtuvo puntajes iguales a 3310
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-FALSE
-</p>]]></text>
-</feedback>
-</answer>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
-El 24 % de los sujetos obtuvo puntajes por debajo de 3310
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-FALSE
-</p>]]></text>
-</feedback>
-</answer>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
-El 76 % de los sujetos obtuvo puntajes por encima de 3310
+El 2 % de los sujetos obtuvo puntajes por debajo de 2830
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -6648,15 +6648,15 @@ FALSE
 </name>
 <questiontext format="html">
 <text><![CDATA[<p>
-<p><strong>R2018_0009</strong>. Si el percentil 35 de los puntajes de una prueba es 3617, entonces:</p>
+<p><strong>R2018_0009</strong>. Si el percentil 38 de los puntajes de una prueba es 4643, entonces:</p>
 </p>]]></text>
 </questiontext>
 <generalfeedback format="html">
 <text><![CDATA[<p>
 <ol type = "a">
 <li> FALSE </li>
-<li> FALSE </li>
 <li> TRUE </li>
+<li> FALSE </li>
 <li> FALSE </li>
 </ol>
 </p>]]></text>
@@ -6668,17 +6668,7 @@ FALSE
 <answernumbering>abc</answernumbering>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-El 35 % de los sujetos obtuvo puntajes iguales a 3617
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-FALSE
-</p>]]></text>
-</feedback>
-</answer>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
-El 65 % de los sujetos obtuvo puntajes por debajo de 3617
+El 62 % de los sujetos obtuvo puntajes por debajo de 4643
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -6688,7 +6678,7 @@ FALSE
 </answer>
 <answer fraction="100" format="html">
 <text><![CDATA[<p>
-El 35 % de los sujetos obtuvo puntajes por debajo de 3617
+El 38 % de los sujetos obtuvo puntajes por debajo de 4643
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -6698,7 +6688,17 @@ TRUE
 </answer>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-El 35 % de los sujetos obtuvo puntajes por encima de 3617
+El 38 % de los sujetos obtuvo puntajes iguales a 4643
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+El 38 % de los sujetos obtuvo puntajes por encima de 4643
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
