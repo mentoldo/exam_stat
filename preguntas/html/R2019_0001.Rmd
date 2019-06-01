@@ -1,0 +1,57 @@
+```{r data generation, echo = FALSE, results = "hide"}
+## Generación de datos
+x=rnorm(1, 50,5)*runif(round(100*runif(1),0))
+t=round(100*runif(1),0)
+s=round(100*runif(1),0)
+menor=ifelse(s>t, t, s)
+mayor=ifelse(s>t, s, t)
+
+correcta <- paste(round((mayor-menor)*length(x)/100, 2), " casos", sep = "")
+
+incorrectas <- c(paste(100-(mayor-menor), "% de casos", sep = ""),
+                 paste(length(x)-round((mayor-menor)*length(x)/100,0), " casos", sep = ""),
+                 paste(round(quantile(x, mayor/100), 2) - round(quantile(x, menor/100), 2), " casos", sep = "")
+                 )
+
+opciones <- c(correcta, incorrectas)
+
+## QUESTION/ANSWER GENERATION
+questions <- character(4)
+solutions <- logical(4)
+
+questions[1] <- opciones[1]
+solutions[1] <- TRUE
+
+questions[2] <- opciones[2]
+solutions[2] <- FALSE
+    
+questions[3] <- opciones[3]
+solutions[3] <- FALSE
+
+questions[4] <- opciones[4]
+solutions[4] <- FALSE
+```
+
+
+Question
+========
+
+**R2019_0001.** Una distribución tiene `r length(x)` observaciones. Si el percentil `r menor` de esa variable es `r round(quantile(x,menor/100), 2)` y el percentil `r mayor` es `r round(quantile(x,mayor/100), 2)` entonces, entre `r round(quantile(x,menor/100), 2)` y `r round(quantile(x,mayor/100), 2)` hay:
+
+```{r questionlist, echo = FALSE, results = "asis"}
+answerlist(questions, markup = "markdown")
+```
+  
+Solution
+========
+
+```{r solutionlist, echo = FALSE, results = "asis"}
+answerlist(solutions, markup = "markdown")
+```
+
+Meta-information
+================
+exname: R2019_0001
+extype: schoice
+exsolution: 1000
+exshuffle: TRUE
