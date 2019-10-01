@@ -1,0 +1,6711 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+
+
+<question type="category">
+<category>
+<text>$course$/R2019_0005/Exercise 1</text>
+</category>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R001 Q1 : preguntas_html_R2019_0005 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p><strong>R2019_0005</strong>. Se modela el tiempo de reacción a un estímulo visual (expresado en segundos) como función de la concentración de alcohol en sangre (expresada en gramos). El modelo resultante es y = 0.27+2.87*x. El tiempo medio esperado de reacción para una persona con una concentración de 1.25 gramos es:</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<ol type = "a">
+<li> INCORRECTA </li>
+<li> CORRECTA </li>
+<li> INCORRECTA </li>
+<li> INCORRECTA </li>
+</ol>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+0.34 segundos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+INCORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+3.86 segundos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+CORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+2.06 segundos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+INCORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+3.21 segundos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+INCORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R002 Q1 : preguntas_html_R2019_0005 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p><strong>R2019_0005</strong>. Se modela el tiempo de reacción a un estímulo visual (expresado en segundos) como función de la concentración de alcohol en sangre (expresada en gramos). El modelo resultante es y = 0.4+2.67*x. El tiempo medio esperado de reacción para una persona con una concentración de 2.62 gramos es:</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<ol type = "a">
+<li> INCORRECTA </li>
+<li> INCORRECTA </li>
+<li> CORRECTA </li>
+<li> INCORRECTA </li>
+</ol>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+3.9 segundos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+INCORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+3.72 segundos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+INCORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+7.4 segundos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+CORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+0.83 segundos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+INCORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R003 Q1 : preguntas_html_R2019_0005 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p><strong>R2019_0005</strong>. Se modela el tiempo de reacción a un estímulo visual (expresado en segundos) como función de la concentración de alcohol en sangre (expresada en gramos). El modelo resultante es y = 0.26+2.42*x. El tiempo medio esperado de reacción para una persona con una concentración de 0.96 gramos es:</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<ol type = "a">
+<li> CORRECTA </li>
+<li> INCORRECTA </li>
+<li> INCORRECTA </li>
+<li> INCORRECTA </li>
+</ol>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+2.58 segundos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+CORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+0.29 segundos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+INCORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+1.42 segundos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+INCORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+2.67 segundos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+INCORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R004 Q1 : preguntas_html_R2019_0005 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p><strong>R2019_0005</strong>. Se modela el tiempo de reacción a un estímulo visual (expresado en segundos) como función de la concentración de alcohol en sangre (expresada en gramos). El modelo resultante es y = 0.36+2.14*x. El tiempo medio esperado de reacción para una persona con una concentración de 2.72 gramos es:</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<ol type = "a">
+<li> INCORRECTA </li>
+<li> INCORRECTA </li>
+<li> INCORRECTA </li>
+<li> CORRECTA </li>
+</ol>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+3.12 segundos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+INCORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+3.27 segundos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+INCORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+1.1 segundos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+INCORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+6.18 segundos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+CORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R005 Q1 : preguntas_html_R2019_0005 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p><strong>R2019_0005</strong>. Se modela el tiempo de reacción a un estímulo visual (expresado en segundos) como función de la concentración de alcohol en sangre (expresada en gramos). El modelo resultante es y = 0.55+2.35*x. El tiempo medio esperado de reacción para una persona con una concentración de 1.26 gramos es:</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<ol type = "a">
+<li> INCORRECTA </li>
+<li> CORRECTA </li>
+<li> INCORRECTA </li>
+<li> INCORRECTA </li>
+</ol>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+0.3 segundos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+INCORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+3.51 segundos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+CORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+2.03 segundos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+INCORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+3.04 segundos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+INCORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R006 Q1 : preguntas_html_R2019_0005 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p><strong>R2019_0005</strong>. Se modela el tiempo de reacción a un estímulo visual (expresado en segundos) como función de la concentración de alcohol en sangre (expresada en gramos). El modelo resultante es y = 0.69+2.5*x. El tiempo medio esperado de reacción para una persona con una concentración de 2.74 gramos es:</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<ol type = "a">
+<li> INCORRECTA </li>
+<li> INCORRECTA </li>
+<li> INCORRECTA </li>
+<li> CORRECTA </li>
+</ol>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+4.12 segundos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+INCORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+4.39 segundos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+INCORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+0.82 segundos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+INCORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+7.54 segundos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+CORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R007 Q1 : preguntas_html_R2019_0005 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p><strong>R2019_0005</strong>. Se modela el tiempo de reacción a un estímulo visual (expresado en segundos) como función de la concentración de alcohol en sangre (expresada en gramos). El modelo resultante es y = 0.83+2.83*x. El tiempo medio esperado de reacción para una persona con una concentración de 2.52 gramos es:</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<ol type = "a">
+<li> INCORRECTA </li>
+<li> CORRECTA </li>
+<li> INCORRECTA </li>
+<li> INCORRECTA </li>
+</ol>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+4.4 segundos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+INCORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+7.96 segundos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+CORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+0.6 segundos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+INCORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+4.92 segundos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+INCORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R008 Q1 : preguntas_html_R2019_0005 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p><strong>R2019_0005</strong>. Se modela el tiempo de reacción a un estímulo visual (expresado en segundos) como función de la concentración de alcohol en sangre (expresada en gramos). El modelo resultante es y = 0.89+1.92*x. El tiempo medio esperado de reacción para una persona con una concentración de 2.12 gramos es:</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<ol type = "a">
+<li> INCORRECTA </li>
+<li> INCORRECTA </li>
+<li> INCORRECTA </li>
+<li> CORRECTA </li>
+</ol>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+2.93 segundos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+INCORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+0.64 segundos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+INCORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+3.81 segundos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+INCORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+4.96 segundos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+CORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R009 Q1 : preguntas_html_R2019_0005 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p><strong>R2019_0005</strong>. Se modela el tiempo de reacción a un estímulo visual (expresado en segundos) como función de la concentración de alcohol en sangre (expresada en gramos). El modelo resultante es y = 0.48+2.86*x. El tiempo medio esperado de reacción para una persona con una concentración de 0.37 gramos es:</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<ol type = "a">
+<li> INCORRECTA </li>
+<li> INCORRECTA </li>
+<li> INCORRECTA </li>
+<li> CORRECTA </li>
+</ol>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+1.01 segundos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+INCORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+3.04 segundos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+INCORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+0.04 segundos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+INCORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+1.54 segundos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+CORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R010 Q1 : preguntas_html_R2019_0005 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p><strong>R2019_0005</strong>. Se modela el tiempo de reacción a un estímulo visual (expresado en segundos) como función de la concentración de alcohol en sangre (expresada en gramos). El modelo resultante es y = 0.86+2.47*x. El tiempo medio esperado de reacción para una persona con una concentración de 1.24 gramos es:</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<ol type = "a">
+<li> CORRECTA </li>
+<li> INCORRECTA </li>
+<li> INCORRECTA </li>
+<li> INCORRECTA </li>
+</ol>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+3.92 segundos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+CORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+2.39 segundos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+INCORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+3.54 segundos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+INCORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+0.15 segundos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+INCORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R011 Q1 : preguntas_html_R2019_0005 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p><strong>R2019_0005</strong>. Se modela el tiempo de reacción a un estímulo visual (expresado en segundos) como función de la concentración de alcohol en sangre (expresada en gramos). El modelo resultante es y = 0.68+2.02*x. El tiempo medio esperado de reacción para una persona con una concentración de 1.53 gramos es:</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<ol type = "a">
+<li> INCORRECTA </li>
+<li> INCORRECTA </li>
+<li> CORRECTA </li>
+<li> INCORRECTA </li>
+</ol>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+0.42 segundos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+INCORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+3.06 segundos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+INCORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+3.77 segundos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+CORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+2.23 segundos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+INCORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R012 Q1 : preguntas_html_R2019_0005 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p><strong>R2019_0005</strong>. Se modela el tiempo de reacción a un estímulo visual (expresado en segundos) como función de la concentración de alcohol en sangre (expresada en gramos). El modelo resultante es y = 0.71+2.31*x. El tiempo medio esperado de reacción para una persona con una concentración de 1.82 gramos es:</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<ol type = "a">
+<li> INCORRECTA </li>
+<li> INCORRECTA </li>
+<li> CORRECTA </li>
+<li> INCORRECTA </li>
+</ol>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+0.48 segundos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+INCORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+3.6 segundos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+INCORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+4.91 segundos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+CORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+2.81 segundos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+INCORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R013 Q1 : preguntas_html_R2019_0005 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p><strong>R2019_0005</strong>. Se modela el tiempo de reacción a un estímulo visual (expresado en segundos) como función de la concentración de alcohol en sangre (expresada en gramos). El modelo resultante es y = 0.35+2.58*x. El tiempo medio esperado de reacción para una persona con una concentración de 0.73 gramos es:</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<ol type = "a">
+<li> CORRECTA </li>
+<li> INCORRECTA </li>
+<li> INCORRECTA </li>
+<li> INCORRECTA </li>
+</ol>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+2.23 segundos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+CORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+1.29 segundos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+INCORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+0.15 segundos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+INCORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+2.84 segundos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+INCORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R014 Q1 : preguntas_html_R2019_0005 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p><strong>R2019_0005</strong>. Se modela el tiempo de reacción a un estímulo visual (expresado en segundos) como función de la concentración de alcohol en sangre (expresada en gramos). El modelo resultante es y = 0.74+2.67*x. El tiempo medio esperado de reacción para una persona con una concentración de 0.6 gramos es:</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<ol type = "a">
+<li> INCORRECTA </li>
+<li> INCORRECTA </li>
+<li> CORRECTA </li>
+<li> INCORRECTA </li>
+</ol>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+3.11 segundos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+INCORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+0.05 segundos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+INCORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+2.34 segundos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+CORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+1.54 segundos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+INCORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R015 Q1 : preguntas_html_R2019_0005 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p><strong>R2019_0005</strong>. Se modela el tiempo de reacción a un estímulo visual (expresado en segundos) como función de la concentración de alcohol en sangre (expresada en gramos). El modelo resultante es y = 0.45+2.35*x. El tiempo medio esperado de reacción para una persona con una concentración de 1.07 gramos es:</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<ol type = "a">
+<li> INCORRECTA </li>
+<li> INCORRECTA </li>
+<li> INCORRECTA </li>
+<li> CORRECTA </li>
+</ol>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+0.26 segundos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+INCORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+1.71 segundos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+INCORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+2.83 segundos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+INCORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+2.96 segundos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+CORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R016 Q1 : preguntas_html_R2019_0005 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p><strong>R2019_0005</strong>. Se modela el tiempo de reacción a un estímulo visual (expresado en segundos) como función de la concentración de alcohol en sangre (expresada en gramos). El modelo resultante es y = 0.83+2.33*x. El tiempo medio esperado de reacción para una persona con una concentración de 2.4 gramos es:</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<ol type = "a">
+<li> INCORRECTA </li>
+<li> CORRECTA </li>
+<li> INCORRECTA </li>
+<li> INCORRECTA </li>
+</ol>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+4.32 segundos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+INCORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+6.42 segundos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+CORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+3.63 segundos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+INCORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+0.67 segundos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+INCORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R017 Q1 : preguntas_html_R2019_0005 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p><strong>R2019_0005</strong>. Se modela el tiempo de reacción a un estímulo visual (expresado en segundos) como función de la concentración de alcohol en sangre (expresada en gramos). El modelo resultante es y = 0.67+2.34*x. El tiempo medio esperado de reacción para una persona con una concentración de 1.29 gramos es:</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<ol type = "a">
+<li> CORRECTA </li>
+<li> INCORRECTA </li>
+<li> INCORRECTA </li>
+<li> INCORRECTA </li>
+</ol>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+3.69 segundos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+CORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+2.18 segundos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+INCORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+3.2 segundos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+INCORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+0.26 segundos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+INCORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R018 Q1 : preguntas_html_R2019_0005 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p><strong>R2019_0005</strong>. Se modela el tiempo de reacción a un estímulo visual (expresado en segundos) como función de la concentración de alcohol en sangre (expresada en gramos). El modelo resultante es y = 0.52+2.79*x. El tiempo medio esperado de reacción para una persona con una concentración de 0.71 gramos es:</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<ol type = "a">
+<li> INCORRECTA </li>
+<li> CORRECTA </li>
+<li> INCORRECTA </li>
+<li> INCORRECTA </li>
+</ol>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+0.07 segundos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+INCORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+2.5 segundos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+CORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+1.51 segundos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+INCORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+3.16 segundos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+INCORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R019 Q1 : preguntas_html_R2019_0005 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p><strong>R2019_0005</strong>. Se modela el tiempo de reacción a un estímulo visual (expresado en segundos) como función de la concentración de alcohol en sangre (expresada en gramos). El modelo resultante es y = 0.3+2.29*x. El tiempo medio esperado de reacción para una persona con una concentración de 1.85 gramos es:</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<ol type = "a">
+<li> INCORRECTA </li>
+<li> CORRECTA </li>
+<li> INCORRECTA </li>
+<li> INCORRECTA </li>
+</ol>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+0.68 segundos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+INCORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+4.54 segundos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+CORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+2.85 segundos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+INCORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+2.42 segundos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+INCORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R020 Q1 : preguntas_html_R2019_0005 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p><strong>R2019_0005</strong>. Se modela el tiempo de reacción a un estímulo visual (expresado en segundos) como función de la concentración de alcohol en sangre (expresada en gramos). El modelo resultante es y = 0.41+2.37*x. El tiempo medio esperado de reacción para una persona con una concentración de 0.55 gramos es:</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<ol type = "a">
+<li> CORRECTA </li>
+<li> INCORRECTA </li>
+<li> INCORRECTA </li>
+<li> INCORRECTA </li>
+</ol>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+1.71 segundos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+CORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+0.06 segundos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+INCORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+1.06 segundos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+INCORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+2.6 segundos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+INCORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R021 Q1 : preguntas_html_R2019_0005 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p><strong>R2019_0005</strong>. Se modela el tiempo de reacción a un estímulo visual (expresado en segundos) como función de la concentración de alcohol en sangre (expresada en gramos). El modelo resultante es y = 0.85+2.36*x. El tiempo medio esperado de reacción para una persona con una concentración de 1.51 gramos es:</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<ol type = "a">
+<li> INCORRECTA </li>
+<li> INCORRECTA </li>
+<li> INCORRECTA </li>
+<li> CORRECTA </li>
+</ol>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+3.64 segundos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+INCORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+2.63 segundos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+INCORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+0.28 segundos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+INCORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+4.41 segundos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+CORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R022 Q1 : preguntas_html_R2019_0005 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p><strong>R2019_0005</strong>. Se modela el tiempo de reacción a un estímulo visual (expresado en segundos) como función de la concentración de alcohol en sangre (expresada en gramos). El modelo resultante es y = 0.73+2.41*x. El tiempo medio esperado de reacción para una persona con una concentración de 1.45 gramos es:</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<ol type = "a">
+<li> INCORRECTA </li>
+<li> INCORRECTA </li>
+<li> CORRECTA </li>
+<li> INCORRECTA </li>
+</ol>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+3.47 segundos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+INCORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+2.48 segundos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+INCORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+4.22 segundos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+CORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+0.3 segundos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+INCORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R023 Q1 : preguntas_html_R2019_0005 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p><strong>R2019_0005</strong>. Se modela el tiempo de reacción a un estímulo visual (expresado en segundos) como función de la concentración de alcohol en sangre (expresada en gramos). El modelo resultante es y = 0.85+2.01*x. El tiempo medio esperado de reacción para una persona con una concentración de 0.27 gramos es:</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<ol type = "a">
+<li> CORRECTA </li>
+<li> INCORRECTA </li>
+<li> INCORRECTA </li>
+<li> INCORRECTA </li>
+</ol>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+1.39 segundos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+CORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+1.12 segundos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+INCORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+2.24 segundos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+INCORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+0.29 segundos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+INCORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R024 Q1 : preguntas_html_R2019_0005 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p><strong>R2019_0005</strong>. Se modela el tiempo de reacción a un estímulo visual (expresado en segundos) como función de la concentración de alcohol en sangre (expresada en gramos). El modelo resultante es y = 0.22+2.8*x. El tiempo medio esperado de reacción para una persona con una concentración de 1.04 gramos es:</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<ol type = "a">
+<li> INCORRECTA </li>
+<li> INCORRECTA </li>
+<li> CORRECTA </li>
+<li> INCORRECTA </li>
+</ol>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+0.29 segundos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+INCORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+3.03 segundos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+INCORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+3.13 segundos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+CORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+1.68 segundos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+INCORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R025 Q1 : preguntas_html_R2019_0005 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p><strong>R2019_0005</strong>. Se modela el tiempo de reacción a un estímulo visual (expresado en segundos) como función de la concentración de alcohol en sangre (expresada en gramos). El modelo resultante es y = 0.64+2.84*x. El tiempo medio esperado de reacción para una persona con una concentración de 1.3 gramos es:</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<ol type = "a">
+<li> INCORRECTA </li>
+<li> INCORRECTA </li>
+<li> INCORRECTA </li>
+<li> CORRECTA </li>
+</ol>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+0.23 segundos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+INCORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+2.49 segundos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+INCORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+3.67 segundos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+INCORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+4.33 segundos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+CORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R026 Q1 : preguntas_html_R2019_0005 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p><strong>R2019_0005</strong>. Se modela el tiempo de reacción a un estímulo visual (expresado en segundos) como función de la concentración de alcohol en sangre (expresada en gramos). El modelo resultante es y = 0.88+2.43*x. El tiempo medio esperado de reacción para una persona con una concentración de 1.22 gramos es:</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<ol type = "a">
+<li> INCORRECTA </li>
+<li> INCORRECTA </li>
+<li> CORRECTA </li>
+<li> INCORRECTA </li>
+</ol>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+2.36 segundos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+INCORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+0.14 segundos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+INCORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+3.84 segundos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+CORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+3.5 segundos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+INCORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R027 Q1 : preguntas_html_R2019_0005 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p><strong>R2019_0005</strong>. Se modela el tiempo de reacción a un estímulo visual (expresado en segundos) como función de la concentración de alcohol en sangre (expresada en gramos). El modelo resultante es y = 0.26+2.84*x. El tiempo medio esperado de reacción para una persona con una concentración de 2.67 gramos es:</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<ol type = "a">
+<li> INCORRECTA </li>
+<li> INCORRECTA </li>
+<li> INCORRECTA </li>
+<li> CORRECTA </li>
+</ol>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+0.85 segundos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+INCORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+3.53 segundos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+INCORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+4.05 segundos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+INCORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+7.84 segundos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+CORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R028 Q1 : preguntas_html_R2019_0005 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p><strong>R2019_0005</strong>. Se modela el tiempo de reacción a un estímulo visual (expresado en segundos) como función de la concentración de alcohol en sangre (expresada en gramos). El modelo resultante es y = 0.21+2.7*x. El tiempo medio esperado de reacción para una persona con una concentración de 2.27 gramos es:</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<ol type = "a">
+<li> INCORRECTA </li>
+<li> INCORRECTA </li>
+<li> INCORRECTA </li>
+<li> CORRECTA </li>
+</ol>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+3.18 segundos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+INCORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+3.27 segundos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+INCORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+0.76 segundos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+INCORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+6.34 segundos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+CORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R029 Q1 : preguntas_html_R2019_0005 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p><strong>R2019_0005</strong>. Se modela el tiempo de reacción a un estímulo visual (expresado en segundos) como función de la concentración de alcohol en sangre (expresada en gramos). El modelo resultante es y = 0.85+2.69*x. El tiempo medio esperado de reacción para una persona con una concentración de 2.45 gramos es:</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<ol type = "a">
+<li> INCORRECTA </li>
+<li> INCORRECTA </li>
+<li> INCORRECTA </li>
+<li> CORRECTA </li>
+</ol>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+4.15 segundos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+INCORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+0.59 segundos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+INCORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+4.77 segundos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+INCORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+7.44 segundos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+CORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R030 Q1 : preguntas_html_R2019_0005 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p><strong>R2019_0005</strong>. Se modela el tiempo de reacción a un estímulo visual (expresado en segundos) como función de la concentración de alcohol en sangre (expresada en gramos). El modelo resultante es y = 0.54+2.12*x. El tiempo medio esperado de reacción para una persona con una concentración de 0.56 gramos es:</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<ol type = "a">
+<li> INCORRECTA </li>
+<li> INCORRECTA </li>
+<li> CORRECTA </li>
+<li> INCORRECTA </li>
+</ol>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+2.42 segundos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+INCORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+1.13 segundos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+INCORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+1.73 segundos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+CORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+0.01 segundos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+INCORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R031 Q1 : preguntas_html_R2019_0005 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p><strong>R2019_0005</strong>. Se modela el tiempo de reacción a un estímulo visual (expresado en segundos) como función de la concentración de alcohol en sangre (expresada en gramos). El modelo resultante es y = 0.77+2.73*x. El tiempo medio esperado de reacción para una persona con una concentración de 1.54 gramos es:</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<ol type = "a">
+<li> CORRECTA </li>
+<li> INCORRECTA </li>
+<li> INCORRECTA </li>
+<li> INCORRECTA </li>
+</ol>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+4.97 segundos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+CORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+3.92 segundos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+INCORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+2.87 segundos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+INCORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+0.28 segundos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+INCORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R032 Q1 : preguntas_html_R2019_0005 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p><strong>R2019_0005</strong>. Se modela el tiempo de reacción a un estímulo visual (expresado en segundos) como función de la concentración de alcohol en sangre (expresada en gramos). El modelo resultante es y = 0.76+1.93*x. El tiempo medio esperado de reacción para una persona con una concentración de 1.94 gramos es:</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<ol type = "a">
+<li> INCORRECTA </li>
+<li> INCORRECTA </li>
+<li> CORRECTA </li>
+<li> INCORRECTA </li>
+</ol>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+2.63 segundos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+INCORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+3.4 segundos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+INCORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+4.5 segundos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+CORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+0.61 segundos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+INCORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R033 Q1 : preguntas_html_R2019_0005 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p><strong>R2019_0005</strong>. Se modela el tiempo de reacción a un estímulo visual (expresado en segundos) como función de la concentración de alcohol en sangre (expresada en gramos). El modelo resultante es y = 0.59+2.8*x. El tiempo medio esperado de reacción para una persona con una concentración de 2.97 gramos es:</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<ol type = "a">
+<li> INCORRECTA </li>
+<li> CORRECTA </li>
+<li> INCORRECTA </li>
+<li> INCORRECTA </li>
+</ol>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+4.75 segundos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+INCORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+8.91 segundos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+CORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+4.55 segundos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+INCORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+0.85 segundos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+INCORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R034 Q1 : preguntas_html_R2019_0005 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p><strong>R2019_0005</strong>. Se modela el tiempo de reacción a un estímulo visual (expresado en segundos) como función de la concentración de alcohol en sangre (expresada en gramos). El modelo resultante es y = 0.86+2.09*x. El tiempo medio esperado de reacción para una persona con una concentración de 0.94 gramos es:</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<ol type = "a">
+<li> CORRECTA </li>
+<li> INCORRECTA </li>
+<li> INCORRECTA </li>
+<li> INCORRECTA </li>
+</ol>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+2.82 segundos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+CORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+2.9 segundos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+INCORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+1.84 segundos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+INCORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+0.04 segundos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+INCORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R035 Q1 : preguntas_html_R2019_0005 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p><strong>R2019_0005</strong>. Se modela el tiempo de reacción a un estímulo visual (expresado en segundos) como función de la concentración de alcohol en sangre (expresada en gramos). El modelo resultante es y = 0.61+2.82*x. El tiempo medio esperado de reacción para una persona con una concentración de 1.8 gramos es:</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<ol type = "a">
+<li> INCORRECTA </li>
+<li> INCORRECTA </li>
+<li> CORRECTA </li>
+<li> INCORRECTA </li>
+</ol>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+3.15 segundos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+INCORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+3.92 segundos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+INCORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+5.69 segundos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+CORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+0.42 segundos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+INCORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R036 Q1 : preguntas_html_R2019_0005 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p><strong>R2019_0005</strong>. Se modela el tiempo de reacción a un estímulo visual (expresado en segundos) como función de la concentración de alcohol en sangre (expresada en gramos). El modelo resultante es y = 0.71+2.51*x. El tiempo medio esperado de reacción para una persona con una concentración de 2.48 gramos es:</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<ol type = "a">
+<li> INCORRECTA </li>
+<li> INCORRECTA </li>
+<li> INCORRECTA </li>
+<li> CORRECTA </li>
+</ol>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+0.71 segundos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+INCORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+4.27 segundos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+INCORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+3.82 segundos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+INCORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+6.93 segundos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+CORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R037 Q1 : preguntas_html_R2019_0005 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p><strong>R2019_0005</strong>. Se modela el tiempo de reacción a un estímulo visual (expresado en segundos) como función de la concentración de alcohol en sangre (expresada en gramos). El modelo resultante es y = 0.35+1.98*x. El tiempo medio esperado de reacción para una persona con una concentración de 0.2 gramos es:</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<ol type = "a">
+<li> INCORRECTA </li>
+<li> INCORRECTA </li>
+<li> CORRECTA </li>
+<li> INCORRECTA </li>
+</ol>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+2.05 segundos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+INCORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+0.55 segundos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+INCORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+0.75 segundos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+CORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+0.08 segundos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+INCORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R038 Q1 : preguntas_html_R2019_0005 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p><strong>R2019_0005</strong>. Se modela el tiempo de reacción a un estímulo visual (expresado en segundos) como función de la concentración de alcohol en sangre (expresada en gramos). El modelo resultante es y = 0.4+2.72*x. El tiempo medio esperado de reacción para una persona con una concentración de 0.17 gramos es:</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<ol type = "a">
+<li> INCORRECTA </li>
+<li> INCORRECTA </li>
+<li> CORRECTA </li>
+<li> INCORRECTA </li>
+</ol>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+2.79 segundos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+INCORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+0.63 segundos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+INCORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+0.86 segundos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+CORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+0.08 segundos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+INCORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R039 Q1 : preguntas_html_R2019_0005 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p><strong>R2019_0005</strong>. Se modela el tiempo de reacción a un estímulo visual (expresado en segundos) como función de la concentración de alcohol en sangre (expresada en gramos). El modelo resultante es y = 0.64+2.54*x. El tiempo medio esperado de reacción para una persona con una concentración de 2.41 gramos es:</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<ol type = "a">
+<li> INCORRECTA </li>
+<li> CORRECTA </li>
+<li> INCORRECTA </li>
+<li> INCORRECTA </li>
+</ol>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+0.7 segundos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+INCORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+6.76 segundos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+CORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+4.08 segundos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+INCORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+3.7 segundos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+INCORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R040 Q1 : preguntas_html_R2019_0005 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p><strong>R2019_0005</strong>. Se modela el tiempo de reacción a un estímulo visual (expresado en segundos) como función de la concentración de alcohol en sangre (expresada en gramos). El modelo resultante es y = 0.26+2.34*x. El tiempo medio esperado de reacción para una persona con una concentración de 1.82 gramos es:</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<ol type = "a">
+<li> INCORRECTA </li>
+<li> INCORRECTA </li>
+<li> INCORRECTA </li>
+<li> CORRECTA </li>
+</ol>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+2.81 segundos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+INCORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+0.67 segundos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+INCORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+2.39 segundos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+INCORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+4.52 segundos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+CORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R041 Q1 : preguntas_html_R2019_0005 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p><strong>R2019_0005</strong>. Se modela el tiempo de reacción a un estímulo visual (expresado en segundos) como función de la concentración de alcohol en sangre (expresada en gramos). El modelo resultante es y = 0.75+2.53*x. El tiempo medio esperado de reacción para una persona con una concentración de 0.05 gramos es:</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<ol type = "a">
+<li> INCORRECTA </li>
+<li> CORRECTA </li>
+<li> INCORRECTA </li>
+<li> INCORRECTA </li>
+</ol>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+0.81 segundos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+INCORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+0.88 segundos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+CORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+0.28 segundos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+INCORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+2.57 segundos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+INCORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R042 Q1 : preguntas_html_R2019_0005 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p><strong>R2019_0005</strong>. Se modela el tiempo de reacción a un estímulo visual (expresado en segundos) como función de la concentración de alcohol en sangre (expresada en gramos). El modelo resultante es y = 0.53+2.74*x. El tiempo medio esperado de reacción para una persona con una concentración de 2.42 gramos es:</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<ol type = "a">
+<li> INCORRECTA </li>
+<li> CORRECTA </li>
+<li> INCORRECTA </li>
+<li> INCORRECTA </li>
+</ol>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+4.02 segundos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+INCORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+7.16 segundos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+CORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+0.69 segundos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+INCORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+3.85 segundos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+INCORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R043 Q1 : preguntas_html_R2019_0005 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p><strong>R2019_0005</strong>. Se modela el tiempo de reacción a un estímulo visual (expresado en segundos) como función de la concentración de alcohol en sangre (expresada en gramos). El modelo resultante es y = 0.39+2.63*x. El tiempo medio esperado de reacción para una persona con una concentración de 0.95 gramos es:</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<ol type = "a">
+<li> CORRECTA </li>
+<li> INCORRECTA </li>
+<li> INCORRECTA </li>
+<li> INCORRECTA </li>
+</ol>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+2.89 segundos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+CORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+3 segundos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+INCORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+1.64 segundos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+INCORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+0.21 segundos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+INCORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R044 Q1 : preguntas_html_R2019_0005 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p><strong>R2019_0005</strong>. Se modela el tiempo de reacción a un estímulo visual (expresado en segundos) como función de la concentración de alcohol en sangre (expresada en gramos). El modelo resultante es y = 0.48+2.22*x. El tiempo medio esperado de reacción para una persona con una concentración de 2.78 gramos es:</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<ol type = "a">
+<li> INCORRECTA </li>
+<li> INCORRECTA </li>
+<li> CORRECTA </li>
+<li> INCORRECTA </li>
+</ol>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+3.55 segundos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+INCORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+3.57 segundos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+INCORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+6.65 segundos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+CORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+1.04 segundos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+INCORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R045 Q1 : preguntas_html_R2019_0005 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p><strong>R2019_0005</strong>. Se modela el tiempo de reacción a un estímulo visual (expresado en segundos) como función de la concentración de alcohol en sangre (expresada en gramos). El modelo resultante es y = 0.48+2.27*x. El tiempo medio esperado de reacción para una persona con una concentración de 1.15 gramos es:</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<ol type = "a">
+<li> INCORRECTA </li>
+<li> INCORRECTA </li>
+<li> CORRECTA </li>
+<li> INCORRECTA </li>
+</ol>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+1.79 segundos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+INCORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+2.82 segundos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+INCORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+3.09 segundos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+CORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+0.3 segundos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+INCORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R046 Q1 : preguntas_html_R2019_0005 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p><strong>R2019_0005</strong>. Se modela el tiempo de reacción a un estímulo visual (expresado en segundos) como función de la concentración de alcohol en sangre (expresada en gramos). El modelo resultante es y = 0.36+2.55*x. El tiempo medio esperado de reacción para una persona con una concentración de 0.11 gramos es:</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<ol type = "a">
+<li> INCORRECTA </li>
+<li> INCORRECTA </li>
+<li> CORRECTA </li>
+<li> INCORRECTA </li>
+</ol>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+2.59 segundos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+INCORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+0.1 segundos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+INCORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+0.64 segundos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+CORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+0.5 segundos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+INCORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R047 Q1 : preguntas_html_R2019_0005 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p><strong>R2019_0005</strong>. Se modela el tiempo de reacción a un estímulo visual (expresado en segundos) como función de la concentración de alcohol en sangre (expresada en gramos). El modelo resultante es y = 0.78+2.59*x. El tiempo medio esperado de reacción para una persona con una concentración de 2.12 gramos es:</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<ol type = "a">
+<li> INCORRECTA </li>
+<li> INCORRECTA </li>
+<li> INCORRECTA </li>
+<li> CORRECTA </li>
+</ol>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+4.24 segundos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+INCORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+3.53 segundos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+INCORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+0.52 segundos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+INCORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+6.27 segundos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+CORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R048 Q1 : preguntas_html_R2019_0005 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p><strong>R2019_0005</strong>. Se modela el tiempo de reacción a un estímulo visual (expresado en segundos) como función de la concentración de alcohol en sangre (expresada en gramos). El modelo resultante es y = 0.34+2.85*x. El tiempo medio esperado de reacción para una persona con una concentración de 2.48 gramos es:</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<ol type = "a">
+<li> INCORRECTA </li>
+<li> CORRECTA </li>
+<li> INCORRECTA </li>
+<li> INCORRECTA </li>
+</ol>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+3.87 segundos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+INCORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+7.41 segundos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+CORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+0.75 segundos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+INCORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+3.69 segundos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+INCORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R049 Q1 : preguntas_html_R2019_0005 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p><strong>R2019_0005</strong>. Se modela el tiempo de reacción a un estímulo visual (expresado en segundos) como función de la concentración de alcohol en sangre (expresada en gramos). El modelo resultante es y = 0.76+2.62*x. El tiempo medio esperado de reacción para una persona con una concentración de 2.85 gramos es:</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<ol type = "a">
+<li> INCORRECTA </li>
+<li> CORRECTA </li>
+<li> INCORRECTA </li>
+<li> INCORRECTA </li>
+</ol>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+4.79 segundos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+INCORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+8.23 segundos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+CORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+4.49 segundos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+INCORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+0.8 segundos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+INCORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R050 Q1 : preguntas_html_R2019_0005 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p><strong>R2019_0005</strong>. Se modela el tiempo de reacción a un estímulo visual (expresado en segundos) como función de la concentración de alcohol en sangre (expresada en gramos). El modelo resultante es y = 0.84+2.01*x. El tiempo medio esperado de reacción para una persona con una concentración de 0.16 gramos es:</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<ol type = "a">
+<li> INCORRECTA </li>
+<li> INCORRECTA </li>
+<li> INCORRECTA </li>
+<li> CORRECTA </li>
+</ol>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+2.14 segundos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+INCORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+0.34 segundos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+INCORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+1 segundos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+INCORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+1.16 segundos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+CORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R051 Q1 : preguntas_html_R2019_0005 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p><strong>R2019_0005</strong>. Se modela el tiempo de reacción a un estímulo visual (expresado en segundos) como función de la concentración de alcohol en sangre (expresada en gramos). El modelo resultante es y = 0.81+2.14*x. El tiempo medio esperado de reacción para una persona con una concentración de 0.59 gramos es:</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<ol type = "a">
+<li> CORRECTA </li>
+<li> INCORRECTA </li>
+<li> INCORRECTA </li>
+<li> INCORRECTA </li>
+</ol>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+2.07 segundos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+CORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+0.1 segundos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+INCORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+1.44 segundos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+INCORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+2.62 segundos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+INCORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R052 Q1 : preguntas_html_R2019_0005 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p><strong>R2019_0005</strong>. Se modela el tiempo de reacción a un estímulo visual (expresado en segundos) como función de la concentración de alcohol en sangre (expresada en gramos). El modelo resultante es y = 0.54+2.63*x. El tiempo medio esperado de reacción para una persona con una concentración de 1.86 gramos es:</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<ol type = "a">
+<li> INCORRECTA </li>
+<li> CORRECTA </li>
+<li> INCORRECTA </li>
+<li> INCORRECTA </li>
+</ol>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+2.99 segundos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+INCORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+5.43 segundos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+CORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+0.5 segundos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+INCORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+3.63 segundos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+INCORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R053 Q1 : preguntas_html_R2019_0005 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p><strong>R2019_0005</strong>. Se modela el tiempo de reacción a un estímulo visual (expresado en segundos) como función de la concentración de alcohol en sangre (expresada en gramos). El modelo resultante es y = 0.46+2.17*x. El tiempo medio esperado de reacción para una persona con una concentración de 2.45 gramos es:</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<ol type = "a">
+<li> CORRECTA </li>
+<li> INCORRECTA </li>
+<li> INCORRECTA </li>
+<li> INCORRECTA </li>
+</ol>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+5.78 segundos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+CORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+0.92 segundos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+INCORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+3.3 segundos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+INCORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+3.12 segundos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+INCORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R054 Q1 : preguntas_html_R2019_0005 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p><strong>R2019_0005</strong>. Se modela el tiempo de reacción a un estímulo visual (expresado en segundos) como función de la concentración de alcohol en sangre (expresada en gramos). El modelo resultante es y = 0.84+2*x. El tiempo medio esperado de reacción para una persona con una concentración de 2.68 gramos es:</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<ol type = "a">
+<li> INCORRECTA </li>
+<li> INCORRECTA </li>
+<li> CORRECTA </li>
+<li> INCORRECTA </li>
+</ol>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+0.92 segundos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+INCORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+3.52 segundos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+INCORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+6.2 segundos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+CORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+4.25 segundos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+INCORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R055 Q1 : preguntas_html_R2019_0005 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p><strong>R2019_0005</strong>. Se modela el tiempo de reacción a un estímulo visual (expresado en segundos) como función de la concentración de alcohol en sangre (expresada en gramos). El modelo resultante es y = 0.76+2.86*x. El tiempo medio esperado de reacción para una persona con una concentración de 0.28 gramos es:</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<ol type = "a">
+<li> INCORRECTA </li>
+<li> INCORRECTA </li>
+<li> CORRECTA </li>
+<li> INCORRECTA </li>
+</ol>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+0.17 segundos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+INCORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+3.07 segundos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+INCORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+1.56 segundos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+CORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+1.16 segundos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+INCORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R056 Q1 : preguntas_html_R2019_0005 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p><strong>R2019_0005</strong>. Se modela el tiempo de reacción a un estímulo visual (expresado en segundos) como función de la concentración de alcohol en sangre (expresada en gramos). El modelo resultante es y = 0.57+2.73*x. El tiempo medio esperado de reacción para una persona con una concentración de 0.66 gramos es:</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<ol type = "a">
+<li> INCORRECTA </li>
+<li> CORRECTA </li>
+<li> INCORRECTA </li>
+<li> INCORRECTA </li>
+</ol>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+1.47 segundos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+INCORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+2.37 segundos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+CORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+3.11 segundos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+INCORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+0.03 segundos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+INCORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R057 Q1 : preguntas_html_R2019_0005 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p><strong>R2019_0005</strong>. Se modela el tiempo de reacción a un estímulo visual (expresado en segundos) como función de la concentración de alcohol en sangre (expresada en gramos). El modelo resultante es y = 0.78+2.61*x. El tiempo medio esperado de reacción para una persona con una concentración de 2.42 gramos es:</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<ol type = "a">
+<li> INCORRECTA </li>
+<li> INCORRECTA </li>
+<li> INCORRECTA </li>
+<li> CORRECTA </li>
+</ol>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+0.63 segundos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+INCORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+3.94 segundos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+INCORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+4.5 segundos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+INCORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+7.1 segundos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+CORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R058 Q1 : preguntas_html_R2019_0005 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p><strong>R2019_0005</strong>. Se modela el tiempo de reacción a un estímulo visual (expresado en segundos) como función de la concentración de alcohol en sangre (expresada en gramos). El modelo resultante es y = 0.41+2.64*x. El tiempo medio esperado de reacción para una persona con una concentración de 1.72 gramos es:</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<ol type = "a">
+<li> INCORRECTA </li>
+<li> CORRECTA </li>
+<li> INCORRECTA </li>
+<li> INCORRECTA </li>
+</ol>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+2.68 segundos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+INCORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+4.95 segundos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+CORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+0.5 segundos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+INCORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+3.35 segundos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+INCORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R059 Q1 : preguntas_html_R2019_0005 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p><strong>R2019_0005</strong>. Se modela el tiempo de reacción a un estímulo visual (expresado en segundos) como función de la concentración de alcohol en sangre (expresada en gramos). El modelo resultante es y = 0.84+2.56*x. El tiempo medio esperado de reacción para una persona con una concentración de 2.4 gramos es:</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<ol type = "a">
+<li> INCORRECTA </li>
+<li> CORRECTA </li>
+<li> INCORRECTA </li>
+<li> INCORRECTA </li>
+</ol>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+3.91 segundos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+INCORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+6.98 segundos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+CORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+4.58 segundos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+INCORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+0.61 segundos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+INCORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R060 Q1 : preguntas_html_R2019_0005 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p><strong>R2019_0005</strong>. Se modela el tiempo de reacción a un estímulo visual (expresado en segundos) como función de la concentración de alcohol en sangre (expresada en gramos). El modelo resultante es y = 0.49+2.31*x. El tiempo medio esperado de reacción para una persona con una concentración de 1.78 gramos es:</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<ol type = "a">
+<li> INCORRECTA </li>
+<li> CORRECTA </li>
+<li> INCORRECTA </li>
+<li> INCORRECTA </li>
+</ol>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+0.56 segundos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+INCORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+4.6 segundos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+CORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+2.55 segundos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+INCORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+3.18 segundos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+INCORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R061 Q1 : preguntas_html_R2019_0005 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p><strong>R2019_0005</strong>. Se modela el tiempo de reacción a un estímulo visual (expresado en segundos) como función de la concentración de alcohol en sangre (expresada en gramos). El modelo resultante es y = 0.76+1.91*x. El tiempo medio esperado de reacción para una persona con una concentración de 2.95 gramos es:</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<ol type = "a">
+<li> INCORRECTA </li>
+<li> INCORRECTA </li>
+<li> INCORRECTA </li>
+<li> CORRECTA </li>
+</ol>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+4.15 segundos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+INCORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+1.15 segundos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+INCORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+3.58 segundos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+INCORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+6.39 segundos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+CORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R062 Q1 : preguntas_html_R2019_0005 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p><strong>R2019_0005</strong>. Se modela el tiempo de reacción a un estímulo visual (expresado en segundos) como función de la concentración de alcohol en sangre (expresada en gramos). El modelo resultante es y = 0.41+2.7*x. El tiempo medio esperado de reacción para una persona con una concentración de 0.88 gramos es:</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<ol type = "a">
+<li> INCORRECTA </li>
+<li> INCORRECTA </li>
+<li> INCORRECTA </li>
+<li> CORRECTA </li>
+</ol>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+0.17 segundos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+INCORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+1.6 segundos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+INCORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+3.06 segundos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+INCORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+2.79 segundos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+CORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R063 Q1 : preguntas_html_R2019_0005 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p><strong>R2019_0005</strong>. Se modela el tiempo de reacción a un estímulo visual (expresado en segundos) como función de la concentración de alcohol en sangre (expresada en gramos). El modelo resultante es y = 0.49+1.98*x. El tiempo medio esperado de reacción para una persona con una concentración de 0.65 gramos es:</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<ol type = "a">
+<li> INCORRECTA </li>
+<li> CORRECTA </li>
+<li> INCORRECTA </li>
+<li> INCORRECTA </li>
+</ol>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+0.08 segundos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+INCORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+1.78 segundos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+CORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+1.13 segundos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+INCORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+2.3 segundos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+INCORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R064 Q1 : preguntas_html_R2019_0005 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p><strong>R2019_0005</strong>. Se modela el tiempo de reacción a un estímulo visual (expresado en segundos) como función de la concentración de alcohol en sangre (expresada en gramos). El modelo resultante es y = 0.75+2.6*x. El tiempo medio esperado de reacción para una persona con una concentración de 0.28 gramos es:</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<ol type = "a">
+<li> INCORRECTA </li>
+<li> INCORRECTA </li>
+<li> CORRECTA </li>
+<li> INCORRECTA </li>
+</ol>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+0.18 segundos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+INCORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+1.11 segundos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+INCORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+1.48 segundos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+CORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+2.81 segundos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+INCORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R065 Q1 : preguntas_html_R2019_0005 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p><strong>R2019_0005</strong>. Se modela el tiempo de reacción a un estímulo visual (expresado en segundos) como función de la concentración de alcohol en sangre (expresada en gramos). El modelo resultante es y = 0.23+2.24*x. El tiempo medio esperado de reacción para una persona con una concentración de 0.56 gramos es:</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<ol type = "a">
+<li> INCORRECTA </li>
+<li> CORRECTA </li>
+<li> INCORRECTA </li>
+<li> INCORRECTA </li>
+</ol>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+0.15 segundos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+INCORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+1.48 segundos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+CORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+0.86 segundos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+INCORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+2.37 segundos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+INCORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R066 Q1 : preguntas_html_R2019_0005 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p><strong>R2019_0005</strong>. Se modela el tiempo de reacción a un estímulo visual (expresado en segundos) como función de la concentración de alcohol en sangre (expresada en gramos). El modelo resultante es y = 0.39+2.38*x. El tiempo medio esperado de reacción para una persona con una concentración de 0.07 gramos es:</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<ol type = "a">
+<li> INCORRECTA </li>
+<li> CORRECTA </li>
+<li> INCORRECTA </li>
+<li> INCORRECTA </li>
+</ol>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+0.13 segundos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+INCORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+0.56 segundos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+CORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+0.47 segundos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+INCORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+2.41 segundos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+INCORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R067 Q1 : preguntas_html_R2019_0005 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p><strong>R2019_0005</strong>. Se modela el tiempo de reacción a un estímulo visual (expresado en segundos) como función de la concentración de alcohol en sangre (expresada en gramos). El modelo resultante es y = 0.35+2.08*x. El tiempo medio esperado de reacción para una persona con una concentración de 0.51 gramos es:</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<ol type = "a">
+<li> INCORRECTA </li>
+<li> CORRECTA </li>
+<li> INCORRECTA </li>
+<li> INCORRECTA </li>
+</ol>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+0.08 segundos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+INCORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+1.41 segundos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+CORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+0.88 segundos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+INCORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+2.26 segundos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+INCORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R068 Q1 : preguntas_html_R2019_0005 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p><strong>R2019_0005</strong>. Se modela el tiempo de reacción a un estímulo visual (expresado en segundos) como función de la concentración de alcohol en sangre (expresada en gramos). El modelo resultante es y = 0.79+1.95*x. El tiempo medio esperado de reacción para una persona con una concentración de 1.43 gramos es:</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<ol type = "a">
+<li> INCORRECTA </li>
+<li> INCORRECTA </li>
+<li> INCORRECTA </li>
+<li> CORRECTA </li>
+</ol>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+2.18 segundos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+INCORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+0.33 segundos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+INCORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+3.08 segundos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+INCORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+3.58 segundos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+CORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R069 Q1 : preguntas_html_R2019_0005 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p><strong>R2019_0005</strong>. Se modela el tiempo de reacción a un estímulo visual (expresado en segundos) como función de la concentración de alcohol en sangre (expresada en gramos). El modelo resultante es y = 0.68+2.82*x. El tiempo medio esperado de reacción para una persona con una concentración de 1.16 gramos es:</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<ol type = "a">
+<li> CORRECTA </li>
+<li> INCORRECTA </li>
+<li> INCORRECTA </li>
+<li> INCORRECTA </li>
+</ol>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+3.95 segundos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+CORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+2.32 segundos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+INCORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+3.61 segundos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+INCORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+0.17 segundos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+INCORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R070 Q1 : preguntas_html_R2019_0005 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p><strong>R2019_0005</strong>. Se modela el tiempo de reacción a un estímulo visual (expresado en segundos) como función de la concentración de alcohol en sangre (expresada en gramos). El modelo resultante es y = 0.48+2.41*x. El tiempo medio esperado de reacción para una persona con una concentración de 1.51 gramos es:</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<ol type = "a">
+<li> CORRECTA </li>
+<li> INCORRECTA </li>
+<li> INCORRECTA </li>
+<li> INCORRECTA </li>
+</ol>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+4.12 segundos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+CORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+3.13 segundos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+INCORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+0.43 segundos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+INCORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+2.3 segundos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+INCORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R071 Q1 : preguntas_html_R2019_0005 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p><strong>R2019_0005</strong>. Se modela el tiempo de reacción a un estímulo visual (expresado en segundos) como función de la concentración de alcohol en sangre (expresada en gramos). El modelo resultante es y = 0.66+2.21*x. El tiempo medio esperado de reacción para una persona con una concentración de 1.2 gramos es:</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<ol type = "a">
+<li> INCORRECTA </li>
+<li> INCORRECTA </li>
+<li> CORRECTA </li>
+<li> INCORRECTA </li>
+</ol>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+3 segundos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+INCORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+1.99 segundos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+INCORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+3.31 segundos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+CORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+0.24 segundos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+INCORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R072 Q1 : preguntas_html_R2019_0005 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p><strong>R2019_0005</strong>. Se modela el tiempo de reacción a un estímulo visual (expresado en segundos) como función de la concentración de alcohol en sangre (expresada en gramos). El modelo resultante es y = 0.39+2.38*x. El tiempo medio esperado de reacción para una persona con una concentración de 2.34 gramos es:</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<ol type = "a">
+<li> INCORRECTA </li>
+<li> INCORRECTA </li>
+<li> CORRECTA </li>
+<li> INCORRECTA </li>
+</ol>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+3.29 segundos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+INCORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+3.17 segundos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+INCORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+5.96 segundos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+CORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+0.82 segundos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+INCORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R073 Q1 : preguntas_html_R2019_0005 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p><strong>R2019_0005</strong>. Se modela el tiempo de reacción a un estímulo visual (expresado en segundos) como función de la concentración de alcohol en sangre (expresada en gramos). El modelo resultante es y = 0.29+2.03*x. El tiempo medio esperado de reacción para una persona con una concentración de 2.18 gramos es:</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<ol type = "a">
+<li> INCORRECTA </li>
+<li> INCORRECTA </li>
+<li> INCORRECTA </li>
+<li> CORRECTA </li>
+</ol>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+2.5 segundos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+INCORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+0.93 segundos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+INCORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+2.66 segundos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+INCORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+4.72 segundos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+CORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R074 Q1 : preguntas_html_R2019_0005 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p><strong>R2019_0005</strong>. Se modela el tiempo de reacción a un estímulo visual (expresado en segundos) como función de la concentración de alcohol en sangre (expresada en gramos). El modelo resultante es y = 0.33+2.63*x. El tiempo medio esperado de reacción para una persona con una concentración de 2.69 gramos es:</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<ol type = "a">
+<li> INCORRECTA </li>
+<li> INCORRECTA </li>
+<li> INCORRECTA </li>
+<li> CORRECTA </li>
+</ol>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+0.9 segundos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+INCORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+3.52 segundos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+INCORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+3.87 segundos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+INCORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+7.4 segundos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+CORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R075 Q1 : preguntas_html_R2019_0005 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p><strong>R2019_0005</strong>. Se modela el tiempo de reacción a un estímulo visual (expresado en segundos) como función de la concentración de alcohol en sangre (expresada en gramos). El modelo resultante es y = 0.28+2.4*x. El tiempo medio esperado de reacción para una persona con una concentración de 2.95 gramos es:</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<ol type = "a">
+<li> INCORRECTA </li>
+<li> CORRECTA </li>
+<li> INCORRECTA </li>
+<li> INCORRECTA </li>
+</ol>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+3.82 segundos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+INCORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+7.36 segundos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+CORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+3.23 segundos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+INCORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+1.11 segundos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+INCORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R076 Q1 : preguntas_html_R2019_0005 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p><strong>R2019_0005</strong>. Se modela el tiempo de reacción a un estímulo visual (expresado en segundos) como función de la concentración de alcohol en sangre (expresada en gramos). El modelo resultante es y = 0.26+2.32*x. El tiempo medio esperado de reacción para una persona con una concentración de 0.4 gramos es:</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<ol type = "a">
+<li> CORRECTA </li>
+<li> INCORRECTA </li>
+<li> INCORRECTA </li>
+<li> INCORRECTA </li>
+</ol>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+1.19 segundos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+CORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+0.06 segundos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+INCORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+0.72 segundos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+INCORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+2.42 segundos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+INCORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R077 Q1 : preguntas_html_R2019_0005 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p><strong>R2019_0005</strong>. Se modela el tiempo de reacción a un estímulo visual (expresado en segundos) como función de la concentración de alcohol en sangre (expresada en gramos). El modelo resultante es y = 0.23+2.47*x. El tiempo medio esperado de reacción para una persona con una concentración de 2.41 gramos es:</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<ol type = "a">
+<li> INCORRECTA </li>
+<li> INCORRECTA </li>
+<li> INCORRECTA </li>
+<li> CORRECTA </li>
+</ol>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+0.88 segundos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+INCORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+3.02 segundos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+INCORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+3.21 segundos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+INCORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+6.18 segundos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+CORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R078 Q1 : preguntas_html_R2019_0005 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p><strong>R2019_0005</strong>. Se modela el tiempo de reacción a un estímulo visual (expresado en segundos) como función de la concentración de alcohol en sangre (expresada en gramos). El modelo resultante es y = 0.21+1.94*x. El tiempo medio esperado de reacción para una persona con una concentración de 0.18 gramos es:</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<ol type = "a">
+<li> INCORRECTA </li>
+<li> INCORRECTA </li>
+<li> CORRECTA </li>
+<li> INCORRECTA </li>
+</ol>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+1.98 segundos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+INCORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+0.38 segundos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+INCORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+0.56 segundos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+CORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+0.02 segundos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+INCORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R079 Q1 : preguntas_html_R2019_0005 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p><strong>R2019_0005</strong>. Se modela el tiempo de reacción a un estímulo visual (expresado en segundos) como función de la concentración de alcohol en sangre (expresada en gramos). El modelo resultante es y = 0.36+2.32*x. El tiempo medio esperado de reacción para una persona con una concentración de 2.38 gramos es:</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<ol type = "a">
+<li> INCORRECTA </li>
+<li> INCORRECTA </li>
+<li> INCORRECTA </li>
+<li> CORRECTA </li>
+</ol>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+0.87 segundos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+INCORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+3.12 segundos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+INCORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+3.18 segundos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+INCORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+5.88 segundos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+CORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R080 Q1 : preguntas_html_R2019_0005 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p><strong>R2019_0005</strong>. Se modela el tiempo de reacción a un estímulo visual (expresado en segundos) como función de la concentración de alcohol en sangre (expresada en gramos). El modelo resultante es y = 0.88+2.58*x. El tiempo medio esperado de reacción para una persona con una concentración de 1.65 gramos es:</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<ol type = "a">
+<li> INCORRECTA </li>
+<li> INCORRECTA </li>
+<li> INCORRECTA </li>
+<li> CORRECTA </li>
+</ol>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+3.01 segundos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+INCORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+0.3 segundos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+INCORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+4.03 segundos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+INCORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+5.14 segundos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+CORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R081 Q1 : preguntas_html_R2019_0005 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p><strong>R2019_0005</strong>. Se modela el tiempo de reacción a un estímulo visual (expresado en segundos) como función de la concentración de alcohol en sangre (expresada en gramos). El modelo resultante es y = 0.35+2.4*x. El tiempo medio esperado de reacción para una persona con una concentración de 0.79 gramos es:</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<ol type = "a">
+<li> CORRECTA </li>
+<li> INCORRECTA </li>
+<li> INCORRECTA </li>
+<li> INCORRECTA </li>
+</ol>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+2.25 segundos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+CORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+0.18 segundos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+INCORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+1.3 segundos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+INCORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+2.68 segundos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+INCORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R082 Q1 : preguntas_html_R2019_0005 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p><strong>R2019_0005</strong>. Se modela el tiempo de reacción a un estímulo visual (expresado en segundos) como función de la concentración de alcohol en sangre (expresada en gramos). El modelo resultante es y = 0.82+2.37*x. El tiempo medio esperado de reacción para una persona con una concentración de 0.27 gramos es:</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<ol type = "a">
+<li> INCORRECTA </li>
+<li> INCORRECTA </li>
+<li> INCORRECTA </li>
+<li> CORRECTA </li>
+</ol>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+0.23 segundos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+INCORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+2.59 segundos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+INCORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+1.14 segundos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+INCORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+1.46 segundos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+CORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R083 Q1 : preguntas_html_R2019_0005 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p><strong>R2019_0005</strong>. Se modela el tiempo de reacción a un estímulo visual (expresado en segundos) como función de la concentración de alcohol en sangre (expresada en gramos). El modelo resultante es y = 0.83+2.69*x. El tiempo medio esperado de reacción para una persona con una concentración de 1.94 gramos es:</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<ol type = "a">
+<li> CORRECTA </li>
+<li> INCORRECTA </li>
+<li> INCORRECTA </li>
+<li> INCORRECTA </li>
+</ol>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+6.05 segundos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+CORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+4.3 segundos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+INCORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+0.41 segundos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+INCORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+3.44 segundos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+INCORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R084 Q1 : preguntas_html_R2019_0005 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p><strong>R2019_0005</strong>. Se modela el tiempo de reacción a un estímulo visual (expresado en segundos) como función de la concentración de alcohol en sangre (expresada en gramos). El modelo resultante es y = 0.7+2.69*x. El tiempo medio esperado de reacción para una persona con una concentración de 2.8 gramos es:</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<ol type = "a">
+<li> INCORRECTA </li>
+<li> INCORRECTA </li>
+<li> INCORRECTA </li>
+<li> CORRECTA </li>
+</ol>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+4.47 segundos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+INCORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+0.78 segundos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+INCORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+4.65 segundos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+INCORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+8.23 segundos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+CORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R085 Q1 : preguntas_html_R2019_0005 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p><strong>R2019_0005</strong>. Se modela el tiempo de reacción a un estímulo visual (expresado en segundos) como función de la concentración de alcohol en sangre (expresada en gramos). El modelo resultante es y = 0.53+2.37*x. El tiempo medio esperado de reacción para una persona con una concentración de 2.24 gramos es:</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<ol type = "a">
+<li> INCORRECTA </li>
+<li> INCORRECTA </li>
+<li> INCORRECTA </li>
+<li> CORRECTA </li>
+</ol>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+0.72 segundos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+INCORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+3.18 segundos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+INCORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+3.56 segundos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+INCORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+5.84 segundos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+CORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R086 Q1 : preguntas_html_R2019_0005 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p><strong>R2019_0005</strong>. Se modela el tiempo de reacción a un estímulo visual (expresado en segundos) como función de la concentración de alcohol en sangre (expresada en gramos). El modelo resultante es y = 0.87+2.31*x. El tiempo medio esperado de reacción para una persona con una concentración de 0.37 gramos es:</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<ol type = "a">
+<li> INCORRECTA </li>
+<li> INCORRECTA </li>
+<li> INCORRECTA </li>
+<li> CORRECTA </li>
+</ol>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+0.22 segundos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+INCORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+2.63 segundos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+INCORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+1.3 segundos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+INCORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+1.72 segundos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+CORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R087 Q1 : preguntas_html_R2019_0005 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p><strong>R2019_0005</strong>. Se modela el tiempo de reacción a un estímulo visual (expresado en segundos) como función de la concentración de alcohol en sangre (expresada en gramos). El modelo resultante es y = 0.46+2.01*x. El tiempo medio esperado de reacción para una persona con una concentración de 1.26 gramos es:</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<ol type = "a">
+<li> CORRECTA </li>
+<li> INCORRECTA </li>
+<li> INCORRECTA </li>
+<li> INCORRECTA </li>
+</ol>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+2.99 segundos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+CORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+0.4 segundos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+INCORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+2.59 segundos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+INCORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+1.73 segundos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+INCORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R088 Q1 : preguntas_html_R2019_0005 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p><strong>R2019_0005</strong>. Se modela el tiempo de reacción a un estímulo visual (expresado en segundos) como función de la concentración de alcohol en sangre (expresada en gramos). El modelo resultante es y = 0.36+2.15*x. El tiempo medio esperado de reacción para una persona con una concentración de 0.67 gramos es:</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<ol type = "a">
+<li> CORRECTA </li>
+<li> INCORRECTA </li>
+<li> INCORRECTA </li>
+<li> INCORRECTA </li>
+</ol>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+1.8 segundos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+CORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+0.14 segundos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+INCORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+2.39 segundos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+INCORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+1.08 segundos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+INCORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R089 Q1 : preguntas_html_R2019_0005 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p><strong>R2019_0005</strong>. Se modela el tiempo de reacción a un estímulo visual (expresado en segundos) como función de la concentración de alcohol en sangre (expresada en gramos). El modelo resultante es y = 0.7+2.75*x. El tiempo medio esperado de reacción para una persona con una concentración de 2.23 gramos es:</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<ol type = "a">
+<li> CORRECTA </li>
+<li> INCORRECTA </li>
+<li> INCORRECTA </li>
+<li> INCORRECTA </li>
+</ol>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+6.83 segundos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+CORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+0.56 segundos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+INCORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+4.31 segundos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+INCORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+3.77 segundos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+INCORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R090 Q1 : preguntas_html_R2019_0005 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p><strong>R2019_0005</strong>. Se modela el tiempo de reacción a un estímulo visual (expresado en segundos) como función de la concentración de alcohol en sangre (expresada en gramos). El modelo resultante es y = 0.64+2.03*x. El tiempo medio esperado de reacción para una persona con una concentración de 0.33 gramos es:</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<ol type = "a">
+<li> INCORRECTA </li>
+<li> INCORRECTA </li>
+<li> INCORRECTA </li>
+<li> CORRECTA </li>
+</ol>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+0.15 segundos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+INCORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+2.24 segundos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+INCORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+0.97 segundos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+INCORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+1.31 segundos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+CORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R091 Q1 : preguntas_html_R2019_0005 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p><strong>R2019_0005</strong>. Se modela el tiempo de reacción a un estímulo visual (expresado en segundos) como función de la concentración de alcohol en sangre (expresada en gramos). El modelo resultante es y = 0.42+2.56*x. El tiempo medio esperado de reacción para una persona con una concentración de 1.38 gramos es:</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<ol type = "a">
+<li> INCORRECTA </li>
+<li> INCORRECTA </li>
+<li> CORRECTA </li>
+<li> INCORRECTA </li>
+</ol>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+0.38 segundos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+INCORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+3.14 segundos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+INCORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+3.95 segundos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+CORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+2.19 segundos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+INCORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R092 Q1 : preguntas_html_R2019_0005 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p><strong>R2019_0005</strong>. Se modela el tiempo de reacción a un estímulo visual (expresado en segundos) como función de la concentración de alcohol en sangre (expresada en gramos). El modelo resultante es y = 0.44+1.9*x. El tiempo medio esperado de reacción para una persona con una concentración de 1.57 gramos es:</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<ol type = "a">
+<li> INCORRECTA </li>
+<li> INCORRECTA </li>
+<li> INCORRECTA </li>
+<li> CORRECTA </li>
+</ol>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+0.59 segundos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+INCORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+1.93 segundos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+INCORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+2.59 segundos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+INCORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+3.42 segundos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+CORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R093 Q1 : preguntas_html_R2019_0005 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p><strong>R2019_0005</strong>. Se modela el tiempo de reacción a un estímulo visual (expresado en segundos) como función de la concentración de alcohol en sangre (expresada en gramos). El modelo resultante es y = 0.77+2.7*x. El tiempo medio esperado de reacción para una persona con una concentración de 0.9 gramos es:</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<ol type = "a">
+<li> INCORRECTA </li>
+<li> INCORRECTA </li>
+<li> INCORRECTA </li>
+<li> CORRECTA </li>
+</ol>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+1.99 segundos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+INCORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+0.05 segundos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+INCORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+3.39 segundos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+INCORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+3.2 segundos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+CORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R094 Q1 : preguntas_html_R2019_0005 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p><strong>R2019_0005</strong>. Se modela el tiempo de reacción a un estímulo visual (expresado en segundos) como función de la concentración de alcohol en sangre (expresada en gramos). El modelo resultante es y = 0.41+2.04*x. El tiempo medio esperado de reacción para una persona con una concentración de 2.23 gramos es:</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<ol type = "a">
+<li> INCORRECTA </li>
+<li> CORRECTA </li>
+<li> INCORRECTA </li>
+<li> INCORRECTA </li>
+</ol>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+2.95 segundos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+INCORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+4.96 segundos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+CORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+2.68 segundos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+INCORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+0.89 segundos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+INCORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R095 Q1 : preguntas_html_R2019_0005 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p><strong>R2019_0005</strong>. Se modela el tiempo de reacción a un estímulo visual (expresado en segundos) como función de la concentración de alcohol en sangre (expresada en gramos). El modelo resultante es y = 0.58+2.25*x. El tiempo medio esperado de reacción para una persona con una concentración de 2.59 gramos es:</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<ol type = "a">
+<li> INCORRECTA </li>
+<li> INCORRECTA </li>
+<li> INCORRECTA </li>
+<li> CORRECTA </li>
+</ol>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+0.89 segundos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+INCORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+3.49 segundos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+INCORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+3.75 segundos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+INCORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+6.41 segundos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+CORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R096 Q1 : preguntas_html_R2019_0005 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p><strong>R2019_0005</strong>. Se modela el tiempo de reacción a un estímulo visual (expresado en segundos) como función de la concentración de alcohol en sangre (expresada en gramos). El modelo resultante es y = 0.79+2.87*x. El tiempo medio esperado de reacción para una persona con una concentración de 1.91 gramos es:</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<ol type = "a">
+<li> INCORRECTA </li>
+<li> CORRECTA </li>
+<li> INCORRECTA </li>
+<li> INCORRECTA </li>
+</ol>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+4.38 segundos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+INCORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+6.27 segundos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+CORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+3.53 segundos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+INCORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+0.39 segundos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+INCORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R097 Q1 : preguntas_html_R2019_0005 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p><strong>R2019_0005</strong>. Se modela el tiempo de reacción a un estímulo visual (expresado en segundos) como función de la concentración de alcohol en sangre (expresada en gramos). El modelo resultante es y = 0.55+2.85*x. El tiempo medio esperado de reacción para una persona con una concentración de 0.66 gramos es:</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<ol type = "a">
+<li> INCORRECTA </li>
+<li> INCORRECTA </li>
+<li> CORRECTA </li>
+<li> INCORRECTA </li>
+</ol>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+1.49 segundos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+INCORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+0.04 segundos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+INCORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+2.43 segundos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+CORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+3.21 segundos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+INCORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R098 Q1 : preguntas_html_R2019_0005 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p><strong>R2019_0005</strong>. Se modela el tiempo de reacción a un estímulo visual (expresado en segundos) como función de la concentración de alcohol en sangre (expresada en gramos). El modelo resultante es y = 0.31+2.11*x. El tiempo medio esperado de reacción para una persona con una concentración de 2.78 gramos es:</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<ol type = "a">
+<li> INCORRECTA </li>
+<li> INCORRECTA </li>
+<li> INCORRECTA </li>
+<li> CORRECTA </li>
+</ol>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+1.17 segundos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+INCORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+2.97 segundos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+INCORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+3.24 segundos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+INCORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+6.18 segundos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+CORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R099 Q1 : preguntas_html_R2019_0005 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p><strong>R2019_0005</strong>. Se modela el tiempo de reacción a un estímulo visual (expresado en segundos) como función de la concentración de alcohol en sangre (expresada en gramos). El modelo resultante es y = 0.26+2.34*x. El tiempo medio esperado de reacción para una persona con una concentración de 0.58 gramos es:</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<ol type = "a">
+<li> INCORRECTA </li>
+<li> INCORRECTA </li>
+<li> INCORRECTA </li>
+<li> CORRECTA </li>
+</ol>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+0.14 segundos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+INCORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+2.49 segundos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+INCORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+0.94 segundos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+INCORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+1.62 segundos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+CORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R100 Q1 : preguntas_html_R2019_0005 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p><strong>R2019_0005</strong>. Se modela el tiempo de reacción a un estímulo visual (expresado en segundos) como función de la concentración de alcohol en sangre (expresada en gramos). El modelo resultante es y = 0.59+2.53*x. El tiempo medio esperado de reacción para una persona con una concentración de 1.17 gramos es:</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<ol type = "a">
+<li> CORRECTA </li>
+<li> INCORRECTA </li>
+<li> INCORRECTA </li>
+<li> INCORRECTA </li>
+</ol>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+3.55 segundos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+CORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+3.22 segundos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+INCORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+2.07 segundos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+INCORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+0.23 segundos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+INCORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+</quiz>

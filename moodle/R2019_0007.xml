@@ -1,0 +1,6711 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+
+
+<question type="category">
+<category>
+<text>$course$/R2019_0007/Exercise 1</text>
+</category>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R001 Q1 : preguntas_html_R2019_0007 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p><strong>R2019_0007</strong>. Se modela el puntaje de una prueba psicométrica (expresado en puntos) como función de la edad (expresada en años) en el intervalo 12 a 24 años. El modelo resultante es y = 15.53+3.07*x. Por cada año que aumenta la edad, este modelo predice que el puntaje:</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<ol type = "a">
+<li> INCORRECTA </li>
+<li> INCORRECTA </li>
+<li> CORRECTA </li>
+<li> INCORRECTA </li>
+</ol>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Disminuya en 3.07 puntos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+INCORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Aumente en 15.53 puntos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+INCORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+Aumente en 3.07 puntos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+CORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Disminuya en 15.53 puntos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+INCORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R002 Q1 : preguntas_html_R2019_0007 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p><strong>R2019_0007</strong>. Se modela el puntaje de una prueba psicométrica (expresado en puntos) como función de la edad (expresada en años) en el intervalo 12 a 24 años. El modelo resultante es y = 10.41+3.76*x. Por cada año que aumenta la edad, este modelo predice que el puntaje:</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<ol type = "a">
+<li> CORRECTA </li>
+<li> INCORRECTA </li>
+<li> INCORRECTA </li>
+<li> INCORRECTA </li>
+</ol>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+Aumente en 3.76 puntos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+CORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Aumente en 10.41 puntos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+INCORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Disminuya en 10.41 puntos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+INCORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Disminuya en 3.76 puntos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+INCORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R003 Q1 : preguntas_html_R2019_0007 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p><strong>R2019_0007</strong>. Se modela el puntaje de una prueba psicométrica (expresado en puntos) como función de la edad (expresada en años) en el intervalo 12 a 24 años. El modelo resultante es y = 14.48+2.79*x. Por cada año que aumenta la edad, este modelo predice que el puntaje:</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<ol type = "a">
+<li> INCORRECTA </li>
+<li> INCORRECTA </li>
+<li> INCORRECTA </li>
+<li> CORRECTA </li>
+</ol>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Disminuya en 2.79 puntos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+INCORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Disminuya en 14.48 puntos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+INCORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Aumente en 14.48 puntos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+INCORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+Aumente en 2.79 puntos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+CORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R004 Q1 : preguntas_html_R2019_0007 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p><strong>R2019_0007</strong>. Se modela el puntaje de una prueba psicométrica (expresado en puntos) como función de la edad (expresada en años) en el intervalo 12 a 24 años. El modelo resultante es y = 15.79+3.68*x. Por cada año que aumenta la edad, este modelo predice que el puntaje:</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<ol type = "a">
+<li> INCORRECTA </li>
+<li> INCORRECTA </li>
+<li> INCORRECTA </li>
+<li> CORRECTA </li>
+</ol>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Disminuya en 15.79 puntos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+INCORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Aumente en 15.79 puntos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+INCORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Disminuya en 3.68 puntos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+INCORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+Aumente en 3.68 puntos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+CORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R005 Q1 : preguntas_html_R2019_0007 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p><strong>R2019_0007</strong>. Se modela el puntaje de una prueba psicométrica (expresado en puntos) como función de la edad (expresada en años) en el intervalo 12 a 24 años. El modelo resultante es y = 12.21+2.99*x. Por cada año que aumenta la edad, este modelo predice que el puntaje:</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<ol type = "a">
+<li> CORRECTA </li>
+<li> INCORRECTA </li>
+<li> INCORRECTA </li>
+<li> INCORRECTA </li>
+</ol>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+Aumente en 2.99 puntos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+CORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Disminuya en 12.21 puntos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+INCORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Disminuya en 2.99 puntos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+INCORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Aumente en 12.21 puntos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+INCORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R006 Q1 : preguntas_html_R2019_0007 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p><strong>R2019_0007</strong>. Se modela el puntaje de una prueba psicométrica (expresado en puntos) como función de la edad (expresada en años) en el intervalo 12 a 24 años. El modelo resultante es y = 10.81+3.98*x. Por cada año que aumenta la edad, este modelo predice que el puntaje:</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<ol type = "a">
+<li> INCORRECTA </li>
+<li> INCORRECTA </li>
+<li> INCORRECTA </li>
+<li> CORRECTA </li>
+</ol>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Aumente en 10.81 puntos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+INCORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Disminuya en 3.98 puntos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+INCORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Disminuya en 10.81 puntos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+INCORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+Aumente en 3.98 puntos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+CORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R007 Q1 : preguntas_html_R2019_0007 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p><strong>R2019_0007</strong>. Se modela el puntaje de una prueba psicométrica (expresado en puntos) como función de la edad (expresada en años) en el intervalo 12 a 24 años. El modelo resultante es y = 11.9+2.89*x. Por cada año que aumenta la edad, este modelo predice que el puntaje:</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<ol type = "a">
+<li> INCORRECTA </li>
+<li> INCORRECTA </li>
+<li> INCORRECTA </li>
+<li> CORRECTA </li>
+</ol>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Disminuya en 11.9 puntos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+INCORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Aumente en 11.9 puntos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+INCORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Disminuya en 2.89 puntos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+INCORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+Aumente en 2.89 puntos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+CORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R008 Q1 : preguntas_html_R2019_0007 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p><strong>R2019_0007</strong>. Se modela el puntaje de una prueba psicométrica (expresado en puntos) como función de la edad (expresada en años) en el intervalo 12 a 24 años. El modelo resultante es y = 15.59+3.26*x. Por cada año que aumenta la edad, este modelo predice que el puntaje:</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<ol type = "a">
+<li> INCORRECTA </li>
+<li> CORRECTA </li>
+<li> INCORRECTA </li>
+<li> INCORRECTA </li>
+</ol>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Disminuya en 15.59 puntos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+INCORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+Aumente en 3.26 puntos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+CORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Disminuya en 3.26 puntos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+INCORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Aumente en 15.59 puntos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+INCORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R009 Q1 : preguntas_html_R2019_0007 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p><strong>R2019_0007</strong>. Se modela el puntaje de una prueba psicométrica (expresado en puntos) como función de la edad (expresada en años) en el intervalo 12 a 24 años. El modelo resultante es y = 10.55+2.52*x. Por cada año que aumenta la edad, este modelo predice que el puntaje:</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<ol type = "a">
+<li> INCORRECTA </li>
+<li> CORRECTA </li>
+<li> INCORRECTA </li>
+<li> INCORRECTA </li>
+</ol>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Disminuya en 2.52 puntos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+INCORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+Aumente en 2.52 puntos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+CORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Disminuya en 10.55 puntos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+INCORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Aumente en 10.55 puntos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+INCORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R010 Q1 : preguntas_html_R2019_0007 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p><strong>R2019_0007</strong>. Se modela el puntaje de una prueba psicométrica (expresado en puntos) como función de la edad (expresada en años) en el intervalo 12 a 24 años. El modelo resultante es y = 17.31+3.65*x. Por cada año que aumenta la edad, este modelo predice que el puntaje:</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<ol type = "a">
+<li> INCORRECTA </li>
+<li> INCORRECTA </li>
+<li> CORRECTA </li>
+<li> INCORRECTA </li>
+</ol>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Aumente en 17.31 puntos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+INCORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Disminuya en 17.31 puntos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+INCORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+Aumente en 3.65 puntos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+CORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Disminuya en 3.65 puntos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+INCORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R011 Q1 : preguntas_html_R2019_0007 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p><strong>R2019_0007</strong>. Se modela el puntaje de una prueba psicométrica (expresado en puntos) como función de la edad (expresada en años) en el intervalo 12 a 24 años. El modelo resultante es y = 15.55+3.22*x. Por cada año que aumenta la edad, este modelo predice que el puntaje:</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<ol type = "a">
+<li> CORRECTA </li>
+<li> INCORRECTA </li>
+<li> INCORRECTA </li>
+<li> INCORRECTA </li>
+</ol>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+Aumente en 3.22 puntos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+CORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Disminuya en 15.55 puntos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+INCORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Aumente en 15.55 puntos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+INCORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Disminuya en 3.22 puntos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+INCORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R012 Q1 : preguntas_html_R2019_0007 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p><strong>R2019_0007</strong>. Se modela el puntaje de una prueba psicométrica (expresado en puntos) como función de la edad (expresada en años) en el intervalo 12 a 24 años. El modelo resultante es y = 17.06+2.49*x. Por cada año que aumenta la edad, este modelo predice que el puntaje:</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<ol type = "a">
+<li> CORRECTA </li>
+<li> INCORRECTA </li>
+<li> INCORRECTA </li>
+<li> INCORRECTA </li>
+</ol>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+Aumente en 2.49 puntos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+CORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Aumente en 17.06 puntos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+INCORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Disminuya en 2.49 puntos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+INCORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Disminuya en 17.06 puntos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+INCORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R013 Q1 : preguntas_html_R2019_0007 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p><strong>R2019_0007</strong>. Se modela el puntaje de una prueba psicométrica (expresado en puntos) como función de la edad (expresada en años) en el intervalo 12 a 24 años. El modelo resultante es y = 15.31+2.35*x. Por cada año que aumenta la edad, este modelo predice que el puntaje:</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<ol type = "a">
+<li> INCORRECTA </li>
+<li> INCORRECTA </li>
+<li> CORRECTA </li>
+<li> INCORRECTA </li>
+</ol>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Aumente en 15.31 puntos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+INCORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Disminuya en 2.35 puntos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+INCORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+Aumente en 2.35 puntos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+CORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Disminuya en 15.31 puntos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+INCORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R014 Q1 : preguntas_html_R2019_0007 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p><strong>R2019_0007</strong>. Se modela el puntaje de una prueba psicométrica (expresado en puntos) como función de la edad (expresada en años) en el intervalo 12 a 24 años. El modelo resultante es y = 10.28+2.18*x. Por cada año que aumenta la edad, este modelo predice que el puntaje:</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<ol type = "a">
+<li> INCORRECTA </li>
+<li> INCORRECTA </li>
+<li> INCORRECTA </li>
+<li> CORRECTA </li>
+</ol>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Disminuya en 10.28 puntos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+INCORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Aumente en 10.28 puntos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+INCORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Disminuya en 2.18 puntos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+INCORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+Aumente en 2.18 puntos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+CORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R015 Q1 : preguntas_html_R2019_0007 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p><strong>R2019_0007</strong>. Se modela el puntaje de una prueba psicométrica (expresado en puntos) como función de la edad (expresada en años) en el intervalo 12 a 24 años. El modelo resultante es y = 10.57+2.5*x. Por cada año que aumenta la edad, este modelo predice que el puntaje:</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<ol type = "a">
+<li> CORRECTA </li>
+<li> INCORRECTA </li>
+<li> INCORRECTA </li>
+<li> INCORRECTA </li>
+</ol>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+Aumente en 2.5 puntos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+CORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Aumente en 10.57 puntos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+INCORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Disminuya en 2.5 puntos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+INCORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Disminuya en 10.57 puntos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+INCORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R016 Q1 : preguntas_html_R2019_0007 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p><strong>R2019_0007</strong>. Se modela el puntaje de una prueba psicométrica (expresado en puntos) como función de la edad (expresada en años) en el intervalo 12 a 24 años. El modelo resultante es y = 15.37+2.16*x. Por cada año que aumenta la edad, este modelo predice que el puntaje:</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<ol type = "a">
+<li> INCORRECTA </li>
+<li> INCORRECTA </li>
+<li> INCORRECTA </li>
+<li> CORRECTA </li>
+</ol>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Aumente en 15.37 puntos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+INCORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Disminuya en 2.16 puntos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+INCORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Disminuya en 15.37 puntos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+INCORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+Aumente en 2.16 puntos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+CORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R017 Q1 : preguntas_html_R2019_0007 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p><strong>R2019_0007</strong>. Se modela el puntaje de una prueba psicométrica (expresado en puntos) como función de la edad (expresada en años) en el intervalo 12 a 24 años. El modelo resultante es y = 13.62+2.83*x. Por cada año que aumenta la edad, este modelo predice que el puntaje:</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<ol type = "a">
+<li> CORRECTA </li>
+<li> INCORRECTA </li>
+<li> INCORRECTA </li>
+<li> INCORRECTA </li>
+</ol>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+Aumente en 2.83 puntos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+CORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Disminuya en 13.62 puntos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+INCORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Aumente en 13.62 puntos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+INCORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Disminuya en 2.83 puntos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+INCORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R018 Q1 : preguntas_html_R2019_0007 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p><strong>R2019_0007</strong>. Se modela el puntaje de una prueba psicométrica (expresado en puntos) como función de la edad (expresada en años) en el intervalo 12 a 24 años. El modelo resultante es y = 14.92+2.33*x. Por cada año que aumenta la edad, este modelo predice que el puntaje:</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<ol type = "a">
+<li> INCORRECTA </li>
+<li> INCORRECTA </li>
+<li> CORRECTA </li>
+<li> INCORRECTA </li>
+</ol>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Disminuya en 2.33 puntos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+INCORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Disminuya en 14.92 puntos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+INCORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+Aumente en 2.33 puntos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+CORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Aumente en 14.92 puntos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+INCORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R019 Q1 : preguntas_html_R2019_0007 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p><strong>R2019_0007</strong>. Se modela el puntaje de una prueba psicométrica (expresado en puntos) como función de la edad (expresada en años) en el intervalo 12 a 24 años. El modelo resultante es y = 12.49+3.54*x. Por cada año que aumenta la edad, este modelo predice que el puntaje:</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<ol type = "a">
+<li> CORRECTA </li>
+<li> INCORRECTA </li>
+<li> INCORRECTA </li>
+<li> INCORRECTA </li>
+</ol>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+Aumente en 3.54 puntos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+CORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Aumente en 12.49 puntos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+INCORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Disminuya en 12.49 puntos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+INCORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Disminuya en 3.54 puntos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+INCORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R020 Q1 : preguntas_html_R2019_0007 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p><strong>R2019_0007</strong>. Se modela el puntaje de una prueba psicométrica (expresado en puntos) como función de la edad (expresada en años) en el intervalo 12 a 24 años. El modelo resultante es y = 15.59+2.57*x. Por cada año que aumenta la edad, este modelo predice que el puntaje:</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<ol type = "a">
+<li> CORRECTA </li>
+<li> INCORRECTA </li>
+<li> INCORRECTA </li>
+<li> INCORRECTA </li>
+</ol>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+Aumente en 2.57 puntos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+CORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Disminuya en 2.57 puntos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+INCORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Aumente en 15.59 puntos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+INCORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Disminuya en 15.59 puntos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+INCORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R021 Q1 : preguntas_html_R2019_0007 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p><strong>R2019_0007</strong>. Se modela el puntaje de una prueba psicométrica (expresado en puntos) como función de la edad (expresada en años) en el intervalo 12 a 24 años. El modelo resultante es y = 12.31+3.36*x. Por cada año que aumenta la edad, este modelo predice que el puntaje:</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<ol type = "a">
+<li> INCORRECTA </li>
+<li> INCORRECTA </li>
+<li> CORRECTA </li>
+<li> INCORRECTA </li>
+</ol>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Aumente en 12.31 puntos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+INCORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Disminuya en 12.31 puntos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+INCORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+Aumente en 3.36 puntos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+CORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Disminuya en 3.36 puntos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+INCORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R022 Q1 : preguntas_html_R2019_0007 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p><strong>R2019_0007</strong>. Se modela el puntaje de una prueba psicométrica (expresado en puntos) como función de la edad (expresada en años) en el intervalo 12 a 24 años. El modelo resultante es y = 15+3.66*x. Por cada año que aumenta la edad, este modelo predice que el puntaje:</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<ol type = "a">
+<li> INCORRECTA </li>
+<li> INCORRECTA </li>
+<li> CORRECTA </li>
+<li> INCORRECTA </li>
+</ol>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Disminuya en 3.66 puntos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+INCORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Disminuya en 15 puntos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+INCORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+Aumente en 3.66 puntos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+CORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Aumente en 15 puntos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+INCORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R023 Q1 : preguntas_html_R2019_0007 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p><strong>R2019_0007</strong>. Se modela el puntaje de una prueba psicométrica (expresado en puntos) como función de la edad (expresada en años) en el intervalo 12 a 24 años. El modelo resultante es y = 12.44+3.23*x. Por cada año que aumenta la edad, este modelo predice que el puntaje:</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<ol type = "a">
+<li> INCORRECTA </li>
+<li> INCORRECTA </li>
+<li> CORRECTA </li>
+<li> INCORRECTA </li>
+</ol>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Aumente en 12.44 puntos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+INCORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Disminuya en 12.44 puntos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+INCORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+Aumente en 3.23 puntos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+CORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Disminuya en 3.23 puntos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+INCORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R024 Q1 : preguntas_html_R2019_0007 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p><strong>R2019_0007</strong>. Se modela el puntaje de una prueba psicométrica (expresado en puntos) como función de la edad (expresada en años) en el intervalo 12 a 24 años. El modelo resultante es y = 13.71+2.81*x. Por cada año que aumenta la edad, este modelo predice que el puntaje:</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<ol type = "a">
+<li> CORRECTA </li>
+<li> INCORRECTA </li>
+<li> INCORRECTA </li>
+<li> INCORRECTA </li>
+</ol>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+Aumente en 2.81 puntos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+CORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Disminuya en 2.81 puntos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+INCORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Aumente en 13.71 puntos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+INCORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Disminuya en 13.71 puntos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+INCORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R025 Q1 : preguntas_html_R2019_0007 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p><strong>R2019_0007</strong>. Se modela el puntaje de una prueba psicométrica (expresado en puntos) como función de la edad (expresada en años) en el intervalo 12 a 24 años. El modelo resultante es y = 14.15+2.19*x. Por cada año que aumenta la edad, este modelo predice que el puntaje:</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<ol type = "a">
+<li> CORRECTA </li>
+<li> INCORRECTA </li>
+<li> INCORRECTA </li>
+<li> INCORRECTA </li>
+</ol>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+Aumente en 2.19 puntos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+CORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Disminuya en 14.15 puntos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+INCORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Disminuya en 2.19 puntos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+INCORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Aumente en 14.15 puntos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+INCORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R026 Q1 : preguntas_html_R2019_0007 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p><strong>R2019_0007</strong>. Se modela el puntaje de una prueba psicométrica (expresado en puntos) como función de la edad (expresada en años) en el intervalo 12 a 24 años. El modelo resultante es y = 16.01+2.41*x. Por cada año que aumenta la edad, este modelo predice que el puntaje:</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<ol type = "a">
+<li> INCORRECTA </li>
+<li> CORRECTA </li>
+<li> INCORRECTA </li>
+<li> INCORRECTA </li>
+</ol>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Aumente en 16.01 puntos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+INCORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+Aumente en 2.41 puntos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+CORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Disminuya en 16.01 puntos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+INCORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Disminuya en 2.41 puntos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+INCORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R027 Q1 : preguntas_html_R2019_0007 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p><strong>R2019_0007</strong>. Se modela el puntaje de una prueba psicométrica (expresado en puntos) como función de la edad (expresada en años) en el intervalo 12 a 24 años. El modelo resultante es y = 10+2.29*x. Por cada año que aumenta la edad, este modelo predice que el puntaje:</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<ol type = "a">
+<li> INCORRECTA </li>
+<li> CORRECTA </li>
+<li> INCORRECTA </li>
+<li> INCORRECTA </li>
+</ol>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Disminuya en 10 puntos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+INCORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+Aumente en 2.29 puntos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+CORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Aumente en 10 puntos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+INCORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Disminuya en 2.29 puntos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+INCORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R028 Q1 : preguntas_html_R2019_0007 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p><strong>R2019_0007</strong>. Se modela el puntaje de una prueba psicométrica (expresado en puntos) como función de la edad (expresada en años) en el intervalo 12 a 24 años. El modelo resultante es y = 14.25+2.08*x. Por cada año que aumenta la edad, este modelo predice que el puntaje:</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<ol type = "a">
+<li> INCORRECTA </li>
+<li> CORRECTA </li>
+<li> INCORRECTA </li>
+<li> INCORRECTA </li>
+</ol>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Disminuya en 2.08 puntos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+INCORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+Aumente en 2.08 puntos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+CORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Aumente en 14.25 puntos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+INCORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Disminuya en 14.25 puntos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+INCORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R029 Q1 : preguntas_html_R2019_0007 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p><strong>R2019_0007</strong>. Se modela el puntaje de una prueba psicométrica (expresado en puntos) como función de la edad (expresada en años) en el intervalo 12 a 24 años. El modelo resultante es y = 16.36+3.95*x. Por cada año que aumenta la edad, este modelo predice que el puntaje:</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<ol type = "a">
+<li> CORRECTA </li>
+<li> INCORRECTA </li>
+<li> INCORRECTA </li>
+<li> INCORRECTA </li>
+</ol>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+Aumente en 3.95 puntos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+CORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Disminuya en 3.95 puntos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+INCORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Aumente en 16.36 puntos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+INCORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Disminuya en 16.36 puntos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+INCORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R030 Q1 : preguntas_html_R2019_0007 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p><strong>R2019_0007</strong>. Se modela el puntaje de una prueba psicométrica (expresado en puntos) como función de la edad (expresada en años) en el intervalo 12 a 24 años. El modelo resultante es y = 17.31+3.39*x. Por cada año que aumenta la edad, este modelo predice que el puntaje:</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<ol type = "a">
+<li> INCORRECTA </li>
+<li> INCORRECTA </li>
+<li> INCORRECTA </li>
+<li> CORRECTA </li>
+</ol>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Disminuya en 3.39 puntos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+INCORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Aumente en 17.31 puntos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+INCORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Disminuya en 17.31 puntos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+INCORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+Aumente en 3.39 puntos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+CORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R031 Q1 : preguntas_html_R2019_0007 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p><strong>R2019_0007</strong>. Se modela el puntaje de una prueba psicométrica (expresado en puntos) como función de la edad (expresada en años) en el intervalo 12 a 24 años. El modelo resultante es y = 14.62+2.58*x. Por cada año que aumenta la edad, este modelo predice que el puntaje:</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<ol type = "a">
+<li> INCORRECTA </li>
+<li> CORRECTA </li>
+<li> INCORRECTA </li>
+<li> INCORRECTA </li>
+</ol>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Disminuya en 2.58 puntos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+INCORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+Aumente en 2.58 puntos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+CORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Aumente en 14.62 puntos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+INCORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Disminuya en 14.62 puntos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+INCORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R032 Q1 : preguntas_html_R2019_0007 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p><strong>R2019_0007</strong>. Se modela el puntaje de una prueba psicométrica (expresado en puntos) como función de la edad (expresada en años) en el intervalo 12 a 24 años. El modelo resultante es y = 14.69+3.65*x. Por cada año que aumenta la edad, este modelo predice que el puntaje:</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<ol type = "a">
+<li> INCORRECTA </li>
+<li> INCORRECTA </li>
+<li> INCORRECTA </li>
+<li> CORRECTA </li>
+</ol>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Disminuya en 3.65 puntos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+INCORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Disminuya en 14.69 puntos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+INCORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Aumente en 14.69 puntos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+INCORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+Aumente en 3.65 puntos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+CORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R033 Q1 : preguntas_html_R2019_0007 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p><strong>R2019_0007</strong>. Se modela el puntaje de una prueba psicométrica (expresado en puntos) como función de la edad (expresada en años) en el intervalo 12 a 24 años. El modelo resultante es y = 16.91+3.7*x. Por cada año que aumenta la edad, este modelo predice que el puntaje:</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<ol type = "a">
+<li> INCORRECTA </li>
+<li> INCORRECTA </li>
+<li> CORRECTA </li>
+<li> INCORRECTA </li>
+</ol>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Aumente en 16.91 puntos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+INCORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Disminuya en 3.7 puntos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+INCORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+Aumente en 3.7 puntos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+CORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Disminuya en 16.91 puntos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+INCORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R034 Q1 : preguntas_html_R2019_0007 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p><strong>R2019_0007</strong>. Se modela el puntaje de una prueba psicométrica (expresado en puntos) como función de la edad (expresada en años) en el intervalo 12 a 24 años. El modelo resultante es y = 14.34+3.39*x. Por cada año que aumenta la edad, este modelo predice que el puntaje:</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<ol type = "a">
+<li> INCORRECTA </li>
+<li> INCORRECTA </li>
+<li> INCORRECTA </li>
+<li> CORRECTA </li>
+</ol>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Disminuya en 3.39 puntos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+INCORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Disminuya en 14.34 puntos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+INCORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Aumente en 14.34 puntos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+INCORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+Aumente en 3.39 puntos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+CORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R035 Q1 : preguntas_html_R2019_0007 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p><strong>R2019_0007</strong>. Se modela el puntaje de una prueba psicométrica (expresado en puntos) como función de la edad (expresada en años) en el intervalo 12 a 24 años. El modelo resultante es y = 15.57+2.26*x. Por cada año que aumenta la edad, este modelo predice que el puntaje:</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<ol type = "a">
+<li> CORRECTA </li>
+<li> INCORRECTA </li>
+<li> INCORRECTA </li>
+<li> INCORRECTA </li>
+</ol>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+Aumente en 2.26 puntos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+CORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Disminuya en 15.57 puntos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+INCORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Aumente en 15.57 puntos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+INCORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Disminuya en 2.26 puntos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+INCORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R036 Q1 : preguntas_html_R2019_0007 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p><strong>R2019_0007</strong>. Se modela el puntaje de una prueba psicométrica (expresado en puntos) como función de la edad (expresada en años) en el intervalo 12 a 24 años. El modelo resultante es y = 10.6+3.42*x. Por cada año que aumenta la edad, este modelo predice que el puntaje:</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<ol type = "a">
+<li> INCORRECTA </li>
+<li> INCORRECTA </li>
+<li> INCORRECTA </li>
+<li> CORRECTA </li>
+</ol>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Aumente en 10.6 puntos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+INCORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Disminuya en 3.42 puntos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+INCORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Disminuya en 10.6 puntos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+INCORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+Aumente en 3.42 puntos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+CORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R037 Q1 : preguntas_html_R2019_0007 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p><strong>R2019_0007</strong>. Se modela el puntaje de una prueba psicométrica (expresado en puntos) como función de la edad (expresada en años) en el intervalo 12 a 24 años. El modelo resultante es y = 13+3.19*x. Por cada año que aumenta la edad, este modelo predice que el puntaje:</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<ol type = "a">
+<li> INCORRECTA </li>
+<li> CORRECTA </li>
+<li> INCORRECTA </li>
+<li> INCORRECTA </li>
+</ol>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Disminuya en 3.19 puntos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+INCORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+Aumente en 3.19 puntos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+CORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Aumente en 13 puntos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+INCORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Disminuya en 13 puntos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+INCORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R038 Q1 : preguntas_html_R2019_0007 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p><strong>R2019_0007</strong>. Se modela el puntaje de una prueba psicométrica (expresado en puntos) como función de la edad (expresada en años) en el intervalo 12 a 24 años. El modelo resultante es y = 13.43+2.64*x. Por cada año que aumenta la edad, este modelo predice que el puntaje:</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<ol type = "a">
+<li> INCORRECTA </li>
+<li> CORRECTA </li>
+<li> INCORRECTA </li>
+<li> INCORRECTA </li>
+</ol>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Disminuya en 13.43 puntos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+INCORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+Aumente en 2.64 puntos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+CORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Aumente en 13.43 puntos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+INCORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Disminuya en 2.64 puntos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+INCORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R039 Q1 : preguntas_html_R2019_0007 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p><strong>R2019_0007</strong>. Se modela el puntaje de una prueba psicométrica (expresado en puntos) como función de la edad (expresada en años) en el intervalo 12 a 24 años. El modelo resultante es y = 11.08+3.73*x. Por cada año que aumenta la edad, este modelo predice que el puntaje:</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<ol type = "a">
+<li> INCORRECTA </li>
+<li> CORRECTA </li>
+<li> INCORRECTA </li>
+<li> INCORRECTA </li>
+</ol>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Disminuya en 3.73 puntos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+INCORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+Aumente en 3.73 puntos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+CORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Disminuya en 11.08 puntos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+INCORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Aumente en 11.08 puntos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+INCORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R040 Q1 : preguntas_html_R2019_0007 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p><strong>R2019_0007</strong>. Se modela el puntaje de una prueba psicométrica (expresado en puntos) como función de la edad (expresada en años) en el intervalo 12 a 24 años. El modelo resultante es y = 17.3+2.29*x. Por cada año que aumenta la edad, este modelo predice que el puntaje:</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<ol type = "a">
+<li> INCORRECTA </li>
+<li> INCORRECTA </li>
+<li> CORRECTA </li>
+<li> INCORRECTA </li>
+</ol>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Disminuya en 17.3 puntos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+INCORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Disminuya en 2.29 puntos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+INCORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+Aumente en 2.29 puntos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+CORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Aumente en 17.3 puntos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+INCORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R041 Q1 : preguntas_html_R2019_0007 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p><strong>R2019_0007</strong>. Se modela el puntaje de una prueba psicométrica (expresado en puntos) como función de la edad (expresada en años) en el intervalo 12 a 24 años. El modelo resultante es y = 11.09+2.41*x. Por cada año que aumenta la edad, este modelo predice que el puntaje:</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<ol type = "a">
+<li> INCORRECTA </li>
+<li> INCORRECTA </li>
+<li> INCORRECTA </li>
+<li> CORRECTA </li>
+</ol>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Disminuya en 11.09 puntos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+INCORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Disminuya en 2.41 puntos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+INCORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Aumente en 11.09 puntos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+INCORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+Aumente en 2.41 puntos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+CORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R042 Q1 : preguntas_html_R2019_0007 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p><strong>R2019_0007</strong>. Se modela el puntaje de una prueba psicométrica (expresado en puntos) como función de la edad (expresada en años) en el intervalo 12 a 24 años. El modelo resultante es y = 16.9+2.13*x. Por cada año que aumenta la edad, este modelo predice que el puntaje:</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<ol type = "a">
+<li> INCORRECTA </li>
+<li> CORRECTA </li>
+<li> INCORRECTA </li>
+<li> INCORRECTA </li>
+</ol>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Disminuya en 16.9 puntos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+INCORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+Aumente en 2.13 puntos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+CORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Disminuya en 2.13 puntos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+INCORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Aumente en 16.9 puntos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+INCORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R043 Q1 : preguntas_html_R2019_0007 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p><strong>R2019_0007</strong>. Se modela el puntaje de una prueba psicométrica (expresado en puntos) como función de la edad (expresada en años) en el intervalo 12 a 24 años. El modelo resultante es y = 15.13+2.61*x. Por cada año que aumenta la edad, este modelo predice que el puntaje:</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<ol type = "a">
+<li> INCORRECTA </li>
+<li> INCORRECTA </li>
+<li> INCORRECTA </li>
+<li> CORRECTA </li>
+</ol>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Disminuya en 2.61 puntos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+INCORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Aumente en 15.13 puntos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+INCORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Disminuya en 15.13 puntos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+INCORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+Aumente en 2.61 puntos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+CORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R044 Q1 : preguntas_html_R2019_0007 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p><strong>R2019_0007</strong>. Se modela el puntaje de una prueba psicométrica (expresado en puntos) como función de la edad (expresada en años) en el intervalo 12 a 24 años. El modelo resultante es y = 10.09+2.01*x. Por cada año que aumenta la edad, este modelo predice que el puntaje:</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<ol type = "a">
+<li> INCORRECTA </li>
+<li> INCORRECTA </li>
+<li> INCORRECTA </li>
+<li> CORRECTA </li>
+</ol>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Disminuya en 2.01 puntos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+INCORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Aumente en 10.09 puntos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+INCORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Disminuya en 10.09 puntos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+INCORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+Aumente en 2.01 puntos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+CORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R045 Q1 : preguntas_html_R2019_0007 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p><strong>R2019_0007</strong>. Se modela el puntaje de una prueba psicométrica (expresado en puntos) como función de la edad (expresada en años) en el intervalo 12 a 24 años. El modelo resultante es y = 10.74+3.11*x. Por cada año que aumenta la edad, este modelo predice que el puntaje:</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<ol type = "a">
+<li> INCORRECTA </li>
+<li> INCORRECTA </li>
+<li> CORRECTA </li>
+<li> INCORRECTA </li>
+</ol>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Disminuya en 3.11 puntos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+INCORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Aumente en 10.74 puntos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+INCORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+Aumente en 3.11 puntos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+CORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Disminuya en 10.74 puntos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+INCORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R046 Q1 : preguntas_html_R2019_0007 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p><strong>R2019_0007</strong>. Se modela el puntaje de una prueba psicométrica (expresado en puntos) como función de la edad (expresada en años) en el intervalo 12 a 24 años. El modelo resultante es y = 12.61+2.63*x. Por cada año que aumenta la edad, este modelo predice que el puntaje:</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<ol type = "a">
+<li> INCORRECTA </li>
+<li> INCORRECTA </li>
+<li> CORRECTA </li>
+<li> INCORRECTA </li>
+</ol>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Aumente en 12.61 puntos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+INCORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Disminuya en 12.61 puntos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+INCORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+Aumente en 2.63 puntos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+CORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Disminuya en 2.63 puntos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+INCORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R047 Q1 : preguntas_html_R2019_0007 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p><strong>R2019_0007</strong>. Se modela el puntaje de una prueba psicométrica (expresado en puntos) como función de la edad (expresada en años) en el intervalo 12 a 24 años. El modelo resultante es y = 14.17+2.57*x. Por cada año que aumenta la edad, este modelo predice que el puntaje:</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<ol type = "a">
+<li> INCORRECTA </li>
+<li> INCORRECTA </li>
+<li> CORRECTA </li>
+<li> INCORRECTA </li>
+</ol>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Disminuya en 2.57 puntos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+INCORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Disminuya en 14.17 puntos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+INCORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+Aumente en 2.57 puntos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+CORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Aumente en 14.17 puntos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+INCORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R048 Q1 : preguntas_html_R2019_0007 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p><strong>R2019_0007</strong>. Se modela el puntaje de una prueba psicométrica (expresado en puntos) como función de la edad (expresada en años) en el intervalo 12 a 24 años. El modelo resultante es y = 16.37+2.31*x. Por cada año que aumenta la edad, este modelo predice que el puntaje:</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<ol type = "a">
+<li> INCORRECTA </li>
+<li> CORRECTA </li>
+<li> INCORRECTA </li>
+<li> INCORRECTA </li>
+</ol>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Disminuya en 2.31 puntos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+INCORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+Aumente en 2.31 puntos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+CORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Disminuya en 16.37 puntos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+INCORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Aumente en 16.37 puntos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+INCORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R049 Q1 : preguntas_html_R2019_0007 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p><strong>R2019_0007</strong>. Se modela el puntaje de una prueba psicométrica (expresado en puntos) como función de la edad (expresada en años) en el intervalo 12 a 24 años. El modelo resultante es y = 10.25+3.8*x. Por cada año que aumenta la edad, este modelo predice que el puntaje:</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<ol type = "a">
+<li> INCORRECTA </li>
+<li> INCORRECTA </li>
+<li> CORRECTA </li>
+<li> INCORRECTA </li>
+</ol>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Disminuya en 10.25 puntos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+INCORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Aumente en 10.25 puntos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+INCORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+Aumente en 3.8 puntos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+CORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Disminuya en 3.8 puntos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+INCORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R050 Q1 : preguntas_html_R2019_0007 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p><strong>R2019_0007</strong>. Se modela el puntaje de una prueba psicométrica (expresado en puntos) como función de la edad (expresada en años) en el intervalo 12 a 24 años. El modelo resultante es y = 17.7+3.27*x. Por cada año que aumenta la edad, este modelo predice que el puntaje:</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<ol type = "a">
+<li> CORRECTA </li>
+<li> INCORRECTA </li>
+<li> INCORRECTA </li>
+<li> INCORRECTA </li>
+</ol>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+Aumente en 3.27 puntos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+CORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Disminuya en 17.7 puntos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+INCORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Disminuya en 3.27 puntos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+INCORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Aumente en 17.7 puntos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+INCORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R051 Q1 : preguntas_html_R2019_0007 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p><strong>R2019_0007</strong>. Se modela el puntaje de una prueba psicométrica (expresado en puntos) como función de la edad (expresada en años) en el intervalo 12 a 24 años. El modelo resultante es y = 11.8+2.92*x. Por cada año que aumenta la edad, este modelo predice que el puntaje:</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<ol type = "a">
+<li> INCORRECTA </li>
+<li> CORRECTA </li>
+<li> INCORRECTA </li>
+<li> INCORRECTA </li>
+</ol>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Aumente en 11.8 puntos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+INCORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+Aumente en 2.92 puntos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+CORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Disminuya en 11.8 puntos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+INCORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Disminuya en 2.92 puntos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+INCORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R052 Q1 : preguntas_html_R2019_0007 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p><strong>R2019_0007</strong>. Se modela el puntaje de una prueba psicométrica (expresado en puntos) como función de la edad (expresada en años) en el intervalo 12 a 24 años. El modelo resultante es y = 16.48+2.15*x. Por cada año que aumenta la edad, este modelo predice que el puntaje:</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<ol type = "a">
+<li> INCORRECTA </li>
+<li> INCORRECTA </li>
+<li> CORRECTA </li>
+<li> INCORRECTA </li>
+</ol>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Aumente en 16.48 puntos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+INCORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Disminuya en 16.48 puntos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+INCORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+Aumente en 2.15 puntos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+CORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Disminuya en 2.15 puntos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+INCORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R053 Q1 : preguntas_html_R2019_0007 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p><strong>R2019_0007</strong>. Se modela el puntaje de una prueba psicométrica (expresado en puntos) como función de la edad (expresada en años) en el intervalo 12 a 24 años. El modelo resultante es y = 16.28+3.74*x. Por cada año que aumenta la edad, este modelo predice que el puntaje:</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<ol type = "a">
+<li> INCORRECTA </li>
+<li> CORRECTA </li>
+<li> INCORRECTA </li>
+<li> INCORRECTA </li>
+</ol>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Disminuya en 3.74 puntos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+INCORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+Aumente en 3.74 puntos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+CORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Aumente en 16.28 puntos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+INCORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Disminuya en 16.28 puntos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+INCORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R054 Q1 : preguntas_html_R2019_0007 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p><strong>R2019_0007</strong>. Se modela el puntaje de una prueba psicométrica (expresado en puntos) como función de la edad (expresada en años) en el intervalo 12 a 24 años. El modelo resultante es y = 16.5+3.52*x. Por cada año que aumenta la edad, este modelo predice que el puntaje:</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<ol type = "a">
+<li> INCORRECTA </li>
+<li> INCORRECTA </li>
+<li> INCORRECTA </li>
+<li> CORRECTA </li>
+</ol>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Aumente en 16.5 puntos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+INCORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Disminuya en 16.5 puntos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+INCORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Disminuya en 3.52 puntos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+INCORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+Aumente en 3.52 puntos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+CORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R055 Q1 : preguntas_html_R2019_0007 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p><strong>R2019_0007</strong>. Se modela el puntaje de una prueba psicométrica (expresado en puntos) como función de la edad (expresada en años) en el intervalo 12 a 24 años. El modelo resultante es y = 10.56+3.06*x. Por cada año que aumenta la edad, este modelo predice que el puntaje:</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<ol type = "a">
+<li> INCORRECTA </li>
+<li> INCORRECTA </li>
+<li> CORRECTA </li>
+<li> INCORRECTA </li>
+</ol>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Aumente en 10.56 puntos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+INCORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Disminuya en 10.56 puntos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+INCORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+Aumente en 3.06 puntos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+CORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Disminuya en 3.06 puntos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+INCORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R056 Q1 : preguntas_html_R2019_0007 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p><strong>R2019_0007</strong>. Se modela el puntaje de una prueba psicométrica (expresado en puntos) como función de la edad (expresada en años) en el intervalo 12 a 24 años. El modelo resultante es y = 11.27+3.5*x. Por cada año que aumenta la edad, este modelo predice que el puntaje:</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<ol type = "a">
+<li> INCORRECTA </li>
+<li> INCORRECTA </li>
+<li> INCORRECTA </li>
+<li> CORRECTA </li>
+</ol>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Aumente en 11.27 puntos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+INCORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Disminuya en 11.27 puntos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+INCORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Disminuya en 3.5 puntos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+INCORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+Aumente en 3.5 puntos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+CORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R057 Q1 : preguntas_html_R2019_0007 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p><strong>R2019_0007</strong>. Se modela el puntaje de una prueba psicométrica (expresado en puntos) como función de la edad (expresada en años) en el intervalo 12 a 24 años. El modelo resultante es y = 14.24+2.45*x. Por cada año que aumenta la edad, este modelo predice que el puntaje:</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<ol type = "a">
+<li> INCORRECTA </li>
+<li> CORRECTA </li>
+<li> INCORRECTA </li>
+<li> INCORRECTA </li>
+</ol>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Disminuya en 14.24 puntos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+INCORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+Aumente en 2.45 puntos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+CORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Disminuya en 2.45 puntos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+INCORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Aumente en 14.24 puntos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+INCORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R058 Q1 : preguntas_html_R2019_0007 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p><strong>R2019_0007</strong>. Se modela el puntaje de una prueba psicométrica (expresado en puntos) como función de la edad (expresada en años) en el intervalo 12 a 24 años. El modelo resultante es y = 15.12+3.44*x. Por cada año que aumenta la edad, este modelo predice que el puntaje:</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<ol type = "a">
+<li> INCORRECTA </li>
+<li> INCORRECTA </li>
+<li> CORRECTA </li>
+<li> INCORRECTA </li>
+</ol>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Aumente en 15.12 puntos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+INCORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Disminuya en 15.12 puntos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+INCORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+Aumente en 3.44 puntos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+CORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Disminuya en 3.44 puntos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+INCORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R059 Q1 : preguntas_html_R2019_0007 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p><strong>R2019_0007</strong>. Se modela el puntaje de una prueba psicométrica (expresado en puntos) como función de la edad (expresada en años) en el intervalo 12 a 24 años. El modelo resultante es y = 16.42+2.6*x. Por cada año que aumenta la edad, este modelo predice que el puntaje:</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<ol type = "a">
+<li> INCORRECTA </li>
+<li> INCORRECTA </li>
+<li> INCORRECTA </li>
+<li> CORRECTA </li>
+</ol>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Aumente en 16.42 puntos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+INCORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Disminuya en 2.6 puntos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+INCORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Disminuya en 16.42 puntos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+INCORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+Aumente en 2.6 puntos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+CORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R060 Q1 : preguntas_html_R2019_0007 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p><strong>R2019_0007</strong>. Se modela el puntaje de una prueba psicométrica (expresado en puntos) como función de la edad (expresada en años) en el intervalo 12 a 24 años. El modelo resultante es y = 15.67+2.2*x. Por cada año que aumenta la edad, este modelo predice que el puntaje:</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<ol type = "a">
+<li> INCORRECTA </li>
+<li> INCORRECTA </li>
+<li> CORRECTA </li>
+<li> INCORRECTA </li>
+</ol>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Disminuya en 2.2 puntos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+INCORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Aumente en 15.67 puntos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+INCORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+Aumente en 2.2 puntos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+CORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Disminuya en 15.67 puntos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+INCORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R061 Q1 : preguntas_html_R2019_0007 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p><strong>R2019_0007</strong>. Se modela el puntaje de una prueba psicométrica (expresado en puntos) como función de la edad (expresada en años) en el intervalo 12 a 24 años. El modelo resultante es y = 17.64+3.36*x. Por cada año que aumenta la edad, este modelo predice que el puntaje:</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<ol type = "a">
+<li> INCORRECTA </li>
+<li> INCORRECTA </li>
+<li> CORRECTA </li>
+<li> INCORRECTA </li>
+</ol>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Aumente en 17.64 puntos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+INCORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Disminuya en 17.64 puntos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+INCORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+Aumente en 3.36 puntos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+CORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Disminuya en 3.36 puntos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+INCORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R062 Q1 : preguntas_html_R2019_0007 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p><strong>R2019_0007</strong>. Se modela el puntaje de una prueba psicométrica (expresado en puntos) como función de la edad (expresada en años) en el intervalo 12 a 24 años. El modelo resultante es y = 12.9+3.51*x. Por cada año que aumenta la edad, este modelo predice que el puntaje:</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<ol type = "a">
+<li> INCORRECTA </li>
+<li> CORRECTA </li>
+<li> INCORRECTA </li>
+<li> INCORRECTA </li>
+</ol>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Aumente en 12.9 puntos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+INCORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+Aumente en 3.51 puntos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+CORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Disminuya en 12.9 puntos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+INCORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Disminuya en 3.51 puntos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+INCORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R063 Q1 : preguntas_html_R2019_0007 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p><strong>R2019_0007</strong>. Se modela el puntaje de una prueba psicométrica (expresado en puntos) como función de la edad (expresada en años) en el intervalo 12 a 24 años. El modelo resultante es y = 16.25+3.29*x. Por cada año que aumenta la edad, este modelo predice que el puntaje:</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<ol type = "a">
+<li> INCORRECTA </li>
+<li> CORRECTA </li>
+<li> INCORRECTA </li>
+<li> INCORRECTA </li>
+</ol>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Aumente en 16.25 puntos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+INCORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+Aumente en 3.29 puntos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+CORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Disminuya en 3.29 puntos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+INCORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Disminuya en 16.25 puntos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+INCORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R064 Q1 : preguntas_html_R2019_0007 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p><strong>R2019_0007</strong>. Se modela el puntaje de una prueba psicométrica (expresado en puntos) como función de la edad (expresada en años) en el intervalo 12 a 24 años. El modelo resultante es y = 11.97+2.5*x. Por cada año que aumenta la edad, este modelo predice que el puntaje:</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<ol type = "a">
+<li> INCORRECTA </li>
+<li> INCORRECTA </li>
+<li> INCORRECTA </li>
+<li> CORRECTA </li>
+</ol>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Disminuya en 2.5 puntos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+INCORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Aumente en 11.97 puntos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+INCORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Disminuya en 11.97 puntos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+INCORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+Aumente en 2.5 puntos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+CORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R065 Q1 : preguntas_html_R2019_0007 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p><strong>R2019_0007</strong>. Se modela el puntaje de una prueba psicométrica (expresado en puntos) como función de la edad (expresada en años) en el intervalo 12 a 24 años. El modelo resultante es y = 11.14+3.5*x. Por cada año que aumenta la edad, este modelo predice que el puntaje:</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<ol type = "a">
+<li> INCORRECTA </li>
+<li> INCORRECTA </li>
+<li> CORRECTA </li>
+<li> INCORRECTA </li>
+</ol>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Disminuya en 11.14 puntos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+INCORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Aumente en 11.14 puntos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+INCORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+Aumente en 3.5 puntos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+CORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Disminuya en 3.5 puntos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+INCORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R066 Q1 : preguntas_html_R2019_0007 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p><strong>R2019_0007</strong>. Se modela el puntaje de una prueba psicométrica (expresado en puntos) como función de la edad (expresada en años) en el intervalo 12 a 24 años. El modelo resultante es y = 16.97+3.25*x. Por cada año que aumenta la edad, este modelo predice que el puntaje:</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<ol type = "a">
+<li> INCORRECTA </li>
+<li> INCORRECTA </li>
+<li> INCORRECTA </li>
+<li> CORRECTA </li>
+</ol>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Aumente en 16.97 puntos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+INCORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Disminuya en 16.97 puntos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+INCORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Disminuya en 3.25 puntos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+INCORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+Aumente en 3.25 puntos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+CORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R067 Q1 : preguntas_html_R2019_0007 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p><strong>R2019_0007</strong>. Se modela el puntaje de una prueba psicométrica (expresado en puntos) como función de la edad (expresada en años) en el intervalo 12 a 24 años. El modelo resultante es y = 14.3+2.79*x. Por cada año que aumenta la edad, este modelo predice que el puntaje:</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<ol type = "a">
+<li> INCORRECTA </li>
+<li> CORRECTA </li>
+<li> INCORRECTA </li>
+<li> INCORRECTA </li>
+</ol>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Disminuya en 14.3 puntos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+INCORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+Aumente en 2.79 puntos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+CORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Aumente en 14.3 puntos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+INCORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Disminuya en 2.79 puntos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+INCORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R068 Q1 : preguntas_html_R2019_0007 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p><strong>R2019_0007</strong>. Se modela el puntaje de una prueba psicométrica (expresado en puntos) como función de la edad (expresada en años) en el intervalo 12 a 24 años. El modelo resultante es y = 13.06+3.54*x. Por cada año que aumenta la edad, este modelo predice que el puntaje:</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<ol type = "a">
+<li> INCORRECTA </li>
+<li> INCORRECTA </li>
+<li> INCORRECTA </li>
+<li> CORRECTA </li>
+</ol>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Disminuya en 13.06 puntos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+INCORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Disminuya en 3.54 puntos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+INCORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Aumente en 13.06 puntos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+INCORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+Aumente en 3.54 puntos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+CORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R069 Q1 : preguntas_html_R2019_0007 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p><strong>R2019_0007</strong>. Se modela el puntaje de una prueba psicométrica (expresado en puntos) como función de la edad (expresada en años) en el intervalo 12 a 24 años. El modelo resultante es y = 11.91+2.87*x. Por cada año que aumenta la edad, este modelo predice que el puntaje:</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<ol type = "a">
+<li> CORRECTA </li>
+<li> INCORRECTA </li>
+<li> INCORRECTA </li>
+<li> INCORRECTA </li>
+</ol>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+Aumente en 2.87 puntos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+CORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Disminuya en 11.91 puntos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+INCORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Aumente en 11.91 puntos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+INCORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Disminuya en 2.87 puntos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+INCORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R070 Q1 : preguntas_html_R2019_0007 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p><strong>R2019_0007</strong>. Se modela el puntaje de una prueba psicométrica (expresado en puntos) como función de la edad (expresada en años) en el intervalo 12 a 24 años. El modelo resultante es y = 12.24+2.38*x. Por cada año que aumenta la edad, este modelo predice que el puntaje:</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<ol type = "a">
+<li> CORRECTA </li>
+<li> INCORRECTA </li>
+<li> INCORRECTA </li>
+<li> INCORRECTA </li>
+</ol>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+Aumente en 2.38 puntos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+CORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Disminuya en 2.38 puntos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+INCORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Aumente en 12.24 puntos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+INCORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Disminuya en 12.24 puntos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+INCORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R071 Q1 : preguntas_html_R2019_0007 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p><strong>R2019_0007</strong>. Se modela el puntaje de una prueba psicométrica (expresado en puntos) como función de la edad (expresada en años) en el intervalo 12 a 24 años. El modelo resultante es y = 10.7+3.08*x. Por cada año que aumenta la edad, este modelo predice que el puntaje:</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<ol type = "a">
+<li> INCORRECTA </li>
+<li> INCORRECTA </li>
+<li> CORRECTA </li>
+<li> INCORRECTA </li>
+</ol>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Aumente en 10.7 puntos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+INCORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Disminuya en 3.08 puntos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+INCORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+Aumente en 3.08 puntos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+CORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Disminuya en 10.7 puntos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+INCORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R072 Q1 : preguntas_html_R2019_0007 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p><strong>R2019_0007</strong>. Se modela el puntaje de una prueba psicométrica (expresado en puntos) como función de la edad (expresada en años) en el intervalo 12 a 24 años. El modelo resultante es y = 10.49+2.72*x. Por cada año que aumenta la edad, este modelo predice que el puntaje:</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<ol type = "a">
+<li> CORRECTA </li>
+<li> INCORRECTA </li>
+<li> INCORRECTA </li>
+<li> INCORRECTA </li>
+</ol>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+Aumente en 2.72 puntos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+CORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Disminuya en 10.49 puntos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+INCORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Aumente en 10.49 puntos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+INCORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Disminuya en 2.72 puntos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+INCORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R073 Q1 : preguntas_html_R2019_0007 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p><strong>R2019_0007</strong>. Se modela el puntaje de una prueba psicométrica (expresado en puntos) como función de la edad (expresada en años) en el intervalo 12 a 24 años. El modelo resultante es y = 10.52+3.4*x. Por cada año que aumenta la edad, este modelo predice que el puntaje:</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<ol type = "a">
+<li> INCORRECTA </li>
+<li> INCORRECTA </li>
+<li> CORRECTA </li>
+<li> INCORRECTA </li>
+</ol>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Disminuya en 3.4 puntos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+INCORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Aumente en 10.52 puntos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+INCORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+Aumente en 3.4 puntos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+CORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Disminuya en 10.52 puntos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+INCORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R074 Q1 : preguntas_html_R2019_0007 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p><strong>R2019_0007</strong>. Se modela el puntaje de una prueba psicométrica (expresado en puntos) como función de la edad (expresada en años) en el intervalo 12 a 24 años. El modelo resultante es y = 14.57+2.54*x. Por cada año que aumenta la edad, este modelo predice que el puntaje:</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<ol type = "a">
+<li> CORRECTA </li>
+<li> INCORRECTA </li>
+<li> INCORRECTA </li>
+<li> INCORRECTA </li>
+</ol>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+Aumente en 2.54 puntos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+CORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Aumente en 14.57 puntos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+INCORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Disminuya en 2.54 puntos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+INCORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Disminuya en 14.57 puntos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+INCORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R075 Q1 : preguntas_html_R2019_0007 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p><strong>R2019_0007</strong>. Se modela el puntaje de una prueba psicométrica (expresado en puntos) como función de la edad (expresada en años) en el intervalo 12 a 24 años. El modelo resultante es y = 17.75+3.11*x. Por cada año que aumenta la edad, este modelo predice que el puntaje:</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<ol type = "a">
+<li> INCORRECTA </li>
+<li> INCORRECTA </li>
+<li> INCORRECTA </li>
+<li> CORRECTA </li>
+</ol>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Aumente en 17.75 puntos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+INCORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Disminuya en 3.11 puntos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+INCORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Disminuya en 17.75 puntos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+INCORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+Aumente en 3.11 puntos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+CORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R076 Q1 : preguntas_html_R2019_0007 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p><strong>R2019_0007</strong>. Se modela el puntaje de una prueba psicométrica (expresado en puntos) como función de la edad (expresada en años) en el intervalo 12 a 24 años. El modelo resultante es y = 12.16+2.49*x. Por cada año que aumenta la edad, este modelo predice que el puntaje:</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<ol type = "a">
+<li> INCORRECTA </li>
+<li> CORRECTA </li>
+<li> INCORRECTA </li>
+<li> INCORRECTA </li>
+</ol>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Disminuya en 12.16 puntos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+INCORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+Aumente en 2.49 puntos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+CORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Aumente en 12.16 puntos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+INCORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Disminuya en 2.49 puntos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+INCORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R077 Q1 : preguntas_html_R2019_0007 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p><strong>R2019_0007</strong>. Se modela el puntaje de una prueba psicométrica (expresado en puntos) como función de la edad (expresada en años) en el intervalo 12 a 24 años. El modelo resultante es y = 14.32+3.74*x. Por cada año que aumenta la edad, este modelo predice que el puntaje:</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<ol type = "a">
+<li> INCORRECTA </li>
+<li> INCORRECTA </li>
+<li> CORRECTA </li>
+<li> INCORRECTA </li>
+</ol>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Aumente en 14.32 puntos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+INCORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Disminuya en 14.32 puntos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+INCORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+Aumente en 3.74 puntos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+CORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Disminuya en 3.74 puntos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+INCORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R078 Q1 : preguntas_html_R2019_0007 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p><strong>R2019_0007</strong>. Se modela el puntaje de una prueba psicométrica (expresado en puntos) como función de la edad (expresada en años) en el intervalo 12 a 24 años. El modelo resultante es y = 15.81+3.59*x. Por cada año que aumenta la edad, este modelo predice que el puntaje:</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<ol type = "a">
+<li> INCORRECTA </li>
+<li> INCORRECTA </li>
+<li> INCORRECTA </li>
+<li> CORRECTA </li>
+</ol>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Disminuya en 3.59 puntos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+INCORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Aumente en 15.81 puntos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+INCORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Disminuya en 15.81 puntos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+INCORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+Aumente en 3.59 puntos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+CORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R079 Q1 : preguntas_html_R2019_0007 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p><strong>R2019_0007</strong>. Se modela el puntaje de una prueba psicométrica (expresado en puntos) como función de la edad (expresada en años) en el intervalo 12 a 24 años. El modelo resultante es y = 15.92+2.84*x. Por cada año que aumenta la edad, este modelo predice que el puntaje:</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<ol type = "a">
+<li> INCORRECTA </li>
+<li> INCORRECTA </li>
+<li> CORRECTA </li>
+<li> INCORRECTA </li>
+</ol>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Disminuya en 15.92 puntos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+INCORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Disminuya en 2.84 puntos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+INCORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+Aumente en 2.84 puntos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+CORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Aumente en 15.92 puntos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+INCORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R080 Q1 : preguntas_html_R2019_0007 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p><strong>R2019_0007</strong>. Se modela el puntaje de una prueba psicométrica (expresado en puntos) como función de la edad (expresada en años) en el intervalo 12 a 24 años. El modelo resultante es y = 11.46+2.13*x. Por cada año que aumenta la edad, este modelo predice que el puntaje:</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<ol type = "a">
+<li> INCORRECTA </li>
+<li> CORRECTA </li>
+<li> INCORRECTA </li>
+<li> INCORRECTA </li>
+</ol>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Disminuya en 11.46 puntos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+INCORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+Aumente en 2.13 puntos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+CORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Disminuya en 2.13 puntos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+INCORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Aumente en 11.46 puntos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+INCORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R081 Q1 : preguntas_html_R2019_0007 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p><strong>R2019_0007</strong>. Se modela el puntaje de una prueba psicométrica (expresado en puntos) como función de la edad (expresada en años) en el intervalo 12 a 24 años. El modelo resultante es y = 13.48+3.08*x. Por cada año que aumenta la edad, este modelo predice que el puntaje:</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<ol type = "a">
+<li> CORRECTA </li>
+<li> INCORRECTA </li>
+<li> INCORRECTA </li>
+<li> INCORRECTA </li>
+</ol>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+Aumente en 3.08 puntos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+CORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Disminuya en 13.48 puntos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+INCORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Disminuya en 3.08 puntos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+INCORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Aumente en 13.48 puntos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+INCORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R082 Q1 : preguntas_html_R2019_0007 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p><strong>R2019_0007</strong>. Se modela el puntaje de una prueba psicométrica (expresado en puntos) como función de la edad (expresada en años) en el intervalo 12 a 24 años. El modelo resultante es y = 17.6+3.64*x. Por cada año que aumenta la edad, este modelo predice que el puntaje:</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<ol type = "a">
+<li> INCORRECTA </li>
+<li> CORRECTA </li>
+<li> INCORRECTA </li>
+<li> INCORRECTA </li>
+</ol>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Disminuya en 17.6 puntos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+INCORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+Aumente en 3.64 puntos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+CORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Aumente en 17.6 puntos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+INCORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Disminuya en 3.64 puntos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+INCORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R083 Q1 : preguntas_html_R2019_0007 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p><strong>R2019_0007</strong>. Se modela el puntaje de una prueba psicométrica (expresado en puntos) como función de la edad (expresada en años) en el intervalo 12 a 24 años. El modelo resultante es y = 13.39+2.45*x. Por cada año que aumenta la edad, este modelo predice que el puntaje:</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<ol type = "a">
+<li> INCORRECTA </li>
+<li> INCORRECTA </li>
+<li> INCORRECTA </li>
+<li> CORRECTA </li>
+</ol>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Disminuya en 13.39 puntos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+INCORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Aumente en 13.39 puntos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+INCORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Disminuya en 2.45 puntos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+INCORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+Aumente en 2.45 puntos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+CORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R084 Q1 : preguntas_html_R2019_0007 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p><strong>R2019_0007</strong>. Se modela el puntaje de una prueba psicométrica (expresado en puntos) como función de la edad (expresada en años) en el intervalo 12 a 24 años. El modelo resultante es y = 11.17+2.26*x. Por cada año que aumenta la edad, este modelo predice que el puntaje:</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<ol type = "a">
+<li> INCORRECTA </li>
+<li> INCORRECTA </li>
+<li> INCORRECTA </li>
+<li> CORRECTA </li>
+</ol>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Disminuya en 11.17 puntos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+INCORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Aumente en 11.17 puntos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+INCORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Disminuya en 2.26 puntos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+INCORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+Aumente en 2.26 puntos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+CORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R085 Q1 : preguntas_html_R2019_0007 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p><strong>R2019_0007</strong>. Se modela el puntaje de una prueba psicométrica (expresado en puntos) como función de la edad (expresada en años) en el intervalo 12 a 24 años. El modelo resultante es y = 10.22+2.72*x. Por cada año que aumenta la edad, este modelo predice que el puntaje:</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<ol type = "a">
+<li> INCORRECTA </li>
+<li> CORRECTA </li>
+<li> INCORRECTA </li>
+<li> INCORRECTA </li>
+</ol>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Aumente en 10.22 puntos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+INCORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+Aumente en 2.72 puntos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+CORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Disminuya en 10.22 puntos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+INCORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Disminuya en 2.72 puntos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+INCORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R086 Q1 : preguntas_html_R2019_0007 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p><strong>R2019_0007</strong>. Se modela el puntaje de una prueba psicométrica (expresado en puntos) como función de la edad (expresada en años) en el intervalo 12 a 24 años. El modelo resultante es y = 17.29+2.22*x. Por cada año que aumenta la edad, este modelo predice que el puntaje:</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<ol type = "a">
+<li> CORRECTA </li>
+<li> INCORRECTA </li>
+<li> INCORRECTA </li>
+<li> INCORRECTA </li>
+</ol>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+Aumente en 2.22 puntos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+CORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Disminuya en 2.22 puntos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+INCORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Disminuya en 17.29 puntos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+INCORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Aumente en 17.29 puntos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+INCORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R087 Q1 : preguntas_html_R2019_0007 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p><strong>R2019_0007</strong>. Se modela el puntaje de una prueba psicométrica (expresado en puntos) como función de la edad (expresada en años) en el intervalo 12 a 24 años. El modelo resultante es y = 15.01+3.57*x. Por cada año que aumenta la edad, este modelo predice que el puntaje:</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<ol type = "a">
+<li> CORRECTA </li>
+<li> INCORRECTA </li>
+<li> INCORRECTA </li>
+<li> INCORRECTA </li>
+</ol>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+Aumente en 3.57 puntos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+CORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Disminuya en 3.57 puntos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+INCORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Aumente en 15.01 puntos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+INCORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Disminuya en 15.01 puntos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+INCORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R088 Q1 : preguntas_html_R2019_0007 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p><strong>R2019_0007</strong>. Se modela el puntaje de una prueba psicométrica (expresado en puntos) como función de la edad (expresada en años) en el intervalo 12 a 24 años. El modelo resultante es y = 15.37+3.34*x. Por cada año que aumenta la edad, este modelo predice que el puntaje:</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<ol type = "a">
+<li> CORRECTA </li>
+<li> INCORRECTA </li>
+<li> INCORRECTA </li>
+<li> INCORRECTA </li>
+</ol>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+Aumente en 3.34 puntos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+CORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Disminuya en 15.37 puntos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+INCORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Disminuya en 3.34 puntos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+INCORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Aumente en 15.37 puntos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+INCORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R089 Q1 : preguntas_html_R2019_0007 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p><strong>R2019_0007</strong>. Se modela el puntaje de una prueba psicométrica (expresado en puntos) como función de la edad (expresada en años) en el intervalo 12 a 24 años. El modelo resultante es y = 10.83+2.46*x. Por cada año que aumenta la edad, este modelo predice que el puntaje:</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<ol type = "a">
+<li> CORRECTA </li>
+<li> INCORRECTA </li>
+<li> INCORRECTA </li>
+<li> INCORRECTA </li>
+</ol>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+Aumente en 2.46 puntos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+CORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Aumente en 10.83 puntos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+INCORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Disminuya en 2.46 puntos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+INCORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Disminuya en 10.83 puntos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+INCORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R090 Q1 : preguntas_html_R2019_0007 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p><strong>R2019_0007</strong>. Se modela el puntaje de una prueba psicométrica (expresado en puntos) como función de la edad (expresada en años) en el intervalo 12 a 24 años. El modelo resultante es y = 17.04+2.81*x. Por cada año que aumenta la edad, este modelo predice que el puntaje:</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<ol type = "a">
+<li> INCORRECTA </li>
+<li> INCORRECTA </li>
+<li> INCORRECTA </li>
+<li> CORRECTA </li>
+</ol>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Disminuya en 17.04 puntos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+INCORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Aumente en 17.04 puntos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+INCORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Disminuya en 2.81 puntos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+INCORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+Aumente en 2.81 puntos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+CORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R091 Q1 : preguntas_html_R2019_0007 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p><strong>R2019_0007</strong>. Se modela el puntaje de una prueba psicométrica (expresado en puntos) como función de la edad (expresada en años) en el intervalo 12 a 24 años. El modelo resultante es y = 14.18+3.65*x. Por cada año que aumenta la edad, este modelo predice que el puntaje:</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<ol type = "a">
+<li> CORRECTA </li>
+<li> INCORRECTA </li>
+<li> INCORRECTA </li>
+<li> INCORRECTA </li>
+</ol>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+Aumente en 3.65 puntos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+CORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Aumente en 14.18 puntos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+INCORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Disminuya en 3.65 puntos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+INCORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Disminuya en 14.18 puntos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+INCORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R092 Q1 : preguntas_html_R2019_0007 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p><strong>R2019_0007</strong>. Se modela el puntaje de una prueba psicométrica (expresado en puntos) como función de la edad (expresada en años) en el intervalo 12 a 24 años. El modelo resultante es y = 13.19+2.67*x. Por cada año que aumenta la edad, este modelo predice que el puntaje:</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<ol type = "a">
+<li> INCORRECTA </li>
+<li> INCORRECTA </li>
+<li> INCORRECTA </li>
+<li> CORRECTA </li>
+</ol>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Disminuya en 2.67 puntos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+INCORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Aumente en 13.19 puntos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+INCORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Disminuya en 13.19 puntos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+INCORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+Aumente en 2.67 puntos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+CORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R093 Q1 : preguntas_html_R2019_0007 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p><strong>R2019_0007</strong>. Se modela el puntaje de una prueba psicométrica (expresado en puntos) como función de la edad (expresada en años) en el intervalo 12 a 24 años. El modelo resultante es y = 10.6+3.73*x. Por cada año que aumenta la edad, este modelo predice que el puntaje:</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<ol type = "a">
+<li> INCORRECTA </li>
+<li> INCORRECTA </li>
+<li> CORRECTA </li>
+<li> INCORRECTA </li>
+</ol>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Disminuya en 3.73 puntos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+INCORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Aumente en 10.6 puntos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+INCORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+Aumente en 3.73 puntos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+CORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Disminuya en 10.6 puntos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+INCORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R094 Q1 : preguntas_html_R2019_0007 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p><strong>R2019_0007</strong>. Se modela el puntaje de una prueba psicométrica (expresado en puntos) como función de la edad (expresada en años) en el intervalo 12 a 24 años. El modelo resultante es y = 16.43+3.27*x. Por cada año que aumenta la edad, este modelo predice que el puntaje:</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<ol type = "a">
+<li> INCORRECTA </li>
+<li> CORRECTA </li>
+<li> INCORRECTA </li>
+<li> INCORRECTA </li>
+</ol>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Disminuya en 3.27 puntos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+INCORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+Aumente en 3.27 puntos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+CORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Aumente en 16.43 puntos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+INCORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Disminuya en 16.43 puntos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+INCORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R095 Q1 : preguntas_html_R2019_0007 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p><strong>R2019_0007</strong>. Se modela el puntaje de una prueba psicométrica (expresado en puntos) como función de la edad (expresada en años) en el intervalo 12 a 24 años. El modelo resultante es y = 17.92+3.33*x. Por cada año que aumenta la edad, este modelo predice que el puntaje:</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<ol type = "a">
+<li> CORRECTA </li>
+<li> INCORRECTA </li>
+<li> INCORRECTA </li>
+<li> INCORRECTA </li>
+</ol>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+Aumente en 3.33 puntos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+CORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Aumente en 17.92 puntos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+INCORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Disminuya en 3.33 puntos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+INCORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Disminuya en 17.92 puntos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+INCORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R096 Q1 : preguntas_html_R2019_0007 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p><strong>R2019_0007</strong>. Se modela el puntaje de una prueba psicométrica (expresado en puntos) como función de la edad (expresada en años) en el intervalo 12 a 24 años. El modelo resultante es y = 16.16+2.03*x. Por cada año que aumenta la edad, este modelo predice que el puntaje:</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<ol type = "a">
+<li> INCORRECTA </li>
+<li> INCORRECTA </li>
+<li> CORRECTA </li>
+<li> INCORRECTA </li>
+</ol>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Aumente en 16.16 puntos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+INCORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Disminuya en 16.16 puntos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+INCORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+Aumente en 2.03 puntos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+CORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Disminuya en 2.03 puntos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+INCORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R097 Q1 : preguntas_html_R2019_0007 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p><strong>R2019_0007</strong>. Se modela el puntaje de una prueba psicométrica (expresado en puntos) como función de la edad (expresada en años) en el intervalo 12 a 24 años. El modelo resultante es y = 14.32+3.51*x. Por cada año que aumenta la edad, este modelo predice que el puntaje:</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<ol type = "a">
+<li> INCORRECTA </li>
+<li> INCORRECTA </li>
+<li> INCORRECTA </li>
+<li> CORRECTA </li>
+</ol>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Disminuya en 14.32 puntos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+INCORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Aumente en 14.32 puntos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+INCORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Disminuya en 3.51 puntos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+INCORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+Aumente en 3.51 puntos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+CORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R098 Q1 : preguntas_html_R2019_0007 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p><strong>R2019_0007</strong>. Se modela el puntaje de una prueba psicométrica (expresado en puntos) como función de la edad (expresada en años) en el intervalo 12 a 24 años. El modelo resultante es y = 10.84+3.27*x. Por cada año que aumenta la edad, este modelo predice que el puntaje:</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<ol type = "a">
+<li> CORRECTA </li>
+<li> INCORRECTA </li>
+<li> INCORRECTA </li>
+<li> INCORRECTA </li>
+</ol>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+Aumente en 3.27 puntos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+CORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Disminuya en 3.27 puntos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+INCORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Disminuya en 10.84 puntos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+INCORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Aumente en 10.84 puntos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+INCORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R099 Q1 : preguntas_html_R2019_0007 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p><strong>R2019_0007</strong>. Se modela el puntaje de una prueba psicométrica (expresado en puntos) como función de la edad (expresada en años) en el intervalo 12 a 24 años. El modelo resultante es y = 12.45+3.32*x. Por cada año que aumenta la edad, este modelo predice que el puntaje:</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<ol type = "a">
+<li> INCORRECTA </li>
+<li> CORRECTA </li>
+<li> INCORRECTA </li>
+<li> INCORRECTA </li>
+</ol>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Aumente en 12.45 puntos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+INCORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+Aumente en 3.32 puntos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+CORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Disminuya en 12.45 puntos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+INCORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Disminuya en 3.32 puntos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+INCORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R100 Q1 : preguntas_html_R2019_0007 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p><strong>R2019_0007</strong>. Se modela el puntaje de una prueba psicométrica (expresado en puntos) como función de la edad (expresada en años) en el intervalo 12 a 24 años. El modelo resultante es y = 12.89+2.17*x. Por cada año que aumenta la edad, este modelo predice que el puntaje:</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<ol type = "a">
+<li> INCORRECTA </li>
+<li> INCORRECTA </li>
+<li> INCORRECTA </li>
+<li> CORRECTA </li>
+</ol>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Aumente en 12.89 puntos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+INCORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Disminuya en 2.17 puntos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+INCORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Disminuya en 12.89 puntos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+INCORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+Aumente en 2.17 puntos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+CORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+</quiz>

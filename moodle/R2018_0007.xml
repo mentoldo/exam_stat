@@ -15,7 +15,7 @@
 </name>
 <questiontext format="html">
 <text><![CDATA[<p>
-<p><strong>R2018_0007</strong>. Un sujeto obtiene un puntaje bruto de 241 en una prueba de habilidad lingüística que tiene distribución normal con desviación estándar 16. Se trata de un puntaje:</p>
+<p><strong>R2018_0007</strong>. Un sujeto obtiene un puntaje bruto de 109 en una prueba de habilidad lingüística que tiene distribución normal con con mínimo de 83 y máximo de 121. Se trata de un puntaje:</p>
 </p>]]></text>
 </questiontext>
 <generalfeedback format="html">
@@ -45,6 +45,16 @@ TRUE
 </answer>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
+Dentro de lo esperable
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
 Muy elevado
 </p>]]></text>
 <feedback format="html">
@@ -63,16 +73,6 @@ FALSE
 </p>]]></text>
 </feedback>
 </answer>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
-Dentro de lo esperable
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-FALSE
-</p>]]></text>
-</feedback>
-</answer>
 </question>
 
 
@@ -82,7 +82,7 @@ FALSE
 </name>
 <questiontext format="html">
 <text><![CDATA[<p>
-<p><strong>R2018_0007</strong>. Un sujeto obtiene un puntaje bruto de 71 en una prueba de habilidad lingüística que tiene distribución normal con con mínimo de 64 y máximo de 88. Se trata de un puntaje:</p>
+<p><strong>R2018_0007</strong>. Un sujeto obtiene un puntaje bruto de 67 en una prueba de habilidad lingüística que tiene distribución normal con media 64. Se trata de un puntaje:</p>
 </p>]]></text>
 </questiontext>
 <generalfeedback format="html">
@@ -102,7 +102,7 @@ FALSE
 <answernumbering>abc</answernumbering>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-Muy elevado
+Dentro de lo esperable
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -112,7 +112,7 @@ FALSE
 </answer>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-Dentro de lo esperable
+Muy elevado
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -149,16 +149,16 @@ FALSE
 </name>
 <questiontext format="html">
 <text><![CDATA[<p>
-<p><strong>R2018_0007</strong>. Un sujeto obtiene un puntaje bruto de 100 en una prueba de habilidad lingüística que tiene distribución normal con desviación estándar 6. Se trata de un puntaje:</p>
+<p><strong>R2018_0007</strong>. Un sujeto obtiene un puntaje bruto de 114 en una prueba de habilidad lingüística que tiene distribución normal con desviación estándar 11. Se trata de un puntaje:</p>
 </p>]]></text>
 </questiontext>
 <generalfeedback format="html">
 <text><![CDATA[<p>
 <ol type = "a">
+<li> FALSE </li>
+<li> FALSE </li>
+<li> FALSE </li>
 <li> TRUE </li>
-<li> FALSE </li>
-<li> FALSE </li>
-<li> FALSE </li>
 </ol>
 </p>]]></text>
 </generalfeedback>
@@ -167,19 +167,9 @@ FALSE
 <shuffleanswers>false</shuffleanswers>
 <single>true</single>
 <answernumbering>abc</answernumbering>
-<answer fraction="100" format="html">
-<text><![CDATA[<p>
-No se puede saber con esos datos
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-TRUE
-</p>]]></text>
-</feedback>
-</answer>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-Muy elevado
+Dentro de lo esperable
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -199,11 +189,21 @@ FALSE
 </answer>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-Dentro de lo esperable
+Muy elevado
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
 FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+No se puede saber con esos datos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+TRUE
 </p>]]></text>
 </feedback>
 </answer>
@@ -216,15 +216,15 @@ FALSE
 </name>
 <questiontext format="html">
 <text><![CDATA[<p>
-<p><strong>R2018_0007</strong>. Un sujeto obtiene un puntaje bruto de 105 en una prueba de habilidad lingüística que tiene distribución normal con con mínimo de 94 y máximo de 130. Se trata de un puntaje:</p>
+<p><strong>R2018_0007</strong>. Un sujeto obtiene un puntaje bruto de 184 en una prueba de habilidad lingüística que tiene distribución normal con desviación estándar 17. Se trata de un puntaje:</p>
 </p>]]></text>
 </questiontext>
 <generalfeedback format="html">
 <text><![CDATA[<p>
 <ol type = "a">
+<li> FALSE </li>
+<li> FALSE </li>
 <li> TRUE </li>
-<li> FALSE </li>
-<li> FALSE </li>
 <li> FALSE </li>
 </ol>
 </p>]]></text>
@@ -234,13 +234,13 @@ FALSE
 <shuffleanswers>false</shuffleanswers>
 <single>true</single>
 <answernumbering>abc</answernumbering>
-<answer fraction="100" format="html">
+<answer fraction="0" format="html">
 <text><![CDATA[<p>
-No se puede saber con esos datos
+Muy elevado
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
-TRUE
+FALSE
 </p>]]></text>
 </feedback>
 </answer>
@@ -254,19 +254,19 @@ FALSE
 </p>]]></text>
 </feedback>
 </answer>
-<answer fraction="0" format="html">
+<answer fraction="100" format="html">
 <text><![CDATA[<p>
-Muy bajo
+No se puede saber con esos datos
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
-FALSE
+TRUE
 </p>]]></text>
 </feedback>
 </answer>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-Muy elevado
+Muy bajo
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -283,7 +283,7 @@ FALSE
 </name>
 <questiontext format="html">
 <text><![CDATA[<p>
-<p><strong>R2018_0007</strong>. Un sujeto obtiene un puntaje bruto de 181 en una prueba de habilidad lingüística que tiene distribución normal con con mínimo de 121 y máximo de 179. Se trata de un puntaje:</p>
+<p><strong>R2018_0007</strong>. Un sujeto obtiene un puntaje bruto de 93 en una prueba de habilidad lingüística que tiene distribución normal con media 91. Se trata de un puntaje:</p>
 </p>]]></text>
 </questiontext>
 <generalfeedback format="html">
@@ -308,6 +308,16 @@ No se puede saber con esos datos
 <feedback format="html">
 <text><![CDATA[<p>
 TRUE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Dentro de lo esperable
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
 </p>]]></text>
 </feedback>
 </answer>
@@ -331,16 +341,6 @@ FALSE
 </p>]]></text>
 </feedback>
 </answer>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
-Dentro de lo esperable
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-FALSE
-</p>]]></text>
-</feedback>
-</answer>
 </question>
 
 
@@ -350,14 +350,14 @@ FALSE
 </name>
 <questiontext format="html">
 <text><![CDATA[<p>
-<p><strong>R2018_0007</strong>. Un sujeto obtiene un puntaje bruto de 170 en una prueba de habilidad lingüística que tiene distribución normal con con mínimo de 142 y máximo de 217. Se trata de un puntaje:</p>
+<p><strong>R2018_0007</strong>. Un sujeto obtiene un puntaje bruto de 122 en una prueba de habilidad lingüística que tiene distribución normal con con mínimo de 86 y máximo de 118. Se trata de un puntaje:</p>
 </p>]]></text>
 </questiontext>
 <generalfeedback format="html">
 <text><![CDATA[<p>
 <ol type = "a">
-<li> TRUE </li>
 <li> FALSE </li>
+<li> TRUE </li>
 <li> FALSE </li>
 <li> FALSE </li>
 </ol>
@@ -368,16 +368,6 @@ FALSE
 <shuffleanswers>false</shuffleanswers>
 <single>true</single>
 <answernumbering>abc</answernumbering>
-<answer fraction="100" format="html">
-<text><![CDATA[<p>
-No se puede saber con esos datos
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-TRUE
-</p>]]></text>
-</feedback>
-</answer>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
 Dentro de lo esperable
@@ -385,6 +375,16 @@ Dentro de lo esperable
 <feedback format="html">
 <text><![CDATA[<p>
 FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+No se puede saber con esos datos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+TRUE
 </p>]]></text>
 </feedback>
 </answer>
@@ -417,7 +417,7 @@ FALSE
 </name>
 <questiontext format="html">
 <text><![CDATA[<p>
-<p><strong>R2018_0007</strong>. Un sujeto obtiene un puntaje bruto de 126 en una prueba de habilidad lingüística que tiene distribución normal con con mínimo de 130 y máximo de 174. Se trata de un puntaje:</p>
+<p><strong>R2018_0007</strong>. Un sujeto obtiene un puntaje bruto de 191 en una prueba de habilidad lingüística que tiene distribución normal con media 162. Se trata de un puntaje:</p>
 </p>]]></text>
 </questiontext>
 <generalfeedback format="html">
@@ -425,8 +425,8 @@ FALSE
 <ol type = "a">
 <li> FALSE </li>
 <li> FALSE </li>
-<li> TRUE </li>
 <li> FALSE </li>
+<li> TRUE </li>
 </ol>
 </p>]]></text>
 </generalfeedback>
@@ -438,6 +438,16 @@ FALSE
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
 Muy bajo
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Muy elevado
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -462,16 +472,6 @@ No se puede saber con esos datos
 <feedback format="html">
 <text><![CDATA[<p>
 TRUE
-</p>]]></text>
-</feedback>
-</answer>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
-Muy elevado
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-FALSE
 </p>]]></text>
 </feedback>
 </answer>
@@ -484,16 +484,16 @@ FALSE
 </name>
 <questiontext format="html">
 <text><![CDATA[<p>
-<p><strong>R2018_0007</strong>. Un sujeto obtiene un puntaje bruto de 136 en una prueba de habilidad lingüística que tiene distribución normal con media 114. Se trata de un puntaje:</p>
+<p><strong>R2018_0007</strong>. Un sujeto obtiene un puntaje bruto de 91 en una prueba de habilidad lingüística que tiene distribución normal con media 92. Se trata de un puntaje:</p>
 </p>]]></text>
 </questiontext>
 <generalfeedback format="html">
 <text><![CDATA[<p>
 <ol type = "a">
 <li> FALSE </li>
+<li> FALSE </li>
+<li> FALSE </li>
 <li> TRUE </li>
-<li> FALSE </li>
-<li> FALSE </li>
 </ol>
 </p>]]></text>
 </generalfeedback>
@@ -509,16 +509,6 @@ Muy elevado
 <feedback format="html">
 <text><![CDATA[<p>
 FALSE
-</p>]]></text>
-</feedback>
-</answer>
-<answer fraction="100" format="html">
-<text><![CDATA[<p>
-No se puede saber con esos datos
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-TRUE
 </p>]]></text>
 </feedback>
 </answer>
@@ -539,6 +529,16 @@ Dentro de lo esperable
 <feedback format="html">
 <text><![CDATA[<p>
 FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+No se puede saber con esos datos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+TRUE
 </p>]]></text>
 </feedback>
 </answer>
@@ -551,16 +551,16 @@ FALSE
 </name>
 <questiontext format="html">
 <text><![CDATA[<p>
-<p><strong>R2018_0007</strong>. Un sujeto obtiene un puntaje bruto de 74 en una prueba de habilidad lingüística que tiene distribución normal con media 62. Se trata de un puntaje:</p>
+<p><strong>R2018_0007</strong>. Un sujeto obtiene un puntaje bruto de 85 en una prueba de habilidad lingüística que tiene distribución normal con desviación estándar 7. Se trata de un puntaje:</p>
 </p>]]></text>
 </questiontext>
 <generalfeedback format="html">
 <text><![CDATA[<p>
 <ol type = "a">
 <li> FALSE </li>
-<li> FALSE </li>
-<li> FALSE </li>
 <li> TRUE </li>
+<li> FALSE </li>
+<li> FALSE </li>
 </ol>
 </p>]]></text>
 </generalfeedback>
@@ -569,26 +569,6 @@ FALSE
 <shuffleanswers>false</shuffleanswers>
 <single>true</single>
 <answernumbering>abc</answernumbering>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
-Dentro de lo esperable
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-FALSE
-</p>]]></text>
-</feedback>
-</answer>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
-Muy bajo
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-FALSE
-</p>]]></text>
-</feedback>
-</answer>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
 Muy elevado
@@ -606,6 +586,26 @@ No se puede saber con esos datos
 <feedback format="html">
 <text><![CDATA[<p>
 TRUE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Dentro de lo esperable
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Muy bajo
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
 </p>]]></text>
 </feedback>
 </answer>
@@ -618,15 +618,15 @@ TRUE
 </name>
 <questiontext format="html">
 <text><![CDATA[<p>
-<p><strong>R2018_0007</strong>. Un sujeto obtiene un puntaje bruto de 114 en una prueba de habilidad lingüística que tiene distribución normal con con mínimo de 96 y máximo de 141. Se trata de un puntaje:</p>
+<p><strong>R2018_0007</strong>. Un sujeto obtiene un puntaje bruto de 136 en una prueba de habilidad lingüística que tiene distribución normal con con mínimo de 114 y máximo de 153. Se trata de un puntaje:</p>
 </p>]]></text>
 </questiontext>
 <generalfeedback format="html">
 <text><![CDATA[<p>
 <ol type = "a">
 <li> FALSE </li>
-<li> TRUE </li>
 <li> FALSE </li>
+<li> TRUE </li>
 <li> FALSE </li>
 </ol>
 </p>]]></text>
@@ -636,6 +636,16 @@ TRUE
 <shuffleanswers>false</shuffleanswers>
 <single>true</single>
 <answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Muy elevado
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
 Muy bajo
@@ -659,16 +669,6 @@ TRUE
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
 Dentro de lo esperable
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-FALSE
-</p>]]></text>
-</feedback>
-</answer>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
-Muy elevado
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -685,7 +685,7 @@ FALSE
 </name>
 <questiontext format="html">
 <text><![CDATA[<p>
-<p><strong>R2018_0007</strong>. Un sujeto obtiene un puntaje bruto de 71 en una prueba de habilidad lingüística que tiene distribución normal con con mínimo de 48 y máximo de 70. Se trata de un puntaje:</p>
+<p><strong>R2018_0007</strong>. Un sujeto obtiene un puntaje bruto de 108 en una prueba de habilidad lingüística que tiene distribución normal con con mínimo de 108 y máximo de 158. Se trata de un puntaje:</p>
 </p>]]></text>
 </questiontext>
 <generalfeedback format="html">
@@ -693,8 +693,8 @@ FALSE
 <ol type = "a">
 <li> FALSE </li>
 <li> FALSE </li>
-<li> TRUE </li>
 <li> FALSE </li>
+<li> TRUE </li>
 </ol>
 </p>]]></text>
 </generalfeedback>
@@ -705,7 +705,7 @@ FALSE
 <answernumbering>abc</answernumbering>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-Muy bajo
+Muy elevado
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -723,6 +723,16 @@ FALSE
 </p>]]></text>
 </feedback>
 </answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Muy bajo
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
 <answer fraction="100" format="html">
 <text><![CDATA[<p>
 No se puede saber con esos datos
@@ -730,16 +740,6 @@ No se puede saber con esos datos
 <feedback format="html">
 <text><![CDATA[<p>
 TRUE
-</p>]]></text>
-</feedback>
-</answer>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
-Muy elevado
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-FALSE
 </p>]]></text>
 </feedback>
 </answer>
@@ -752,7 +752,7 @@ FALSE
 </name>
 <questiontext format="html">
 <text><![CDATA[<p>
-<p><strong>R2018_0007</strong>. Un sujeto obtiene un puntaje bruto de 80 en una prueba de habilidad lingüística que tiene distribución normal con media 67. Se trata de un puntaje:</p>
+<p><strong>R2018_0007</strong>. Un sujeto obtiene un puntaje bruto de 66 en una prueba de habilidad lingüística que tiene distribución normal con con mínimo de 44 y máximo de 64. Se trata de un puntaje:</p>
 </p>]]></text>
 </questiontext>
 <generalfeedback format="html">
@@ -819,7 +819,7 @@ FALSE
 </name>
 <questiontext format="html">
 <text><![CDATA[<p>
-<p><strong>R2018_0007</strong>. Un sujeto obtiene un puntaje bruto de 291 en una prueba de habilidad lingüística que tiene distribución normal con desviación estándar 18. Se trata de un puntaje:</p>
+<p><strong>R2018_0007</strong>. Un sujeto obtiene un puntaje bruto de 168 en una prueba de habilidad lingüística que tiene distribución normal con desviación estándar 12. Se trata de un puntaje:</p>
 </p>]]></text>
 </questiontext>
 <generalfeedback format="html">
@@ -849,7 +849,7 @@ TRUE
 </answer>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-Dentro de lo esperable
+Muy elevado
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -859,7 +859,7 @@ FALSE
 </answer>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-Muy elevado
+Dentro de lo esperable
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -886,15 +886,15 @@ FALSE
 </name>
 <questiontext format="html">
 <text><![CDATA[<p>
-<p><strong>R2018_0007</strong>. Un sujeto obtiene un puntaje bruto de 214 en una prueba de habilidad lingüística que tiene distribución normal con media 213. Se trata de un puntaje:</p>
+<p><strong>R2018_0007</strong>. Un sujeto obtiene un puntaje bruto de 225 en una prueba de habilidad lingüística que tiene distribución normal con media 215. Se trata de un puntaje:</p>
 </p>]]></text>
 </questiontext>
 <generalfeedback format="html">
 <text><![CDATA[<p>
 <ol type = "a">
 <li> FALSE </li>
-<li> TRUE </li>
 <li> FALSE </li>
+<li> TRUE </li>
 <li> FALSE </li>
 </ol>
 </p>]]></text>
@@ -906,7 +906,17 @@ FALSE
 <answernumbering>abc</answernumbering>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-Muy elevado
+Muy bajo
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Dentro de lo esperable
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -926,17 +936,7 @@ TRUE
 </answer>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-Muy bajo
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-FALSE
-</p>]]></text>
-</feedback>
-</answer>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
-Dentro de lo esperable
+Muy elevado
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -953,15 +953,15 @@ FALSE
 </name>
 <questiontext format="html">
 <text><![CDATA[<p>
-<p><strong>R2018_0007</strong>. Un sujeto obtiene un puntaje bruto de 77 en una prueba de habilidad lingüística que tiene distribución normal con media 99. Se trata de un puntaje:</p>
+<p><strong>R2018_0007</strong>. Un sujeto obtiene un puntaje bruto de 127 en una prueba de habilidad lingüística que tiene distribución normal con con mínimo de 132 y máximo de 174. Se trata de un puntaje:</p>
 </p>]]></text>
 </questiontext>
 <generalfeedback format="html">
 <text><![CDATA[<p>
 <ol type = "a">
 <li> FALSE </li>
-<li> TRUE </li>
 <li> FALSE </li>
+<li> TRUE </li>
 <li> FALSE </li>
 </ol>
 </p>]]></text>
@@ -974,6 +974,16 @@ FALSE
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
 Muy elevado
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Dentro de lo esperable
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -994,16 +1004,6 @@ TRUE
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
 Muy bajo
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-FALSE
-</p>]]></text>
-</feedback>
-</answer>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
-Dentro de lo esperable
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -1020,16 +1020,16 @@ FALSE
 </name>
 <questiontext format="html">
 <text><![CDATA[<p>
-<p><strong>R2018_0007</strong>. Un sujeto obtiene un puntaje bruto de 293 en una prueba de habilidad lingüística que tiene distribución normal con media 236. Se trata de un puntaje:</p>
+<p><strong>R2018_0007</strong>. Un sujeto obtiene un puntaje bruto de 159 en una prueba de habilidad lingüística que tiene distribución normal con media 210. Se trata de un puntaje:</p>
 </p>]]></text>
 </questiontext>
 <generalfeedback format="html">
 <text><![CDATA[<p>
 <ol type = "a">
+<li> FALSE </li>
+<li> FALSE </li>
+<li> FALSE </li>
 <li> TRUE </li>
-<li> FALSE </li>
-<li> FALSE </li>
-<li> FALSE </li>
 </ol>
 </p>]]></text>
 </generalfeedback>
@@ -1038,26 +1038,6 @@ FALSE
 <shuffleanswers>false</shuffleanswers>
 <single>true</single>
 <answernumbering>abc</answernumbering>
-<answer fraction="100" format="html">
-<text><![CDATA[<p>
-No se puede saber con esos datos
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-TRUE
-</p>]]></text>
-</feedback>
-</answer>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
-Dentro de lo esperable
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-FALSE
-</p>]]></text>
-</feedback>
-</answer>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
 Muy elevado
@@ -1075,6 +1055,26 @@ Muy bajo
 <feedback format="html">
 <text><![CDATA[<p>
 FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Dentro de lo esperable
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+No se puede saber con esos datos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+TRUE
 </p>]]></text>
 </feedback>
 </answer>
@@ -1087,16 +1087,16 @@ FALSE
 </name>
 <questiontext format="html">
 <text><![CDATA[<p>
-<p><strong>R2018_0007</strong>. Un sujeto obtiene un puntaje bruto de 189 en una prueba de habilidad lingüística que tiene distribución normal con media 222. Se trata de un puntaje:</p>
+<p><strong>R2018_0007</strong>. Un sujeto obtiene un puntaje bruto de 119 en una prueba de habilidad lingüística que tiene distribución normal con desviación estándar 12. Se trata de un puntaje:</p>
 </p>]]></text>
 </questiontext>
 <generalfeedback format="html">
 <text><![CDATA[<p>
 <ol type = "a">
+<li> FALSE </li>
+<li> FALSE </li>
+<li> FALSE </li>
 <li> TRUE </li>
-<li> FALSE </li>
-<li> FALSE </li>
-<li> FALSE </li>
 </ol>
 </p>]]></text>
 </generalfeedback>
@@ -1105,19 +1105,9 @@ FALSE
 <shuffleanswers>false</shuffleanswers>
 <single>true</single>
 <answernumbering>abc</answernumbering>
-<answer fraction="100" format="html">
-<text><![CDATA[<p>
-No se puede saber con esos datos
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-TRUE
-</p>]]></text>
-</feedback>
-</answer>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-Muy elevado
+Muy bajo
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -1137,11 +1127,21 @@ FALSE
 </answer>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-Muy bajo
+Muy elevado
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
 FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+No se puede saber con esos datos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+TRUE
 </p>]]></text>
 </feedback>
 </answer>
@@ -1154,7 +1154,7 @@ FALSE
 </name>
 <questiontext format="html">
 <text><![CDATA[<p>
-<p><strong>R2018_0007</strong>. Un sujeto obtiene un puntaje bruto de 163 en una prueba de habilidad lingüística que tiene distribución normal con con mínimo de 138 y máximo de 207. Se trata de un puntaje:</p>
+<p><strong>R2018_0007</strong>. Un sujeto obtiene un puntaje bruto de 79 en una prueba de habilidad lingüística que tiene distribución normal con desviación estándar 6. Se trata de un puntaje:</p>
 </p>]]></text>
 </questiontext>
 <generalfeedback format="html">
@@ -1221,7 +1221,7 @@ FALSE
 </name>
 <questiontext format="html">
 <text><![CDATA[<p>
-<p><strong>R2018_0007</strong>. Un sujeto obtiene un puntaje bruto de 77 en una prueba de habilidad lingüística que tiene distribución normal con media 98. Se trata de un puntaje:</p>
+<p><strong>R2018_0007</strong>. Un sujeto obtiene un puntaje bruto de 168 en una prueba de habilidad lingüística que tiene distribución normal con media 164. Se trata de un puntaje:</p>
 </p>]]></text>
 </questiontext>
 <generalfeedback format="html">
@@ -1241,7 +1241,7 @@ FALSE
 <answernumbering>abc</answernumbering>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-Dentro de lo esperable
+Muy elevado
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -1261,7 +1261,7 @@ FALSE
 </answer>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-Muy elevado
+Dentro de lo esperable
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -1288,16 +1288,16 @@ TRUE
 </name>
 <questiontext format="html">
 <text><![CDATA[<p>
-<p><strong>R2018_0007</strong>. Un sujeto obtiene un puntaje bruto de 125 en una prueba de habilidad lingüística que tiene distribución normal con desviación estándar 10. Se trata de un puntaje:</p>
+<p><strong>R2018_0007</strong>. Un sujeto obtiene un puntaje bruto de 159 en una prueba de habilidad lingüística que tiene distribución normal con media 215. Se trata de un puntaje:</p>
 </p>]]></text>
 </questiontext>
 <generalfeedback format="html">
 <text><![CDATA[<p>
 <ol type = "a">
 <li> FALSE </li>
-<li> FALSE </li>
-<li> FALSE </li>
 <li> TRUE </li>
+<li> FALSE </li>
+<li> FALSE </li>
 </ol>
 </p>]]></text>
 </generalfeedback>
@@ -1306,26 +1306,6 @@ TRUE
 <shuffleanswers>false</shuffleanswers>
 <single>true</single>
 <answernumbering>abc</answernumbering>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
-Muy elevado
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-FALSE
-</p>]]></text>
-</feedback>
-</answer>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
-Muy bajo
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-FALSE
-</p>]]></text>
-</feedback>
-</answer>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
 Dentro de lo esperable
@@ -1346,6 +1326,26 @@ TRUE
 </p>]]></text>
 </feedback>
 </answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Muy elevado
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Muy bajo
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
 </question>
 
 
@@ -1355,7 +1355,7 @@ TRUE
 </name>
 <questiontext format="html">
 <text><![CDATA[<p>
-<p><strong>R2018_0007</strong>. Un sujeto obtiene un puntaje bruto de 60 en una prueba de habilidad lingüística que tiene distribución normal con media 80. Se trata de un puntaje:</p>
+<p><strong>R2018_0007</strong>. Un sujeto obtiene un puntaje bruto de 207 en una prueba de habilidad lingüística que tiene distribución normal con con mínimo de 184 y máximo de 246. Se trata de un puntaje:</p>
 </p>]]></text>
 </questiontext>
 <generalfeedback format="html">
@@ -1375,7 +1375,7 @@ TRUE
 <answernumbering>abc</answernumbering>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-Muy elevado
+Dentro de lo esperable
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -1385,7 +1385,7 @@ FALSE
 </answer>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-Dentro de lo esperable
+Muy elevado
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -1422,15 +1422,15 @@ TRUE
 </name>
 <questiontext format="html">
 <text><![CDATA[<p>
-<p><strong>R2018_0007</strong>. Un sujeto obtiene un puntaje bruto de 280 en una prueba de habilidad lingüística que tiene distribución normal con media 236. Se trata de un puntaje:</p>
+<p><strong>R2018_0007</strong>. Un sujeto obtiene un puntaje bruto de 103 en una prueba de habilidad lingüística que tiene distribución normal con desviación estándar 7. Se trata de un puntaje:</p>
 </p>]]></text>
 </questiontext>
 <generalfeedback format="html">
 <text><![CDATA[<p>
 <ol type = "a">
+<li> FALSE </li>
+<li> FALSE </li>
 <li> TRUE </li>
-<li> FALSE </li>
-<li> FALSE </li>
 <li> FALSE </li>
 </ol>
 </p>]]></text>
@@ -1440,16 +1440,6 @@ TRUE
 <shuffleanswers>false</shuffleanswers>
 <single>true</single>
 <answernumbering>abc</answernumbering>
-<answer fraction="100" format="html">
-<text><![CDATA[<p>
-No se puede saber con esos datos
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-TRUE
-</p>]]></text>
-</feedback>
-</answer>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
 Muy elevado
@@ -1467,6 +1457,16 @@ Dentro de lo esperable
 <feedback format="html">
 <text><![CDATA[<p>
 FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+No se puede saber con esos datos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+TRUE
 </p>]]></text>
 </feedback>
 </answer>
@@ -1489,7 +1489,7 @@ FALSE
 </name>
 <questiontext format="html">
 <text><![CDATA[<p>
-<p><strong>R2018_0007</strong>. Un sujeto obtiene un puntaje bruto de 68 en una prueba de habilidad lingüística que tiene distribución normal con desviación estándar 7. Se trata de un puntaje:</p>
+<p><strong>R2018_0007</strong>. Un sujeto obtiene un puntaje bruto de 174 en una prueba de habilidad lingüística que tiene distribución normal con desviación estándar 15. Se trata de un puntaje:</p>
 </p>]]></text>
 </questiontext>
 <generalfeedback format="html">
@@ -1497,8 +1497,8 @@ FALSE
 <ol type = "a">
 <li> FALSE </li>
 <li> FALSE </li>
-<li> TRUE </li>
 <li> FALSE </li>
+<li> TRUE </li>
 </ol>
 </p>]]></text>
 </generalfeedback>
@@ -1507,6 +1507,16 @@ FALSE
 <shuffleanswers>false</shuffleanswers>
 <single>true</single>
 <answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Muy elevado
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
 Dentro de lo esperable
@@ -1519,7 +1529,7 @@ FALSE
 </answer>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-Muy elevado
+Muy bajo
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -1534,16 +1544,6 @@ No se puede saber con esos datos
 <feedback format="html">
 <text><![CDATA[<p>
 TRUE
-</p>]]></text>
-</feedback>
-</answer>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
-Muy bajo
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-FALSE
 </p>]]></text>
 </feedback>
 </answer>
@@ -1556,16 +1556,16 @@ FALSE
 </name>
 <questiontext format="html">
 <text><![CDATA[<p>
-<p><strong>R2018_0007</strong>. Un sujeto obtiene un puntaje bruto de 97 en una prueba de habilidad lingüística que tiene distribución normal con con mínimo de 85 y máximo de 121. Se trata de un puntaje:</p>
+<p><strong>R2018_0007</strong>. Un sujeto obtiene un puntaje bruto de 176 en una prueba de habilidad lingüística que tiene distribución normal con media 147. Se trata de un puntaje:</p>
 </p>]]></text>
 </questiontext>
 <generalfeedback format="html">
 <text><![CDATA[<p>
 <ol type = "a">
+<li> FALSE </li>
+<li> FALSE </li>
+<li> FALSE </li>
 <li> TRUE </li>
-<li> FALSE </li>
-<li> FALSE </li>
-<li> FALSE </li>
 </ol>
 </p>]]></text>
 </generalfeedback>
@@ -1574,13 +1574,13 @@ FALSE
 <shuffleanswers>false</shuffleanswers>
 <single>true</single>
 <answernumbering>abc</answernumbering>
-<answer fraction="100" format="html">
+<answer fraction="0" format="html">
 <text><![CDATA[<p>
-No se puede saber con esos datos
+Muy elevado
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
-TRUE
+FALSE
 </p>]]></text>
 </feedback>
 </answer>
@@ -1604,13 +1604,13 @@ FALSE
 </p>]]></text>
 </feedback>
 </answer>
-<answer fraction="0" format="html">
+<answer fraction="100" format="html">
 <text><![CDATA[<p>
-Muy elevado
+No se puede saber con esos datos
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
-FALSE
+TRUE
 </p>]]></text>
 </feedback>
 </answer>
@@ -1623,7 +1623,7 @@ FALSE
 </name>
 <questiontext format="html">
 <text><![CDATA[<p>
-<p><strong>R2018_0007</strong>. Un sujeto obtiene un puntaje bruto de 230 en una prueba de habilidad lingüística que tiene distribución normal con con mínimo de 150 y máximo de 231. Se trata de un puntaje:</p>
+<p><strong>R2018_0007</strong>. Un sujeto obtiene un puntaje bruto de 133 en una prueba de habilidad lingüística que tiene distribución normal con con mínimo de 119 y máximo de 160. Se trata de un puntaje:</p>
 </p>]]></text>
 </questiontext>
 <generalfeedback format="html">
@@ -1653,16 +1653,6 @@ TRUE
 </answer>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-Muy bajo
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-FALSE
-</p>]]></text>
-</feedback>
-</answer>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
 Muy elevado
 </p>]]></text>
 <feedback format="html">
@@ -1674,6 +1664,16 @@ FALSE
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
 Dentro de lo esperable
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Muy bajo
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -1690,16 +1690,16 @@ FALSE
 </name>
 <questiontext format="html">
 <text><![CDATA[<p>
-<p><strong>R2018_0007</strong>. Un sujeto obtiene un puntaje bruto de 79 en una prueba de habilidad lingüística que tiene distribución normal con desviación estándar 6. Se trata de un puntaje:</p>
+<p><strong>R2018_0007</strong>. Un sujeto obtiene un puntaje bruto de 154 en una prueba de habilidad lingüística que tiene distribución normal con con mínimo de 129 y máximo de 177. Se trata de un puntaje:</p>
 </p>]]></text>
 </questiontext>
 <generalfeedback format="html">
 <text><![CDATA[<p>
 <ol type = "a">
+<li> FALSE </li>
+<li> FALSE </li>
+<li> FALSE </li>
 <li> TRUE </li>
-<li> FALSE </li>
-<li> FALSE </li>
-<li> FALSE </li>
 </ol>
 </p>]]></text>
 </generalfeedback>
@@ -1708,16 +1708,6 @@ FALSE
 <shuffleanswers>false</shuffleanswers>
 <single>true</single>
 <answernumbering>abc</answernumbering>
-<answer fraction="100" format="html">
-<text><![CDATA[<p>
-No se puede saber con esos datos
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-TRUE
-</p>]]></text>
-</feedback>
-</answer>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
 Dentro de lo esperable
@@ -1748,6 +1738,16 @@ FALSE
 </p>]]></text>
 </feedback>
 </answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+No se puede saber con esos datos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+TRUE
+</p>]]></text>
+</feedback>
+</answer>
 </question>
 
 
@@ -1757,15 +1757,15 @@ FALSE
 </name>
 <questiontext format="html">
 <text><![CDATA[<p>
-<p><strong>R2018_0007</strong>. Un sujeto obtiene un puntaje bruto de 152 en una prueba de habilidad lingüística que tiene distribución normal con desviación estándar 12. Se trata de un puntaje:</p>
+<p><strong>R2018_0007</strong>. Un sujeto obtiene un puntaje bruto de 202 en una prueba de habilidad lingüística que tiene distribución normal con con mínimo de 136 y máximo de 194. Se trata de un puntaje:</p>
 </p>]]></text>
 </questiontext>
 <generalfeedback format="html">
 <text><![CDATA[<p>
 <ol type = "a">
 <li> FALSE </li>
-<li> TRUE </li>
 <li> FALSE </li>
+<li> TRUE </li>
 <li> FALSE </li>
 </ol>
 </p>]]></text>
@@ -1785,16 +1785,6 @@ FALSE
 </p>]]></text>
 </feedback>
 </answer>
-<answer fraction="100" format="html">
-<text><![CDATA[<p>
-No se puede saber con esos datos
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-TRUE
-</p>]]></text>
-</feedback>
-</answer>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
 Muy elevado
@@ -1802,6 +1792,16 @@ Muy elevado
 <feedback format="html">
 <text><![CDATA[<p>
 FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+No se puede saber con esos datos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+TRUE
 </p>]]></text>
 </feedback>
 </answer>
@@ -1824,7 +1824,7 @@ FALSE
 </name>
 <questiontext format="html">
 <text><![CDATA[<p>
-<p><strong>R2018_0007</strong>. Un sujeto obtiene un puntaje bruto de 169 en una prueba de habilidad lingüística que tiene distribución normal con desviación estándar 19. Se trata de un puntaje:</p>
+<p><strong>R2018_0007</strong>. Un sujeto obtiene un puntaje bruto de 133 en una prueba de habilidad lingüística que tiene distribución normal con desviación estándar 8. Se trata de un puntaje:</p>
 </p>]]></text>
 </questiontext>
 <generalfeedback format="html">
@@ -1864,7 +1864,7 @@ FALSE
 </answer>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-Muy elevado
+Muy bajo
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -1874,7 +1874,7 @@ FALSE
 </answer>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-Muy bajo
+Muy elevado
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -1891,7 +1891,7 @@ FALSE
 </name>
 <questiontext format="html">
 <text><![CDATA[<p>
-<p><strong>R2018_0007</strong>. Un sujeto obtiene un puntaje bruto de 218 en una prueba de habilidad lingüística que tiene distribución normal con desviación estándar 17. Se trata de un puntaje:</p>
+<p><strong>R2018_0007</strong>. Un sujeto obtiene un puntaje bruto de 109 en una prueba de habilidad lingüística que tiene distribución normal con desviación estándar 11. Se trata de un puntaje:</p>
 </p>]]></text>
 </questiontext>
 <generalfeedback format="html">
@@ -1899,8 +1899,8 @@ FALSE
 <ol type = "a">
 <li> FALSE </li>
 <li> FALSE </li>
-<li> TRUE </li>
 <li> FALSE </li>
+<li> TRUE </li>
 </ol>
 </p>]]></text>
 </generalfeedback>
@@ -1911,7 +1911,7 @@ FALSE
 <answernumbering>abc</answernumbering>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-Muy elevado
+Dentro de lo esperable
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -1921,7 +1921,17 @@ FALSE
 </answer>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-Dentro de lo esperable
+Muy bajo
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Muy elevado
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -1936,16 +1946,6 @@ No se puede saber con esos datos
 <feedback format="html">
 <text><![CDATA[<p>
 TRUE
-</p>]]></text>
-</feedback>
-</answer>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
-Muy bajo
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-FALSE
 </p>]]></text>
 </feedback>
 </answer>
@@ -1958,7 +1958,7 @@ FALSE
 </name>
 <questiontext format="html">
 <text><![CDATA[<p>
-<p><strong>R2018_0007</strong>. Un sujeto obtiene un puntaje bruto de 229 en una prueba de habilidad lingüística que tiene distribución normal con media 215. Se trata de un puntaje:</p>
+<p><strong>R2018_0007</strong>. Un sujeto obtiene un puntaje bruto de 65 en una prueba de habilidad lingüística que tiene distribución normal con desviación estándar 4. Se trata de un puntaje:</p>
 </p>]]></text>
 </questiontext>
 <generalfeedback format="html">
@@ -1966,8 +1966,8 @@ FALSE
 <ol type = "a">
 <li> FALSE </li>
 <li> FALSE </li>
-<li> FALSE </li>
 <li> TRUE </li>
+<li> FALSE </li>
 </ol>
 </p>]]></text>
 </generalfeedback>
@@ -1978,7 +1978,7 @@ FALSE
 <answernumbering>abc</answernumbering>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-Muy elevado
+Muy bajo
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -1996,16 +1996,6 @@ FALSE
 </p>]]></text>
 </feedback>
 </answer>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
-Muy bajo
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-FALSE
-</p>]]></text>
-</feedback>
-</answer>
 <answer fraction="100" format="html">
 <text><![CDATA[<p>
 No se puede saber con esos datos
@@ -2013,6 +2003,16 @@ No se puede saber con esos datos
 <feedback format="html">
 <text><![CDATA[<p>
 TRUE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Muy elevado
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
 </p>]]></text>
 </feedback>
 </answer>
@@ -2025,7 +2025,7 @@ TRUE
 </name>
 <questiontext format="html">
 <text><![CDATA[<p>
-<p><strong>R2018_0007</strong>. Un sujeto obtiene un puntaje bruto de 192 en una prueba de habilidad lingüística que tiene distribución normal con desviación estándar 16. Se trata de un puntaje:</p>
+<p><strong>R2018_0007</strong>. Un sujeto obtiene un puntaje bruto de 61 en una prueba de habilidad lingüística que tiene distribución normal con media 52. Se trata de un puntaje:</p>
 </p>]]></text>
 </questiontext>
 <generalfeedback format="html">
@@ -2033,8 +2033,8 @@ TRUE
 <ol type = "a">
 <li> FALSE </li>
 <li> FALSE </li>
-<li> FALSE </li>
 <li> TRUE </li>
+<li> FALSE </li>
 </ol>
 </p>]]></text>
 </generalfeedback>
@@ -2043,16 +2043,6 @@ TRUE
 <shuffleanswers>false</shuffleanswers>
 <single>true</single>
 <answernumbering>abc</answernumbering>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
-Dentro de lo esperable
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-FALSE
-</p>]]></text>
-</feedback>
-</answer>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
 Muy elevado
@@ -2080,6 +2070,16 @@ No se puede saber con esos datos
 <feedback format="html">
 <text><![CDATA[<p>
 TRUE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Dentro de lo esperable
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
 </p>]]></text>
 </feedback>
 </answer>
@@ -2092,16 +2092,16 @@ TRUE
 </name>
 <questiontext format="html">
 <text><![CDATA[<p>
-<p><strong>R2018_0007</strong>. Un sujeto obtiene un puntaje bruto de 146 en una prueba de habilidad lingüística que tiene distribución normal con media 185. Se trata de un puntaje:</p>
+<p><strong>R2018_0007</strong>. Un sujeto obtiene un puntaje bruto de 141 en una prueba de habilidad lingüística que tiene distribución normal con con mínimo de 145 y máximo de 223. Se trata de un puntaje:</p>
 </p>]]></text>
 </questiontext>
 <generalfeedback format="html">
 <text><![CDATA[<p>
 <ol type = "a">
-<li> FALSE </li>
-<li> FALSE </li>
-<li> FALSE </li>
 <li> TRUE </li>
+<li> FALSE </li>
+<li> FALSE </li>
+<li> FALSE </li>
 </ol>
 </p>]]></text>
 </generalfeedback>
@@ -2110,6 +2110,26 @@ TRUE
 <shuffleanswers>false</shuffleanswers>
 <single>true</single>
 <answernumbering>abc</answernumbering>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+No se puede saber con esos datos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+TRUE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Muy bajo
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
 Muy elevado
@@ -2130,26 +2150,6 @@ FALSE
 </p>]]></text>
 </feedback>
 </answer>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
-Muy bajo
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-FALSE
-</p>]]></text>
-</feedback>
-</answer>
-<answer fraction="100" format="html">
-<text><![CDATA[<p>
-No se puede saber con esos datos
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-TRUE
-</p>]]></text>
-</feedback>
-</answer>
 </question>
 
 
@@ -2159,7 +2159,7 @@ TRUE
 </name>
 <questiontext format="html">
 <text><![CDATA[<p>
-<p><strong>R2018_0007</strong>. Un sujeto obtiene un puntaje bruto de 92 en una prueba de habilidad lingüística que tiene distribución normal con desviación estándar 6. Se trata de un puntaje:</p>
+<p><strong>R2018_0007</strong>. Un sujeto obtiene un puntaje bruto de 174 en una prueba de habilidad lingüística que tiene distribución normal con desviación estándar 11. Se trata de un puntaje:</p>
 </p>]]></text>
 </questiontext>
 <generalfeedback format="html">
@@ -2179,7 +2179,7 @@ TRUE
 <answernumbering>abc</answernumbering>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-Muy bajo
+Dentro de lo esperable
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -2189,7 +2189,7 @@ FALSE
 </answer>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-Dentro de lo esperable
+Muy bajo
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -2226,16 +2226,16 @@ FALSE
 </name>
 <questiontext format="html">
 <text><![CDATA[<p>
-<p><strong>R2018_0007</strong>. Un sujeto obtiene un puntaje bruto de 162 en una prueba de habilidad lingüística que tiene distribución normal con desviación estándar 14. Se trata de un puntaje:</p>
+<p><strong>R2018_0007</strong>. Un sujeto obtiene un puntaje bruto de 89 en una prueba de habilidad lingüística que tiene distribución normal con media 88. Se trata de un puntaje:</p>
 </p>]]></text>
 </questiontext>
 <generalfeedback format="html">
 <text><![CDATA[<p>
 <ol type = "a">
-<li> FALSE </li>
-<li> FALSE </li>
-<li> FALSE </li>
 <li> TRUE </li>
+<li> FALSE </li>
+<li> FALSE </li>
+<li> FALSE </li>
 </ol>
 </p>]]></text>
 </generalfeedback>
@@ -2244,6 +2244,16 @@ FALSE
 <shuffleanswers>false</shuffleanswers>
 <single>true</single>
 <answernumbering>abc</answernumbering>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+No se puede saber con esos datos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+TRUE
+</p>]]></text>
+</feedback>
+</answer>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
 Muy elevado
@@ -2271,16 +2281,6 @@ Dentro de lo esperable
 <feedback format="html">
 <text><![CDATA[<p>
 FALSE
-</p>]]></text>
-</feedback>
-</answer>
-<answer fraction="100" format="html">
-<text><![CDATA[<p>
-No se puede saber con esos datos
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-TRUE
 </p>]]></text>
 </feedback>
 </answer>
@@ -2293,7 +2293,7 @@ TRUE
 </name>
 <questiontext format="html">
 <text><![CDATA[<p>
-<p><strong>R2018_0007</strong>. Un sujeto obtiene un puntaje bruto de 123 en una prueba de habilidad lingüística que tiene distribución normal con con mínimo de 98 y máximo de 135. Se trata de un puntaje:</p>
+<p><strong>R2018_0007</strong>. Un sujeto obtiene un puntaje bruto de 162 en una prueba de habilidad lingüística que tiene distribución normal con media 202. Se trata de un puntaje:</p>
 </p>]]></text>
 </questiontext>
 <generalfeedback format="html">
@@ -2313,16 +2313,6 @@ TRUE
 <answernumbering>abc</answernumbering>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-Muy elevado
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-FALSE
-</p>]]></text>
-</feedback>
-</answer>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
 Muy bajo
 </p>]]></text>
 <feedback format="html">
@@ -2334,6 +2324,16 @@ FALSE
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
 Dentro de lo esperable
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Muy elevado
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -2360,16 +2360,16 @@ TRUE
 </name>
 <questiontext format="html">
 <text><![CDATA[<p>
-<p><strong>R2018_0007</strong>. Un sujeto obtiene un puntaje bruto de 169 en una prueba de habilidad lingüística que tiene distribución normal con media 209. Se trata de un puntaje:</p>
+<p><strong>R2018_0007</strong>. Un sujeto obtiene un puntaje bruto de 179 en una prueba de habilidad lingüística que tiene distribución normal con desviación estándar 14. Se trata de un puntaje:</p>
 </p>]]></text>
 </questiontext>
 <generalfeedback format="html">
 <text><![CDATA[<p>
 <ol type = "a">
-<li> FALSE </li>
-<li> FALSE </li>
-<li> FALSE </li>
 <li> TRUE </li>
+<li> FALSE </li>
+<li> FALSE </li>
+<li> FALSE </li>
 </ol>
 </p>]]></text>
 </generalfeedback>
@@ -2378,23 +2378,13 @@ TRUE
 <shuffleanswers>false</shuffleanswers>
 <single>true</single>
 <answernumbering>abc</answernumbering>
-<answer fraction="0" format="html">
+<answer fraction="100" format="html">
 <text><![CDATA[<p>
-Muy elevado
+No se puede saber con esos datos
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
-FALSE
-</p>]]></text>
-</feedback>
-</answer>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
-Muy bajo
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-FALSE
+TRUE
 </p>]]></text>
 </feedback>
 </answer>
@@ -2408,13 +2398,23 @@ FALSE
 </p>]]></text>
 </feedback>
 </answer>
-<answer fraction="100" format="html">
+<answer fraction="0" format="html">
 <text><![CDATA[<p>
-No se puede saber con esos datos
+Muy elevado
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
-TRUE
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Muy bajo
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
 </p>]]></text>
 </feedback>
 </answer>
@@ -2427,15 +2427,15 @@ TRUE
 </name>
 <questiontext format="html">
 <text><![CDATA[<p>
-<p><strong>R2018_0007</strong>. Un sujeto obtiene un puntaje bruto de 193 en una prueba de habilidad lingüística que tiene distribución normal con desviación estándar 16. Se trata de un puntaje:</p>
+<p><strong>R2018_0007</strong>. Un sujeto obtiene un puntaje bruto de 249 en una prueba de habilidad lingüística que tiene distribución normal con media 205. Se trata de un puntaje:</p>
 </p>]]></text>
 </questiontext>
 <generalfeedback format="html">
 <text><![CDATA[<p>
 <ol type = "a">
+<li> FALSE </li>
+<li> FALSE </li>
 <li> TRUE </li>
-<li> FALSE </li>
-<li> FALSE </li>
 <li> FALSE </li>
 </ol>
 </p>]]></text>
@@ -2445,16 +2445,6 @@ TRUE
 <shuffleanswers>false</shuffleanswers>
 <single>true</single>
 <answernumbering>abc</answernumbering>
-<answer fraction="100" format="html">
-<text><![CDATA[<p>
-No se puede saber con esos datos
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-TRUE
-</p>]]></text>
-</feedback>
-</answer>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
 Muy bajo
@@ -2472,6 +2462,16 @@ Muy elevado
 <feedback format="html">
 <text><![CDATA[<p>
 FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+No se puede saber con esos datos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+TRUE
 </p>]]></text>
 </feedback>
 </answer>
@@ -2494,7 +2494,7 @@ FALSE
 </name>
 <questiontext format="html">
 <text><![CDATA[<p>
-<p><strong>R2018_0007</strong>. Un sujeto obtiene un puntaje bruto de 217 en una prueba de habilidad lingüística que tiene distribución normal con media 210. Se trata de un puntaje:</p>
+<p><strong>R2018_0007</strong>. Un sujeto obtiene un puntaje bruto de 94 en una prueba de habilidad lingüística que tiene distribución normal con desviación estándar 9. Se trata de un puntaje:</p>
 </p>]]></text>
 </questiontext>
 <generalfeedback format="html">
@@ -2502,8 +2502,8 @@ FALSE
 <ol type = "a">
 <li> FALSE </li>
 <li> FALSE </li>
-<li> FALSE </li>
 <li> TRUE </li>
+<li> FALSE </li>
 </ol>
 </p>]]></text>
 </generalfeedback>
@@ -2532,16 +2532,6 @@ FALSE
 </p>]]></text>
 </feedback>
 </answer>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
-Muy elevado
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-FALSE
-</p>]]></text>
-</feedback>
-</answer>
 <answer fraction="100" format="html">
 <text><![CDATA[<p>
 No se puede saber con esos datos
@@ -2549,6 +2539,16 @@ No se puede saber con esos datos
 <feedback format="html">
 <text><![CDATA[<p>
 TRUE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Muy elevado
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
 </p>]]></text>
 </feedback>
 </answer>
@@ -2561,16 +2561,16 @@ TRUE
 </name>
 <questiontext format="html">
 <text><![CDATA[<p>
-<p><strong>R2018_0007</strong>. Un sujeto obtiene un puntaje bruto de 192 en una prueba de habilidad lingüística que tiene distribución normal con desviación estándar 16. Se trata de un puntaje:</p>
+<p><strong>R2018_0007</strong>. Un sujeto obtiene un puntaje bruto de 297 en una prueba de habilidad lingüística que tiene distribución normal con desviación estándar 22. Se trata de un puntaje:</p>
 </p>]]></text>
 </questiontext>
 <generalfeedback format="html">
 <text><![CDATA[<p>
 <ol type = "a">
+<li> FALSE </li>
+<li> FALSE </li>
+<li> FALSE </li>
 <li> TRUE </li>
-<li> FALSE </li>
-<li> FALSE </li>
-<li> FALSE </li>
 </ol>
 </p>]]></text>
 </generalfeedback>
@@ -2579,19 +2579,9 @@ TRUE
 <shuffleanswers>false</shuffleanswers>
 <single>true</single>
 <answernumbering>abc</answernumbering>
-<answer fraction="100" format="html">
-<text><![CDATA[<p>
-No se puede saber con esos datos
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-TRUE
-</p>]]></text>
-</feedback>
-</answer>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-Dentro de lo esperable
+Muy elevado
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -2611,11 +2601,21 @@ FALSE
 </answer>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-Muy elevado
+Dentro de lo esperable
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
 FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+No se puede saber con esos datos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+TRUE
 </p>]]></text>
 </feedback>
 </answer>
@@ -2628,15 +2628,15 @@ FALSE
 </name>
 <questiontext format="html">
 <text><![CDATA[<p>
-<p><strong>R2018_0007</strong>. Un sujeto obtiene un puntaje bruto de 170 en una prueba de habilidad lingüística que tiene distribución normal con media 139. Se trata de un puntaje:</p>
+<p><strong>R2018_0007</strong>. Un sujeto obtiene un puntaje bruto de 101 en una prueba de habilidad lingüística que tiene distribución normal con media 119. Se trata de un puntaje:</p>
 </p>]]></text>
 </questiontext>
 <generalfeedback format="html">
 <text><![CDATA[<p>
 <ol type = "a">
-<li> FALSE </li>
-<li> FALSE </li>
 <li> TRUE </li>
+<li> FALSE </li>
+<li> FALSE </li>
 <li> FALSE </li>
 </ol>
 </p>]]></text>
@@ -2646,26 +2646,6 @@ FALSE
 <shuffleanswers>false</shuffleanswers>
 <single>true</single>
 <answernumbering>abc</answernumbering>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
-Dentro de lo esperable
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-FALSE
-</p>]]></text>
-</feedback>
-</answer>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
-Muy bajo
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-FALSE
-</p>]]></text>
-</feedback>
-</answer>
 <answer fraction="100" format="html">
 <text><![CDATA[<p>
 No se puede saber con esos datos
@@ -2678,7 +2658,27 @@ TRUE
 </answer>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
+Dentro de lo esperable
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
 Muy elevado
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Muy bajo
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -2695,7 +2695,7 @@ FALSE
 </name>
 <questiontext format="html">
 <text><![CDATA[<p>
-<p><strong>R2018_0007</strong>. Un sujeto obtiene un puntaje bruto de 181 en una prueba de habilidad lingüística que tiene distribución normal con media 150. Se trata de un puntaje:</p>
+<p><strong>R2018_0007</strong>. Un sujeto obtiene un puntaje bruto de 61 en una prueba de habilidad lingüística que tiene distribución normal con desviación estándar 7. Se trata de un puntaje:</p>
 </p>]]></text>
 </questiontext>
 <generalfeedback format="html">
@@ -2715,7 +2715,7 @@ FALSE
 <answernumbering>abc</answernumbering>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-Muy elevado
+Muy bajo
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -2745,7 +2745,7 @@ TRUE
 </answer>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-Muy bajo
+Muy elevado
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -2762,16 +2762,16 @@ FALSE
 </name>
 <questiontext format="html">
 <text><![CDATA[<p>
-<p><strong>R2018_0007</strong>. Un sujeto obtiene un puntaje bruto de 74 en una prueba de habilidad lingüística que tiene distribución normal con media 87. Se trata de un puntaje:</p>
+<p><strong>R2018_0007</strong>. Un sujeto obtiene un puntaje bruto de 243 en una prueba de habilidad lingüística que tiene distribución normal con con mínimo de 187 y máximo de 278. Se trata de un puntaje:</p>
 </p>]]></text>
 </questiontext>
 <generalfeedback format="html">
 <text><![CDATA[<p>
 <ol type = "a">
 <li> FALSE </li>
-<li> FALSE </li>
-<li> FALSE </li>
 <li> TRUE </li>
+<li> FALSE </li>
+<li> FALSE </li>
 </ol>
 </p>]]></text>
 </generalfeedback>
@@ -2787,6 +2787,16 @@ Muy elevado
 <feedback format="html">
 <text><![CDATA[<p>
 FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+No se puede saber con esos datos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+TRUE
 </p>]]></text>
 </feedback>
 </answer>
@@ -2807,16 +2817,6 @@ Dentro de lo esperable
 <feedback format="html">
 <text><![CDATA[<p>
 FALSE
-</p>]]></text>
-</feedback>
-</answer>
-<answer fraction="100" format="html">
-<text><![CDATA[<p>
-No se puede saber con esos datos
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-TRUE
 </p>]]></text>
 </feedback>
 </answer>
@@ -2829,16 +2829,16 @@ TRUE
 </name>
 <questiontext format="html">
 <text><![CDATA[<p>
-<p><strong>R2018_0007</strong>. Un sujeto obtiene un puntaje bruto de 160 en una prueba de habilidad lingüística que tiene distribución normal con desviación estándar 21. Se trata de un puntaje:</p>
+<p><strong>R2018_0007</strong>. Un sujeto obtiene un puntaje bruto de 107 en una prueba de habilidad lingüística que tiene distribución normal con media 89. Se trata de un puntaje:</p>
 </p>]]></text>
 </questiontext>
 <generalfeedback format="html">
 <text><![CDATA[<p>
 <ol type = "a">
-<li> FALSE </li>
-<li> FALSE </li>
-<li> FALSE </li>
 <li> TRUE </li>
+<li> FALSE </li>
+<li> FALSE </li>
+<li> FALSE </li>
 </ol>
 </p>]]></text>
 </generalfeedback>
@@ -2847,9 +2847,19 @@ TRUE
 <shuffleanswers>false</shuffleanswers>
 <single>true</single>
 <answernumbering>abc</answernumbering>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+No se puede saber con esos datos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+TRUE
+</p>]]></text>
+</feedback>
+</answer>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-Muy elevado
+Muy bajo
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -2869,21 +2879,11 @@ FALSE
 </answer>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-Muy bajo
+Muy elevado
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
 FALSE
-</p>]]></text>
-</feedback>
-</answer>
-<answer fraction="100" format="html">
-<text><![CDATA[<p>
-No se puede saber con esos datos
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-TRUE
 </p>]]></text>
 </feedback>
 </answer>
@@ -2896,16 +2896,16 @@ TRUE
 </name>
 <questiontext format="html">
 <text><![CDATA[<p>
-<p><strong>R2018_0007</strong>. Un sujeto obtiene un puntaje bruto de 235 en una prueba de habilidad lingüística que tiene distribución normal con media 244. Se trata de un puntaje:</p>
+<p><strong>R2018_0007</strong>. Un sujeto obtiene un puntaje bruto de 179 en una prueba de habilidad lingüística que tiene distribución normal con media 148. Se trata de un puntaje:</p>
 </p>]]></text>
 </questiontext>
 <generalfeedback format="html">
 <text><![CDATA[<p>
 <ol type = "a">
 <li> FALSE </li>
-<li> FALSE </li>
-<li> FALSE </li>
 <li> TRUE </li>
+<li> FALSE </li>
+<li> FALSE </li>
 </ol>
 </p>]]></text>
 </generalfeedback>
@@ -2924,13 +2924,13 @@ FALSE
 </p>]]></text>
 </feedback>
 </answer>
-<answer fraction="0" format="html">
+<answer fraction="100" format="html">
 <text><![CDATA[<p>
-Dentro de lo esperable
+No se puede saber con esos datos
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
-FALSE
+TRUE
 </p>]]></text>
 </feedback>
 </answer>
@@ -2944,13 +2944,13 @@ FALSE
 </p>]]></text>
 </feedback>
 </answer>
-<answer fraction="100" format="html">
+<answer fraction="0" format="html">
 <text><![CDATA[<p>
-No se puede saber con esos datos
+Dentro de lo esperable
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
-TRUE
+FALSE
 </p>]]></text>
 </feedback>
 </answer>
@@ -2963,7 +2963,7 @@ TRUE
 </name>
 <questiontext format="html">
 <text><![CDATA[<p>
-<p><strong>R2018_0007</strong>. Un sujeto obtiene un puntaje bruto de 70 en una prueba de habilidad lingüística que tiene distribución normal con desviación estándar 7. Se trata de un puntaje:</p>
+<p><strong>R2018_0007</strong>. Un sujeto obtiene un puntaje bruto de 84 en una prueba de habilidad lingüística que tiene distribución normal con desviación estándar 7. Se trata de un puntaje:</p>
 </p>]]></text>
 </questiontext>
 <generalfeedback format="html">
@@ -2971,8 +2971,8 @@ TRUE
 <ol type = "a">
 <li> FALSE </li>
 <li> FALSE </li>
-<li> FALSE </li>
 <li> TRUE </li>
+<li> FALSE </li>
 </ol>
 </p>]]></text>
 </generalfeedback>
@@ -2983,7 +2983,7 @@ TRUE
 <answernumbering>abc</answernumbering>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-Dentro de lo esperable
+Muy bajo
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -3001,16 +3001,6 @@ FALSE
 </p>]]></text>
 </feedback>
 </answer>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
-Muy bajo
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-FALSE
-</p>]]></text>
-</feedback>
-</answer>
 <answer fraction="100" format="html">
 <text><![CDATA[<p>
 No se puede saber con esos datos
@@ -3018,6 +3008,16 @@ No se puede saber con esos datos
 <feedback format="html">
 <text><![CDATA[<p>
 TRUE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Dentro de lo esperable
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
 </p>]]></text>
 </feedback>
 </answer>
@@ -3030,15 +3030,15 @@ TRUE
 </name>
 <questiontext format="html">
 <text><![CDATA[<p>
-<p><strong>R2018_0007</strong>. Un sujeto obtiene un puntaje bruto de 186 en una prueba de habilidad lingüística que tiene distribución normal con media 238. Se trata de un puntaje:</p>
+<p><strong>R2018_0007</strong>. Un sujeto obtiene un puntaje bruto de 151 en una prueba de habilidad lingüística que tiene distribución normal con con mínimo de 153 y máximo de 238. Se trata de un puntaje:</p>
 </p>]]></text>
 </questiontext>
 <generalfeedback format="html">
 <text><![CDATA[<p>
 <ol type = "a">
+<li> FALSE </li>
+<li> FALSE </li>
 <li> TRUE </li>
-<li> FALSE </li>
-<li> FALSE </li>
 <li> FALSE </li>
 </ol>
 </p>]]></text>
@@ -3048,19 +3048,9 @@ TRUE
 <shuffleanswers>false</shuffleanswers>
 <single>true</single>
 <answernumbering>abc</answernumbering>
-<answer fraction="100" format="html">
-<text><![CDATA[<p>
-No se puede saber con esos datos
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-TRUE
-</p>]]></text>
-</feedback>
-</answer>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-Muy bajo
+Muy elevado
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -3078,9 +3068,19 @@ FALSE
 </p>]]></text>
 </feedback>
 </answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+No se puede saber con esos datos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+TRUE
+</p>]]></text>
+</feedback>
+</answer>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-Muy elevado
+Muy bajo
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -3097,15 +3097,15 @@ FALSE
 </name>
 <questiontext format="html">
 <text><![CDATA[<p>
-<p><strong>R2018_0007</strong>. Un sujeto obtiene un puntaje bruto de 211 en una prueba de habilidad lingüística que tiene distribución normal con con mínimo de 189 y máximo de 252. Se trata de un puntaje:</p>
+<p><strong>R2018_0007</strong>. Un sujeto obtiene un puntaje bruto de 73 en una prueba de habilidad lingüística que tiene distribución normal con desviación estándar 6. Se trata de un puntaje:</p>
 </p>]]></text>
 </questiontext>
 <generalfeedback format="html">
 <text><![CDATA[<p>
 <ol type = "a">
 <li> FALSE </li>
-<li> FALSE </li>
 <li> TRUE </li>
+<li> FALSE </li>
 <li> FALSE </li>
 </ol>
 </p>]]></text>
@@ -3125,16 +3125,6 @@ FALSE
 </p>]]></text>
 </feedback>
 </answer>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
-Muy elevado
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-FALSE
-</p>]]></text>
-</feedback>
-</answer>
 <answer fraction="100" format="html">
 <text><![CDATA[<p>
 No se puede saber con esos datos
@@ -3142,6 +3132,16 @@ No se puede saber con esos datos
 <feedback format="html">
 <text><![CDATA[<p>
 TRUE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Muy elevado
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
 </p>]]></text>
 </feedback>
 </answer>
@@ -3164,15 +3164,15 @@ FALSE
 </name>
 <questiontext format="html">
 <text><![CDATA[<p>
-<p><strong>R2018_0007</strong>. Un sujeto obtiene un puntaje bruto de 246 en una prueba de habilidad lingüística que tiene distribución normal con desviación estándar 20. Se trata de un puntaje:</p>
+<p><strong>R2018_0007</strong>. Un sujeto obtiene un puntaje bruto de 260 en una prueba de habilidad lingüística que tiene distribución normal con con mínimo de 181 y máximo de 262. Se trata de un puntaje:</p>
 </p>]]></text>
 </questiontext>
 <generalfeedback format="html">
 <text><![CDATA[<p>
 <ol type = "a">
 <li> FALSE </li>
-<li> FALSE </li>
 <li> TRUE </li>
+<li> FALSE </li>
 <li> FALSE </li>
 </ol>
 </p>]]></text>
@@ -3192,16 +3192,6 @@ FALSE
 </p>]]></text>
 </feedback>
 </answer>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
-Muy elevado
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-FALSE
-</p>]]></text>
-</feedback>
-</answer>
 <answer fraction="100" format="html">
 <text><![CDATA[<p>
 No se puede saber con esos datos
@@ -3209,6 +3199,16 @@ No se puede saber con esos datos
 <feedback format="html">
 <text><![CDATA[<p>
 TRUE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Muy elevado
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
 </p>]]></text>
 </feedback>
 </answer>
@@ -3231,16 +3231,16 @@ FALSE
 </name>
 <questiontext format="html">
 <text><![CDATA[<p>
-<p><strong>R2018_0007</strong>. Un sujeto obtiene un puntaje bruto de 140 en una prueba de habilidad lingüística que tiene distribución normal con con mínimo de 140 y máximo de 208. Se trata de un puntaje:</p>
+<p><strong>R2018_0007</strong>. Un sujeto obtiene un puntaje bruto de 192 en una prueba de habilidad lingüística que tiene distribución normal con con mínimo de 152 y máximo de 213. Se trata de un puntaje:</p>
 </p>]]></text>
 </questiontext>
 <generalfeedback format="html">
 <text><![CDATA[<p>
 <ol type = "a">
-<li> FALSE </li>
-<li> FALSE </li>
-<li> FALSE </li>
 <li> TRUE </li>
+<li> FALSE </li>
+<li> FALSE </li>
+<li> FALSE </li>
 </ol>
 </p>]]></text>
 </generalfeedback>
@@ -3249,9 +3249,19 @@ FALSE
 <shuffleanswers>false</shuffleanswers>
 <single>true</single>
 <answernumbering>abc</answernumbering>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+No se puede saber con esos datos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+TRUE
+</p>]]></text>
+</feedback>
+</answer>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-Muy elevado
+Muy bajo
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -3271,21 +3281,11 @@ FALSE
 </answer>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-Muy bajo
+Muy elevado
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
 FALSE
-</p>]]></text>
-</feedback>
-</answer>
-<answer fraction="100" format="html">
-<text><![CDATA[<p>
-No se puede saber con esos datos
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-TRUE
 </p>]]></text>
 </feedback>
 </answer>
@@ -3298,15 +3298,15 @@ TRUE
 </name>
 <questiontext format="html">
 <text><![CDATA[<p>
-<p><strong>R2018_0007</strong>. Un sujeto obtiene un puntaje bruto de 178 en una prueba de habilidad lingüística que tiene distribución normal con con mínimo de 181 y máximo de 252. Se trata de un puntaje:</p>
+<p><strong>R2018_0007</strong>. Un sujeto obtiene un puntaje bruto de 259 en una prueba de habilidad lingüística que tiene distribución normal con media 240. Se trata de un puntaje:</p>
 </p>]]></text>
 </questiontext>
 <generalfeedback format="html">
 <text><![CDATA[<p>
 <ol type = "a">
+<li> FALSE </li>
+<li> FALSE </li>
 <li> TRUE </li>
-<li> FALSE </li>
-<li> FALSE </li>
 <li> FALSE </li>
 </ol>
 </p>]]></text>
@@ -3316,16 +3316,6 @@ TRUE
 <shuffleanswers>false</shuffleanswers>
 <single>true</single>
 <answernumbering>abc</answernumbering>
-<answer fraction="100" format="html">
-<text><![CDATA[<p>
-No se puede saber con esos datos
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-TRUE
-</p>]]></text>
-</feedback>
-</answer>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
 Muy bajo
@@ -3343,6 +3333,16 @@ Dentro de lo esperable
 <feedback format="html">
 <text><![CDATA[<p>
 FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+No se puede saber con esos datos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+TRUE
 </p>]]></text>
 </feedback>
 </answer>
@@ -3365,15 +3365,15 @@ FALSE
 </name>
 <questiontext format="html">
 <text><![CDATA[<p>
-<p><strong>R2018_0007</strong>. Un sujeto obtiene un puntaje bruto de 129 en una prueba de habilidad lingüística que tiene distribución normal con media 138. Se trata de un puntaje:</p>
+<p><strong>R2018_0007</strong>. Un sujeto obtiene un puntaje bruto de 66 en una prueba de habilidad lingüística que tiene distribución normal con media 56. Se trata de un puntaje:</p>
 </p>]]></text>
 </questiontext>
 <generalfeedback format="html">
 <text><![CDATA[<p>
 <ol type = "a">
 <li> FALSE </li>
-<li> FALSE </li>
 <li> TRUE </li>
+<li> FALSE </li>
 <li> FALSE </li>
 </ol>
 </p>]]></text>
@@ -3383,16 +3383,6 @@ FALSE
 <shuffleanswers>false</shuffleanswers>
 <single>true</single>
 <answernumbering>abc</answernumbering>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
-Dentro de lo esperable
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-FALSE
-</p>]]></text>
-</feedback>
-</answer>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
 Muy bajo
@@ -3415,6 +3405,16 @@ TRUE
 </answer>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
+Dentro de lo esperable
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
 Muy elevado
 </p>]]></text>
 <feedback format="html">
@@ -3432,7 +3432,7 @@ FALSE
 </name>
 <questiontext format="html">
 <text><![CDATA[<p>
-<p><strong>R2018_0007</strong>. Un sujeto obtiene un puntaje bruto de 76 en una prueba de habilidad lingüística que tiene distribución normal con desviación estándar 5. Se trata de un puntaje:</p>
+<p><strong>R2018_0007</strong>. Un sujeto obtiene un puntaje bruto de 137 en una prueba de habilidad lingüística que tiene distribución normal con desviación estándar 12. Se trata de un puntaje:</p>
 </p>]]></text>
 </questiontext>
 <generalfeedback format="html">
@@ -3452,7 +3452,7 @@ FALSE
 <answernumbering>abc</answernumbering>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-Dentro de lo esperable
+Muy bajo
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -3462,7 +3462,7 @@ FALSE
 </answer>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-Muy bajo
+Dentro de lo esperable
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -3499,16 +3499,16 @@ FALSE
 </name>
 <questiontext format="html">
 <text><![CDATA[<p>
-<p><strong>R2018_0007</strong>. Un sujeto obtiene un puntaje bruto de 177 en una prueba de habilidad lingüística que tiene distribución normal con desviación estándar 11. Se trata de un puntaje:</p>
+<p><strong>R2018_0007</strong>. Un sujeto obtiene un puntaje bruto de 148 en una prueba de habilidad lingüística que tiene distribución normal con con mínimo de 150 y máximo de 209. Se trata de un puntaje:</p>
 </p>]]></text>
 </questiontext>
 <generalfeedback format="html">
 <text><![CDATA[<p>
 <ol type = "a">
 <li> FALSE </li>
+<li> FALSE </li>
+<li> FALSE </li>
 <li> TRUE </li>
-<li> FALSE </li>
-<li> FALSE </li>
 </ol>
 </p>]]></text>
 </generalfeedback>
@@ -3527,13 +3527,13 @@ FALSE
 </p>]]></text>
 </feedback>
 </answer>
-<answer fraction="100" format="html">
+<answer fraction="0" format="html">
 <text><![CDATA[<p>
-No se puede saber con esos datos
+Muy bajo
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
-TRUE
+FALSE
 </p>]]></text>
 </feedback>
 </answer>
@@ -3547,13 +3547,13 @@ FALSE
 </p>]]></text>
 </feedback>
 </answer>
-<answer fraction="0" format="html">
+<answer fraction="100" format="html">
 <text><![CDATA[<p>
-Muy bajo
+No se puede saber con esos datos
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
-FALSE
+TRUE
 </p>]]></text>
 </feedback>
 </answer>
@@ -3566,16 +3566,16 @@ FALSE
 </name>
 <questiontext format="html">
 <text><![CDATA[<p>
-<p><strong>R2018_0007</strong>. Un sujeto obtiene un puntaje bruto de 106 en una prueba de habilidad lingüística que tiene distribución normal con desviación estándar 10. Se trata de un puntaje:</p>
+<p><strong>R2018_0007</strong>. Un sujeto obtiene un puntaje bruto de 138 en una prueba de habilidad lingüística que tiene distribución normal con media 117. Se trata de un puntaje:</p>
 </p>]]></text>
 </questiontext>
 <generalfeedback format="html">
 <text><![CDATA[<p>
 <ol type = "a">
 <li> FALSE </li>
+<li> FALSE </li>
+<li> FALSE </li>
 <li> TRUE </li>
-<li> FALSE </li>
-<li> FALSE </li>
 </ol>
 </p>]]></text>
 </generalfeedback>
@@ -3586,7 +3586,27 @@ FALSE
 <answernumbering>abc</answernumbering>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
+Muy elevado
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
 Dentro de lo esperable
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Muy bajo
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -3601,26 +3621,6 @@ No se puede saber con esos datos
 <feedback format="html">
 <text><![CDATA[<p>
 TRUE
-</p>]]></text>
-</feedback>
-</answer>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
-Muy bajo
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-FALSE
-</p>]]></text>
-</feedback>
-</answer>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
-Muy elevado
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-FALSE
 </p>]]></text>
 </feedback>
 </answer>
@@ -3633,16 +3633,16 @@ FALSE
 </name>
 <questiontext format="html">
 <text><![CDATA[<p>
-<p><strong>R2018_0007</strong>. Un sujeto obtiene un puntaje bruto de 51 en una prueba de habilidad lingüística que tiene distribución normal con media 52. Se trata de un puntaje:</p>
+<p><strong>R2018_0007</strong>. Un sujeto obtiene un puntaje bruto de 150 en una prueba de habilidad lingüística que tiene distribución normal con con mínimo de 143 y máximo de 219. Se trata de un puntaje:</p>
 </p>]]></text>
 </questiontext>
 <generalfeedback format="html">
 <text><![CDATA[<p>
 <ol type = "a">
+<li> FALSE </li>
+<li> FALSE </li>
+<li> FALSE </li>
 <li> TRUE </li>
-<li> FALSE </li>
-<li> FALSE </li>
-<li> FALSE </li>
 </ol>
 </p>]]></text>
 </generalfeedback>
@@ -3651,13 +3651,13 @@ FALSE
 <shuffleanswers>false</shuffleanswers>
 <single>true</single>
 <answernumbering>abc</answernumbering>
-<answer fraction="100" format="html">
+<answer fraction="0" format="html">
 <text><![CDATA[<p>
-No se puede saber con esos datos
+Muy bajo
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
-TRUE
+FALSE
 </p>]]></text>
 </feedback>
 </answer>
@@ -3681,13 +3681,13 @@ FALSE
 </p>]]></text>
 </feedback>
 </answer>
-<answer fraction="0" format="html">
+<answer fraction="100" format="html">
 <text><![CDATA[<p>
-Muy bajo
+No se puede saber con esos datos
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
-FALSE
+TRUE
 </p>]]></text>
 </feedback>
 </answer>
@@ -3700,15 +3700,15 @@ FALSE
 </name>
 <questiontext format="html">
 <text><![CDATA[<p>
-<p><strong>R2018_0007</strong>. Un sujeto obtiene un puntaje bruto de 134 en una prueba de habilidad lingüística que tiene distribución normal con media 169. Se trata de un puntaje:</p>
+<p><strong>R2018_0007</strong>. Un sujeto obtiene un puntaje bruto de 293 en una prueba de habilidad lingüística que tiene distribución normal con desviación estándar 18. Se trata de un puntaje:</p>
 </p>]]></text>
 </questiontext>
 <generalfeedback format="html">
 <text><![CDATA[<p>
 <ol type = "a">
-<li> FALSE </li>
-<li> FALSE </li>
 <li> TRUE </li>
+<li> FALSE </li>
+<li> FALSE </li>
 <li> FALSE </li>
 </ol>
 </p>]]></text>
@@ -3718,13 +3718,13 @@ FALSE
 <shuffleanswers>false</shuffleanswers>
 <single>true</single>
 <answernumbering>abc</answernumbering>
-<answer fraction="0" format="html">
+<answer fraction="100" format="html">
 <text><![CDATA[<p>
-Dentro de lo esperable
+No se puede saber con esos datos
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
-FALSE
+TRUE
 </p>]]></text>
 </feedback>
 </answer>
@@ -3738,13 +3738,13 @@ FALSE
 </p>]]></text>
 </feedback>
 </answer>
-<answer fraction="100" format="html">
+<answer fraction="0" format="html">
 <text><![CDATA[<p>
-No se puede saber con esos datos
+Dentro de lo esperable
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
-TRUE
+FALSE
 </p>]]></text>
 </feedback>
 </answer>
@@ -3767,15 +3767,15 @@ FALSE
 </name>
 <questiontext format="html">
 <text><![CDATA[<p>
-<p><strong>R2018_0007</strong>. Un sujeto obtiene un puntaje bruto de 178 en una prueba de habilidad lingüística que tiene distribución normal con con mínimo de 192 y máximo de 263. Se trata de un puntaje:</p>
+<p><strong>R2018_0007</strong>. Un sujeto obtiene un puntaje bruto de 104 en una prueba de habilidad lingüística que tiene distribución normal con con mínimo de 84 y máximo de 116. Se trata de un puntaje:</p>
 </p>]]></text>
 </questiontext>
 <generalfeedback format="html">
 <text><![CDATA[<p>
 <ol type = "a">
+<li> FALSE </li>
+<li> FALSE </li>
 <li> TRUE </li>
-<li> FALSE </li>
-<li> FALSE </li>
 <li> FALSE </li>
 </ol>
 </p>]]></text>
@@ -3785,19 +3785,9 @@ FALSE
 <shuffleanswers>false</shuffleanswers>
 <single>true</single>
 <answernumbering>abc</answernumbering>
-<answer fraction="100" format="html">
-<text><![CDATA[<p>
-No se puede saber con esos datos
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-TRUE
-</p>]]></text>
-</feedback>
-</answer>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-Muy bajo
+Dentro de lo esperable
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -3815,9 +3805,19 @@ FALSE
 </p>]]></text>
 </feedback>
 </answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+No se puede saber con esos datos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+TRUE
+</p>]]></text>
+</feedback>
+</answer>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-Dentro de lo esperable
+Muy bajo
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -3834,15 +3834,15 @@ FALSE
 </name>
 <questiontext format="html">
 <text><![CDATA[<p>
-<p><strong>R2018_0007</strong>. Un sujeto obtiene un puntaje bruto de 48 en una prueba de habilidad lingüística que tiene distribución normal con media 51. Se trata de un puntaje:</p>
+<p><strong>R2018_0007</strong>. Un sujeto obtiene un puntaje bruto de 219 en una prueba de habilidad lingüística que tiene distribución normal con media 228. Se trata de un puntaje:</p>
 </p>]]></text>
 </questiontext>
 <generalfeedback format="html">
 <text><![CDATA[<p>
 <ol type = "a">
 <li> FALSE </li>
-<li> TRUE </li>
 <li> FALSE </li>
+<li> TRUE </li>
 <li> FALSE </li>
 </ol>
 </p>]]></text>
@@ -3854,7 +3854,17 @@ FALSE
 <answernumbering>abc</answernumbering>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-Dentro de lo esperable
+Muy bajo
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Muy elevado
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -3874,17 +3884,7 @@ TRUE
 </answer>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-Muy bajo
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-FALSE
-</p>]]></text>
-</feedback>
-</answer>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
-Muy elevado
+Dentro de lo esperable
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -3901,7 +3901,7 @@ FALSE
 </name>
 <questiontext format="html">
 <text><![CDATA[<p>
-<p><strong>R2018_0007</strong>. Un sujeto obtiene un puntaje bruto de 176 en una prueba de habilidad lingüística que tiene distribución normal con con mínimo de 151 y máximo de 225. Se trata de un puntaje:</p>
+<p><strong>R2018_0007</strong>. Un sujeto obtiene un puntaje bruto de 89 en una prueba de habilidad lingüística que tiene distribución normal con media 95. Se trata de un puntaje:</p>
 </p>]]></text>
 </questiontext>
 <generalfeedback format="html">
@@ -3921,7 +3921,7 @@ FALSE
 <answernumbering>abc</answernumbering>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-Muy bajo
+Dentro de lo esperable
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -3951,7 +3951,7 @@ TRUE
 </answer>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-Dentro de lo esperable
+Muy bajo
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -3968,7 +3968,7 @@ FALSE
 </name>
 <questiontext format="html">
 <text><![CDATA[<p>
-<p><strong>R2018_0007</strong>. Un sujeto obtiene un puntaje bruto de 95 en una prueba de habilidad lingüística que tiene distribución normal con media 112. Se trata de un puntaje:</p>
+<p><strong>R2018_0007</strong>. Un sujeto obtiene un puntaje bruto de 146 en una prueba de habilidad lingüística que tiene distribución normal con media 188. Se trata de un puntaje:</p>
 </p>]]></text>
 </questiontext>
 <generalfeedback format="html">
@@ -3976,8 +3976,8 @@ FALSE
 <ol type = "a">
 <li> FALSE </li>
 <li> FALSE </li>
-<li> TRUE </li>
 <li> FALSE </li>
+<li> TRUE </li>
 </ol>
 </p>]]></text>
 </generalfeedback>
@@ -3989,6 +3989,16 @@ FALSE
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
 Muy elevado
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Dentro de lo esperable
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -4013,16 +4023,6 @@ No se puede saber con esos datos
 <feedback format="html">
 <text><![CDATA[<p>
 TRUE
-</p>]]></text>
-</feedback>
-</answer>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
-Dentro de lo esperable
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-FALSE
 </p>]]></text>
 </feedback>
 </answer>
@@ -4035,16 +4035,16 @@ FALSE
 </name>
 <questiontext format="html">
 <text><![CDATA[<p>
-<p><strong>R2018_0007</strong>. Un sujeto obtiene un puntaje bruto de 60 en una prueba de habilidad lingüística que tiene distribución normal con desviación estándar 5. Se trata de un puntaje:</p>
+<p><strong>R2018_0007</strong>. Un sujeto obtiene un puntaje bruto de 243 en una prueba de habilidad lingüística que tiene distribución normal con desviación estándar 14. Se trata de un puntaje:</p>
 </p>]]></text>
 </questiontext>
 <generalfeedback format="html">
 <text><![CDATA[<p>
 <ol type = "a">
 <li> FALSE </li>
+<li> FALSE </li>
+<li> FALSE </li>
 <li> TRUE </li>
-<li> FALSE </li>
-<li> FALSE </li>
 </ol>
 </p>]]></text>
 </generalfeedback>
@@ -4053,6 +4053,26 @@ FALSE
 <shuffleanswers>false</shuffleanswers>
 <single>true</single>
 <answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Muy elevado
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Dentro de lo esperable
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
 Muy bajo
@@ -4070,26 +4090,6 @@ No se puede saber con esos datos
 <feedback format="html">
 <text><![CDATA[<p>
 TRUE
-</p>]]></text>
-</feedback>
-</answer>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
-Dentro de lo esperable
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-FALSE
-</p>]]></text>
-</feedback>
-</answer>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
-Muy elevado
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-FALSE
 </p>]]></text>
 </feedback>
 </answer>
@@ -4102,16 +4102,16 @@ FALSE
 </name>
 <questiontext format="html">
 <text><![CDATA[<p>
-<p><strong>R2018_0007</strong>. Un sujeto obtiene un puntaje bruto de 77 en una prueba de habilidad lingüística que tiene distribución normal con media 64. Se trata de un puntaje:</p>
+<p><strong>R2018_0007</strong>. Un sujeto obtiene un puntaje bruto de 227 en una prueba de habilidad lingüística que tiene distribución normal con desviación estándar 20. Se trata de un puntaje:</p>
 </p>]]></text>
 </questiontext>
 <generalfeedback format="html">
 <text><![CDATA[<p>
 <ol type = "a">
-<li> FALSE </li>
-<li> FALSE </li>
-<li> FALSE </li>
 <li> TRUE </li>
+<li> FALSE </li>
+<li> FALSE </li>
+<li> FALSE </li>
 </ol>
 </p>]]></text>
 </generalfeedback>
@@ -4120,19 +4120,19 @@ FALSE
 <shuffleanswers>false</shuffleanswers>
 <single>true</single>
 <answernumbering>abc</answernumbering>
-<answer fraction="0" format="html">
+<answer fraction="100" format="html">
 <text><![CDATA[<p>
-Muy elevado
+No se puede saber con esos datos
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
-FALSE
+TRUE
 </p>]]></text>
 </feedback>
 </answer>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-Dentro de lo esperable
+Muy elevado
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -4150,13 +4150,13 @@ FALSE
 </p>]]></text>
 </feedback>
 </answer>
-<answer fraction="100" format="html">
+<answer fraction="0" format="html">
 <text><![CDATA[<p>
-No se puede saber con esos datos
+Dentro de lo esperable
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
-TRUE
+FALSE
 </p>]]></text>
 </feedback>
 </answer>
@@ -4169,14 +4169,14 @@ TRUE
 </name>
 <questiontext format="html">
 <text><![CDATA[<p>
-<p><strong>R2018_0007</strong>. Un sujeto obtiene un puntaje bruto de 189 en una prueba de habilidad lingüística que tiene distribución normal con con mínimo de 164 y máximo de 239. Se trata de un puntaje:</p>
+<p><strong>R2018_0007</strong>. Un sujeto obtiene un puntaje bruto de 99 en una prueba de habilidad lingüística que tiene distribución normal con media 85. Se trata de un puntaje:</p>
 </p>]]></text>
 </questiontext>
 <generalfeedback format="html">
 <text><![CDATA[<p>
 <ol type = "a">
-<li> FALSE </li>
 <li> TRUE </li>
+<li> FALSE </li>
 <li> FALSE </li>
 <li> FALSE </li>
 </ol>
@@ -4187,16 +4187,6 @@ TRUE
 <shuffleanswers>false</shuffleanswers>
 <single>true</single>
 <answernumbering>abc</answernumbering>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
-Muy elevado
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-FALSE
-</p>]]></text>
-</feedback>
-</answer>
 <answer fraction="100" format="html">
 <text><![CDATA[<p>
 No se puede saber con esos datos
@@ -4220,6 +4210,16 @@ FALSE
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
 Dentro de lo esperable
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Muy elevado
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -4236,16 +4236,16 @@ FALSE
 </name>
 <questiontext format="html">
 <text><![CDATA[<p>
-<p><strong>R2018_0007</strong>. Un sujeto obtiene un puntaje bruto de 170 en una prueba de habilidad lingüística que tiene distribución normal con media 217. Se trata de un puntaje:</p>
+<p><strong>R2018_0007</strong>. Un sujeto obtiene un puntaje bruto de 241 en una prueba de habilidad lingüística que tiene distribución normal con con mínimo de 198 y máximo de 268. Se trata de un puntaje:</p>
 </p>]]></text>
 </questiontext>
 <generalfeedback format="html">
 <text><![CDATA[<p>
 <ol type = "a">
 <li> FALSE </li>
-<li> FALSE </li>
-<li> FALSE </li>
 <li> TRUE </li>
+<li> FALSE </li>
+<li> FALSE </li>
 </ol>
 </p>]]></text>
 </generalfeedback>
@@ -4256,27 +4256,7 @@ FALSE
 <answernumbering>abc</answernumbering>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-Muy elevado
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-FALSE
-</p>]]></text>
-</feedback>
-</answer>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
 Muy bajo
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-FALSE
-</p>]]></text>
-</feedback>
-</answer>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
-Dentro de lo esperable
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -4291,6 +4271,26 @@ No se puede saber con esos datos
 <feedback format="html">
 <text><![CDATA[<p>
 TRUE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Dentro de lo esperable
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Muy elevado
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
 </p>]]></text>
 </feedback>
 </answer>
@@ -4303,16 +4303,16 @@ TRUE
 </name>
 <questiontext format="html">
 <text><![CDATA[<p>
-<p><strong>R2018_0007</strong>. Un sujeto obtiene un puntaje bruto de 99 en una prueba de habilidad lingüística que tiene distribución normal con desviación estándar 8. Se trata de un puntaje:</p>
+<p><strong>R2018_0007</strong>. Un sujeto obtiene un puntaje bruto de 152 en una prueba de habilidad lingüística que tiene distribución normal con media 141. Se trata de un puntaje:</p>
 </p>]]></text>
 </questiontext>
 <generalfeedback format="html">
 <text><![CDATA[<p>
 <ol type = "a">
+<li> FALSE </li>
+<li> FALSE </li>
+<li> FALSE </li>
 <li> TRUE </li>
-<li> FALSE </li>
-<li> FALSE </li>
-<li> FALSE </li>
 </ol>
 </p>]]></text>
 </generalfeedback>
@@ -4321,19 +4321,19 @@ TRUE
 <shuffleanswers>false</shuffleanswers>
 <single>true</single>
 <answernumbering>abc</answernumbering>
-<answer fraction="100" format="html">
+<answer fraction="0" format="html">
 <text><![CDATA[<p>
-No se puede saber con esos datos
+Dentro de lo esperable
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
-TRUE
+FALSE
 </p>]]></text>
 </feedback>
 </answer>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-Dentro de lo esperable
+Muy bajo
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -4351,13 +4351,13 @@ FALSE
 </p>]]></text>
 </feedback>
 </answer>
-<answer fraction="0" format="html">
+<answer fraction="100" format="html">
 <text><![CDATA[<p>
-Muy bajo
+No se puede saber con esos datos
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
-FALSE
+TRUE
 </p>]]></text>
 </feedback>
 </answer>
@@ -4370,7 +4370,7 @@ FALSE
 </name>
 <questiontext format="html">
 <text><![CDATA[<p>
-<p><strong>R2018_0007</strong>. Un sujeto obtiene un puntaje bruto de 237 en una prueba de habilidad lingüística que tiene distribución normal con media 203. Se trata de un puntaje:</p>
+<p><strong>R2018_0007</strong>. Un sujeto obtiene un puntaje bruto de 142 en una prueba de habilidad lingüística que tiene distribución normal con desviación estándar 11. Se trata de un puntaje:</p>
 </p>]]></text>
 </questiontext>
 <generalfeedback format="html">
@@ -4400,7 +4400,7 @@ TRUE
 </answer>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-Muy bajo
+Dentro de lo esperable
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -4420,7 +4420,7 @@ FALSE
 </answer>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-Dentro de lo esperable
+Muy bajo
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -4437,16 +4437,16 @@ FALSE
 </name>
 <questiontext format="html">
 <text><![CDATA[<p>
-<p><strong>R2018_0007</strong>. Un sujeto obtiene un puntaje bruto de 114 en una prueba de habilidad lingüística que tiene distribución normal con desviación estándar 8. Se trata de un puntaje:</p>
+<p><strong>R2018_0007</strong>. Un sujeto obtiene un puntaje bruto de 179 en una prueba de habilidad lingüística que tiene distribución normal con media 175. Se trata de un puntaje:</p>
 </p>]]></text>
 </questiontext>
 <generalfeedback format="html">
 <text><![CDATA[<p>
 <ol type = "a">
-<li> FALSE </li>
-<li> FALSE </li>
-<li> FALSE </li>
 <li> TRUE </li>
+<li> FALSE </li>
+<li> FALSE </li>
+<li> FALSE </li>
 </ol>
 </p>]]></text>
 </generalfeedback>
@@ -4455,9 +4455,19 @@ FALSE
 <shuffleanswers>false</shuffleanswers>
 <single>true</single>
 <answernumbering>abc</answernumbering>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+No se puede saber con esos datos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+TRUE
+</p>]]></text>
+</feedback>
+</answer>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-Muy bajo
+Dentro de lo esperable
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -4477,21 +4487,11 @@ FALSE
 </answer>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-Dentro de lo esperable
+Muy bajo
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
 FALSE
-</p>]]></text>
-</feedback>
-</answer>
-<answer fraction="100" format="html">
-<text><![CDATA[<p>
-No se puede saber con esos datos
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-TRUE
 </p>]]></text>
 </feedback>
 </answer>
@@ -4504,14 +4504,14 @@ TRUE
 </name>
 <questiontext format="html">
 <text><![CDATA[<p>
-<p><strong>R2018_0007</strong>. Un sujeto obtiene un puntaje bruto de 83 en una prueba de habilidad lingüística que tiene distribución normal con media 88. Se trata de un puntaje:</p>
+<p><strong>R2018_0007</strong>. Un sujeto obtiene un puntaje bruto de 232 en una prueba de habilidad lingüística que tiene distribución normal con media 221. Se trata de un puntaje:</p>
 </p>]]></text>
 </questiontext>
 <generalfeedback format="html">
 <text><![CDATA[<p>
 <ol type = "a">
-<li> FALSE </li>
 <li> TRUE </li>
+<li> FALSE </li>
 <li> FALSE </li>
 <li> FALSE </li>
 </ol>
@@ -4522,16 +4522,6 @@ TRUE
 <shuffleanswers>false</shuffleanswers>
 <single>true</single>
 <answernumbering>abc</answernumbering>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
-Dentro de lo esperable
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-FALSE
-</p>]]></text>
-</feedback>
-</answer>
 <answer fraction="100" format="html">
 <text><![CDATA[<p>
 No se puede saber con esos datos
@@ -4544,7 +4534,7 @@ TRUE
 </answer>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-Muy bajo
+Dentro de lo esperable
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -4555,6 +4545,16 @@ FALSE
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
 Muy elevado
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Muy bajo
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -4571,15 +4571,15 @@ FALSE
 </name>
 <questiontext format="html">
 <text><![CDATA[<p>
-<p><strong>R2018_0007</strong>. Un sujeto obtiene un puntaje bruto de 277 en una prueba de habilidad lingüística que tiene distribución normal con media 230. Se trata de un puntaje:</p>
+<p><strong>R2018_0007</strong>. Un sujeto obtiene un puntaje bruto de 129 en una prueba de habilidad lingüística que tiene distribución normal con media 161. Se trata de un puntaje:</p>
 </p>]]></text>
 </questiontext>
 <generalfeedback format="html">
 <text><![CDATA[<p>
 <ol type = "a">
 <li> FALSE </li>
-<li> TRUE </li>
 <li> FALSE </li>
+<li> TRUE </li>
 <li> FALSE </li>
 </ol>
 </p>]]></text>
@@ -4591,7 +4591,17 @@ FALSE
 <answernumbering>abc</answernumbering>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-Dentro de lo esperable
+Muy bajo
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Muy elevado
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -4611,17 +4621,7 @@ TRUE
 </answer>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-Muy bajo
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-FALSE
-</p>]]></text>
-</feedback>
-</answer>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
-Muy elevado
+Dentro de lo esperable
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -4638,16 +4638,16 @@ FALSE
 </name>
 <questiontext format="html">
 <text><![CDATA[<p>
-<p><strong>R2018_0007</strong>. Un sujeto obtiene un puntaje bruto de 207 en una prueba de habilidad lingüística que tiene distribución normal con desviación estándar 17. Se trata de un puntaje:</p>
+<p><strong>R2018_0007</strong>. Un sujeto obtiene un puntaje bruto de 188 en una prueba de habilidad lingüística que tiene distribución normal con con mínimo de 152 y máximo de 221. Se trata de un puntaje:</p>
 </p>]]></text>
 </questiontext>
 <generalfeedback format="html">
 <text><![CDATA[<p>
 <ol type = "a">
+<li> FALSE </li>
+<li> FALSE </li>
+<li> FALSE </li>
 <li> TRUE </li>
-<li> FALSE </li>
-<li> FALSE </li>
-<li> FALSE </li>
 </ol>
 </p>]]></text>
 </generalfeedback>
@@ -4656,19 +4656,9 @@ FALSE
 <shuffleanswers>false</shuffleanswers>
 <single>true</single>
 <answernumbering>abc</answernumbering>
-<answer fraction="100" format="html">
-<text><![CDATA[<p>
-No se puede saber con esos datos
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-TRUE
-</p>]]></text>
-</feedback>
-</answer>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-Muy bajo
+Dentro de lo esperable
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -4688,11 +4678,21 @@ FALSE
 </answer>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-Dentro de lo esperable
+Muy bajo
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
 FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+No se puede saber con esos datos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+TRUE
 </p>]]></text>
 </feedback>
 </answer>
@@ -4705,16 +4705,16 @@ FALSE
 </name>
 <questiontext format="html">
 <text><![CDATA[<p>
-<p><strong>R2018_0007</strong>. Un sujeto obtiene un puntaje bruto de 195 en una prueba de habilidad lingüística que tiene distribución normal con con mínimo de 170 y máximo de 254. Se trata de un puntaje:</p>
+<p><strong>R2018_0007</strong>. Un sujeto obtiene un puntaje bruto de 253 en una prueba de habilidad lingüística que tiene distribución normal con desviación estándar 22. Se trata de un puntaje:</p>
 </p>]]></text>
 </questiontext>
 <generalfeedback format="html">
 <text><![CDATA[<p>
 <ol type = "a">
+<li> FALSE </li>
+<li> FALSE </li>
+<li> FALSE </li>
 <li> TRUE </li>
-<li> FALSE </li>
-<li> FALSE </li>
-<li> FALSE </li>
 </ol>
 </p>]]></text>
 </generalfeedback>
@@ -4723,16 +4723,6 @@ FALSE
 <shuffleanswers>false</shuffleanswers>
 <single>true</single>
 <answernumbering>abc</answernumbering>
-<answer fraction="100" format="html">
-<text><![CDATA[<p>
-No se puede saber con esos datos
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-TRUE
-</p>]]></text>
-</feedback>
-</answer>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
 Muy elevado
@@ -4760,6 +4750,16 @@ Muy bajo
 <feedback format="html">
 <text><![CDATA[<p>
 FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+No se puede saber con esos datos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+TRUE
 </p>]]></text>
 </feedback>
 </answer>
@@ -4772,7 +4772,7 @@ FALSE
 </name>
 <questiontext format="html">
 <text><![CDATA[<p>
-<p><strong>R2018_0007</strong>. Un sujeto obtiene un puntaje bruto de 198 en una prueba de habilidad lingüística que tiene distribución normal con desviación estándar 16. Se trata de un puntaje:</p>
+<p><strong>R2018_0007</strong>. Un sujeto obtiene un puntaje bruto de 256 en una prueba de habilidad lingüística que tiene distribución normal con desviación estándar 19. Se trata de un puntaje:</p>
 </p>]]></text>
 </questiontext>
 <generalfeedback format="html">
@@ -4792,7 +4792,7 @@ FALSE
 <answernumbering>abc</answernumbering>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-Dentro de lo esperable
+Muy elevado
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -4822,7 +4822,7 @@ FALSE
 </answer>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-Muy elevado
+Dentro de lo esperable
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -4839,14 +4839,14 @@ FALSE
 </name>
 <questiontext format="html">
 <text><![CDATA[<p>
-<p><strong>R2018_0007</strong>. Un sujeto obtiene un puntaje bruto de 129 en una prueba de habilidad lingüística que tiene distribución normal con media 138. Se trata de un puntaje:</p>
+<p><strong>R2018_0007</strong>. Un sujeto obtiene un puntaje bruto de 116 en una prueba de habilidad lingüística que tiene distribución normal con desviación estándar 14. Se trata de un puntaje:</p>
 </p>]]></text>
 </questiontext>
 <generalfeedback format="html">
 <text><![CDATA[<p>
 <ol type = "a">
-<li> FALSE </li>
 <li> TRUE </li>
+<li> FALSE </li>
 <li> FALSE </li>
 <li> FALSE </li>
 </ol>
@@ -4857,16 +4857,6 @@ FALSE
 <shuffleanswers>false</shuffleanswers>
 <single>true</single>
 <answernumbering>abc</answernumbering>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
-Muy elevado
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-FALSE
-</p>]]></text>
-</feedback>
-</answer>
 <answer fraction="100" format="html">
 <text><![CDATA[<p>
 No se puede saber con esos datos
@@ -4879,7 +4869,7 @@ TRUE
 </answer>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-Dentro de lo esperable
+Muy bajo
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -4889,7 +4879,17 @@ FALSE
 </answer>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-Muy bajo
+Muy elevado
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Dentro de lo esperable
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -4906,16 +4906,16 @@ FALSE
 </name>
 <questiontext format="html">
 <text><![CDATA[<p>
-<p><strong>R2018_0007</strong>. Un sujeto obtiene un puntaje bruto de 134 en una prueba de habilidad lingüística que tiene distribución normal con desviación estándar 10. Se trata de un puntaje:</p>
+<p><strong>R2018_0007</strong>. Un sujeto obtiene un puntaje bruto de 99 en una prueba de habilidad lingüística que tiene distribución normal con media 138. Se trata de un puntaje:</p>
 </p>]]></text>
 </questiontext>
 <generalfeedback format="html">
 <text><![CDATA[<p>
 <ol type = "a">
 <li> FALSE </li>
-<li> FALSE </li>
-<li> FALSE </li>
 <li> TRUE </li>
+<li> FALSE </li>
+<li> FALSE </li>
 </ol>
 </p>]]></text>
 </generalfeedback>
@@ -4926,27 +4926,7 @@ FALSE
 <answernumbering>abc</answernumbering>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-Muy bajo
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-FALSE
-</p>]]></text>
-</feedback>
-</answer>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
 Dentro de lo esperable
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-FALSE
-</p>]]></text>
-</feedback>
-</answer>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
-Muy elevado
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -4961,6 +4941,26 @@ No se puede saber con esos datos
 <feedback format="html">
 <text><![CDATA[<p>
 TRUE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Muy bajo
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Muy elevado
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
 </p>]]></text>
 </feedback>
 </answer>
@@ -4973,14 +4973,14 @@ TRUE
 </name>
 <questiontext format="html">
 <text><![CDATA[<p>
-<p><strong>R2018_0007</strong>. Un sujeto obtiene un puntaje bruto de 277 en una prueba de habilidad lingüística que tiene distribución normal con con mínimo de 199 y máximo de 273. Se trata de un puntaje:</p>
+<p><strong>R2018_0007</strong>. Un sujeto obtiene un puntaje bruto de 262 en una prueba de habilidad lingüística que tiene distribución normal con media 216. Se trata de un puntaje:</p>
 </p>]]></text>
 </questiontext>
 <generalfeedback format="html">
 <text><![CDATA[<p>
 <ol type = "a">
-<li> TRUE </li>
 <li> FALSE </li>
+<li> TRUE </li>
 <li> FALSE </li>
 <li> FALSE </li>
 </ol>
@@ -4991,6 +4991,16 @@ TRUE
 <shuffleanswers>false</shuffleanswers>
 <single>true</single>
 <answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Muy bajo
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
 <answer fraction="100" format="html">
 <text><![CDATA[<p>
 No se puede saber con esos datos
@@ -5003,27 +5013,17 @@ TRUE
 </answer>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-Muy elevado
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-FALSE
-</p>]]></text>
-</feedback>
-</answer>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
-Muy bajo
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-FALSE
-</p>]]></text>
-</feedback>
-</answer>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
 Dentro de lo esperable
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Muy elevado
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -5040,7 +5040,7 @@ FALSE
 </name>
 <questiontext format="html">
 <text><![CDATA[<p>
-<p><strong>R2018_0007</strong>. Un sujeto obtiene un puntaje bruto de 265 en una prueba de habilidad lingüística que tiene distribución normal con desviación estándar 16. Se trata de un puntaje:</p>
+<p><strong>R2018_0007</strong>. Un sujeto obtiene un puntaje bruto de 56 en una prueba de habilidad lingüística que tiene distribución normal con media 54. Se trata de un puntaje:</p>
 </p>]]></text>
 </questiontext>
 <generalfeedback format="html">
@@ -5048,8 +5048,8 @@ FALSE
 <ol type = "a">
 <li> FALSE </li>
 <li> FALSE </li>
-<li> TRUE </li>
 <li> FALSE </li>
+<li> TRUE </li>
 </ol>
 </p>]]></text>
 </generalfeedback>
@@ -5060,7 +5060,7 @@ FALSE
 <answernumbering>abc</answernumbering>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-Dentro de lo esperable
+Muy bajo
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -5070,7 +5070,17 @@ FALSE
 </answer>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-Muy bajo
+Muy elevado
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Dentro de lo esperable
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -5085,16 +5095,6 @@ No se puede saber con esos datos
 <feedback format="html">
 <text><![CDATA[<p>
 TRUE
-</p>]]></text>
-</feedback>
-</answer>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
-Muy elevado
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-FALSE
 </p>]]></text>
 </feedback>
 </answer>
@@ -5107,16 +5107,16 @@ FALSE
 </name>
 <questiontext format="html">
 <text><![CDATA[<p>
-<p><strong>R2018_0007</strong>. Un sujeto obtiene un puntaje bruto de 111 en una prueba de habilidad lingüística que tiene distribución normal con media 132. Se trata de un puntaje:</p>
+<p><strong>R2018_0007</strong>. Un sujeto obtiene un puntaje bruto de 224 en una prueba de habilidad lingüística que tiene distribución normal con con mínimo de 184 y máximo de 253. Se trata de un puntaje:</p>
 </p>]]></text>
 </questiontext>
 <generalfeedback format="html">
 <text><![CDATA[<p>
 <ol type = "a">
 <li> FALSE </li>
-<li> FALSE </li>
-<li> FALSE </li>
 <li> TRUE </li>
+<li> FALSE </li>
+<li> FALSE </li>
 </ol>
 </p>]]></text>
 </generalfeedback>
@@ -5127,27 +5127,7 @@ FALSE
 <answernumbering>abc</answernumbering>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-Muy bajo
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-FALSE
-</p>]]></text>
-</feedback>
-</answer>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
 Muy elevado
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-FALSE
-</p>]]></text>
-</feedback>
-</answer>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
-Dentro de lo esperable
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -5162,6 +5142,26 @@ No se puede saber con esos datos
 <feedback format="html">
 <text><![CDATA[<p>
 TRUE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Dentro de lo esperable
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Muy bajo
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
 </p>]]></text>
 </feedback>
 </answer>
@@ -5174,15 +5174,15 @@ TRUE
 </name>
 <questiontext format="html">
 <text><![CDATA[<p>
-<p><strong>R2018_0007</strong>. Un sujeto obtiene un puntaje bruto de 229 en una prueba de habilidad lingüística que tiene distribución normal con desviación estándar 20. Se trata de un puntaje:</p>
+<p><strong>R2018_0007</strong>. Un sujeto obtiene un puntaje bruto de 71 en una prueba de habilidad lingüística que tiene distribución normal con con mínimo de 75 y máximo de 118. Se trata de un puntaje:</p>
 </p>]]></text>
 </questiontext>
 <generalfeedback format="html">
 <text><![CDATA[<p>
 <ol type = "a">
+<li> FALSE </li>
+<li> FALSE </li>
 <li> TRUE </li>
-<li> FALSE </li>
-<li> FALSE </li>
 <li> FALSE </li>
 </ol>
 </p>]]></text>
@@ -5192,16 +5192,6 @@ TRUE
 <shuffleanswers>false</shuffleanswers>
 <single>true</single>
 <answernumbering>abc</answernumbering>
-<answer fraction="100" format="html">
-<text><![CDATA[<p>
-No se puede saber con esos datos
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-TRUE
-</p>]]></text>
-</feedback>
-</answer>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
 Muy elevado
@@ -5219,6 +5209,16 @@ Dentro de lo esperable
 <feedback format="html">
 <text><![CDATA[<p>
 FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+No se puede saber con esos datos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+TRUE
 </p>]]></text>
 </feedback>
 </answer>
@@ -5241,7 +5241,7 @@ FALSE
 </name>
 <questiontext format="html">
 <text><![CDATA[<p>
-<p><strong>R2018_0007</strong>. Un sujeto obtiene un puntaje bruto de 68 en una prueba de habilidad lingüística que tiene distribución normal con media 57. Se trata de un puntaje:</p>
+<p><strong>R2018_0007</strong>. Un sujeto obtiene un puntaje bruto de 285 en una prueba de habilidad lingüística que tiene distribución normal con desviación estándar 17. Se trata de un puntaje:</p>
 </p>]]></text>
 </questiontext>
 <generalfeedback format="html">
@@ -5271,7 +5271,7 @@ FALSE
 </answer>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-Muy elevado
+Muy bajo
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -5281,7 +5281,7 @@ FALSE
 </answer>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-Muy bajo
+Muy elevado
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -5308,7 +5308,7 @@ TRUE
 </name>
 <questiontext format="html">
 <text><![CDATA[<p>
-<p><strong>R2018_0007</strong>. Un sujeto obtiene un puntaje bruto de 240 en una prueba de habilidad lingüística que tiene distribución normal con media 202. Se trata de un puntaje:</p>
+<p><strong>R2018_0007</strong>. Un sujeto obtiene un puntaje bruto de 49 en una prueba de habilidad lingüística que tiene distribución normal con media 50. Se trata de un puntaje:</p>
 </p>]]></text>
 </questiontext>
 <generalfeedback format="html">
@@ -5375,7 +5375,7 @@ FALSE
 </name>
 <questiontext format="html">
 <text><![CDATA[<p>
-<p><strong>R2018_0007</strong>. Un sujeto obtiene un puntaje bruto de 130 en una prueba de habilidad lingüística que tiene distribución normal con media 165. Se trata de un puntaje:</p>
+<p><strong>R2018_0007</strong>. Un sujeto obtiene un puntaje bruto de 160 en una prueba de habilidad lingüística que tiene distribución normal con media 195. Se trata de un puntaje:</p>
 </p>]]></text>
 </questiontext>
 <generalfeedback format="html">
@@ -5442,16 +5442,16 @@ FALSE
 </name>
 <questiontext format="html">
 <text><![CDATA[<p>
-<p><strong>R2018_0007</strong>. Un sujeto obtiene un puntaje bruto de 149 en una prueba de habilidad lingüística que tiene distribución normal con con mínimo de 116 y máximo de 164. Se trata de un puntaje:</p>
+<p><strong>R2018_0007</strong>. Un sujeto obtiene un puntaje bruto de 134 en una prueba de habilidad lingüística que tiene distribución normal con media 113. Se trata de un puntaje:</p>
 </p>]]></text>
 </questiontext>
 <generalfeedback format="html">
 <text><![CDATA[<p>
 <ol type = "a">
 <li> FALSE </li>
-<li> FALSE </li>
-<li> FALSE </li>
 <li> TRUE </li>
+<li> FALSE </li>
+<li> FALSE </li>
 </ol>
 </p>]]></text>
 </generalfeedback>
@@ -5462,27 +5462,7 @@ FALSE
 <answernumbering>abc</answernumbering>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-Muy elevado
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-FALSE
-</p>]]></text>
-</feedback>
-</answer>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
 Dentro de lo esperable
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-FALSE
-</p>]]></text>
-</feedback>
-</answer>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
-Muy bajo
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -5497,6 +5477,26 @@ No se puede saber con esos datos
 <feedback format="html">
 <text><![CDATA[<p>
 TRUE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Muy bajo
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Muy elevado
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
 </p>]]></text>
 </feedback>
 </answer>
@@ -5509,16 +5509,16 @@ TRUE
 </name>
 <questiontext format="html">
 <text><![CDATA[<p>
-<p><strong>R2018_0007</strong>. Un sujeto obtiene un puntaje bruto de 59 en una prueba de habilidad lingüística que tiene distribución normal con desviación estándar 7. Se trata de un puntaje:</p>
+<p><strong>R2018_0007</strong>. Un sujeto obtiene un puntaje bruto de 205 en una prueba de habilidad lingüística que tiene distribución normal con con mínimo de 204 y máximo de 283. Se trata de un puntaje:</p>
 </p>]]></text>
 </questiontext>
 <generalfeedback format="html">
 <text><![CDATA[<p>
 <ol type = "a">
 <li> FALSE </li>
-<li> FALSE </li>
-<li> FALSE </li>
 <li> TRUE </li>
+<li> FALSE </li>
+<li> FALSE </li>
 </ol>
 </p>]]></text>
 </generalfeedback>
@@ -5534,6 +5534,16 @@ Muy bajo
 <feedback format="html">
 <text><![CDATA[<p>
 FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+No se puede saber con esos datos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+TRUE
 </p>]]></text>
 </feedback>
 </answer>
@@ -5554,16 +5564,6 @@ Dentro de lo esperable
 <feedback format="html">
 <text><![CDATA[<p>
 FALSE
-</p>]]></text>
-</feedback>
-</answer>
-<answer fraction="100" format="html">
-<text><![CDATA[<p>
-No se puede saber con esos datos
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-TRUE
 </p>]]></text>
 </feedback>
 </answer>
@@ -5576,14 +5576,14 @@ TRUE
 </name>
 <questiontext format="html">
 <text><![CDATA[<p>
-<p><strong>R2018_0007</strong>. Un sujeto obtiene un puntaje bruto de 147 en una prueba de habilidad lingüística que tiene distribución normal con desviación estándar 10. Se trata de un puntaje:</p>
+<p><strong>R2018_0007</strong>. Un sujeto obtiene un puntaje bruto de 208 en una prueba de habilidad lingüística que tiene distribución normal con desviación estándar 19. Se trata de un puntaje:</p>
 </p>]]></text>
 </questiontext>
 <generalfeedback format="html">
 <text><![CDATA[<p>
 <ol type = "a">
-<li> TRUE </li>
 <li> FALSE </li>
+<li> TRUE </li>
 <li> FALSE </li>
 <li> FALSE </li>
 </ol>
@@ -5594,6 +5594,16 @@ TRUE
 <shuffleanswers>false</shuffleanswers>
 <single>true</single>
 <answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Dentro de lo esperable
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
 <answer fraction="100" format="html">
 <text><![CDATA[<p>
 No se puede saber con esos datos
@@ -5606,7 +5616,7 @@ TRUE
 </answer>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-Dentro de lo esperable
+Muy bajo
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -5617,16 +5627,6 @@ FALSE
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
 Muy elevado
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-FALSE
-</p>]]></text>
-</feedback>
-</answer>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
-Muy bajo
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -5643,14 +5643,14 @@ FALSE
 </name>
 <questiontext format="html">
 <text><![CDATA[<p>
-<p><strong>R2018_0007</strong>. Un sujeto obtiene un puntaje bruto de 81 en una prueba de habilidad lingüística que tiene distribución normal con desviación estándar 6. Se trata de un puntaje:</p>
+<p><strong>R2018_0007</strong>. Un sujeto obtiene un puntaje bruto de 74 en una prueba de habilidad lingüística que tiene distribución normal con desviación estándar 6. Se trata de un puntaje:</p>
 </p>]]></text>
 </questiontext>
 <generalfeedback format="html">
 <text><![CDATA[<p>
 <ol type = "a">
-<li> FALSE </li>
 <li> TRUE </li>
+<li> FALSE </li>
 <li> FALSE </li>
 <li> FALSE </li>
 </ol>
@@ -5661,16 +5661,6 @@ FALSE
 <shuffleanswers>false</shuffleanswers>
 <single>true</single>
 <answernumbering>abc</answernumbering>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
-Muy bajo
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-FALSE
-</p>]]></text>
-</feedback>
-</answer>
 <answer fraction="100" format="html">
 <text><![CDATA[<p>
 No se puede saber con esos datos
@@ -5683,7 +5673,7 @@ TRUE
 </answer>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-Dentro de lo esperable
+Muy elevado
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -5693,7 +5683,17 @@ FALSE
 </answer>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-Muy elevado
+Muy bajo
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Dentro de lo esperable
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -5710,15 +5710,15 @@ FALSE
 </name>
 <questiontext format="html">
 <text><![CDATA[<p>
-<p><strong>R2018_0007</strong>. Un sujeto obtiene un puntaje bruto de 120 en una prueba de habilidad lingüística que tiene distribución normal con media 156. Se trata de un puntaje:</p>
+<p><strong>R2018_0007</strong>. Un sujeto obtiene un puntaje bruto de 148 en una prueba de habilidad lingüística que tiene distribución normal con desviación estándar 11. Se trata de un puntaje:</p>
 </p>]]></text>
 </questiontext>
 <generalfeedback format="html">
 <text><![CDATA[<p>
 <ol type = "a">
 <li> FALSE </li>
-<li> TRUE </li>
 <li> FALSE </li>
+<li> TRUE </li>
 <li> FALSE </li>
 </ol>
 </p>]]></text>
@@ -5728,6 +5728,16 @@ FALSE
 <shuffleanswers>false</shuffleanswers>
 <single>true</single>
 <answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Muy bajo
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
 Muy elevado
@@ -5745,16 +5755,6 @@ No se puede saber con esos datos
 <feedback format="html">
 <text><![CDATA[<p>
 TRUE
-</p>]]></text>
-</feedback>
-</answer>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
-Muy bajo
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-FALSE
 </p>]]></text>
 </feedback>
 </answer>
@@ -5777,14 +5777,14 @@ FALSE
 </name>
 <questiontext format="html">
 <text><![CDATA[<p>
-<p><strong>R2018_0007</strong>. Un sujeto obtiene un puntaje bruto de 153 en una prueba de habilidad lingüística que tiene distribución normal con media 207. Se trata de un puntaje:</p>
+<p><strong>R2018_0007</strong>. Un sujeto obtiene un puntaje bruto de 102 en una prueba de habilidad lingüística que tiene distribución normal con media 106. Se trata de un puntaje:</p>
 </p>]]></text>
 </questiontext>
 <generalfeedback format="html">
 <text><![CDATA[<p>
 <ol type = "a">
-<li> TRUE </li>
 <li> FALSE </li>
+<li> TRUE </li>
 <li> FALSE </li>
 <li> FALSE </li>
 </ol>
@@ -5795,6 +5795,16 @@ FALSE
 <shuffleanswers>false</shuffleanswers>
 <single>true</single>
 <answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Dentro de lo esperable
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
 <answer fraction="100" format="html">
 <text><![CDATA[<p>
 No se puede saber con esos datos
@@ -5825,16 +5835,6 @@ FALSE
 </p>]]></text>
 </feedback>
 </answer>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
-Dentro de lo esperable
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-FALSE
-</p>]]></text>
-</feedback>
-</answer>
 </question>
 
 
@@ -5844,7 +5844,7 @@ FALSE
 </name>
 <questiontext format="html">
 <text><![CDATA[<p>
-<p><strong>R2018_0007</strong>. Un sujeto obtiene un puntaje bruto de 74 en una prueba de habilidad lingüística que tiene distribución normal con con mínimo de 59 y máximo de 86. Se trata de un puntaje:</p>
+<p><strong>R2018_0007</strong>. Un sujeto obtiene un puntaje bruto de 140 en una prueba de habilidad lingüística que tiene distribución normal con desviación estándar 17. Se trata de un puntaje:</p>
 </p>]]></text>
 </questiontext>
 <generalfeedback format="html">
@@ -5864,7 +5864,7 @@ FALSE
 <answernumbering>abc</answernumbering>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-Muy bajo
+Dentro de lo esperable
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -5874,7 +5874,7 @@ FALSE
 </answer>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-Dentro de lo esperable
+Muy bajo
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -5911,7 +5911,7 @@ TRUE
 </name>
 <questiontext format="html">
 <text><![CDATA[<p>
-<p><strong>R2018_0007</strong>. Un sujeto obtiene un puntaje bruto de 213 en una prueba de habilidad lingüística que tiene distribución normal con media 225. Se trata de un puntaje:</p>
+<p><strong>R2018_0007</strong>. Un sujeto obtiene un puntaje bruto de 186 en una prueba de habilidad lingüística que tiene distribución normal con con mínimo de 152 y máximo de 202. Se trata de un puntaje:</p>
 </p>]]></text>
 </questiontext>
 <generalfeedback format="html">
@@ -5978,14 +5978,14 @@ FALSE
 </name>
 <questiontext format="html">
 <text><![CDATA[<p>
-<p><strong>R2018_0007</strong>. Un sujeto obtiene un puntaje bruto de 245 en una prueba de habilidad lingüística que tiene distribución normal con desviación estándar 17. Se trata de un puntaje:</p>
+<p><strong>R2018_0007</strong>. Un sujeto obtiene un puntaje bruto de 175 en una prueba de habilidad lingüística que tiene distribución normal con desviación estándar 12. Se trata de un puntaje:</p>
 </p>]]></text>
 </questiontext>
 <generalfeedback format="html">
 <text><![CDATA[<p>
 <ol type = "a">
-<li> FALSE </li>
 <li> TRUE </li>
+<li> FALSE </li>
 <li> FALSE </li>
 <li> FALSE </li>
 </ol>
@@ -5996,16 +5996,6 @@ FALSE
 <shuffleanswers>false</shuffleanswers>
 <single>true</single>
 <answernumbering>abc</answernumbering>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
-Muy bajo
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-FALSE
-</p>]]></text>
-</feedback>
-</answer>
 <answer fraction="100" format="html">
 <text><![CDATA[<p>
 No se puede saber con esos datos
@@ -6018,7 +6008,7 @@ TRUE
 </answer>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-Dentro de lo esperable
+Muy elevado
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -6028,7 +6018,17 @@ FALSE
 </answer>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-Muy elevado
+Muy bajo
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Dentro de lo esperable
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -6045,15 +6045,15 @@ FALSE
 </name>
 <questiontext format="html">
 <text><![CDATA[<p>
-<p><strong>R2018_0007</strong>. Un sujeto obtiene un puntaje bruto de 68 en una prueba de habilidad lingüística que tiene distribución normal con desviación estándar 8. Se trata de un puntaje:</p>
+<p><strong>R2018_0007</strong>. Un sujeto obtiene un puntaje bruto de 124 en una prueba de habilidad lingüística que tiene distribución normal con con mínimo de 122 y máximo de 184. Se trata de un puntaje:</p>
 </p>]]></text>
 </questiontext>
 <generalfeedback format="html">
 <text><![CDATA[<p>
 <ol type = "a">
-<li> FALSE </li>
-<li> FALSE </li>
 <li> TRUE </li>
+<li> FALSE </li>
+<li> FALSE </li>
 <li> FALSE </li>
 </ol>
 </p>]]></text>
@@ -6063,9 +6063,29 @@ FALSE
 <shuffleanswers>false</shuffleanswers>
 <single>true</single>
 <answernumbering>abc</answernumbering>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+No se puede saber con esos datos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+TRUE
+</p>]]></text>
+</feedback>
+</answer>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
 Dentro de lo esperable
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Muy elevado
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -6083,26 +6103,6 @@ FALSE
 </p>]]></text>
 </feedback>
 </answer>
-<answer fraction="100" format="html">
-<text><![CDATA[<p>
-No se puede saber con esos datos
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-TRUE
-</p>]]></text>
-</feedback>
-</answer>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
-Muy elevado
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-FALSE
-</p>]]></text>
-</feedback>
-</answer>
 </question>
 
 
@@ -6112,7 +6112,7 @@ FALSE
 </name>
 <questiontext format="html">
 <text><![CDATA[<p>
-<p><strong>R2018_0007</strong>. Un sujeto obtiene un puntaje bruto de 190 en una prueba de habilidad lingüística que tiene distribución normal con con mínimo de 152 y máximo de 214. Se trata de un puntaje:</p>
+<p><strong>R2018_0007</strong>. Un sujeto obtiene un puntaje bruto de 178 en una prueba de habilidad lingüística que tiene distribución normal con media 246. Se trata de un puntaje:</p>
 </p>]]></text>
 </questiontext>
 <generalfeedback format="html">
@@ -6179,14 +6179,14 @@ TRUE
 </name>
 <questiontext format="html">
 <text><![CDATA[<p>
-<p><strong>R2018_0007</strong>. Un sujeto obtiene un puntaje bruto de 138 en una prueba de habilidad lingüística que tiene distribución normal con desviación estándar 13. Se trata de un puntaje:</p>
+<p><strong>R2018_0007</strong>. Un sujeto obtiene un puntaje bruto de 74 en una prueba de habilidad lingüística que tiene distribución normal con con mínimo de 52 y máximo de 74. Se trata de un puntaje:</p>
 </p>]]></text>
 </questiontext>
 <generalfeedback format="html">
 <text><![CDATA[<p>
 <ol type = "a">
-<li> FALSE </li>
 <li> TRUE </li>
+<li> FALSE </li>
 <li> FALSE </li>
 <li> FALSE </li>
 </ol>
@@ -6197,16 +6197,6 @@ TRUE
 <shuffleanswers>false</shuffleanswers>
 <single>true</single>
 <answernumbering>abc</answernumbering>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
-Muy elevado
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-FALSE
-</p>]]></text>
-</feedback>
-</answer>
 <answer fraction="100" format="html">
 <text><![CDATA[<p>
 No se puede saber con esos datos
@@ -6214,6 +6204,16 @@ No se puede saber con esos datos
 <feedback format="html">
 <text><![CDATA[<p>
 TRUE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Muy elevado
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
 </p>]]></text>
 </feedback>
 </answer>
@@ -6246,7 +6246,7 @@ FALSE
 </name>
 <questiontext format="html">
 <text><![CDATA[<p>
-<p><strong>R2018_0007</strong>. Un sujeto obtiene un puntaje bruto de 239 en una prueba de habilidad lingüística que tiene distribución normal con desviación estándar 14. Se trata de un puntaje:</p>
+<p><strong>R2018_0007</strong>. Un sujeto obtiene un puntaje bruto de 118 en una prueba de habilidad lingüística que tiene distribución normal con media 146. Se trata de un puntaje:</p>
 </p>]]></text>
 </questiontext>
 <generalfeedback format="html">
@@ -6276,16 +6276,6 @@ TRUE
 </answer>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-Muy elevado
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-FALSE
-</p>]]></text>
-</feedback>
-</answer>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
 Muy bajo
 </p>]]></text>
 <feedback format="html">
@@ -6297,6 +6287,16 @@ FALSE
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
 Dentro de lo esperable
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Muy elevado
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -6313,7 +6313,7 @@ FALSE
 </name>
 <questiontext format="html">
 <text><![CDATA[<p>
-<p><strong>R2018_0007</strong>. Un sujeto obtiene un puntaje bruto de 204 en una prueba de habilidad lingüística que tiene distribución normal con con mínimo de 131 y máximo de 198. Se trata de un puntaje:</p>
+<p><strong>R2018_0007</strong>. Un sujeto obtiene un puntaje bruto de 184 en una prueba de habilidad lingüística que tiene distribución normal con con mínimo de 188 y máximo de 284. Se trata de un puntaje:</p>
 </p>]]></text>
 </questiontext>
 <generalfeedback format="html">
@@ -6343,7 +6343,7 @@ TRUE
 </answer>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-Muy bajo
+Dentro de lo esperable
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -6353,7 +6353,7 @@ FALSE
 </answer>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-Dentro de lo esperable
+Muy bajo
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -6380,15 +6380,15 @@ FALSE
 </name>
 <questiontext format="html">
 <text><![CDATA[<p>
-<p><strong>R2018_0007</strong>. Un sujeto obtiene un puntaje bruto de 118 en una prueba de habilidad lingüística que tiene distribución normal con media 115. Se trata de un puntaje:</p>
+<p><strong>R2018_0007</strong>. Un sujeto obtiene un puntaje bruto de 53 en una prueba de habilidad lingüística que tiene distribución normal con con mínimo de 55 y máximo de 80. Se trata de un puntaje:</p>
 </p>]]></text>
 </questiontext>
 <generalfeedback format="html">
 <text><![CDATA[<p>
 <ol type = "a">
 <li> FALSE </li>
-<li> TRUE </li>
 <li> FALSE </li>
+<li> TRUE </li>
 <li> FALSE </li>
 </ol>
 </p>]]></text>
@@ -6398,6 +6398,16 @@ FALSE
 <shuffleanswers>false</shuffleanswers>
 <single>true</single>
 <answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Dentro de lo esperable
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
 Muy bajo
@@ -6428,16 +6438,6 @@ FALSE
 </p>]]></text>
 </feedback>
 </answer>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
-Dentro de lo esperable
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-FALSE
-</p>]]></text>
-</feedback>
-</answer>
 </question>
 
 
@@ -6447,7 +6447,7 @@ FALSE
 </name>
 <questiontext format="html">
 <text><![CDATA[<p>
-<p><strong>R2018_0007</strong>. Un sujeto obtiene un puntaje bruto de 262 en una prueba de habilidad lingüística que tiene distribución normal con con mínimo de 188 y máximo de 263. Se trata de un puntaje:</p>
+<p><strong>R2018_0007</strong>. Un sujeto obtiene un puntaje bruto de 116 en una prueba de habilidad lingüística que tiene distribución normal con media 136. Se trata de un puntaje:</p>
 </p>]]></text>
 </questiontext>
 <generalfeedback format="html">
@@ -6477,7 +6477,7 @@ FALSE
 </answer>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-Muy elevado
+Muy bajo
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -6487,7 +6487,7 @@ FALSE
 </answer>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-Muy bajo
+Muy elevado
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -6514,7 +6514,7 @@ TRUE
 </name>
 <questiontext format="html">
 <text><![CDATA[<p>
-<p><strong>R2018_0007</strong>. Un sujeto obtiene un puntaje bruto de 220 en una prueba de habilidad lingüística que tiene distribución normal con con mínimo de 192 y máximo de 268. Se trata de un puntaje:</p>
+<p><strong>R2018_0007</strong>. Un sujeto obtiene un puntaje bruto de 68 en una prueba de habilidad lingüística que tiene distribución normal con media 66. Se trata de un puntaje:</p>
 </p>]]></text>
 </questiontext>
 <generalfeedback format="html">
@@ -6534,7 +6534,7 @@ TRUE
 <answernumbering>abc</answernumbering>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-Muy bajo
+Dentro de lo esperable
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -6544,7 +6544,7 @@ FALSE
 </answer>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-Dentro de lo esperable
+Muy bajo
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -6581,15 +6581,15 @@ TRUE
 </name>
 <questiontext format="html">
 <text><![CDATA[<p>
-<p><strong>R2018_0007</strong>. Un sujeto obtiene un puntaje bruto de 55 en una prueba de habilidad lingüística que tiene distribución normal con con mínimo de 47 y máximo de 73. Se trata de un puntaje:</p>
+<p><strong>R2018_0007</strong>. Un sujeto obtiene un puntaje bruto de 144 en una prueba de habilidad lingüística que tiene distribución normal con con mínimo de 103 y máximo de 145. Se trata de un puntaje:</p>
 </p>]]></text>
 </questiontext>
 <generalfeedback format="html">
 <text><![CDATA[<p>
 <ol type = "a">
+<li> FALSE </li>
+<li> FALSE </li>
 <li> TRUE </li>
-<li> FALSE </li>
-<li> FALSE </li>
 <li> FALSE </li>
 </ol>
 </p>]]></text>
@@ -6599,16 +6599,6 @@ TRUE
 <shuffleanswers>false</shuffleanswers>
 <single>true</single>
 <answernumbering>abc</answernumbering>
-<answer fraction="100" format="html">
-<text><![CDATA[<p>
-No se puede saber con esos datos
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-TRUE
-</p>]]></text>
-</feedback>
-</answer>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
 Dentro de lo esperable
@@ -6626,6 +6616,16 @@ Muy bajo
 <feedback format="html">
 <text><![CDATA[<p>
 FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+No se puede saber con esos datos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+TRUE
 </p>]]></text>
 </feedback>
 </answer>
@@ -6648,7 +6648,7 @@ FALSE
 </name>
 <questiontext format="html">
 <text><![CDATA[<p>
-<p><strong>R2018_0007</strong>. Un sujeto obtiene un puntaje bruto de 165 en una prueba de habilidad lingüística que tiene distribución normal con desviación estándar 21. Se trata de un puntaje:</p>
+<p><strong>R2018_0007</strong>. Un sujeto obtiene un puntaje bruto de 134 en una prueba de habilidad lingüística que tiene distribución normal con desviación estándar 9. Se trata de un puntaje:</p>
 </p>]]></text>
 </questiontext>
 <generalfeedback format="html">
@@ -6668,7 +6668,7 @@ FALSE
 <answernumbering>abc</answernumbering>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-Dentro de lo esperable
+Muy bajo
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -6678,7 +6678,7 @@ FALSE
 </answer>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-Muy bajo
+Dentro de lo esperable
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>

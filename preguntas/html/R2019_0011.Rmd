@@ -1,0 +1,40 @@
+```{r data generation, echo = FALSE, results = "hide"}
+## Los datos:
+x=runif(1,min=0, max=5)
+b0=round(runif(1,min=1, max=5),0)
+b1=round(runif(1, min=1, max=4),2)
+x1=round(runif(1,min = .05, max = 5),2)
+## Preguntas y respuestas
+```
+
+<!--incompleta!!!-->
+
+Question
+========
+
+**R2019_0011**. Se modela el número de aciertos de una prueba de memoria en función de la dosis de una droga administrada (en microgramos) en el intervalo $(0 - 5)  mcg$. El modelo resultante es y = `r b0`+`r b1`*x. Para quienes han recibido una dosis de`r x1` mcg, se espera un número medio de aciertos de:
+
+Answerlist
+----------
+* `r b1+b0*x1`
+* `r b0` 
+* No puede interpretarse
+* `r b1` 
+
+
+Solution
+========
+
+Answerlist
+----------
+* CORRECTA
+* INCORRECTA
+* INCORRECTA
+* INCORRECTA
+
+Meta-information
+============
+extype: schoice
+exname: R2019_0011
+exsolution: 1000
+exshuffle:TRUE

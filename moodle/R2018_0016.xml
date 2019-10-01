@@ -15,7 +15,7 @@
 </name>
 <questiontext format="html">
 <text><![CDATA[<p>
-<p><strong>R2018_0016</strong>. La varianza es una medida de:</p>
+<p><strong>R2018_0016</strong>. El AIQ es una medida de:</p>
 </p>]]></text>
 </questiontext>
 <generalfeedback format="html">
@@ -88,274 +88,6 @@ FALSE
 <generalfeedback format="html">
 <text><![CDATA[<p>
 <ol type = "a">
-<li> TRUE </li>
-<li> FALSE </li>
-<li> FALSE </li>
-<li> FALSE </li>
-</ol>
-</p>]]></text>
-</generalfeedback>
-<penalty>0</penalty>
-<defaultgrade>1</defaultgrade>
-<shuffleanswers>false</shuffleanswers>
-<single>true</single>
-<answernumbering>abc</answernumbering>
-<answer fraction="100" format="html">
-<text><![CDATA[<p>
-Posición
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-TRUE
-</p>]]></text>
-</feedback>
-</answer>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
-Asociación
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-FALSE
-</p>]]></text>
-</feedback>
-</answer>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
-Forma
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-FALSE
-</p>]]></text>
-</feedback>
-</answer>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
-Dispersión
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-FALSE
-</p>]]></text>
-</feedback>
-</answer>
-</question>
-
-
-<question type="multichoice">
-<name>
-<text> R003 Q1 : preguntas_html_R2018_0016 </text>
-</name>
-<questiontext format="html">
-<text><![CDATA[<p>
-<p><strong>R2018_0016</strong>. El AIQ es una medida de:</p>
-</p>]]></text>
-</questiontext>
-<generalfeedback format="html">
-<text><![CDATA[<p>
-<ol type = "a">
-<li> FALSE </li>
-<li> FALSE </li>
-<li> FALSE </li>
-<li> TRUE </li>
-</ol>
-</p>]]></text>
-</generalfeedback>
-<penalty>0</penalty>
-<defaultgrade>1</defaultgrade>
-<shuffleanswers>false</shuffleanswers>
-<single>true</single>
-<answernumbering>abc</answernumbering>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
-Forma
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-FALSE
-</p>]]></text>
-</feedback>
-</answer>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
-Posición
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-FALSE
-</p>]]></text>
-</feedback>
-</answer>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
-Asociación
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-FALSE
-</p>]]></text>
-</feedback>
-</answer>
-<answer fraction="100" format="html">
-<text><![CDATA[<p>
-Dispersión
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-TRUE
-</p>]]></text>
-</feedback>
-</answer>
-</question>
-
-
-<question type="multichoice">
-<name>
-<text> R004 Q1 : preguntas_html_R2018_0016 </text>
-</name>
-<questiontext format="html">
-<text><![CDATA[<p>
-<p><strong>R2018_0016</strong>. La varianza es una medida de:</p>
-</p>]]></text>
-</questiontext>
-<generalfeedback format="html">
-<text><![CDATA[<p>
-<ol type = "a">
-<li> FALSE </li>
-<li> FALSE </li>
-<li> TRUE </li>
-<li> FALSE </li>
-</ol>
-</p>]]></text>
-</generalfeedback>
-<penalty>0</penalty>
-<defaultgrade>1</defaultgrade>
-<shuffleanswers>false</shuffleanswers>
-<single>true</single>
-<answernumbering>abc</answernumbering>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
-Posición
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-FALSE
-</p>]]></text>
-</feedback>
-</answer>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
-Asociación
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-FALSE
-</p>]]></text>
-</feedback>
-</answer>
-<answer fraction="100" format="html">
-<text><![CDATA[<p>
-Dispersión
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-TRUE
-</p>]]></text>
-</feedback>
-</answer>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
-Forma
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-FALSE
-</p>]]></text>
-</feedback>
-</answer>
-</question>
-
-
-<question type="multichoice">
-<name>
-<text> R005 Q1 : preguntas_html_R2018_0016 </text>
-</name>
-<questiontext format="html">
-<text><![CDATA[<p>
-<p><strong>R2018_0016</strong>. La mediana es una medida de:</p>
-</p>]]></text>
-</questiontext>
-<generalfeedback format="html">
-<text><![CDATA[<p>
-<ol type = "a">
-<li> TRUE </li>
-<li> FALSE </li>
-<li> FALSE </li>
-<li> FALSE </li>
-</ol>
-</p>]]></text>
-</generalfeedback>
-<penalty>0</penalty>
-<defaultgrade>1</defaultgrade>
-<shuffleanswers>false</shuffleanswers>
-<single>true</single>
-<answernumbering>abc</answernumbering>
-<answer fraction="100" format="html">
-<text><![CDATA[<p>
-Posición
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-TRUE
-</p>]]></text>
-</feedback>
-</answer>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
-Forma
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-FALSE
-</p>]]></text>
-</feedback>
-</answer>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
-Asociación
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-FALSE
-</p>]]></text>
-</feedback>
-</answer>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
-Dispersión
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-FALSE
-</p>]]></text>
-</feedback>
-</answer>
-</question>
-
-
-<question type="multichoice">
-<name>
-<text> R006 Q1 : preguntas_html_R2018_0016 </text>
-</name>
-<questiontext format="html">
-<text><![CDATA[<p>
-<p><strong>R2018_0016</strong>. El r de Pearson es una medida de:</p>
-</p>]]></text>
-</questiontext>
-<generalfeedback format="html">
-<text><![CDATA[<p>
-<ol type = "a">
 <li> FALSE </li>
 <li> TRUE </li>
 <li> FALSE </li>
@@ -380,7 +112,7 @@ FALSE
 </answer>
 <answer fraction="100" format="html">
 <text><![CDATA[<p>
-Asociación
+Posición
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -390,7 +122,7 @@ TRUE
 </answer>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-Posición
+Asociación
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -413,7 +145,7 @@ FALSE
 
 <question type="multichoice">
 <name>
-<text> R007 Q1 : preguntas_html_R2018_0016 </text>
+<text> R003 Q1 : preguntas_html_R2018_0016 </text>
 </name>
 <questiontext format="html">
 <text><![CDATA[<p>
@@ -437,6 +169,36 @@ FALSE
 <answernumbering>abc</answernumbering>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
+Dispersión
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+Asociación
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+TRUE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Posición
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
 Forma
 </p>]]></text>
 <feedback format="html">
@@ -445,6 +207,167 @@ FALSE
 </p>]]></text>
 </feedback>
 </answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R004 Q1 : preguntas_html_R2018_0016 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p><strong>R2018_0016</strong>. El V de Cramer es una medida de:</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<ol type = "a">
+<li> FALSE </li>
+<li> FALSE </li>
+<li> FALSE </li>
+<li> TRUE </li>
+</ol>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Posición
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Dispersión
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Forma
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+Asociación
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+TRUE
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R005 Q1 : preguntas_html_R2018_0016 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p><strong>R2018_0016</strong>. Los percentiles son una medida de:</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<ol type = "a">
+<li> FALSE </li>
+<li> FALSE </li>
+<li> TRUE </li>
+<li> FALSE </li>
+</ol>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Forma
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Dispersión
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+Posición
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+TRUE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Asociación
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R006 Q1 : preguntas_html_R2018_0016 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p><strong>R2018_0016</strong>. El r de Pearson es una medida de:</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<ol type = "a">
+<li> TRUE </li>
+<li> FALSE </li>
+<li> FALSE </li>
+<li> FALSE </li>
+</ol>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
 <answer fraction="100" format="html">
 <text><![CDATA[<p>
 Asociación
@@ -467,7 +390,84 @@ FALSE
 </answer>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
+Forma
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
 Posición
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R007 Q1 : preguntas_html_R2018_0016 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p><strong>R2018_0016</strong>. Los percentiles son una medida de:</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<ol type = "a">
+<li> TRUE </li>
+<li> FALSE </li>
+<li> FALSE </li>
+<li> FALSE </li>
+</ol>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+Posición
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+TRUE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Asociación
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Dispersión
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Forma
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -484,16 +484,16 @@ FALSE
 </name>
 <questiontext format="html">
 <text><![CDATA[<p>
-<p><strong>R2018_0016</strong>. El AIQ es una medida de:</p>
+<p><strong>R2018_0016</strong>. La mediana es una medida de:</p>
 </p>]]></text>
 </questiontext>
 <generalfeedback format="html">
 <text><![CDATA[<p>
 <ol type = "a">
 <li> FALSE </li>
+<li> FALSE </li>
+<li> FALSE </li>
 <li> TRUE </li>
-<li> FALSE </li>
-<li> FALSE </li>
 </ol>
 </p>]]></text>
 </generalfeedback>
@@ -512,19 +512,9 @@ FALSE
 </p>]]></text>
 </feedback>
 </answer>
-<answer fraction="100" format="html">
-<text><![CDATA[<p>
-Dispersión
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-TRUE
-</p>]]></text>
-</feedback>
-</answer>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-Posición
+Dispersión
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -539,6 +529,16 @@ Asociación
 <feedback format="html">
 <text><![CDATA[<p>
 FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+Posición
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+TRUE
 </p>]]></text>
 </feedback>
 </answer>
@@ -551,16 +551,16 @@ FALSE
 </name>
 <questiontext format="html">
 <text><![CDATA[<p>
-<p><strong>R2018_0016</strong>. Los percentiles son una medida de:</p>
+<p><strong>R2018_0016</strong>. El AIQ es una medida de:</p>
 </p>]]></text>
 </questiontext>
 <generalfeedback format="html">
 <text><![CDATA[<p>
 <ol type = "a">
+<li> FALSE </li>
+<li> FALSE </li>
+<li> FALSE </li>
 <li> TRUE </li>
-<li> FALSE </li>
-<li> FALSE </li>
-<li> FALSE </li>
 </ol>
 </p>]]></text>
 </generalfeedback>
@@ -569,19 +569,9 @@ FALSE
 <shuffleanswers>false</shuffleanswers>
 <single>true</single>
 <answernumbering>abc</answernumbering>
-<answer fraction="100" format="html">
-<text><![CDATA[<p>
-Posición
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-TRUE
-</p>]]></text>
-</feedback>
-</answer>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-Dispersión
+Posición
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -606,6 +596,16 @@ Asociación
 <feedback format="html">
 <text><![CDATA[<p>
 FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+Dispersión
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+TRUE
 </p>]]></text>
 </feedback>
 </answer>
@@ -618,7 +618,7 @@ FALSE
 </name>
 <questiontext format="html">
 <text><![CDATA[<p>
-<p><strong>R2018_0016</strong>. Los percentiles son una medida de:</p>
+<p><strong>R2018_0016</strong>. La mediana es una medida de:</p>
 </p>]]></text>
 </questiontext>
 <generalfeedback format="html">
@@ -638,7 +638,7 @@ FALSE
 <answernumbering>abc</answernumbering>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-Forma
+Asociación
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -648,7 +648,7 @@ FALSE
 </answer>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-Asociación
+Forma
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -685,6 +685,207 @@ FALSE
 </name>
 <questiontext format="html">
 <text><![CDATA[<p>
+<p><strong>R2018_0016</strong>. El r de Pearson es una medida de:</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<ol type = "a">
+<li> TRUE </li>
+<li> FALSE </li>
+<li> FALSE </li>
+<li> FALSE </li>
+</ol>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+Asociación
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+TRUE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Posición
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Dispersión
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Forma
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R012 Q1 : preguntas_html_R2018_0016 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p><strong>R2018_0016</strong>. El AIQ es una medida de:</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<ol type = "a">
+<li> FALSE </li>
+<li> FALSE </li>
+<li> FALSE </li>
+<li> TRUE </li>
+</ol>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Asociación
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Posición
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Forma
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+Dispersión
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+TRUE
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R013 Q1 : preguntas_html_R2018_0016 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p><strong>R2018_0016</strong>. El rango es una medida de:</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<ol type = "a">
+<li> FALSE </li>
+<li> TRUE </li>
+<li> FALSE </li>
+<li> FALSE </li>
+</ol>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Posición
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+Dispersión
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+TRUE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Forma
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Asociación
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R014 Q1 : preguntas_html_R2018_0016 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
 <p><strong>R2018_0016</strong>. Los percentiles son una medida de:</p>
 </p>]]></text>
 </questiontext>
@@ -715,217 +916,6 @@ FALSE
 </answer>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-Dispersión
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-FALSE
-</p>]]></text>
-</feedback>
-</answer>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
-Asociación
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-FALSE
-</p>]]></text>
-</feedback>
-</answer>
-<answer fraction="100" format="html">
-<text><![CDATA[<p>
-Posición
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-TRUE
-</p>]]></text>
-</feedback>
-</answer>
-</question>
-
-
-<question type="multichoice">
-<name>
-<text> R012 Q1 : preguntas_html_R2018_0016 </text>
-</name>
-<questiontext format="html">
-<text><![CDATA[<p>
-<p><strong>R2018_0016</strong>. El percentil 10 es una medida de:</p>
-</p>]]></text>
-</questiontext>
-<generalfeedback format="html">
-<text><![CDATA[<p>
-<ol type = "a">
-<li> FALSE </li>
-<li> FALSE </li>
-<li> FALSE </li>
-<li> TRUE </li>
-</ol>
-</p>]]></text>
-</generalfeedback>
-<penalty>0</penalty>
-<defaultgrade>1</defaultgrade>
-<shuffleanswers>false</shuffleanswers>
-<single>true</single>
-<answernumbering>abc</answernumbering>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
-Dispersión
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-FALSE
-</p>]]></text>
-</feedback>
-</answer>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
-Forma
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-FALSE
-</p>]]></text>
-</feedback>
-</answer>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
-Asociación
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-FALSE
-</p>]]></text>
-</feedback>
-</answer>
-<answer fraction="100" format="html">
-<text><![CDATA[<p>
-Posición
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-TRUE
-</p>]]></text>
-</feedback>
-</answer>
-</question>
-
-
-<question type="multichoice">
-<name>
-<text> R013 Q1 : preguntas_html_R2018_0016 </text>
-</name>
-<questiontext format="html">
-<text><![CDATA[<p>
-<p><strong>R2018_0016</strong>. Los cuartiles son una medida de:</p>
-</p>]]></text>
-</questiontext>
-<generalfeedback format="html">
-<text><![CDATA[<p>
-<ol type = "a">
-<li> FALSE </li>
-<li> FALSE </li>
-<li> FALSE </li>
-<li> TRUE </li>
-</ol>
-</p>]]></text>
-</generalfeedback>
-<penalty>0</penalty>
-<defaultgrade>1</defaultgrade>
-<shuffleanswers>false</shuffleanswers>
-<single>true</single>
-<answernumbering>abc</answernumbering>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
-Dispersión
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-FALSE
-</p>]]></text>
-</feedback>
-</answer>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
-Asociación
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-FALSE
-</p>]]></text>
-</feedback>
-</answer>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
-Forma
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-FALSE
-</p>]]></text>
-</feedback>
-</answer>
-<answer fraction="100" format="html">
-<text><![CDATA[<p>
-Posición
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-TRUE
-</p>]]></text>
-</feedback>
-</answer>
-</question>
-
-
-<question type="multichoice">
-<name>
-<text> R014 Q1 : preguntas_html_R2018_0016 </text>
-</name>
-<questiontext format="html">
-<text><![CDATA[<p>
-<p><strong>R2018_0016</strong>. Los cuartiles son una medida de:</p>
-</p>]]></text>
-</questiontext>
-<generalfeedback format="html">
-<text><![CDATA[<p>
-<ol type = "a">
-<li> TRUE </li>
-<li> FALSE </li>
-<li> FALSE </li>
-<li> FALSE </li>
-</ol>
-</p>]]></text>
-</generalfeedback>
-<penalty>0</penalty>
-<defaultgrade>1</defaultgrade>
-<shuffleanswers>false</shuffleanswers>
-<single>true</single>
-<answernumbering>abc</answernumbering>
-<answer fraction="100" format="html">
-<text><![CDATA[<p>
-Posición
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-TRUE
-</p>]]></text>
-</feedback>
-</answer>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
-Forma
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-FALSE
-</p>]]></text>
-</feedback>
-</answer>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
 Asociación
 </p>]]></text>
 <feedback format="html">
@@ -941,6 +931,16 @@ Dispersión
 <feedback format="html">
 <text><![CDATA[<p>
 FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+Posición
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+TRUE
 </p>]]></text>
 </feedback>
 </answer>
@@ -953,7 +953,7 @@ FALSE
 </name>
 <questiontext format="html">
 <text><![CDATA[<p>
-<p><strong>R2018_0016</strong>. La varianza es una medida de:</p>
+<p><strong>R2018_0016</strong>. El percentil 98 es una medida de:</p>
 </p>]]></text>
 </questiontext>
 <generalfeedback format="html">
@@ -973,7 +973,7 @@ FALSE
 <answernumbering>abc</answernumbering>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-Forma
+Asociación
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -983,7 +983,7 @@ FALSE
 </answer>
 <answer fraction="100" format="html">
 <text><![CDATA[<p>
-Dispersión
+Posición
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -993,7 +993,7 @@ TRUE
 </answer>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-Asociación
+Forma
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -1003,7 +1003,7 @@ FALSE
 </answer>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-Posición
+Dispersión
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -1020,14 +1020,14 @@ FALSE
 </name>
 <questiontext format="html">
 <text><![CDATA[<p>
-<p><strong>R2018_0016</strong>. La varianza es una medida de:</p>
+<p><strong>R2018_0016</strong>. El AIQ es una medida de:</p>
 </p>]]></text>
 </questiontext>
 <generalfeedback format="html">
 <text><![CDATA[<p>
 <ol type = "a">
-<li> FALSE </li>
 <li> TRUE </li>
+<li> FALSE </li>
 <li> FALSE </li>
 <li> FALSE </li>
 </ol>
@@ -1038,16 +1038,6 @@ FALSE
 <shuffleanswers>false</shuffleanswers>
 <single>true</single>
 <answernumbering>abc</answernumbering>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
-Asociación
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-FALSE
-</p>]]></text>
-</feedback>
-</answer>
 <answer fraction="100" format="html">
 <text><![CDATA[<p>
 Dispersión
@@ -1061,6 +1051,16 @@ TRUE
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
 Forma
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Asociación
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -1087,15 +1087,15 @@ FALSE
 </name>
 <questiontext format="html">
 <text><![CDATA[<p>
-<p><strong>R2018_0016</strong>. Los cuartiles son una medida de:</p>
+<p><strong>R2018_0016</strong>. El AIQ es una medida de:</p>
 </p>]]></text>
 </questiontext>
 <generalfeedback format="html">
 <text><![CDATA[<p>
 <ol type = "a">
-<li> FALSE </li>
-<li> FALSE </li>
 <li> TRUE </li>
+<li> FALSE </li>
+<li> FALSE </li>
 <li> FALSE </li>
 </ol>
 </p>]]></text>
@@ -1105,29 +1105,9 @@ FALSE
 <shuffleanswers>false</shuffleanswers>
 <single>true</single>
 <answernumbering>abc</answernumbering>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
-Dispersión
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-FALSE
-</p>]]></text>
-</feedback>
-</answer>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
-Asociación
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-FALSE
-</p>]]></text>
-</feedback>
-</answer>
 <answer fraction="100" format="html">
 <text><![CDATA[<p>
-Posición
+Dispersión
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -1138,6 +1118,26 @@ TRUE
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
 Forma
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Posición
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Asociación
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -1154,15 +1154,15 @@ FALSE
 </name>
 <questiontext format="html">
 <text><![CDATA[<p>
-<p><strong>R2018_0016</strong>. El rango es una medida de:</p>
+<p><strong>R2018_0016</strong>. La media es una medida de:</p>
 </p>]]></text>
 </questiontext>
 <generalfeedback format="html">
 <text><![CDATA[<p>
 <ol type = "a">
 <li> FALSE </li>
-<li> TRUE </li>
 <li> FALSE </li>
+<li> TRUE </li>
 <li> FALSE </li>
 </ol>
 </p>]]></text>
@@ -1174,27 +1174,7 @@ FALSE
 <answernumbering>abc</answernumbering>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-Forma
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-FALSE
-</p>]]></text>
-</feedback>
-</answer>
-<answer fraction="100" format="html">
-<text><![CDATA[<p>
 Dispersión
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-TRUE
-</p>]]></text>
-</feedback>
-</answer>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
-Posición
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -1205,6 +1185,26 @@ FALSE
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
 Asociación
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+Posición
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+TRUE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Forma
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -1221,16 +1221,16 @@ FALSE
 </name>
 <questiontext format="html">
 <text><![CDATA[<p>
-<p><strong>R2018_0016</strong>. El r de Pearson es una medida de:</p>
+<p><strong>R2018_0016</strong>. Los percentiles son una medida de:</p>
 </p>]]></text>
 </questiontext>
 <generalfeedback format="html">
 <text><![CDATA[<p>
 <ol type = "a">
-<li> FALSE </li>
-<li> FALSE </li>
-<li> FALSE </li>
 <li> TRUE </li>
+<li> FALSE </li>
+<li> FALSE </li>
+<li> FALSE </li>
 </ol>
 </p>]]></text>
 </generalfeedback>
@@ -1239,9 +1239,29 @@ FALSE
 <shuffleanswers>false</shuffleanswers>
 <single>true</single>
 <answernumbering>abc</answernumbering>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+Posición
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+TRUE
+</p>]]></text>
+</feedback>
+</answer>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
 Forma
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Asociación
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -1256,26 +1276,6 @@ Dispersión
 <feedback format="html">
 <text><![CDATA[<p>
 FALSE
-</p>]]></text>
-</feedback>
-</answer>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
-Posición
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-FALSE
-</p>]]></text>
-</feedback>
-</answer>
-<answer fraction="100" format="html">
-<text><![CDATA[<p>
-Asociación
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-TRUE
 </p>]]></text>
 </feedback>
 </answer>
@@ -1296,8 +1296,8 @@ TRUE
 <ol type = "a">
 <li> FALSE </li>
 <li> FALSE </li>
-<li> FALSE </li>
 <li> TRUE </li>
+<li> FALSE </li>
 </ol>
 </p>]]></text>
 </generalfeedback>
@@ -1309,16 +1309,6 @@ TRUE
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
 Asociación
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-FALSE
-</p>]]></text>
-</feedback>
-</answer>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
-Posición
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -1343,6 +1333,16 @@ Dispersión
 <feedback format="html">
 <text><![CDATA[<p>
 TRUE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Posición
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
 </p>]]></text>
 </feedback>
 </answer>
@@ -1355,16 +1355,16 @@ TRUE
 </name>
 <questiontext format="html">
 <text><![CDATA[<p>
-<p><strong>R2018_0016</strong>. El r de Pearson es una medida de:</p>
+<p><strong>R2018_0016</strong>. La mediana es una medida de:</p>
 </p>]]></text>
 </questiontext>
 <generalfeedback format="html">
 <text><![CDATA[<p>
 <ol type = "a">
 <li> FALSE </li>
-<li> FALSE </li>
-<li> FALSE </li>
 <li> TRUE </li>
+<li> FALSE </li>
+<li> FALSE </li>
 </ol>
 </p>]]></text>
 </generalfeedback>
@@ -1375,7 +1375,7 @@ TRUE
 <answernumbering>abc</answernumbering>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-Posición
+Forma
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -1383,9 +1383,19 @@ FALSE
 </p>]]></text>
 </feedback>
 </answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+Posición
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+TRUE
+</p>]]></text>
+</feedback>
+</answer>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-Forma
+Asociación
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -1400,16 +1410,6 @@ Dispersión
 <feedback format="html">
 <text><![CDATA[<p>
 FALSE
-</p>]]></text>
-</feedback>
-</answer>
-<answer fraction="100" format="html">
-<text><![CDATA[<p>
-Asociación
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-TRUE
 </p>]]></text>
 </feedback>
 </answer>
@@ -1422,16 +1422,16 @@ TRUE
 </name>
 <questiontext format="html">
 <text><![CDATA[<p>
-<p><strong>R2018_0016</strong>. El AIQ es una medida de:</p>
+<p><strong>R2018_0016</strong>. El V de Cramer es una medida de:</p>
 </p>]]></text>
 </questiontext>
 <generalfeedback format="html">
 <text><![CDATA[<p>
 <ol type = "a">
 <li> FALSE </li>
+<li> FALSE </li>
+<li> FALSE </li>
 <li> TRUE </li>
-<li> FALSE </li>
-<li> FALSE </li>
 </ol>
 </p>]]></text>
 </generalfeedback>
@@ -1450,19 +1450,9 @@ FALSE
 </p>]]></text>
 </feedback>
 </answer>
-<answer fraction="100" format="html">
-<text><![CDATA[<p>
-Dispersión
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-TRUE
-</p>]]></text>
-</feedback>
-</answer>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-Asociación
+Dispersión
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -1477,6 +1467,16 @@ Forma
 <feedback format="html">
 <text><![CDATA[<p>
 FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+Asociación
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+TRUE
 </p>]]></text>
 </feedback>
 </answer>
@@ -1489,16 +1489,16 @@ FALSE
 </name>
 <questiontext format="html">
 <text><![CDATA[<p>
-<p><strong>R2018_0016</strong>. La media es una medida de:</p>
+<p><strong>R2018_0016</strong>. El percentil 79 es una medida de:</p>
 </p>]]></text>
 </questiontext>
 <generalfeedback format="html">
 <text><![CDATA[<p>
 <ol type = "a">
 <li> FALSE </li>
+<li> FALSE </li>
+<li> FALSE </li>
 <li> TRUE </li>
-<li> FALSE </li>
-<li> FALSE </li>
 </ol>
 </p>]]></text>
 </generalfeedback>
@@ -1517,16 +1517,6 @@ FALSE
 </p>]]></text>
 </feedback>
 </answer>
-<answer fraction="100" format="html">
-<text><![CDATA[<p>
-Posición
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-TRUE
-</p>]]></text>
-</feedback>
-</answer>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
 Dispersión
@@ -1547,6 +1537,16 @@ FALSE
 </p>]]></text>
 </feedback>
 </answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+Posición
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+TRUE
+</p>]]></text>
+</feedback>
+</answer>
 </question>
 
 
@@ -1556,7 +1556,7 @@ FALSE
 </name>
 <questiontext format="html">
 <text><![CDATA[<p>
-<p><strong>R2018_0016</strong>. La media es una medida de:</p>
+<p><strong>R2018_0016</strong>. El rango es una medida de:</p>
 </p>]]></text>
 </questiontext>
 <generalfeedback format="html">
@@ -1576,7 +1576,7 @@ FALSE
 <answernumbering>abc</answernumbering>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-Dispersión
+Forma
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -1586,7 +1586,7 @@ FALSE
 </answer>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-Forma
+Posición
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -1596,7 +1596,7 @@ FALSE
 </answer>
 <answer fraction="100" format="html">
 <text><![CDATA[<p>
-Posición
+Dispersión
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -1629,10 +1629,10 @@ FALSE
 <generalfeedback format="html">
 <text><![CDATA[<p>
 <ol type = "a">
-<li> FALSE </li>
-<li> FALSE </li>
-<li> FALSE </li>
 <li> TRUE </li>
+<li> FALSE </li>
+<li> FALSE </li>
+<li> FALSE </li>
 </ol>
 </p>]]></text>
 </generalfeedback>
@@ -1641,19 +1641,19 @@ FALSE
 <shuffleanswers>false</shuffleanswers>
 <single>true</single>
 <answernumbering>abc</answernumbering>
-<answer fraction="0" format="html">
+<answer fraction="100" format="html">
 <text><![CDATA[<p>
-Forma
+Posición
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
-FALSE
+TRUE
 </p>]]></text>
 </feedback>
 </answer>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-Dispersión
+Forma
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -1671,13 +1671,13 @@ FALSE
 </p>]]></text>
 </feedback>
 </answer>
-<answer fraction="100" format="html">
+<answer fraction="0" format="html">
 <text><![CDATA[<p>
-Posición
+Dispersión
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
-TRUE
+FALSE
 </p>]]></text>
 </feedback>
 </answer>
@@ -1690,7 +1690,7 @@ TRUE
 </name>
 <questiontext format="html">
 <text><![CDATA[<p>
-<p><strong>R2018_0016</strong>. Los cuartiles son una medida de:</p>
+<p><strong>R2018_0016</strong>. El V de Cramer es una medida de:</p>
 </p>]]></text>
 </questiontext>
 <generalfeedback format="html">
@@ -1710,7 +1710,7 @@ TRUE
 <answernumbering>abc</answernumbering>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-Dispersión
+Posición
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -1720,7 +1720,7 @@ FALSE
 </answer>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-Asociación
+Forma
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -1730,7 +1730,7 @@ FALSE
 </answer>
 <answer fraction="100" format="html">
 <text><![CDATA[<p>
-Posición
+Asociación
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -1740,7 +1740,7 @@ TRUE
 </answer>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-Forma
+Dispersión
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -1757,15 +1757,15 @@ FALSE
 </name>
 <questiontext format="html">
 <text><![CDATA[<p>
-<p><strong>R2018_0016</strong>. Los cuartiles son una medida de:</p>
+<p><strong>R2018_0016</strong>. La mediana es una medida de:</p>
 </p>]]></text>
 </questiontext>
 <generalfeedback format="html">
 <text><![CDATA[<p>
 <ol type = "a">
 <li> FALSE </li>
-<li> TRUE </li>
 <li> FALSE </li>
+<li> TRUE </li>
 <li> FALSE </li>
 </ol>
 </p>]]></text>
@@ -1777,7 +1777,17 @@ FALSE
 <answernumbering>abc</answernumbering>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-Asociación
+Forma
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Dispersión
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -1797,17 +1807,7 @@ TRUE
 </answer>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-Dispersión
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-FALSE
-</p>]]></text>
-</feedback>
-</answer>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
-Forma
+Asociación
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -1824,15 +1824,15 @@ FALSE
 </name>
 <questiontext format="html">
 <text><![CDATA[<p>
-<p><strong>R2018_0016</strong>. El percentil 63 es una medida de:</p>
+<p><strong>R2018_0016</strong>. La mediana es una medida de:</p>
 </p>]]></text>
 </questiontext>
 <generalfeedback format="html">
 <text><![CDATA[<p>
 <ol type = "a">
 <li> FALSE </li>
-<li> TRUE </li>
 <li> FALSE </li>
+<li> TRUE </li>
 <li> FALSE </li>
 </ol>
 </p>]]></text>
@@ -1842,6 +1842,16 @@ FALSE
 <shuffleanswers>false</shuffleanswers>
 <single>true</single>
 <answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Asociación
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
 Forma
@@ -1865,16 +1875,6 @@ TRUE
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
 Dispersión
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-FALSE
-</p>]]></text>
-</feedback>
-</answer>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
-Asociación
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -1891,16 +1891,16 @@ FALSE
 </name>
 <questiontext format="html">
 <text><![CDATA[<p>
-<p><strong>R2018_0016</strong>. La mediana es una medida de:</p>
+<p><strong>R2018_0016</strong>. El r de Pearson es una medida de:</p>
 </p>]]></text>
 </questiontext>
 <generalfeedback format="html">
 <text><![CDATA[<p>
 <ol type = "a">
 <li> FALSE </li>
-<li> FALSE </li>
-<li> FALSE </li>
 <li> TRUE </li>
+<li> FALSE </li>
+<li> FALSE </li>
 </ol>
 </p>]]></text>
 </generalfeedback>
@@ -1909,26 +1909,6 @@ FALSE
 <shuffleanswers>false</shuffleanswers>
 <single>true</single>
 <answernumbering>abc</answernumbering>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
-Forma
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-FALSE
-</p>]]></text>
-</feedback>
-</answer>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
-Asociación
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-FALSE
-</p>]]></text>
-</feedback>
-</answer>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
 Dispersión
@@ -1941,11 +1921,31 @@ FALSE
 </answer>
 <answer fraction="100" format="html">
 <text><![CDATA[<p>
-Posición
+Asociación
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
 TRUE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Posición
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Forma
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
 </p>]]></text>
 </feedback>
 </answer>
@@ -1958,15 +1958,15 @@ TRUE
 </name>
 <questiontext format="html">
 <text><![CDATA[<p>
-<p><strong>R2018_0016</strong>. La media es una medida de:</p>
+<p><strong>R2018_0016</strong>. Los cuartiles son una medida de:</p>
 </p>]]></text>
 </questiontext>
 <generalfeedback format="html">
 <text><![CDATA[<p>
 <ol type = "a">
-<li> FALSE </li>
-<li> FALSE </li>
 <li> TRUE </li>
+<li> FALSE </li>
+<li> FALSE </li>
 <li> FALSE </li>
 </ol>
 </p>]]></text>
@@ -1976,13 +1976,13 @@ TRUE
 <shuffleanswers>false</shuffleanswers>
 <single>true</single>
 <answernumbering>abc</answernumbering>
-<answer fraction="0" format="html">
+<answer fraction="100" format="html">
 <text><![CDATA[<p>
-Asociación
+Posición
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
-FALSE
+TRUE
 </p>]]></text>
 </feedback>
 </answer>
@@ -1996,19 +1996,19 @@ FALSE
 </p>]]></text>
 </feedback>
 </answer>
-<answer fraction="100" format="html">
+<answer fraction="0" format="html">
 <text><![CDATA[<p>
-Posición
+Dispersión
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
-TRUE
+FALSE
 </p>]]></text>
 </feedback>
 </answer>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-Dispersión
+Asociación
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -2025,15 +2025,15 @@ FALSE
 </name>
 <questiontext format="html">
 <text><![CDATA[<p>
-<p><strong>R2018_0016</strong>. La media es una medida de:</p>
+<p><strong>R2018_0016</strong>. Los percentiles son una medida de:</p>
 </p>]]></text>
 </questiontext>
 <generalfeedback format="html">
 <text><![CDATA[<p>
 <ol type = "a">
 <li> FALSE </li>
-<li> TRUE </li>
 <li> FALSE </li>
+<li> TRUE </li>
 <li> FALSE </li>
 </ol>
 </p>]]></text>
@@ -2045,7 +2045,17 @@ FALSE
 <answernumbering>abc</answernumbering>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-Dispersión
+Asociación
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Forma
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -2065,17 +2075,7 @@ TRUE
 </answer>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-Asociación
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-FALSE
-</p>]]></text>
-</feedback>
-</answer>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
-Forma
+Dispersión
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -2092,14 +2092,14 @@ FALSE
 </name>
 <questiontext format="html">
 <text><![CDATA[<p>
-<p><strong>R2018_0016</strong>. El r de Pearson es una medida de:</p>
+<p><strong>R2018_0016</strong>. Los percentiles son una medida de:</p>
 </p>]]></text>
 </questiontext>
 <generalfeedback format="html">
 <text><![CDATA[<p>
 <ol type = "a">
-<li> TRUE </li>
 <li> FALSE </li>
+<li> TRUE </li>
 <li> FALSE </li>
 <li> FALSE </li>
 </ol>
@@ -2110,9 +2110,19 @@ FALSE
 <shuffleanswers>false</shuffleanswers>
 <single>true</single>
 <answernumbering>abc</answernumbering>
-<answer fraction="100" format="html">
+<answer fraction="0" format="html">
 <text><![CDATA[<p>
 Asociación
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+Posición
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -2123,16 +2133,6 @@ TRUE
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
 Forma
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-FALSE
-</p>]]></text>
-</feedback>
-</answer>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
-Posición
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -2159,14 +2159,14 @@ FALSE
 </name>
 <questiontext format="html">
 <text><![CDATA[<p>
-<p><strong>R2018_0016</strong>. La mediana es una medida de:</p>
+<p><strong>R2018_0016</strong>. La media es una medida de:</p>
 </p>]]></text>
 </questiontext>
 <generalfeedback format="html">
 <text><![CDATA[<p>
 <ol type = "a">
-<li> TRUE </li>
 <li> FALSE </li>
+<li> TRUE </li>
 <li> FALSE </li>
 <li> FALSE </li>
 </ol>
@@ -2177,6 +2177,16 @@ FALSE
 <shuffleanswers>false</shuffleanswers>
 <single>true</single>
 <answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Dispersión
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
 <answer fraction="100" format="html">
 <text><![CDATA[<p>
 Posición
@@ -2207,16 +2217,6 @@ FALSE
 </p>]]></text>
 </feedback>
 </answer>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
-Dispersión
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-FALSE
-</p>]]></text>
-</feedback>
-</answer>
 </question>
 
 
@@ -2226,15 +2226,15 @@ FALSE
 </name>
 <questiontext format="html">
 <text><![CDATA[<p>
-<p><strong>R2018_0016</strong>. Los percentiles son una medida de:</p>
+<p><strong>R2018_0016</strong>. El rango es una medida de:</p>
 </p>]]></text>
 </questiontext>
 <generalfeedback format="html">
 <text><![CDATA[<p>
 <ol type = "a">
+<li> FALSE </li>
+<li> FALSE </li>
 <li> TRUE </li>
-<li> FALSE </li>
-<li> FALSE </li>
 <li> FALSE </li>
 </ol>
 </p>]]></text>
@@ -2244,16 +2244,6 @@ FALSE
 <shuffleanswers>false</shuffleanswers>
 <single>true</single>
 <answernumbering>abc</answernumbering>
-<answer fraction="100" format="html">
-<text><![CDATA[<p>
-Posición
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-TRUE
-</p>]]></text>
-</feedback>
-</answer>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
 Forma
@@ -2266,11 +2256,21 @@ FALSE
 </answer>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-Dispersión
+Posición
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
 FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+Dispersión
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+TRUE
 </p>]]></text>
 </feedback>
 </answer>
@@ -2293,15 +2293,15 @@ FALSE
 </name>
 <questiontext format="html">
 <text><![CDATA[<p>
-<p><strong>R2018_0016</strong>. Los percentiles son una medida de:</p>
+<p><strong>R2018_0016</strong>. Los cuartiles son una medida de:</p>
 </p>]]></text>
 </questiontext>
 <generalfeedback format="html">
 <text><![CDATA[<p>
 <ol type = "a">
-<li> FALSE </li>
-<li> FALSE </li>
 <li> TRUE </li>
+<li> FALSE </li>
+<li> FALSE </li>
 <li> FALSE </li>
 </ol>
 </p>]]></text>
@@ -2311,6 +2311,16 @@ FALSE
 <shuffleanswers>false</shuffleanswers>
 <single>true</single>
 <answernumbering>abc</answernumbering>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+Posición
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+TRUE
+</p>]]></text>
+</feedback>
+</answer>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
 Dispersión
@@ -2328,16 +2338,6 @@ Asociación
 <feedback format="html">
 <text><![CDATA[<p>
 FALSE
-</p>]]></text>
-</feedback>
-</answer>
-<answer fraction="100" format="html">
-<text><![CDATA[<p>
-Posición
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-TRUE
 </p>]]></text>
 </feedback>
 </answer>
@@ -2360,7 +2360,7 @@ FALSE
 </name>
 <questiontext format="html">
 <text><![CDATA[<p>
-<p><strong>R2018_0016</strong>. La media es una medida de:</p>
+<p><strong>R2018_0016</strong>. El V de Cramer es una medida de:</p>
 </p>]]></text>
 </questiontext>
 <generalfeedback format="html">
@@ -2368,8 +2368,8 @@ FALSE
 <ol type = "a">
 <li> FALSE </li>
 <li> FALSE </li>
-<li> TRUE </li>
 <li> FALSE </li>
+<li> TRUE </li>
 </ol>
 </p>]]></text>
 </generalfeedback>
@@ -2380,7 +2380,7 @@ FALSE
 <answernumbering>abc</answernumbering>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-Asociación
+Posición
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -2398,16 +2398,6 @@ FALSE
 </p>]]></text>
 </feedback>
 </answer>
-<answer fraction="100" format="html">
-<text><![CDATA[<p>
-Posición
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-TRUE
-</p>]]></text>
-</feedback>
-</answer>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
 Forma
@@ -2415,6 +2405,16 @@ Forma
 <feedback format="html">
 <text><![CDATA[<p>
 FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+Asociación
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+TRUE
 </p>]]></text>
 </feedback>
 </answer>
@@ -2424,408 +2424,6 @@ FALSE
 <question type="multichoice">
 <name>
 <text> R037 Q1 : preguntas_html_R2018_0016 </text>
-</name>
-<questiontext format="html">
-<text><![CDATA[<p>
-<p><strong>R2018_0016</strong>. La media es una medida de:</p>
-</p>]]></text>
-</questiontext>
-<generalfeedback format="html">
-<text><![CDATA[<p>
-<ol type = "a">
-<li> TRUE </li>
-<li> FALSE </li>
-<li> FALSE </li>
-<li> FALSE </li>
-</ol>
-</p>]]></text>
-</generalfeedback>
-<penalty>0</penalty>
-<defaultgrade>1</defaultgrade>
-<shuffleanswers>false</shuffleanswers>
-<single>true</single>
-<answernumbering>abc</answernumbering>
-<answer fraction="100" format="html">
-<text><![CDATA[<p>
-Posición
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-TRUE
-</p>]]></text>
-</feedback>
-</answer>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
-Asociación
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-FALSE
-</p>]]></text>
-</feedback>
-</answer>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
-Forma
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-FALSE
-</p>]]></text>
-</feedback>
-</answer>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
-Dispersión
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-FALSE
-</p>]]></text>
-</feedback>
-</answer>
-</question>
-
-
-<question type="multichoice">
-<name>
-<text> R038 Q1 : preguntas_html_R2018_0016 </text>
-</name>
-<questiontext format="html">
-<text><![CDATA[<p>
-<p><strong>R2018_0016</strong>. El r de Pearson es una medida de:</p>
-</p>]]></text>
-</questiontext>
-<generalfeedback format="html">
-<text><![CDATA[<p>
-<ol type = "a">
-<li> FALSE </li>
-<li> FALSE </li>
-<li> FALSE </li>
-<li> TRUE </li>
-</ol>
-</p>]]></text>
-</generalfeedback>
-<penalty>0</penalty>
-<defaultgrade>1</defaultgrade>
-<shuffleanswers>false</shuffleanswers>
-<single>true</single>
-<answernumbering>abc</answernumbering>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
-Posición
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-FALSE
-</p>]]></text>
-</feedback>
-</answer>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
-Dispersión
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-FALSE
-</p>]]></text>
-</feedback>
-</answer>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
-Forma
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-FALSE
-</p>]]></text>
-</feedback>
-</answer>
-<answer fraction="100" format="html">
-<text><![CDATA[<p>
-Asociación
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-TRUE
-</p>]]></text>
-</feedback>
-</answer>
-</question>
-
-
-<question type="multichoice">
-<name>
-<text> R039 Q1 : preguntas_html_R2018_0016 </text>
-</name>
-<questiontext format="html">
-<text><![CDATA[<p>
-<p><strong>R2018_0016</strong>. La varianza es una medida de:</p>
-</p>]]></text>
-</questiontext>
-<generalfeedback format="html">
-<text><![CDATA[<p>
-<ol type = "a">
-<li> FALSE </li>
-<li> FALSE </li>
-<li> FALSE </li>
-<li> TRUE </li>
-</ol>
-</p>]]></text>
-</generalfeedback>
-<penalty>0</penalty>
-<defaultgrade>1</defaultgrade>
-<shuffleanswers>false</shuffleanswers>
-<single>true</single>
-<answernumbering>abc</answernumbering>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
-Forma
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-FALSE
-</p>]]></text>
-</feedback>
-</answer>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
-Asociación
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-FALSE
-</p>]]></text>
-</feedback>
-</answer>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
-Posición
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-FALSE
-</p>]]></text>
-</feedback>
-</answer>
-<answer fraction="100" format="html">
-<text><![CDATA[<p>
-Dispersión
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-TRUE
-</p>]]></text>
-</feedback>
-</answer>
-</question>
-
-
-<question type="multichoice">
-<name>
-<text> R040 Q1 : preguntas_html_R2018_0016 </text>
-</name>
-<questiontext format="html">
-<text><![CDATA[<p>
-<p><strong>R2018_0016</strong>. El rango es una medida de:</p>
-</p>]]></text>
-</questiontext>
-<generalfeedback format="html">
-<text><![CDATA[<p>
-<ol type = "a">
-<li> FALSE </li>
-<li> FALSE </li>
-<li> FALSE </li>
-<li> TRUE </li>
-</ol>
-</p>]]></text>
-</generalfeedback>
-<penalty>0</penalty>
-<defaultgrade>1</defaultgrade>
-<shuffleanswers>false</shuffleanswers>
-<single>true</single>
-<answernumbering>abc</answernumbering>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
-Forma
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-FALSE
-</p>]]></text>
-</feedback>
-</answer>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
-Posición
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-FALSE
-</p>]]></text>
-</feedback>
-</answer>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
-Asociación
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-FALSE
-</p>]]></text>
-</feedback>
-</answer>
-<answer fraction="100" format="html">
-<text><![CDATA[<p>
-Dispersión
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-TRUE
-</p>]]></text>
-</feedback>
-</answer>
-</question>
-
-
-<question type="multichoice">
-<name>
-<text> R041 Q1 : preguntas_html_R2018_0016 </text>
-</name>
-<questiontext format="html">
-<text><![CDATA[<p>
-<p><strong>R2018_0016</strong>. La varianza es una medida de:</p>
-</p>]]></text>
-</questiontext>
-<generalfeedback format="html">
-<text><![CDATA[<p>
-<ol type = "a">
-<li> FALSE </li>
-<li> FALSE </li>
-<li> FALSE </li>
-<li> TRUE </li>
-</ol>
-</p>]]></text>
-</generalfeedback>
-<penalty>0</penalty>
-<defaultgrade>1</defaultgrade>
-<shuffleanswers>false</shuffleanswers>
-<single>true</single>
-<answernumbering>abc</answernumbering>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
-Posición
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-FALSE
-</p>]]></text>
-</feedback>
-</answer>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
-Forma
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-FALSE
-</p>]]></text>
-</feedback>
-</answer>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
-Asociación
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-FALSE
-</p>]]></text>
-</feedback>
-</answer>
-<answer fraction="100" format="html">
-<text><![CDATA[<p>
-Dispersión
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-TRUE
-</p>]]></text>
-</feedback>
-</answer>
-</question>
-
-
-<question type="multichoice">
-<name>
-<text> R042 Q1 : preguntas_html_R2018_0016 </text>
-</name>
-<questiontext format="html">
-<text><![CDATA[<p>
-<p><strong>R2018_0016</strong>. El rango es una medida de:</p>
-</p>]]></text>
-</questiontext>
-<generalfeedback format="html">
-<text><![CDATA[<p>
-<ol type = "a">
-<li> TRUE </li>
-<li> FALSE </li>
-<li> FALSE </li>
-<li> FALSE </li>
-</ol>
-</p>]]></text>
-</generalfeedback>
-<penalty>0</penalty>
-<defaultgrade>1</defaultgrade>
-<shuffleanswers>false</shuffleanswers>
-<single>true</single>
-<answernumbering>abc</answernumbering>
-<answer fraction="100" format="html">
-<text><![CDATA[<p>
-Dispersión
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-TRUE
-</p>]]></text>
-</feedback>
-</answer>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
-Forma
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-FALSE
-</p>]]></text>
-</feedback>
-</answer>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
-Asociación
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-FALSE
-</p>]]></text>
-</feedback>
-</answer>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
-Posición
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-FALSE
-</p>]]></text>
-</feedback>
-</answer>
-</question>
-
-
-<question type="multichoice">
-<name>
-<text> R043 Q1 : preguntas_html_R2018_0016 </text>
 </name>
 <questiontext format="html">
 <text><![CDATA[<p>
@@ -2849,7 +2447,7 @@ FALSE
 <answernumbering>abc</answernumbering>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-Asociación
+Dispersión
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -2859,7 +2457,7 @@ FALSE
 </answer>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-Forma
+Asociación
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -2879,7 +2477,7 @@ TRUE
 </answer>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-Dispersión
+Forma
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -2892,11 +2490,212 @@ FALSE
 
 <question type="multichoice">
 <name>
-<text> R044 Q1 : preguntas_html_R2018_0016 </text>
+<text> R038 Q1 : preguntas_html_R2018_0016 </text>
 </name>
 <questiontext format="html">
 <text><![CDATA[<p>
-<p><strong>R2018_0016</strong>. El rango es una medida de:</p>
+<p><strong>R2018_0016</strong>. Los percentiles son una medida de:</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<ol type = "a">
+<li> TRUE </li>
+<li> FALSE </li>
+<li> FALSE </li>
+<li> FALSE </li>
+</ol>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+Posición
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+TRUE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Asociación
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Dispersión
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Forma
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R039 Q1 : preguntas_html_R2018_0016 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p><strong>R2018_0016</strong>. Los cuartiles son una medida de:</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<ol type = "a">
+<li> FALSE </li>
+<li> FALSE </li>
+<li> FALSE </li>
+<li> TRUE </li>
+</ol>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Forma
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Dispersión
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Asociación
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+Posición
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+TRUE
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R040 Q1 : preguntas_html_R2018_0016 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p><strong>R2018_0016</strong>. El r de Pearson es una medida de:</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<ol type = "a">
+<li> FALSE </li>
+<li> FALSE </li>
+<li> FALSE </li>
+<li> TRUE </li>
+</ol>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Posición
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Forma
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Dispersión
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+Asociación
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+TRUE
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R041 Q1 : preguntas_html_R2018_0016 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p><strong>R2018_0016</strong>. Los cuartiles son una medida de:</p>
 </p>]]></text>
 </questiontext>
 <generalfeedback format="html">
@@ -2916,7 +2715,7 @@ FALSE
 <answernumbering>abc</answernumbering>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-Posición
+Asociación
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -2926,7 +2725,7 @@ FALSE
 </answer>
 <answer fraction="100" format="html">
 <text><![CDATA[<p>
-Dispersión
+Posición
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -2936,7 +2735,7 @@ TRUE
 </answer>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-Asociación
+Dispersión
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -2959,7 +2758,7 @@ FALSE
 
 <question type="multichoice">
 <name>
-<text> R045 Q1 : preguntas_html_R2018_0016 </text>
+<text> R042 Q1 : preguntas_html_R2018_0016 </text>
 </name>
 <questiontext format="html">
 <text><![CDATA[<p>
@@ -3003,6 +2802,53 @@ TRUE
 </answer>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
+Posición
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Forma
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R043 Q1 : preguntas_html_R2018_0016 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p><strong>R2018_0016</strong>. El rango es una medida de:</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<ol type = "a">
+<li> FALSE </li>
+<li> FALSE </li>
+<li> TRUE </li>
+<li> FALSE </li>
+</ol>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
 Forma
 </p>]]></text>
 <feedback format="html">
@@ -3014,6 +2860,160 @@ FALSE
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
 Posición
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+Dispersión
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+TRUE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Asociación
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R044 Q1 : preguntas_html_R2018_0016 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p><strong>R2018_0016</strong>. El r de Pearson es una medida de:</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<ol type = "a">
+<li> FALSE </li>
+<li> FALSE </li>
+<li> FALSE </li>
+<li> TRUE </li>
+</ol>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Posición
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Forma
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Dispersión
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+Asociación
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+TRUE
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R045 Q1 : preguntas_html_R2018_0016 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p><strong>R2018_0016</strong>. La mediana es una medida de:</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<ol type = "a">
+<li> FALSE </li>
+<li> TRUE </li>
+<li> FALSE </li>
+<li> FALSE </li>
+</ol>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Forma
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+Posición
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+TRUE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Asociación
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Dispersión
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -3030,15 +3030,15 @@ FALSE
 </name>
 <questiontext format="html">
 <text><![CDATA[<p>
-<p><strong>R2018_0016</strong>. El V de Cramer es una medida de:</p>
+<p><strong>R2018_0016</strong>. La media es una medida de:</p>
 </p>]]></text>
 </questiontext>
 <generalfeedback format="html">
 <text><![CDATA[<p>
 <ol type = "a">
 <li> FALSE </li>
-<li> FALSE </li>
 <li> TRUE </li>
+<li> FALSE </li>
 <li> FALSE </li>
 </ol>
 </p>]]></text>
@@ -3050,17 +3050,7 @@ FALSE
 <answernumbering>abc</answernumbering>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-Forma
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-FALSE
-</p>]]></text>
-</feedback>
-</answer>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
-Posición
+Asociación
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -3070,7 +3060,7 @@ FALSE
 </answer>
 <answer fraction="100" format="html">
 <text><![CDATA[<p>
-Asociación
+Posición
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -3081,6 +3071,16 @@ TRUE
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
 Dispersión
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Forma
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -3097,15 +3097,15 @@ FALSE
 </name>
 <questiontext format="html">
 <text><![CDATA[<p>
-<p><strong>R2018_0016</strong>. Los percentiles son una medida de:</p>
+<p><strong>R2018_0016</strong>. El r de Pearson es una medida de:</p>
 </p>]]></text>
 </questiontext>
 <generalfeedback format="html">
 <text><![CDATA[<p>
 <ol type = "a">
 <li> FALSE </li>
-<li> FALSE </li>
 <li> TRUE </li>
+<li> FALSE </li>
 <li> FALSE </li>
 </ol>
 </p>]]></text>
@@ -3117,7 +3117,27 @@ FALSE
 <answernumbering>abc</answernumbering>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
+Forma
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
 Asociación
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+TRUE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Posición
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -3128,26 +3148,6 @@ FALSE
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
 Dispersión
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-FALSE
-</p>]]></text>
-</feedback>
-</answer>
-<answer fraction="100" format="html">
-<text><![CDATA[<p>
-Posición
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-TRUE
-</p>]]></text>
-</feedback>
-</answer>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
-Forma
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -3164,15 +3164,15 @@ FALSE
 </name>
 <questiontext format="html">
 <text><![CDATA[<p>
-<p><strong>R2018_0016</strong>. La varianza es una medida de:</p>
+<p><strong>R2018_0016</strong>. El rango es una medida de:</p>
 </p>]]></text>
 </questiontext>
 <generalfeedback format="html">
 <text><![CDATA[<p>
 <ol type = "a">
+<li> FALSE </li>
+<li> FALSE </li>
 <li> TRUE </li>
-<li> FALSE </li>
-<li> FALSE </li>
 <li> FALSE </li>
 </ol>
 </p>]]></text>
@@ -3182,19 +3182,9 @@ FALSE
 <shuffleanswers>false</shuffleanswers>
 <single>true</single>
 <answernumbering>abc</answernumbering>
-<answer fraction="100" format="html">
-<text><![CDATA[<p>
-Dispersión
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-TRUE
-</p>]]></text>
-</feedback>
-</answer>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-Forma
+Posición
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -3212,9 +3202,19 @@ FALSE
 </p>]]></text>
 </feedback>
 </answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+Dispersión
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+TRUE
+</p>]]></text>
+</feedback>
+</answer>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-Posición
+Forma
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -3231,15 +3231,15 @@ FALSE
 </name>
 <questiontext format="html">
 <text><![CDATA[<p>
-<p><strong>R2018_0016</strong>. El AIQ es una medida de:</p>
+<p><strong>R2018_0016</strong>. El rango es una medida de:</p>
 </p>]]></text>
 </questiontext>
 <generalfeedback format="html">
 <text><![CDATA[<p>
 <ol type = "a">
+<li> FALSE </li>
+<li> FALSE </li>
 <li> TRUE </li>
-<li> FALSE </li>
-<li> FALSE </li>
 <li> FALSE </li>
 </ol>
 </p>]]></text>
@@ -3249,16 +3249,6 @@ FALSE
 <shuffleanswers>false</shuffleanswers>
 <single>true</single>
 <answernumbering>abc</answernumbering>
-<answer fraction="100" format="html">
-<text><![CDATA[<p>
-Dispersión
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-TRUE
-</p>]]></text>
-</feedback>
-</answer>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
 Forma
@@ -3276,6 +3266,16 @@ Asociación
 <feedback format="html">
 <text><![CDATA[<p>
 FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+Dispersión
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+TRUE
 </p>]]></text>
 </feedback>
 </answer>
@@ -3298,15 +3298,15 @@ FALSE
 </name>
 <questiontext format="html">
 <text><![CDATA[<p>
-<p><strong>R2018_0016</strong>. El V de Cramer es una medida de:</p>
+<p><strong>R2018_0016</strong>. El AIQ es una medida de:</p>
 </p>]]></text>
 </questiontext>
 <generalfeedback format="html">
 <text><![CDATA[<p>
 <ol type = "a">
 <li> FALSE </li>
-<li> TRUE </li>
 <li> FALSE </li>
+<li> TRUE </li>
 <li> FALSE </li>
 </ol>
 </p>]]></text>
@@ -3316,26 +3316,6 @@ FALSE
 <shuffleanswers>false</shuffleanswers>
 <single>true</single>
 <answernumbering>abc</answernumbering>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
-Forma
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-FALSE
-</p>]]></text>
-</feedback>
-</answer>
-<answer fraction="100" format="html">
-<text><![CDATA[<p>
-Asociación
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-TRUE
-</p>]]></text>
-</feedback>
-</answer>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
 Posición
@@ -3348,7 +3328,27 @@ FALSE
 </answer>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
+Forma
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
 Dispersión
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+TRUE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Asociación
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -3365,7 +3365,7 @@ FALSE
 </name>
 <questiontext format="html">
 <text><![CDATA[<p>
-<p><strong>R2018_0016</strong>. Los cuartiles son una medida de:</p>
+<p><strong>R2018_0016</strong>. El percentil 77 es una medida de:</p>
 </p>]]></text>
 </questiontext>
 <generalfeedback format="html">
@@ -3432,16 +3432,16 @@ FALSE
 </name>
 <questiontext format="html">
 <text><![CDATA[<p>
-<p><strong>R2018_0016</strong>. El AIQ es una medida de:</p>
+<p><strong>R2018_0016</strong>. El V de Cramer es una medida de:</p>
 </p>]]></text>
 </questiontext>
 <generalfeedback format="html">
 <text><![CDATA[<p>
 <ol type = "a">
-<li> FALSE </li>
-<li> FALSE </li>
-<li> FALSE </li>
 <li> TRUE </li>
+<li> FALSE </li>
+<li> FALSE </li>
+<li> FALSE </li>
 </ol>
 </p>]]></text>
 </generalfeedback>
@@ -3450,19 +3450,19 @@ FALSE
 <shuffleanswers>false</shuffleanswers>
 <single>true</single>
 <answernumbering>abc</answernumbering>
-<answer fraction="0" format="html">
+<answer fraction="100" format="html">
 <text><![CDATA[<p>
-Posición
+Asociación
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
-FALSE
+TRUE
 </p>]]></text>
 </feedback>
 </answer>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-Asociación
+Posición
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -3480,13 +3480,13 @@ FALSE
 </p>]]></text>
 </feedback>
 </answer>
-<answer fraction="100" format="html">
+<answer fraction="0" format="html">
 <text><![CDATA[<p>
 Dispersión
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
-TRUE
+FALSE
 </p>]]></text>
 </feedback>
 </answer>
@@ -3506,8 +3506,8 @@ TRUE
 <text><![CDATA[<p>
 <ol type = "a">
 <li> FALSE </li>
-<li> FALSE </li>
 <li> TRUE </li>
+<li> FALSE </li>
 <li> FALSE </li>
 </ol>
 </p>]]></text>
@@ -3527,16 +3527,6 @@ FALSE
 </p>]]></text>
 </feedback>
 </answer>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
-Dispersión
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-FALSE
-</p>]]></text>
-</feedback>
-</answer>
 <answer fraction="100" format="html">
 <text><![CDATA[<p>
 Asociación
@@ -3544,6 +3534,16 @@ Asociación
 <feedback format="html">
 <text><![CDATA[<p>
 TRUE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Dispersión
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
 </p>]]></text>
 </feedback>
 </answer>
@@ -3566,16 +3566,16 @@ FALSE
 </name>
 <questiontext format="html">
 <text><![CDATA[<p>
-<p><strong>R2018_0016</strong>. El percentil 40 es una medida de:</p>
+<p><strong>R2018_0016</strong>. El r de Pearson es una medida de:</p>
 </p>]]></text>
 </questiontext>
 <generalfeedback format="html">
 <text><![CDATA[<p>
 <ol type = "a">
 <li> FALSE </li>
-<li> FALSE </li>
-<li> FALSE </li>
 <li> TRUE </li>
+<li> FALSE </li>
+<li> FALSE </li>
 </ol>
 </p>]]></text>
 </generalfeedback>
@@ -3584,6 +3584,93 @@ FALSE
 <shuffleanswers>false</shuffleanswers>
 <single>true</single>
 <answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Dispersión
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+Asociación
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+TRUE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Forma
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Posición
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R055 Q1 : preguntas_html_R2018_0016 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p><strong>R2018_0016</strong>. El percentil 13 es una medida de:</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<ol type = "a">
+<li> TRUE </li>
+<li> FALSE </li>
+<li> FALSE </li>
+<li> FALSE </li>
+</ol>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+Posición
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+TRUE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Asociación
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
 Forma
@@ -3604,9 +3691,56 @@ FALSE
 </p>]]></text>
 </feedback>
 </answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R056 Q1 : preguntas_html_R2018_0016 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p><strong>R2018_0016</strong>. La media es una medida de:</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<ol type = "a">
+<li> FALSE </li>
+<li> FALSE </li>
+<li> FALSE </li>
+<li> TRUE </li>
+</ol>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
 Asociación
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Forma
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Dispersión
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -3629,7 +3763,7 @@ TRUE
 
 <question type="multichoice">
 <name>
-<text> R055 Q1 : preguntas_html_R2018_0016 </text>
+<text> R057 Q1 : preguntas_html_R2018_0016 </text>
 </name>
 <questiontext format="html">
 <text><![CDATA[<p>
@@ -3663,16 +3797,6 @@ TRUE
 </answer>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-Dispersión
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-FALSE
-</p>]]></text>
-</feedback>
-</answer>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
 Posición
 </p>]]></text>
 <feedback format="html">
@@ -3683,135 +3807,11 @@ FALSE
 </answer>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-Forma
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-FALSE
-</p>]]></text>
-</feedback>
-</answer>
-</question>
-
-
-<question type="multichoice">
-<name>
-<text> R056 Q1 : preguntas_html_R2018_0016 </text>
-</name>
-<questiontext format="html">
-<text><![CDATA[<p>
-<p><strong>R2018_0016</strong>. El AIQ es una medida de:</p>
-</p>]]></text>
-</questiontext>
-<generalfeedback format="html">
-<text><![CDATA[<p>
-<ol type = "a">
-<li> FALSE </li>
-<li> FALSE </li>
-<li> TRUE </li>
-<li> FALSE </li>
-</ol>
-</p>]]></text>
-</generalfeedback>
-<penalty>0</penalty>
-<defaultgrade>1</defaultgrade>
-<shuffleanswers>false</shuffleanswers>
-<single>true</single>
-<answernumbering>abc</answernumbering>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
-Forma
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-FALSE
-</p>]]></text>
-</feedback>
-</answer>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
-Posición
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-FALSE
-</p>]]></text>
-</feedback>
-</answer>
-<answer fraction="100" format="html">
-<text><![CDATA[<p>
 Dispersión
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
-TRUE
-</p>]]></text>
-</feedback>
-</answer>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
-Asociación
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
 FALSE
-</p>]]></text>
-</feedback>
-</answer>
-</question>
-
-
-<question type="multichoice">
-<name>
-<text> R057 Q1 : preguntas_html_R2018_0016 </text>
-</name>
-<questiontext format="html">
-<text><![CDATA[<p>
-<p><strong>R2018_0016</strong>. La varianza es una medida de:</p>
-</p>]]></text>
-</questiontext>
-<generalfeedback format="html">
-<text><![CDATA[<p>
-<ol type = "a">
-<li> FALSE </li>
-<li> FALSE </li>
-<li> TRUE </li>
-<li> FALSE </li>
-</ol>
-</p>]]></text>
-</generalfeedback>
-<penalty>0</penalty>
-<defaultgrade>1</defaultgrade>
-<shuffleanswers>false</shuffleanswers>
-<single>true</single>
-<answernumbering>abc</answernumbering>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
-Posición
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-FALSE
-</p>]]></text>
-</feedback>
-</answer>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
-Asociación
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-FALSE
-</p>]]></text>
-</feedback>
-</answer>
-<answer fraction="100" format="html">
-<text><![CDATA[<p>
-Dispersión
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-TRUE
 </p>]]></text>
 </feedback>
 </answer>
@@ -3841,9 +3841,9 @@ FALSE
 <text><![CDATA[<p>
 <ol type = "a">
 <li> FALSE </li>
+<li> FALSE </li>
+<li> FALSE </li>
 <li> TRUE </li>
-<li> FALSE </li>
-<li> FALSE </li>
 </ol>
 </p>]]></text>
 </generalfeedback>
@@ -3854,7 +3854,7 @@ FALSE
 <answernumbering>abc</answernumbering>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-Forma
+Dispersión
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -3862,19 +3862,9 @@ FALSE
 </p>]]></text>
 </feedback>
 </answer>
-<answer fraction="100" format="html">
-<text><![CDATA[<p>
-Posición
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-TRUE
-</p>]]></text>
-</feedback>
-</answer>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-Dispersión
+Forma
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -3889,6 +3879,16 @@ Asociación
 <feedback format="html">
 <text><![CDATA[<p>
 FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+Posición
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+TRUE
 </p>]]></text>
 </feedback>
 </answer>
@@ -3901,15 +3901,15 @@ FALSE
 </name>
 <questiontext format="html">
 <text><![CDATA[<p>
-<p><strong>R2018_0016</strong>. La media es una medida de:</p>
+<p><strong>R2018_0016</strong>. La varianza es una medida de:</p>
 </p>]]></text>
 </questiontext>
 <generalfeedback format="html">
 <text><![CDATA[<p>
 <ol type = "a">
 <li> FALSE </li>
-<li> TRUE </li>
 <li> FALSE </li>
+<li> TRUE </li>
 <li> FALSE </li>
 </ol>
 </p>]]></text>
@@ -3921,7 +3921,17 @@ FALSE
 <answernumbering>abc</answernumbering>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-Dispersión
+Forma
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Posición
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -3931,7 +3941,7 @@ FALSE
 </answer>
 <answer fraction="100" format="html">
 <text><![CDATA[<p>
-Posición
+Dispersión
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -3942,16 +3952,6 @@ TRUE
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
 Asociación
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-FALSE
-</p>]]></text>
-</feedback>
-</answer>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
-Forma
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -3968,7 +3968,7 @@ FALSE
 </name>
 <questiontext format="html">
 <text><![CDATA[<p>
-<p><strong>R2018_0016</strong>. La media es una medida de:</p>
+<p><strong>R2018_0016</strong>. El percentil 34 es una medida de:</p>
 </p>]]></text>
 </questiontext>
 <generalfeedback format="html">
@@ -3998,7 +3998,7 @@ FALSE
 </answer>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-Dispersión
+Forma
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -4008,7 +4008,7 @@ FALSE
 </answer>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-Forma
+Dispersión
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -4035,15 +4035,15 @@ TRUE
 </name>
 <questiontext format="html">
 <text><![CDATA[<p>
-<p><strong>R2018_0016</strong>. El percentil 46 es una medida de:</p>
+<p><strong>R2018_0016</strong>. La mediana es una medida de:</p>
 </p>]]></text>
 </questiontext>
 <generalfeedback format="html">
 <text><![CDATA[<p>
 <ol type = "a">
+<li> FALSE </li>
+<li> FALSE </li>
 <li> TRUE </li>
-<li> FALSE </li>
-<li> FALSE </li>
 <li> FALSE </li>
 </ol>
 </p>]]></text>
@@ -4053,13 +4053,13 @@ TRUE
 <shuffleanswers>false</shuffleanswers>
 <single>true</single>
 <answernumbering>abc</answernumbering>
-<answer fraction="100" format="html">
+<answer fraction="0" format="html">
 <text><![CDATA[<p>
-Posición
+Forma
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
-TRUE
+FALSE
 </p>]]></text>
 </feedback>
 </answer>
@@ -4073,13 +4073,13 @@ FALSE
 </p>]]></text>
 </feedback>
 </answer>
-<answer fraction="0" format="html">
+<answer fraction="100" format="html">
 <text><![CDATA[<p>
-Forma
+Posición
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
-FALSE
+TRUE
 </p>]]></text>
 </feedback>
 </answer>
@@ -4102,16 +4102,16 @@ FALSE
 </name>
 <questiontext format="html">
 <text><![CDATA[<p>
-<p><strong>R2018_0016</strong>. El r de Pearson es una medida de:</p>
+<p><strong>R2018_0016</strong>. El rango es una medida de:</p>
 </p>]]></text>
 </questiontext>
 <generalfeedback format="html">
 <text><![CDATA[<p>
 <ol type = "a">
-<li> FALSE </li>
-<li> FALSE </li>
-<li> FALSE </li>
 <li> TRUE </li>
+<li> FALSE </li>
+<li> FALSE </li>
+<li> FALSE </li>
 </ol>
 </p>]]></text>
 </generalfeedback>
@@ -4120,9 +4120,19 @@ FALSE
 <shuffleanswers>false</shuffleanswers>
 <single>true</single>
 <answernumbering>abc</answernumbering>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+Dispersión
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+TRUE
+</p>]]></text>
+</feedback>
+</answer>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-Posición
+Asociación
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -4142,21 +4152,11 @@ FALSE
 </answer>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-Dispersión
+Posición
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
 FALSE
-</p>]]></text>
-</feedback>
-</answer>
-<answer fraction="100" format="html">
-<text><![CDATA[<p>
-Asociación
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-TRUE
 </p>]]></text>
 </feedback>
 </answer>
@@ -4169,7 +4169,7 @@ TRUE
 </name>
 <questiontext format="html">
 <text><![CDATA[<p>
-<p><strong>R2018_0016</strong>. El rango es una medida de:</p>
+<p><strong>R2018_0016</strong>. El V de Cramer es una medida de:</p>
 </p>]]></text>
 </questiontext>
 <generalfeedback format="html">
@@ -4177,8 +4177,8 @@ TRUE
 <ol type = "a">
 <li> FALSE </li>
 <li> FALSE </li>
-<li> TRUE </li>
 <li> FALSE </li>
+<li> TRUE </li>
 </ol>
 </p>]]></text>
 </generalfeedback>
@@ -4199,21 +4199,11 @@ FALSE
 </answer>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-Asociación
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-FALSE
-</p>]]></text>
-</feedback>
-</answer>
-<answer fraction="100" format="html">
-<text><![CDATA[<p>
 Dispersión
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
-TRUE
+FALSE
 </p>]]></text>
 </feedback>
 </answer>
@@ -4224,6 +4214,16 @@ Posición
 <feedback format="html">
 <text><![CDATA[<p>
 FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+Asociación
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+TRUE
 </p>]]></text>
 </feedback>
 </answer>
@@ -4236,7 +4236,7 @@ FALSE
 </name>
 <questiontext format="html">
 <text><![CDATA[<p>
-<p><strong>R2018_0016</strong>. El percentil 2 es una medida de:</p>
+<p><strong>R2018_0016</strong>. El rango es una medida de:</p>
 </p>]]></text>
 </questiontext>
 <generalfeedback format="html">
@@ -4256,7 +4256,7 @@ FALSE
 <answernumbering>abc</answernumbering>
 <answer fraction="100" format="html">
 <text><![CDATA[<p>
-Posición
+Dispersión
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -4266,7 +4266,17 @@ TRUE
 </answer>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-Dispersión
+Forma
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Posición
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -4277,16 +4287,6 @@ FALSE
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
 Asociación
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-FALSE
-</p>]]></text>
-</feedback>
-</answer>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
-Forma
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -4303,7 +4303,141 @@ FALSE
 </name>
 <questiontext format="html">
 <text><![CDATA[<p>
-<p><strong>R2018_0016</strong>. La media es una medida de:</p>
+<p><strong>R2018_0016</strong>. El r de Pearson es una medida de:</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<ol type = "a">
+<li> FALSE </li>
+<li> TRUE </li>
+<li> FALSE </li>
+<li> FALSE </li>
+</ol>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Posición
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+Asociación
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+TRUE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Dispersión
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Forma
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R066 Q1 : preguntas_html_R2018_0016 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p><strong>R2018_0016</strong>. La varianza es una medida de:</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<ol type = "a">
+<li> TRUE </li>
+<li> FALSE </li>
+<li> FALSE </li>
+<li> FALSE </li>
+</ol>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+Dispersión
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+TRUE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Forma
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Asociación
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Posición
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R067 Q1 : preguntas_html_R2018_0016 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p><strong>R2018_0016</strong>. Los percentiles son una medida de:</p>
 </p>]]></text>
 </questiontext>
 <generalfeedback format="html">
@@ -4366,7 +4500,7 @@ TRUE
 
 <question type="multichoice">
 <name>
-<text> R066 Q1 : preguntas_html_R2018_0016 </text>
+<text> R068 Q1 : preguntas_html_R2018_0016 </text>
 </name>
 <questiontext format="html">
 <text><![CDATA[<p>
@@ -4400,140 +4534,6 @@ TRUE
 </answer>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-Asociación
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-FALSE
-</p>]]></text>
-</feedback>
-</answer>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
-Dispersión
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-FALSE
-</p>]]></text>
-</feedback>
-</answer>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
-Forma
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-FALSE
-</p>]]></text>
-</feedback>
-</answer>
-</question>
-
-
-<question type="multichoice">
-<name>
-<text> R067 Q1 : preguntas_html_R2018_0016 </text>
-</name>
-<questiontext format="html">
-<text><![CDATA[<p>
-<p><strong>R2018_0016</strong>. El r de Pearson es una medida de:</p>
-</p>]]></text>
-</questiontext>
-<generalfeedback format="html">
-<text><![CDATA[<p>
-<ol type = "a">
-<li> TRUE </li>
-<li> FALSE </li>
-<li> FALSE </li>
-<li> FALSE </li>
-</ol>
-</p>]]></text>
-</generalfeedback>
-<penalty>0</penalty>
-<defaultgrade>1</defaultgrade>
-<shuffleanswers>false</shuffleanswers>
-<single>true</single>
-<answernumbering>abc</answernumbering>
-<answer fraction="100" format="html">
-<text><![CDATA[<p>
-Asociación
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-TRUE
-</p>]]></text>
-</feedback>
-</answer>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
-Dispersión
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-FALSE
-</p>]]></text>
-</feedback>
-</answer>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
-Forma
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-FALSE
-</p>]]></text>
-</feedback>
-</answer>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
-Posición
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-FALSE
-</p>]]></text>
-</feedback>
-</answer>
-</question>
-
-
-<question type="multichoice">
-<name>
-<text> R068 Q1 : preguntas_html_R2018_0016 </text>
-</name>
-<questiontext format="html">
-<text><![CDATA[<p>
-<p><strong>R2018_0016</strong>. La varianza es una medida de:</p>
-</p>]]></text>
-</questiontext>
-<generalfeedback format="html">
-<text><![CDATA[<p>
-<ol type = "a">
-<li> TRUE </li>
-<li> FALSE </li>
-<li> FALSE </li>
-<li> FALSE </li>
-</ol>
-</p>]]></text>
-</generalfeedback>
-<penalty>0</penalty>
-<defaultgrade>1</defaultgrade>
-<shuffleanswers>false</shuffleanswers>
-<single>true</single>
-<answernumbering>abc</answernumbering>
-<answer fraction="100" format="html">
-<text><![CDATA[<p>
-Dispersión
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-TRUE
-</p>]]></text>
-</feedback>
-</answer>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
 Forma
 </p>]]></text>
 <feedback format="html">
@@ -4554,7 +4554,7 @@ FALSE
 </answer>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-Posición
+Dispersión
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -4571,7 +4571,7 @@ FALSE
 </name>
 <questiontext format="html">
 <text><![CDATA[<p>
-<p><strong>R2018_0016</strong>. El r de Pearson es una medida de:</p>
+<p><strong>R2018_0016</strong>. El V de Cramer es una medida de:</p>
 </p>]]></text>
 </questiontext>
 <generalfeedback format="html">
@@ -4591,7 +4591,7 @@ FALSE
 <answernumbering>abc</answernumbering>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-Forma
+Posición
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -4621,7 +4621,7 @@ FALSE
 </answer>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-Posición
+Forma
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -4638,16 +4638,16 @@ FALSE
 </name>
 <questiontext format="html">
 <text><![CDATA[<p>
-<p><strong>R2018_0016</strong>. El r de Pearson es una medida de:</p>
+<p><strong>R2018_0016</strong>. Los cuartiles son una medida de:</p>
 </p>]]></text>
 </questiontext>
 <generalfeedback format="html">
 <text><![CDATA[<p>
 <ol type = "a">
 <li> FALSE </li>
-<li> FALSE </li>
-<li> FALSE </li>
 <li> TRUE </li>
+<li> FALSE </li>
+<li> FALSE </li>
 </ol>
 </p>]]></text>
 </generalfeedback>
@@ -4658,7 +4658,27 @@ FALSE
 <answernumbering>abc</answernumbering>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
+Asociación
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
 Posición
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+TRUE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Dispersión
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -4673,26 +4693,6 @@ Forma
 <feedback format="html">
 <text><![CDATA[<p>
 FALSE
-</p>]]></text>
-</feedback>
-</answer>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
-Dispersión
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-FALSE
-</p>]]></text>
-</feedback>
-</answer>
-<answer fraction="100" format="html">
-<text><![CDATA[<p>
-Asociación
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-TRUE
 </p>]]></text>
 </feedback>
 </answer>
@@ -4772,7 +4772,7 @@ FALSE
 </name>
 <questiontext format="html">
 <text><![CDATA[<p>
-<p><strong>R2018_0016</strong>. El AIQ es una medida de:</p>
+<p><strong>R2018_0016</strong>. El r de Pearson es una medida de:</p>
 </p>]]></text>
 </questiontext>
 <generalfeedback format="html">
@@ -4792,7 +4792,7 @@ FALSE
 <answernumbering>abc</answernumbering>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-Forma
+Dispersión
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -4802,7 +4802,7 @@ FALSE
 </answer>
 <answer fraction="100" format="html">
 <text><![CDATA[<p>
-Dispersión
+Asociación
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -4822,7 +4822,7 @@ FALSE
 </answer>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-Asociación
+Forma
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -4836,73 +4836,6 @@ FALSE
 <question type="multichoice">
 <name>
 <text> R073 Q1 : preguntas_html_R2018_0016 </text>
-</name>
-<questiontext format="html">
-<text><![CDATA[<p>
-<p><strong>R2018_0016</strong>. La media es una medida de:</p>
-</p>]]></text>
-</questiontext>
-<generalfeedback format="html">
-<text><![CDATA[<p>
-<ol type = "a">
-<li> TRUE </li>
-<li> FALSE </li>
-<li> FALSE </li>
-<li> FALSE </li>
-</ol>
-</p>]]></text>
-</generalfeedback>
-<penalty>0</penalty>
-<defaultgrade>1</defaultgrade>
-<shuffleanswers>false</shuffleanswers>
-<single>true</single>
-<answernumbering>abc</answernumbering>
-<answer fraction="100" format="html">
-<text><![CDATA[<p>
-Posición
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-TRUE
-</p>]]></text>
-</feedback>
-</answer>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
-Asociación
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-FALSE
-</p>]]></text>
-</feedback>
-</answer>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
-Dispersión
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-FALSE
-</p>]]></text>
-</feedback>
-</answer>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
-Forma
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-FALSE
-</p>]]></text>
-</feedback>
-</answer>
-</question>
-
-
-<question type="multichoice">
-<name>
-<text> R074 Q1 : preguntas_html_R2018_0016 </text>
 </name>
 <questiontext format="html">
 <text><![CDATA[<p>
@@ -4926,7 +4859,7 @@ FALSE
 <answernumbering>abc</answernumbering>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-Forma
+Asociación
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -4936,7 +4869,7 @@ FALSE
 </answer>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-Asociación
+Posición
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -4956,7 +4889,74 @@ TRUE
 </answer>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
+Forma
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R074 Q1 : preguntas_html_R2018_0016 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p><strong>R2018_0016</strong>. El r de Pearson es una medida de:</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<ol type = "a">
+<li> FALSE </li>
+<li> FALSE </li>
+<li> TRUE </li>
+<li> FALSE </li>
+</ol>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Forma
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
 Posición
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+Asociación
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+TRUE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Dispersión
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -4973,7 +4973,7 @@ FALSE
 </name>
 <questiontext format="html">
 <text><![CDATA[<p>
-<p><strong>R2018_0016</strong>. El AIQ es una medida de:</p>
+<p><strong>R2018_0016</strong>. La mediana es una medida de:</p>
 </p>]]></text>
 </questiontext>
 <generalfeedback format="html">
@@ -5003,7 +5003,7 @@ FALSE
 </answer>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-Forma
+Dispersión
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -5013,7 +5013,7 @@ FALSE
 </answer>
 <answer fraction="100" format="html">
 <text><![CDATA[<p>
-Dispersión
+Posición
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -5023,7 +5023,7 @@ TRUE
 </answer>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-Posición
+Forma
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -5040,7 +5040,7 @@ FALSE
 </name>
 <questiontext format="html">
 <text><![CDATA[<p>
-<p><strong>R2018_0016</strong>. La mediana es una medida de:</p>
+<p><strong>R2018_0016</strong>. El rango es una medida de:</p>
 </p>]]></text>
 </questiontext>
 <generalfeedback format="html">
@@ -5060,7 +5060,7 @@ FALSE
 <answernumbering>abc</answernumbering>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-Forma
+Posición
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -5070,7 +5070,7 @@ FALSE
 </answer>
 <answer fraction="100" format="html">
 <text><![CDATA[<p>
-Posición
+Dispersión
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -5080,7 +5080,7 @@ TRUE
 </answer>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-Dispersión
+Forma
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -5107,6 +5107,341 @@ FALSE
 </name>
 <questiontext format="html">
 <text><![CDATA[<p>
+<p><strong>R2018_0016</strong>. El rango es una medida de:</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<ol type = "a">
+<li> TRUE </li>
+<li> FALSE </li>
+<li> FALSE </li>
+<li> FALSE </li>
+</ol>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+Dispersión
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+TRUE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Forma
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Posición
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Asociación
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R078 Q1 : preguntas_html_R2018_0016 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p><strong>R2018_0016</strong>. El V de Cramer es una medida de:</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<ol type = "a">
+<li> FALSE </li>
+<li> FALSE </li>
+<li> TRUE </li>
+<li> FALSE </li>
+</ol>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Posición
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Forma
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+Asociación
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+TRUE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Dispersión
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R079 Q1 : preguntas_html_R2018_0016 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p><strong>R2018_0016</strong>. La mediana es una medida de:</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<ol type = "a">
+<li> FALSE </li>
+<li> FALSE </li>
+<li> TRUE </li>
+<li> FALSE </li>
+</ol>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Dispersión
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Forma
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+Posición
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+TRUE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Asociación
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R080 Q1 : preguntas_html_R2018_0016 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p><strong>R2018_0016</strong>. Los percentiles son una medida de:</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<ol type = "a">
+<li> TRUE </li>
+<li> FALSE </li>
+<li> FALSE </li>
+<li> FALSE </li>
+</ol>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+Posición
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+TRUE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Forma
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Asociación
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Dispersión
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R081 Q1 : preguntas_html_R2018_0016 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p><strong>R2018_0016</strong>. El V de Cramer es una medida de:</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<ol type = "a">
+<li> FALSE </li>
+<li> FALSE </li>
+<li> TRUE </li>
+<li> FALSE </li>
+</ol>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Dispersión
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Forma
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+Asociación
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+TRUE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Posición
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R082 Q1 : preguntas_html_R2018_0016 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
 <p><strong>R2018_0016</strong>. Los cuartiles son una medida de:</p>
 </p>]]></text>
 </questiontext>
@@ -5137,73 +5472,6 @@ TRUE
 </answer>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-Dispersión
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-FALSE
-</p>]]></text>
-</feedback>
-</answer>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
-Asociación
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-FALSE
-</p>]]></text>
-</feedback>
-</answer>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
-Forma
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-FALSE
-</p>]]></text>
-</feedback>
-</answer>
-</question>
-
-
-<question type="multichoice">
-<name>
-<text> R078 Q1 : preguntas_html_R2018_0016 </text>
-</name>
-<questiontext format="html">
-<text><![CDATA[<p>
-<p><strong>R2018_0016</strong>. Los percentiles son una medida de:</p>
-</p>]]></text>
-</questiontext>
-<generalfeedback format="html">
-<text><![CDATA[<p>
-<ol type = "a">
-<li> FALSE </li>
-<li> FALSE </li>
-<li> FALSE </li>
-<li> TRUE </li>
-</ol>
-</p>]]></text>
-</generalfeedback>
-<penalty>0</penalty>
-<defaultgrade>1</defaultgrade>
-<shuffleanswers>false</shuffleanswers>
-<single>true</single>
-<answernumbering>abc</answernumbering>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
-Asociación
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-FALSE
-</p>]]></text>
-</feedback>
-</answer>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
 Forma
 </p>]]></text>
 <feedback format="html">
@@ -5222,13 +5490,13 @@ FALSE
 </p>]]></text>
 </feedback>
 </answer>
-<answer fraction="100" format="html">
+<answer fraction="0" format="html">
 <text><![CDATA[<p>
-Posición
+Asociación
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
-TRUE
+FALSE
 </p>]]></text>
 </feedback>
 </answer>
@@ -5237,19 +5505,19 @@ TRUE
 
 <question type="multichoice">
 <name>
-<text> R079 Q1 : preguntas_html_R2018_0016 </text>
+<text> R083 Q1 : preguntas_html_R2018_0016 </text>
 </name>
 <questiontext format="html">
 <text><![CDATA[<p>
-<p><strong>R2018_0016</strong>. Los percentiles son una medida de:</p>
+<p><strong>R2018_0016</strong>. Los cuartiles son una medida de:</p>
 </p>]]></text>
 </questiontext>
 <generalfeedback format="html">
 <text><![CDATA[<p>
 <ol type = "a">
 <li> FALSE </li>
-<li> TRUE </li>
 <li> FALSE </li>
+<li> TRUE </li>
 <li> FALSE </li>
 </ol>
 </p>]]></text>
@@ -5262,6 +5530,16 @@ TRUE
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
 Forma
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Asociación
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -5289,35 +5567,25 @@ FALSE
 </p>]]></text>
 </feedback>
 </answer>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
-Asociación
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-FALSE
-</p>]]></text>
-</feedback>
-</answer>
 </question>
 
 
 <question type="multichoice">
 <name>
-<text> R080 Q1 : preguntas_html_R2018_0016 </text>
+<text> R084 Q1 : preguntas_html_R2018_0016 </text>
 </name>
 <questiontext format="html">
 <text><![CDATA[<p>
-<p><strong>R2018_0016</strong>. El percentil 36 es una medida de:</p>
+<p><strong>R2018_0016</strong>. La mediana es una medida de:</p>
 </p>]]></text>
 </questiontext>
 <generalfeedback format="html">
 <text><![CDATA[<p>
 <ol type = "a">
-<li> FALSE </li>
-<li> FALSE </li>
-<li> FALSE </li>
 <li> TRUE </li>
+<li> FALSE </li>
+<li> FALSE </li>
+<li> FALSE </li>
 </ol>
 </p>]]></text>
 </generalfeedback>
@@ -5326,6 +5594,16 @@ FALSE
 <shuffleanswers>false</shuffleanswers>
 <single>true</single>
 <answernumbering>abc</answernumbering>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+Posición
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+TRUE
+</p>]]></text>
+</feedback>
+</answer>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
 Dispersión
@@ -5356,22 +5634,12 @@ FALSE
 </p>]]></text>
 </feedback>
 </answer>
-<answer fraction="100" format="html">
-<text><![CDATA[<p>
-Posición
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-TRUE
-</p>]]></text>
-</feedback>
-</answer>
 </question>
 
 
 <question type="multichoice">
 <name>
-<text> R081 Q1 : preguntas_html_R2018_0016 </text>
+<text> R085 Q1 : preguntas_html_R2018_0016 </text>
 </name>
 <questiontext format="html">
 <text><![CDATA[<p>
@@ -5381,6 +5649,274 @@ TRUE
 <generalfeedback format="html">
 <text><![CDATA[<p>
 <ol type = "a">
+<li> FALSE </li>
+<li> TRUE </li>
+<li> FALSE </li>
+<li> FALSE </li>
+</ol>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Dispersión
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+Asociación
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+TRUE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Forma
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Posición
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R086 Q1 : preguntas_html_R2018_0016 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p><strong>R2018_0016</strong>. La media es una medida de:</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<ol type = "a">
+<li> FALSE </li>
+<li> TRUE </li>
+<li> FALSE </li>
+<li> FALSE </li>
+</ol>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Dispersión
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+Posición
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+TRUE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Asociación
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Forma
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R087 Q1 : preguntas_html_R2018_0016 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p><strong>R2018_0016</strong>. Los cuartiles son una medida de:</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<ol type = "a">
+<li> FALSE </li>
+<li> TRUE </li>
+<li> FALSE </li>
+<li> FALSE </li>
+</ol>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Dispersión
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+Posición
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+TRUE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Asociación
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Forma
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R088 Q1 : preguntas_html_R2018_0016 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p><strong>R2018_0016</strong>. La media es una medida de:</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<ol type = "a">
+<li> FALSE </li>
+<li> TRUE </li>
+<li> FALSE </li>
+<li> FALSE </li>
+</ol>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Dispersión
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+Posición
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+TRUE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Asociación
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Forma
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R089 Q1 : preguntas_html_R2018_0016 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p><strong>R2018_0016</strong>. La media es una medida de:</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<ol type = "a">
 <li> TRUE </li>
 <li> FALSE </li>
 <li> FALSE </li>
@@ -5395,7 +5931,7 @@ TRUE
 <answernumbering>abc</answernumbering>
 <answer fraction="100" format="html">
 <text><![CDATA[<p>
-Asociación
+Posición
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -5425,7 +5961,7 @@ FALSE
 </answer>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-Posición
+Asociación
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -5438,7 +5974,409 @@ FALSE
 
 <question type="multichoice">
 <name>
-<text> R082 Q1 : preguntas_html_R2018_0016 </text>
+<text> R090 Q1 : preguntas_html_R2018_0016 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p><strong>R2018_0016</strong>. El r de Pearson es una medida de:</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<ol type = "a">
+<li> FALSE </li>
+<li> FALSE </li>
+<li> FALSE </li>
+<li> TRUE </li>
+</ol>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Posición
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Forma
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Dispersión
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+Asociación
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+TRUE
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R091 Q1 : preguntas_html_R2018_0016 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p><strong>R2018_0016</strong>. La media es una medida de:</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<ol type = "a">
+<li> FALSE </li>
+<li> FALSE </li>
+<li> TRUE </li>
+<li> FALSE </li>
+</ol>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Dispersión
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Asociación
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+Posición
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+TRUE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Forma
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R092 Q1 : preguntas_html_R2018_0016 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p><strong>R2018_0016</strong>. El r de Pearson es una medida de:</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<ol type = "a">
+<li> FALSE </li>
+<li> FALSE </li>
+<li> TRUE </li>
+<li> FALSE </li>
+</ol>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Dispersión
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Posición
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+Asociación
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+TRUE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Forma
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R093 Q1 : preguntas_html_R2018_0016 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p><strong>R2018_0016</strong>. La mediana es una medida de:</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<ol type = "a">
+<li> TRUE </li>
+<li> FALSE </li>
+<li> FALSE </li>
+<li> FALSE </li>
+</ol>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+Posición
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+TRUE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Forma
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Asociación
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Dispersión
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R094 Q1 : preguntas_html_R2018_0016 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p><strong>R2018_0016</strong>. La media es una medida de:</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<ol type = "a">
+<li> FALSE </li>
+<li> FALSE </li>
+<li> FALSE </li>
+<li> TRUE </li>
+</ol>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Asociación
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Forma
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Dispersión
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+Posición
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+TRUE
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R095 Q1 : preguntas_html_R2018_0016 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p><strong>R2018_0016</strong>. El r de Pearson es una medida de:</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<ol type = "a">
+<li> FALSE </li>
+<li> FALSE </li>
+<li> FALSE </li>
+<li> TRUE </li>
+</ol>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Forma
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Posición
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Dispersión
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+Asociación
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+TRUE
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R096 Q1 : preguntas_html_R2018_0016 </text>
 </name>
 <questiontext format="html">
 <text><![CDATA[<p>
@@ -5472,274 +6410,6 @@ FALSE
 </answer>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-Dispersión
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-FALSE
-</p>]]></text>
-</feedback>
-</answer>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
-Asociación
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-FALSE
-</p>]]></text>
-</feedback>
-</answer>
-<answer fraction="100" format="html">
-<text><![CDATA[<p>
-Posición
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-TRUE
-</p>]]></text>
-</feedback>
-</answer>
-</question>
-
-
-<question type="multichoice">
-<name>
-<text> R083 Q1 : preguntas_html_R2018_0016 </text>
-</name>
-<questiontext format="html">
-<text><![CDATA[<p>
-<p><strong>R2018_0016</strong>. Los percentiles son una medida de:</p>
-</p>]]></text>
-</questiontext>
-<generalfeedback format="html">
-<text><![CDATA[<p>
-<ol type = "a">
-<li> TRUE </li>
-<li> FALSE </li>
-<li> FALSE </li>
-<li> FALSE </li>
-</ol>
-</p>]]></text>
-</generalfeedback>
-<penalty>0</penalty>
-<defaultgrade>1</defaultgrade>
-<shuffleanswers>false</shuffleanswers>
-<single>true</single>
-<answernumbering>abc</answernumbering>
-<answer fraction="100" format="html">
-<text><![CDATA[<p>
-Posición
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-TRUE
-</p>]]></text>
-</feedback>
-</answer>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
-Forma
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-FALSE
-</p>]]></text>
-</feedback>
-</answer>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
-Dispersión
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-FALSE
-</p>]]></text>
-</feedback>
-</answer>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
-Asociación
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-FALSE
-</p>]]></text>
-</feedback>
-</answer>
-</question>
-
-
-<question type="multichoice">
-<name>
-<text> R084 Q1 : preguntas_html_R2018_0016 </text>
-</name>
-<questiontext format="html">
-<text><![CDATA[<p>
-<p><strong>R2018_0016</strong>. El r de Pearson es una medida de:</p>
-</p>]]></text>
-</questiontext>
-<generalfeedback format="html">
-<text><![CDATA[<p>
-<ol type = "a">
-<li> FALSE </li>
-<li> FALSE </li>
-<li> TRUE </li>
-<li> FALSE </li>
-</ol>
-</p>]]></text>
-</generalfeedback>
-<penalty>0</penalty>
-<defaultgrade>1</defaultgrade>
-<shuffleanswers>false</shuffleanswers>
-<single>true</single>
-<answernumbering>abc</answernumbering>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
-Posición
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-FALSE
-</p>]]></text>
-</feedback>
-</answer>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
-Forma
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-FALSE
-</p>]]></text>
-</feedback>
-</answer>
-<answer fraction="100" format="html">
-<text><![CDATA[<p>
-Asociación
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-TRUE
-</p>]]></text>
-</feedback>
-</answer>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
-Dispersión
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-FALSE
-</p>]]></text>
-</feedback>
-</answer>
-</question>
-
-
-<question type="multichoice">
-<name>
-<text> R085 Q1 : preguntas_html_R2018_0016 </text>
-</name>
-<questiontext format="html">
-<text><![CDATA[<p>
-<p><strong>R2018_0016</strong>. El rango es una medida de:</p>
-</p>]]></text>
-</questiontext>
-<generalfeedback format="html">
-<text><![CDATA[<p>
-<ol type = "a">
-<li> TRUE </li>
-<li> FALSE </li>
-<li> FALSE </li>
-<li> FALSE </li>
-</ol>
-</p>]]></text>
-</generalfeedback>
-<penalty>0</penalty>
-<defaultgrade>1</defaultgrade>
-<shuffleanswers>false</shuffleanswers>
-<single>true</single>
-<answernumbering>abc</answernumbering>
-<answer fraction="100" format="html">
-<text><![CDATA[<p>
-Dispersión
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-TRUE
-</p>]]></text>
-</feedback>
-</answer>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
-Posición
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-FALSE
-</p>]]></text>
-</feedback>
-</answer>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
-Forma
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-FALSE
-</p>]]></text>
-</feedback>
-</answer>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
-Asociación
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-FALSE
-</p>]]></text>
-</feedback>
-</answer>
-</question>
-
-
-<question type="multichoice">
-<name>
-<text> R086 Q1 : preguntas_html_R2018_0016 </text>
-</name>
-<questiontext format="html">
-<text><![CDATA[<p>
-<p><strong>R2018_0016</strong>. La media es una medida de:</p>
-</p>]]></text>
-</questiontext>
-<generalfeedback format="html">
-<text><![CDATA[<p>
-<ol type = "a">
-<li> FALSE </li>
-<li> FALSE </li>
-<li> FALSE </li>
-<li> TRUE </li>
-</ol>
-</p>]]></text>
-</generalfeedback>
-<penalty>0</penalty>
-<defaultgrade>1</defaultgrade>
-<shuffleanswers>false</shuffleanswers>
-<single>true</single>
-<answernumbering>abc</answernumbering>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
-Forma
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-FALSE
-</p>]]></text>
-</feedback>
-</answer>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
 Asociación
 </p>]]></text>
 <feedback format="html">
@@ -5761,676 +6431,6 @@ FALSE
 <answer fraction="100" format="html">
 <text><![CDATA[<p>
 Posición
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-TRUE
-</p>]]></text>
-</feedback>
-</answer>
-</question>
-
-
-<question type="multichoice">
-<name>
-<text> R087 Q1 : preguntas_html_R2018_0016 </text>
-</name>
-<questiontext format="html">
-<text><![CDATA[<p>
-<p><strong>R2018_0016</strong>. El rango es una medida de:</p>
-</p>]]></text>
-</questiontext>
-<generalfeedback format="html">
-<text><![CDATA[<p>
-<ol type = "a">
-<li> TRUE </li>
-<li> FALSE </li>
-<li> FALSE </li>
-<li> FALSE </li>
-</ol>
-</p>]]></text>
-</generalfeedback>
-<penalty>0</penalty>
-<defaultgrade>1</defaultgrade>
-<shuffleanswers>false</shuffleanswers>
-<single>true</single>
-<answernumbering>abc</answernumbering>
-<answer fraction="100" format="html">
-<text><![CDATA[<p>
-Dispersión
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-TRUE
-</p>]]></text>
-</feedback>
-</answer>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
-Posición
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-FALSE
-</p>]]></text>
-</feedback>
-</answer>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
-Forma
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-FALSE
-</p>]]></text>
-</feedback>
-</answer>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
-Asociación
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-FALSE
-</p>]]></text>
-</feedback>
-</answer>
-</question>
-
-
-<question type="multichoice">
-<name>
-<text> R088 Q1 : preguntas_html_R2018_0016 </text>
-</name>
-<questiontext format="html">
-<text><![CDATA[<p>
-<p><strong>R2018_0016</strong>. Los percentiles son una medida de:</p>
-</p>]]></text>
-</questiontext>
-<generalfeedback format="html">
-<text><![CDATA[<p>
-<ol type = "a">
-<li> FALSE </li>
-<li> FALSE </li>
-<li> TRUE </li>
-<li> FALSE </li>
-</ol>
-</p>]]></text>
-</generalfeedback>
-<penalty>0</penalty>
-<defaultgrade>1</defaultgrade>
-<shuffleanswers>false</shuffleanswers>
-<single>true</single>
-<answernumbering>abc</answernumbering>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
-Dispersión
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-FALSE
-</p>]]></text>
-</feedback>
-</answer>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
-Asociación
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-FALSE
-</p>]]></text>
-</feedback>
-</answer>
-<answer fraction="100" format="html">
-<text><![CDATA[<p>
-Posición
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-TRUE
-</p>]]></text>
-</feedback>
-</answer>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
-Forma
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-FALSE
-</p>]]></text>
-</feedback>
-</answer>
-</question>
-
-
-<question type="multichoice">
-<name>
-<text> R089 Q1 : preguntas_html_R2018_0016 </text>
-</name>
-<questiontext format="html">
-<text><![CDATA[<p>
-<p><strong>R2018_0016</strong>. El rango es una medida de:</p>
-</p>]]></text>
-</questiontext>
-<generalfeedback format="html">
-<text><![CDATA[<p>
-<ol type = "a">
-<li> TRUE </li>
-<li> FALSE </li>
-<li> FALSE </li>
-<li> FALSE </li>
-</ol>
-</p>]]></text>
-</generalfeedback>
-<penalty>0</penalty>
-<defaultgrade>1</defaultgrade>
-<shuffleanswers>false</shuffleanswers>
-<single>true</single>
-<answernumbering>abc</answernumbering>
-<answer fraction="100" format="html">
-<text><![CDATA[<p>
-Dispersión
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-TRUE
-</p>]]></text>
-</feedback>
-</answer>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
-Forma
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-FALSE
-</p>]]></text>
-</feedback>
-</answer>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
-Posición
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-FALSE
-</p>]]></text>
-</feedback>
-</answer>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
-Asociación
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-FALSE
-</p>]]></text>
-</feedback>
-</answer>
-</question>
-
-
-<question type="multichoice">
-<name>
-<text> R090 Q1 : preguntas_html_R2018_0016 </text>
-</name>
-<questiontext format="html">
-<text><![CDATA[<p>
-<p><strong>R2018_0016</strong>. Los percentiles son una medida de:</p>
-</p>]]></text>
-</questiontext>
-<generalfeedback format="html">
-<text><![CDATA[<p>
-<ol type = "a">
-<li> TRUE </li>
-<li> FALSE </li>
-<li> FALSE </li>
-<li> FALSE </li>
-</ol>
-</p>]]></text>
-</generalfeedback>
-<penalty>0</penalty>
-<defaultgrade>1</defaultgrade>
-<shuffleanswers>false</shuffleanswers>
-<single>true</single>
-<answernumbering>abc</answernumbering>
-<answer fraction="100" format="html">
-<text><![CDATA[<p>
-Posición
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-TRUE
-</p>]]></text>
-</feedback>
-</answer>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
-Asociación
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-FALSE
-</p>]]></text>
-</feedback>
-</answer>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
-Forma
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-FALSE
-</p>]]></text>
-</feedback>
-</answer>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
-Dispersión
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-FALSE
-</p>]]></text>
-</feedback>
-</answer>
-</question>
-
-
-<question type="multichoice">
-<name>
-<text> R091 Q1 : preguntas_html_R2018_0016 </text>
-</name>
-<questiontext format="html">
-<text><![CDATA[<p>
-<p><strong>R2018_0016</strong>. Los cuartiles son una medida de:</p>
-</p>]]></text>
-</questiontext>
-<generalfeedback format="html">
-<text><![CDATA[<p>
-<ol type = "a">
-<li> FALSE </li>
-<li> FALSE </li>
-<li> FALSE </li>
-<li> TRUE </li>
-</ol>
-</p>]]></text>
-</generalfeedback>
-<penalty>0</penalty>
-<defaultgrade>1</defaultgrade>
-<shuffleanswers>false</shuffleanswers>
-<single>true</single>
-<answernumbering>abc</answernumbering>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
-Asociación
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-FALSE
-</p>]]></text>
-</feedback>
-</answer>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
-Dispersión
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-FALSE
-</p>]]></text>
-</feedback>
-</answer>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
-Forma
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-FALSE
-</p>]]></text>
-</feedback>
-</answer>
-<answer fraction="100" format="html">
-<text><![CDATA[<p>
-Posición
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-TRUE
-</p>]]></text>
-</feedback>
-</answer>
-</question>
-
-
-<question type="multichoice">
-<name>
-<text> R092 Q1 : preguntas_html_R2018_0016 </text>
-</name>
-<questiontext format="html">
-<text><![CDATA[<p>
-<p><strong>R2018_0016</strong>. El AIQ es una medida de:</p>
-</p>]]></text>
-</questiontext>
-<generalfeedback format="html">
-<text><![CDATA[<p>
-<ol type = "a">
-<li> FALSE </li>
-<li> TRUE </li>
-<li> FALSE </li>
-<li> FALSE </li>
-</ol>
-</p>]]></text>
-</generalfeedback>
-<penalty>0</penalty>
-<defaultgrade>1</defaultgrade>
-<shuffleanswers>false</shuffleanswers>
-<single>true</single>
-<answernumbering>abc</answernumbering>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
-Posición
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-FALSE
-</p>]]></text>
-</feedback>
-</answer>
-<answer fraction="100" format="html">
-<text><![CDATA[<p>
-Dispersión
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-TRUE
-</p>]]></text>
-</feedback>
-</answer>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
-Forma
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-FALSE
-</p>]]></text>
-</feedback>
-</answer>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
-Asociación
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-FALSE
-</p>]]></text>
-</feedback>
-</answer>
-</question>
-
-
-<question type="multichoice">
-<name>
-<text> R093 Q1 : preguntas_html_R2018_0016 </text>
-</name>
-<questiontext format="html">
-<text><![CDATA[<p>
-<p><strong>R2018_0016</strong>. Los percentiles son una medida de:</p>
-</p>]]></text>
-</questiontext>
-<generalfeedback format="html">
-<text><![CDATA[<p>
-<ol type = "a">
-<li> FALSE </li>
-<li> FALSE </li>
-<li> TRUE </li>
-<li> FALSE </li>
-</ol>
-</p>]]></text>
-</generalfeedback>
-<penalty>0</penalty>
-<defaultgrade>1</defaultgrade>
-<shuffleanswers>false</shuffleanswers>
-<single>true</single>
-<answernumbering>abc</answernumbering>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
-Asociación
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-FALSE
-</p>]]></text>
-</feedback>
-</answer>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
-Forma
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-FALSE
-</p>]]></text>
-</feedback>
-</answer>
-<answer fraction="100" format="html">
-<text><![CDATA[<p>
-Posición
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-TRUE
-</p>]]></text>
-</feedback>
-</answer>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
-Dispersión
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-FALSE
-</p>]]></text>
-</feedback>
-</answer>
-</question>
-
-
-<question type="multichoice">
-<name>
-<text> R094 Q1 : preguntas_html_R2018_0016 </text>
-</name>
-<questiontext format="html">
-<text><![CDATA[<p>
-<p><strong>R2018_0016</strong>. El rango es una medida de:</p>
-</p>]]></text>
-</questiontext>
-<generalfeedback format="html">
-<text><![CDATA[<p>
-<ol type = "a">
-<li> TRUE </li>
-<li> FALSE </li>
-<li> FALSE </li>
-<li> FALSE </li>
-</ol>
-</p>]]></text>
-</generalfeedback>
-<penalty>0</penalty>
-<defaultgrade>1</defaultgrade>
-<shuffleanswers>false</shuffleanswers>
-<single>true</single>
-<answernumbering>abc</answernumbering>
-<answer fraction="100" format="html">
-<text><![CDATA[<p>
-Dispersión
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-TRUE
-</p>]]></text>
-</feedback>
-</answer>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
-Forma
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-FALSE
-</p>]]></text>
-</feedback>
-</answer>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
-Asociación
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-FALSE
-</p>]]></text>
-</feedback>
-</answer>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
-Posición
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-FALSE
-</p>]]></text>
-</feedback>
-</answer>
-</question>
-
-
-<question type="multichoice">
-<name>
-<text> R095 Q1 : preguntas_html_R2018_0016 </text>
-</name>
-<questiontext format="html">
-<text><![CDATA[<p>
-<p><strong>R2018_0016</strong>. El rango es una medida de:</p>
-</p>]]></text>
-</questiontext>
-<generalfeedback format="html">
-<text><![CDATA[<p>
-<ol type = "a">
-<li> TRUE </li>
-<li> FALSE </li>
-<li> FALSE </li>
-<li> FALSE </li>
-</ol>
-</p>]]></text>
-</generalfeedback>
-<penalty>0</penalty>
-<defaultgrade>1</defaultgrade>
-<shuffleanswers>false</shuffleanswers>
-<single>true</single>
-<answernumbering>abc</answernumbering>
-<answer fraction="100" format="html">
-<text><![CDATA[<p>
-Dispersión
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-TRUE
-</p>]]></text>
-</feedback>
-</answer>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
-Posición
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-FALSE
-</p>]]></text>
-</feedback>
-</answer>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
-Asociación
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-FALSE
-</p>]]></text>
-</feedback>
-</answer>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
-Forma
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-FALSE
-</p>]]></text>
-</feedback>
-</answer>
-</question>
-
-
-<question type="multichoice">
-<name>
-<text> R096 Q1 : preguntas_html_R2018_0016 </text>
-</name>
-<questiontext format="html">
-<text><![CDATA[<p>
-<p><strong>R2018_0016</strong>. La varianza es una medida de:</p>
-</p>]]></text>
-</questiontext>
-<generalfeedback format="html">
-<text><![CDATA[<p>
-<ol type = "a">
-<li> FALSE </li>
-<li> FALSE </li>
-<li> FALSE </li>
-<li> TRUE </li>
-</ol>
-</p>]]></text>
-</generalfeedback>
-<penalty>0</penalty>
-<defaultgrade>1</defaultgrade>
-<shuffleanswers>false</shuffleanswers>
-<single>true</single>
-<answernumbering>abc</answernumbering>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
-Forma
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-FALSE
-</p>]]></text>
-</feedback>
-</answer>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
-Asociación
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-FALSE
-</p>]]></text>
-</feedback>
-</answer>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
-Posición
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-FALSE
-</p>]]></text>
-</feedback>
-</answer>
-<answer fraction="100" format="html">
-<text><![CDATA[<p>
-Dispersión
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -6447,15 +6447,15 @@ TRUE
 </name>
 <questiontext format="html">
 <text><![CDATA[<p>
-<p><strong>R2018_0016</strong>. El percentil 80 es una medida de:</p>
+<p><strong>R2018_0016</strong>. El percentil 13 es una medida de:</p>
 </p>]]></text>
 </questiontext>
 <generalfeedback format="html">
 <text><![CDATA[<p>
 <ol type = "a">
 <li> FALSE </li>
-<li> FALSE </li>
 <li> TRUE </li>
+<li> FALSE </li>
 <li> FALSE </li>
 </ol>
 </p>]]></text>
@@ -6467,17 +6467,7 @@ TRUE
 <answernumbering>abc</answernumbering>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-Forma
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-FALSE
-</p>]]></text>
-</feedback>
-</answer>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
-Asociación
+Dispersión
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -6497,7 +6487,17 @@ TRUE
 </answer>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-Dispersión
+Asociación
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Forma
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -6514,16 +6514,16 @@ FALSE
 </name>
 <questiontext format="html">
 <text><![CDATA[<p>
-<p><strong>R2018_0016</strong>. Los cuartiles son una medida de:</p>
+<p><strong>R2018_0016</strong>. El rango es una medida de:</p>
 </p>]]></text>
 </questiontext>
 <generalfeedback format="html">
 <text><![CDATA[<p>
 <ol type = "a">
 <li> FALSE </li>
-<li> FALSE </li>
-<li> FALSE </li>
 <li> TRUE </li>
+<li> FALSE </li>
+<li> FALSE </li>
 </ol>
 </p>]]></text>
 </generalfeedback>
@@ -6532,26 +6532,6 @@ FALSE
 <shuffleanswers>false</shuffleanswers>
 <single>true</single>
 <answernumbering>abc</answernumbering>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
-Forma
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-FALSE
-</p>]]></text>
-</feedback>
-</answer>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
-Dispersión
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-FALSE
-</p>]]></text>
-</feedback>
-</answer>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
 Asociación
@@ -6564,11 +6544,31 @@ FALSE
 </answer>
 <answer fraction="100" format="html">
 <text><![CDATA[<p>
-Posición
+Dispersión
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
 TRUE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Forma
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Posición
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
 </p>]]></text>
 </feedback>
 </answer>
@@ -6581,15 +6581,15 @@ TRUE
 </name>
 <questiontext format="html">
 <text><![CDATA[<p>
-<p><strong>R2018_0016</strong>. Los cuartiles son una medida de:</p>
+<p><strong>R2018_0016</strong>. La mediana es una medida de:</p>
 </p>]]></text>
 </questiontext>
 <generalfeedback format="html">
 <text><![CDATA[<p>
 <ol type = "a">
 <li> FALSE </li>
-<li> FALSE </li>
 <li> TRUE </li>
+<li> FALSE </li>
 <li> FALSE </li>
 </ol>
 </p>]]></text>
@@ -6609,16 +6609,6 @@ FALSE
 </p>]]></text>
 </feedback>
 </answer>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
-Asociación
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-FALSE
-</p>]]></text>
-</feedback>
-</answer>
 <answer fraction="100" format="html">
 <text><![CDATA[<p>
 Posición
@@ -6626,6 +6616,16 @@ Posición
 <feedback format="html">
 <text><![CDATA[<p>
 TRUE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Asociación
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
 </p>]]></text>
 </feedback>
 </answer>
@@ -6648,7 +6648,7 @@ FALSE
 </name>
 <questiontext format="html">
 <text><![CDATA[<p>
-<p><strong>R2018_0016</strong>. Los cuartiles son una medida de:</p>
+<p><strong>R2018_0016</strong>. El r de Pearson es una medida de:</p>
 </p>]]></text>
 </questiontext>
 <generalfeedback format="html">
@@ -6668,7 +6668,7 @@ FALSE
 <answernumbering>abc</answernumbering>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-Forma
+Posición
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -6678,7 +6678,7 @@ FALSE
 </answer>
 <answer fraction="100" format="html">
 <text><![CDATA[<p>
-Posición
+Asociación
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -6688,7 +6688,7 @@ TRUE
 </answer>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-Asociación
+Dispersión
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -6698,7 +6698,7 @@ FALSE
 </answer>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-Dispersión
+Forma
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>

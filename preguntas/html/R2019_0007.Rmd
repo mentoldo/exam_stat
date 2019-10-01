@@ -1,0 +1,39 @@
+```{r data generation, echo = FALSE, results = "hide"}
+## Los datos:
+x=round(rnorm(1, 50,5)*runif(runif(1,min=20, max=200)),0)
+b0=round(runif(1,min=10, max=18),2)
+b1=round(runif(1, min=2, max=4),2)
+x1=round(runif(1,min=12, 24),0)
+## Preguntas y respuestas
+```
+
+
+Question
+========
+
+**R2019_0007**. Se modela el puntaje de una prueba psicométrica (expresado en puntos) como función de la edad (expresada en años) en el intervalo 12 a 24 años. El modelo resultante es y = `r b0`+`r b1`*x. Por cada año que aumenta la edad, este modelo predice que el puntaje:
+
+Answerlist
+----------
+* Aumente en `r b1` puntos
+* Disminuya en `r b1` puntos
+* Aumente en `r b0` puntos
+* Disminuya en `r b0` puntos
+
+
+Solution
+========
+
+Answerlist
+----------
+* CORRECTA
+* INCORRECTA
+* INCORRECTA
+* INCORRECTA
+
+Meta-information
+============
+extype: schoice
+exname: R2019_0007
+exsolution: 1000
+exshuffle:TRUE

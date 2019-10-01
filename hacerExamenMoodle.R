@@ -21,4 +21,4 @@ exportar <- function(x) {
 }
 
 ## Exportamos todas las preguntas
-lapply(preg, exportar)
+lapply(preg[55:68], exportar)

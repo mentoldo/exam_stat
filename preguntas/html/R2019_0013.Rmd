@@ -1,0 +1,56 @@
+```{r data generation, echo = FALSE, results = "hide"}
+## Los datos:
+m=runif(1,6,9)
+sM=.1*m
+sT=.2*m
+M=rnorm(100,m,sM)
+T=rnorm(100,m,sT)
+## Preguntas y respuestas
+```
+
+
+Question
+========
+
+**R2019_0013**. Las notas promedio de los alumnos de los turnos mañana y tarde en una escuela tienen las siguientes medidas descriptivas:
+
+* Turno mañana
+
+media = `r round(mean(M),2)`
+
+mediana = `r round(median(M),2)`
+
+* Turno tarde
+
+media = `r round(mean(T),2)`
+
+mediana = `r round(median(T),2)`
+
+
+Dos estudiantes, uno del turno Mañana y el otro del turno tarde tienen ambos promedio de `r round(runif(1, max(mean(T), mean(M)),9.8),2)`. ¿Cuál de los dos tiene mejor promedio **respecto del grupo al que pertenece**?
+
+Answerlist
+----------
+*  No puede saberse con estos datos
+*  El del turno Mañana
+*  El del turno Tarde
+*  Ambos tienen igual promedio
+
+
+
+Solution
+========
+
+Answerlist
+----------
+* CORRECTA
+* INCORRECTA
+* INCORRECTA
+* INCORRECTA
+
+Meta-information
+============
+extype: schoice
+exname: R2019_0013
+exsolution: 1000
+exshuffle:TRUE

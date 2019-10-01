@@ -1,0 +1,39 @@
+```{r data generation, echo = FALSE, results = "hide"}
+## Los datos:
+x=round(rnorm(1, 50,5)*runif(runif(1,min=20, max=200)),0)
+b0=round(runif(1,min=.2, max=.9),2)
+b1=round(runif(1, min=1.9, max=2.9),2)
+x1=round(runif(1,min=0, 3),2)
+## Preguntas y respuestas
+```
+
+
+Question
+========
+
+**R2019_0005**. Se modela el tiempo de reacción a un estímulo visual (expresado en segundos) como función de la concentración de alcohol en sangre (expresada en gramos). El modelo resultante es y = `r b0`+`r b1`*x. El tiempo medio esperado de reacción para una persona con una concentración de `r x1` gramos es:
+
+Answerlist
+----------
+* `r round(b0+b1*x1, 2)` segundos
+*  `r round(b0+b1*x1/2, 2)` segundos
+*  `r round(abs(x1-b0)/b1, 2)` segundos
+*  `r round(b1+b0*x1, 2)` segundos
+
+
+Solution
+========
+
+Answerlist
+----------
+* CORRECTA
+* INCORRECTA
+* INCORRECTA
+* INCORRECTA
+
+Meta-information
+============
+extype: schoice
+exname: R2019_0005
+exsolution: 1000
+exshuffle:TRUE

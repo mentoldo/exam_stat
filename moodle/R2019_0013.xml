@@ -1,0 +1,7811 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+
+
+<question type="category">
+<category>
+<text>$course$/R2019_0013/Exercise 1</text>
+</category>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R001 Q1 : preguntas_html_R2019_0013 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p><strong>R2019_0013</strong>. Las notas promedio de los alumnos de los turnos mañana y tarde en una escuela tienen las siguientes medidas descriptivas:</p>
+<ul>
+<li>Turno mañana</li>
+</ul>
+<p>media = 8.01</p>
+<p>mediana = 8.13</p>
+<ul>
+<li>Turno tarde</li>
+</ul>
+<p>media = 8.16</p>
+<p>mediana = 8.19</p>
+<p>Dos estudiantes, uno del turno Mañana y el otro del turno tarde tienen ambos promedio de 9.61. ¿Cuál de los dos tiene mejor promedio <strong>respecto del grupo al que pertenece</strong>?</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<ol type = "a">
+<li> INCORRECTA </li>
+<li> CORRECTA </li>
+<li> INCORRECTA </li>
+<li> INCORRECTA </li>
+</ol>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+El del turno Mañana
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+INCORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+No puede saberse con estos datos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+CORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Ambos tienen igual promedio
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+INCORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+El del turno Tarde
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+INCORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R002 Q1 : preguntas_html_R2019_0013 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p><strong>R2019_0013</strong>. Las notas promedio de los alumnos de los turnos mañana y tarde en una escuela tienen las siguientes medidas descriptivas:</p>
+<ul>
+<li>Turno mañana</li>
+</ul>
+<p>media = 6.77</p>
+<p>mediana = 6.76</p>
+<ul>
+<li>Turno tarde</li>
+</ul>
+<p>media = 6.46</p>
+<p>mediana = 6.48</p>
+<p>Dos estudiantes, uno del turno Mañana y el otro del turno tarde tienen ambos promedio de 8.42. ¿Cuál de los dos tiene mejor promedio <strong>respecto del grupo al que pertenece</strong>?</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<ol type = "a">
+<li> INCORRECTA </li>
+<li> INCORRECTA </li>
+<li> INCORRECTA </li>
+<li> CORRECTA </li>
+</ol>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+El del turno Mañana
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+INCORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+El del turno Tarde
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+INCORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Ambos tienen igual promedio
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+INCORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+No puede saberse con estos datos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+CORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R003 Q1 : preguntas_html_R2019_0013 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p><strong>R2019_0013</strong>. Las notas promedio de los alumnos de los turnos mañana y tarde en una escuela tienen las siguientes medidas descriptivas:</p>
+<ul>
+<li>Turno mañana</li>
+</ul>
+<p>media = 7.05</p>
+<p>mediana = 7.04</p>
+<ul>
+<li>Turno tarde</li>
+</ul>
+<p>media = 7.01</p>
+<p>mediana = 7.1</p>
+<p>Dos estudiantes, uno del turno Mañana y el otro del turno tarde tienen ambos promedio de 8.73. ¿Cuál de los dos tiene mejor promedio <strong>respecto del grupo al que pertenece</strong>?</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<ol type = "a">
+<li> INCORRECTA </li>
+<li> INCORRECTA </li>
+<li> INCORRECTA </li>
+<li> CORRECTA </li>
+</ol>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+El del turno Mañana
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+INCORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Ambos tienen igual promedio
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+INCORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+El del turno Tarde
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+INCORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+No puede saberse con estos datos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+CORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R004 Q1 : preguntas_html_R2019_0013 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p><strong>R2019_0013</strong>. Las notas promedio de los alumnos de los turnos mañana y tarde en una escuela tienen las siguientes medidas descriptivas:</p>
+<ul>
+<li>Turno mañana</li>
+</ul>
+<p>media = 6.89</p>
+<p>mediana = 6.87</p>
+<ul>
+<li>Turno tarde</li>
+</ul>
+<p>media = 6.83</p>
+<p>mediana = 6.8</p>
+<p>Dos estudiantes, uno del turno Mañana y el otro del turno tarde tienen ambos promedio de 7.79. ¿Cuál de los dos tiene mejor promedio <strong>respecto del grupo al que pertenece</strong>?</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<ol type = "a">
+<li> INCORRECTA </li>
+<li> INCORRECTA </li>
+<li> INCORRECTA </li>
+<li> CORRECTA </li>
+</ol>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Ambos tienen igual promedio
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+INCORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+El del turno Tarde
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+INCORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+El del turno Mañana
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+INCORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+No puede saberse con estos datos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+CORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R005 Q1 : preguntas_html_R2019_0013 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p><strong>R2019_0013</strong>. Las notas promedio de los alumnos de los turnos mañana y tarde en una escuela tienen las siguientes medidas descriptivas:</p>
+<ul>
+<li>Turno mañana</li>
+</ul>
+<p>media = 8.74</p>
+<p>mediana = 8.78</p>
+<ul>
+<li>Turno tarde</li>
+</ul>
+<p>media = 8.9</p>
+<p>mediana = 8.95</p>
+<p>Dos estudiantes, uno del turno Mañana y el otro del turno tarde tienen ambos promedio de 9.36. ¿Cuál de los dos tiene mejor promedio <strong>respecto del grupo al que pertenece</strong>?</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<ol type = "a">
+<li> INCORRECTA </li>
+<li> INCORRECTA </li>
+<li> INCORRECTA </li>
+<li> CORRECTA </li>
+</ol>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+El del turno Tarde
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+INCORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Ambos tienen igual promedio
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+INCORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+El del turno Mañana
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+INCORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+No puede saberse con estos datos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+CORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R006 Q1 : preguntas_html_R2019_0013 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p><strong>R2019_0013</strong>. Las notas promedio de los alumnos de los turnos mañana y tarde en una escuela tienen las siguientes medidas descriptivas:</p>
+<ul>
+<li>Turno mañana</li>
+</ul>
+<p>media = 6.75</p>
+<p>mediana = 6.8</p>
+<ul>
+<li>Turno tarde</li>
+</ul>
+<p>media = 6.82</p>
+<p>mediana = 6.78</p>
+<p>Dos estudiantes, uno del turno Mañana y el otro del turno tarde tienen ambos promedio de 8.53. ¿Cuál de los dos tiene mejor promedio <strong>respecto del grupo al que pertenece</strong>?</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<ol type = "a">
+<li> CORRECTA </li>
+<li> INCORRECTA </li>
+<li> INCORRECTA </li>
+<li> INCORRECTA </li>
+</ol>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+No puede saberse con estos datos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+CORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+El del turno Tarde
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+INCORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Ambos tienen igual promedio
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+INCORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+El del turno Mañana
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+INCORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R007 Q1 : preguntas_html_R2019_0013 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p><strong>R2019_0013</strong>. Las notas promedio de los alumnos de los turnos mañana y tarde en una escuela tienen las siguientes medidas descriptivas:</p>
+<ul>
+<li>Turno mañana</li>
+</ul>
+<p>media = 7.39</p>
+<p>mediana = 7.42</p>
+<ul>
+<li>Turno tarde</li>
+</ul>
+<p>media = 7.59</p>
+<p>mediana = 7.73</p>
+<p>Dos estudiantes, uno del turno Mañana y el otro del turno tarde tienen ambos promedio de 8.35. ¿Cuál de los dos tiene mejor promedio <strong>respecto del grupo al que pertenece</strong>?</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<ol type = "a">
+<li> INCORRECTA </li>
+<li> INCORRECTA </li>
+<li> INCORRECTA </li>
+<li> CORRECTA </li>
+</ol>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+El del turno Tarde
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+INCORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+El del turno Mañana
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+INCORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Ambos tienen igual promedio
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+INCORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+No puede saberse con estos datos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+CORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R008 Q1 : preguntas_html_R2019_0013 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p><strong>R2019_0013</strong>. Las notas promedio de los alumnos de los turnos mañana y tarde en una escuela tienen las siguientes medidas descriptivas:</p>
+<ul>
+<li>Turno mañana</li>
+</ul>
+<p>media = 6.73</p>
+<p>mediana = 6.79</p>
+<ul>
+<li>Turno tarde</li>
+</ul>
+<p>media = 6.91</p>
+<p>mediana = 6.82</p>
+<p>Dos estudiantes, uno del turno Mañana y el otro del turno tarde tienen ambos promedio de 9.28. ¿Cuál de los dos tiene mejor promedio <strong>respecto del grupo al que pertenece</strong>?</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<ol type = "a">
+<li> CORRECTA </li>
+<li> INCORRECTA </li>
+<li> INCORRECTA </li>
+<li> INCORRECTA </li>
+</ol>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+No puede saberse con estos datos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+CORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+El del turno Mañana
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+INCORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+El del turno Tarde
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+INCORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Ambos tienen igual promedio
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+INCORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R009 Q1 : preguntas_html_R2019_0013 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p><strong>R2019_0013</strong>. Las notas promedio de los alumnos de los turnos mañana y tarde en una escuela tienen las siguientes medidas descriptivas:</p>
+<ul>
+<li>Turno mañana</li>
+</ul>
+<p>media = 9.05</p>
+<p>mediana = 9.07</p>
+<ul>
+<li>Turno tarde</li>
+</ul>
+<p>media = 8.86</p>
+<p>mediana = 8.88</p>
+<p>Dos estudiantes, uno del turno Mañana y el otro del turno tarde tienen ambos promedio de 9.79. ¿Cuál de los dos tiene mejor promedio <strong>respecto del grupo al que pertenece</strong>?</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<ol type = "a">
+<li> INCORRECTA </li>
+<li> CORRECTA </li>
+<li> INCORRECTA </li>
+<li> INCORRECTA </li>
+</ol>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+El del turno Mañana
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+INCORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+No puede saberse con estos datos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+CORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+El del turno Tarde
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+INCORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Ambos tienen igual promedio
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+INCORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R010 Q1 : preguntas_html_R2019_0013 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p><strong>R2019_0013</strong>. Las notas promedio de los alumnos de los turnos mañana y tarde en una escuela tienen las siguientes medidas descriptivas:</p>
+<ul>
+<li>Turno mañana</li>
+</ul>
+<p>media = 7.2</p>
+<p>mediana = 7.1</p>
+<ul>
+<li>Turno tarde</li>
+</ul>
+<p>media = 7.1</p>
+<p>mediana = 7.19</p>
+<p>Dos estudiantes, uno del turno Mañana y el otro del turno tarde tienen ambos promedio de 9.59. ¿Cuál de los dos tiene mejor promedio <strong>respecto del grupo al que pertenece</strong>?</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<ol type = "a">
+<li> INCORRECTA </li>
+<li> INCORRECTA </li>
+<li> CORRECTA </li>
+<li> INCORRECTA </li>
+</ol>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+El del turno Mañana
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+INCORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+El del turno Tarde
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+INCORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+No puede saberse con estos datos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+CORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Ambos tienen igual promedio
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+INCORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R011 Q1 : preguntas_html_R2019_0013 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p><strong>R2019_0013</strong>. Las notas promedio de los alumnos de los turnos mañana y tarde en una escuela tienen las siguientes medidas descriptivas:</p>
+<ul>
+<li>Turno mañana</li>
+</ul>
+<p>media = 6.98</p>
+<p>mediana = 6.95</p>
+<ul>
+<li>Turno tarde</li>
+</ul>
+<p>media = 7.04</p>
+<p>mediana = 6.91</p>
+<p>Dos estudiantes, uno del turno Mañana y el otro del turno tarde tienen ambos promedio de 7.99. ¿Cuál de los dos tiene mejor promedio <strong>respecto del grupo al que pertenece</strong>?</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<ol type = "a">
+<li> INCORRECTA </li>
+<li> INCORRECTA </li>
+<li> INCORRECTA </li>
+<li> CORRECTA </li>
+</ol>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+El del turno Tarde
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+INCORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Ambos tienen igual promedio
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+INCORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+El del turno Mañana
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+INCORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+No puede saberse con estos datos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+CORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R012 Q1 : preguntas_html_R2019_0013 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p><strong>R2019_0013</strong>. Las notas promedio de los alumnos de los turnos mañana y tarde en una escuela tienen las siguientes medidas descriptivas:</p>
+<ul>
+<li>Turno mañana</li>
+</ul>
+<p>media = 7.89</p>
+<p>mediana = 7.9</p>
+<ul>
+<li>Turno tarde</li>
+</ul>
+<p>media = 7.81</p>
+<p>mediana = 7.69</p>
+<p>Dos estudiantes, uno del turno Mañana y el otro del turno tarde tienen ambos promedio de 9.36. ¿Cuál de los dos tiene mejor promedio <strong>respecto del grupo al que pertenece</strong>?</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<ol type = "a">
+<li> INCORRECTA </li>
+<li> INCORRECTA </li>
+<li> INCORRECTA </li>
+<li> CORRECTA </li>
+</ol>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+El del turno Tarde
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+INCORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Ambos tienen igual promedio
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+INCORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+El del turno Mañana
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+INCORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+No puede saberse con estos datos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+CORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R013 Q1 : preguntas_html_R2019_0013 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p><strong>R2019_0013</strong>. Las notas promedio de los alumnos de los turnos mañana y tarde en una escuela tienen las siguientes medidas descriptivas:</p>
+<ul>
+<li>Turno mañana</li>
+</ul>
+<p>media = 8.92</p>
+<p>mediana = 8.92</p>
+<ul>
+<li>Turno tarde</li>
+</ul>
+<p>media = 8.86</p>
+<p>mediana = 8.85</p>
+<p>Dos estudiantes, uno del turno Mañana y el otro del turno tarde tienen ambos promedio de 9.08. ¿Cuál de los dos tiene mejor promedio <strong>respecto del grupo al que pertenece</strong>?</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<ol type = "a">
+<li> CORRECTA </li>
+<li> INCORRECTA </li>
+<li> INCORRECTA </li>
+<li> INCORRECTA </li>
+</ol>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+No puede saberse con estos datos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+CORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+El del turno Mañana
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+INCORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+El del turno Tarde
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+INCORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Ambos tienen igual promedio
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+INCORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R014 Q1 : preguntas_html_R2019_0013 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p><strong>R2019_0013</strong>. Las notas promedio de los alumnos de los turnos mañana y tarde en una escuela tienen las siguientes medidas descriptivas:</p>
+<ul>
+<li>Turno mañana</li>
+</ul>
+<p>media = 8.79</p>
+<p>mediana = 8.71</p>
+<ul>
+<li>Turno tarde</li>
+</ul>
+<p>media = 8.62</p>
+<p>mediana = 8.61</p>
+<p>Dos estudiantes, uno del turno Mañana y el otro del turno tarde tienen ambos promedio de 8.96. ¿Cuál de los dos tiene mejor promedio <strong>respecto del grupo al que pertenece</strong>?</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<ol type = "a">
+<li> INCORRECTA </li>
+<li> INCORRECTA </li>
+<li> INCORRECTA </li>
+<li> CORRECTA </li>
+</ol>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+El del turno Mañana
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+INCORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Ambos tienen igual promedio
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+INCORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+El del turno Tarde
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+INCORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+No puede saberse con estos datos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+CORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R015 Q1 : preguntas_html_R2019_0013 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p><strong>R2019_0013</strong>. Las notas promedio de los alumnos de los turnos mañana y tarde en una escuela tienen las siguientes medidas descriptivas:</p>
+<ul>
+<li>Turno mañana</li>
+</ul>
+<p>media = 7.73</p>
+<p>mediana = 7.79</p>
+<ul>
+<li>Turno tarde</li>
+</ul>
+<p>media = 7.57</p>
+<p>mediana = 7.62</p>
+<p>Dos estudiantes, uno del turno Mañana y el otro del turno tarde tienen ambos promedio de 7.77. ¿Cuál de los dos tiene mejor promedio <strong>respecto del grupo al que pertenece</strong>?</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<ol type = "a">
+<li> CORRECTA </li>
+<li> INCORRECTA </li>
+<li> INCORRECTA </li>
+<li> INCORRECTA </li>
+</ol>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+No puede saberse con estos datos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+CORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Ambos tienen igual promedio
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+INCORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+El del turno Mañana
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+INCORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+El del turno Tarde
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+INCORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R016 Q1 : preguntas_html_R2019_0013 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p><strong>R2019_0013</strong>. Las notas promedio de los alumnos de los turnos mañana y tarde en una escuela tienen las siguientes medidas descriptivas:</p>
+<ul>
+<li>Turno mañana</li>
+</ul>
+<p>media = 7.58</p>
+<p>mediana = 7.69</p>
+<ul>
+<li>Turno tarde</li>
+</ul>
+<p>media = 7.46</p>
+<p>mediana = 7.7</p>
+<p>Dos estudiantes, uno del turno Mañana y el otro del turno tarde tienen ambos promedio de 8.11. ¿Cuál de los dos tiene mejor promedio <strong>respecto del grupo al que pertenece</strong>?</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<ol type = "a">
+<li> INCORRECTA </li>
+<li> INCORRECTA </li>
+<li> CORRECTA </li>
+<li> INCORRECTA </li>
+</ol>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Ambos tienen igual promedio
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+INCORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+El del turno Tarde
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+INCORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+No puede saberse con estos datos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+CORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+El del turno Mañana
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+INCORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R017 Q1 : preguntas_html_R2019_0013 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p><strong>R2019_0013</strong>. Las notas promedio de los alumnos de los turnos mañana y tarde en una escuela tienen las siguientes medidas descriptivas:</p>
+<ul>
+<li>Turno mañana</li>
+</ul>
+<p>media = 7.9</p>
+<p>mediana = 7.76</p>
+<ul>
+<li>Turno tarde</li>
+</ul>
+<p>media = 7.76</p>
+<p>mediana = 7.79</p>
+<p>Dos estudiantes, uno del turno Mañana y el otro del turno tarde tienen ambos promedio de 9.63. ¿Cuál de los dos tiene mejor promedio <strong>respecto del grupo al que pertenece</strong>?</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<ol type = "a">
+<li> INCORRECTA </li>
+<li> INCORRECTA </li>
+<li> INCORRECTA </li>
+<li> CORRECTA </li>
+</ol>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+El del turno Tarde
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+INCORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+El del turno Mañana
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+INCORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Ambos tienen igual promedio
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+INCORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+No puede saberse con estos datos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+CORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R018 Q1 : preguntas_html_R2019_0013 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p><strong>R2019_0013</strong>. Las notas promedio de los alumnos de los turnos mañana y tarde en una escuela tienen las siguientes medidas descriptivas:</p>
+<ul>
+<li>Turno mañana</li>
+</ul>
+<p>media = 6.94</p>
+<p>mediana = 6.97</p>
+<ul>
+<li>Turno tarde</li>
+</ul>
+<p>media = 6.68</p>
+<p>mediana = 6.67</p>
+<p>Dos estudiantes, uno del turno Mañana y el otro del turno tarde tienen ambos promedio de 9.65. ¿Cuál de los dos tiene mejor promedio <strong>respecto del grupo al que pertenece</strong>?</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<ol type = "a">
+<li> INCORRECTA </li>
+<li> CORRECTA </li>
+<li> INCORRECTA </li>
+<li> INCORRECTA </li>
+</ol>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Ambos tienen igual promedio
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+INCORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+No puede saberse con estos datos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+CORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+El del turno Mañana
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+INCORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+El del turno Tarde
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+INCORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R019 Q1 : preguntas_html_R2019_0013 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p><strong>R2019_0013</strong>. Las notas promedio de los alumnos de los turnos mañana y tarde en una escuela tienen las siguientes medidas descriptivas:</p>
+<ul>
+<li>Turno mañana</li>
+</ul>
+<p>media = 6.87</p>
+<p>mediana = 6.9</p>
+<ul>
+<li>Turno tarde</li>
+</ul>
+<p>media = 6.73</p>
+<p>mediana = 6.76</p>
+<p>Dos estudiantes, uno del turno Mañana y el otro del turno tarde tienen ambos promedio de 6.87. ¿Cuál de los dos tiene mejor promedio <strong>respecto del grupo al que pertenece</strong>?</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<ol type = "a">
+<li> INCORRECTA </li>
+<li> CORRECTA </li>
+<li> INCORRECTA </li>
+<li> INCORRECTA </li>
+</ol>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+El del turno Mañana
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+INCORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+No puede saberse con estos datos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+CORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Ambos tienen igual promedio
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+INCORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+El del turno Tarde
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+INCORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R020 Q1 : preguntas_html_R2019_0013 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p><strong>R2019_0013</strong>. Las notas promedio de los alumnos de los turnos mañana y tarde en una escuela tienen las siguientes medidas descriptivas:</p>
+<ul>
+<li>Turno mañana</li>
+</ul>
+<p>media = 6.72</p>
+<p>mediana = 6.68</p>
+<ul>
+<li>Turno tarde</li>
+</ul>
+<p>media = 7.01</p>
+<p>mediana = 7.01</p>
+<p>Dos estudiantes, uno del turno Mañana y el otro del turno tarde tienen ambos promedio de 8.13. ¿Cuál de los dos tiene mejor promedio <strong>respecto del grupo al que pertenece</strong>?</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<ol type = "a">
+<li> CORRECTA </li>
+<li> INCORRECTA </li>
+<li> INCORRECTA </li>
+<li> INCORRECTA </li>
+</ol>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+No puede saberse con estos datos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+CORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+El del turno Mañana
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+INCORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+El del turno Tarde
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+INCORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Ambos tienen igual promedio
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+INCORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R021 Q1 : preguntas_html_R2019_0013 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p><strong>R2019_0013</strong>. Las notas promedio de los alumnos de los turnos mañana y tarde en una escuela tienen las siguientes medidas descriptivas:</p>
+<ul>
+<li>Turno mañana</li>
+</ul>
+<p>media = 7.32</p>
+<p>mediana = 7.3</p>
+<ul>
+<li>Turno tarde</li>
+</ul>
+<p>media = 7.31</p>
+<p>mediana = 7.28</p>
+<p>Dos estudiantes, uno del turno Mañana y el otro del turno tarde tienen ambos promedio de 8.31. ¿Cuál de los dos tiene mejor promedio <strong>respecto del grupo al que pertenece</strong>?</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<ol type = "a">
+<li> CORRECTA </li>
+<li> INCORRECTA </li>
+<li> INCORRECTA </li>
+<li> INCORRECTA </li>
+</ol>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+No puede saberse con estos datos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+CORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Ambos tienen igual promedio
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+INCORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+El del turno Mañana
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+INCORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+El del turno Tarde
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+INCORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R022 Q1 : preguntas_html_R2019_0013 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p><strong>R2019_0013</strong>. Las notas promedio de los alumnos de los turnos mañana y tarde en una escuela tienen las siguientes medidas descriptivas:</p>
+<ul>
+<li>Turno mañana</li>
+</ul>
+<p>media = 6.34</p>
+<p>mediana = 6.39</p>
+<ul>
+<li>Turno tarde</li>
+</ul>
+<p>media = 6.31</p>
+<p>mediana = 6.31</p>
+<p>Dos estudiantes, uno del turno Mañana y el otro del turno tarde tienen ambos promedio de 6.65. ¿Cuál de los dos tiene mejor promedio <strong>respecto del grupo al que pertenece</strong>?</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<ol type = "a">
+<li> INCORRECTA </li>
+<li> CORRECTA </li>
+<li> INCORRECTA </li>
+<li> INCORRECTA </li>
+</ol>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+El del turno Tarde
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+INCORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+No puede saberse con estos datos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+CORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Ambos tienen igual promedio
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+INCORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+El del turno Mañana
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+INCORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R023 Q1 : preguntas_html_R2019_0013 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p><strong>R2019_0013</strong>. Las notas promedio de los alumnos de los turnos mañana y tarde en una escuela tienen las siguientes medidas descriptivas:</p>
+<ul>
+<li>Turno mañana</li>
+</ul>
+<p>media = 7.93</p>
+<p>mediana = 7.8</p>
+<ul>
+<li>Turno tarde</li>
+</ul>
+<p>media = 7.57</p>
+<p>mediana = 7.51</p>
+<p>Dos estudiantes, uno del turno Mañana y el otro del turno tarde tienen ambos promedio de 9.59. ¿Cuál de los dos tiene mejor promedio <strong>respecto del grupo al que pertenece</strong>?</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<ol type = "a">
+<li> INCORRECTA </li>
+<li> INCORRECTA </li>
+<li> INCORRECTA </li>
+<li> CORRECTA </li>
+</ol>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Ambos tienen igual promedio
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+INCORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+El del turno Mañana
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+INCORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+El del turno Tarde
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+INCORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+No puede saberse con estos datos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+CORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R024 Q1 : preguntas_html_R2019_0013 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p><strong>R2019_0013</strong>. Las notas promedio de los alumnos de los turnos mañana y tarde en una escuela tienen las siguientes medidas descriptivas:</p>
+<ul>
+<li>Turno mañana</li>
+</ul>
+<p>media = 7.28</p>
+<p>mediana = 7.24</p>
+<ul>
+<li>Turno tarde</li>
+</ul>
+<p>media = 7.11</p>
+<p>mediana = 7.14</p>
+<p>Dos estudiantes, uno del turno Mañana y el otro del turno tarde tienen ambos promedio de 8.54. ¿Cuál de los dos tiene mejor promedio <strong>respecto del grupo al que pertenece</strong>?</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<ol type = "a">
+<li> INCORRECTA </li>
+<li> INCORRECTA </li>
+<li> CORRECTA </li>
+<li> INCORRECTA </li>
+</ol>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+El del turno Tarde
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+INCORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+El del turno Mañana
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+INCORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+No puede saberse con estos datos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+CORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Ambos tienen igual promedio
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+INCORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R025 Q1 : preguntas_html_R2019_0013 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p><strong>R2019_0013</strong>. Las notas promedio de los alumnos de los turnos mañana y tarde en una escuela tienen las siguientes medidas descriptivas:</p>
+<ul>
+<li>Turno mañana</li>
+</ul>
+<p>media = 6.11</p>
+<p>mediana = 6.11</p>
+<ul>
+<li>Turno tarde</li>
+</ul>
+<p>media = 5.93</p>
+<p>mediana = 5.96</p>
+<p>Dos estudiantes, uno del turno Mañana y el otro del turno tarde tienen ambos promedio de 7.17. ¿Cuál de los dos tiene mejor promedio <strong>respecto del grupo al que pertenece</strong>?</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<ol type = "a">
+<li> INCORRECTA </li>
+<li> CORRECTA </li>
+<li> INCORRECTA </li>
+<li> INCORRECTA </li>
+</ol>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+El del turno Mañana
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+INCORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+No puede saberse con estos datos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+CORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+El del turno Tarde
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+INCORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Ambos tienen igual promedio
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+INCORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R026 Q1 : preguntas_html_R2019_0013 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p><strong>R2019_0013</strong>. Las notas promedio de los alumnos de los turnos mañana y tarde en una escuela tienen las siguientes medidas descriptivas:</p>
+<ul>
+<li>Turno mañana</li>
+</ul>
+<p>media = 8.98</p>
+<p>mediana = 8.96</p>
+<ul>
+<li>Turno tarde</li>
+</ul>
+<p>media = 9.05</p>
+<p>mediana = 9.1</p>
+<p>Dos estudiantes, uno del turno Mañana y el otro del turno tarde tienen ambos promedio de 9.21. ¿Cuál de los dos tiene mejor promedio <strong>respecto del grupo al que pertenece</strong>?</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<ol type = "a">
+<li> INCORRECTA </li>
+<li> INCORRECTA </li>
+<li> INCORRECTA </li>
+<li> CORRECTA </li>
+</ol>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+El del turno Mañana
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+INCORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Ambos tienen igual promedio
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+INCORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+El del turno Tarde
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+INCORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+No puede saberse con estos datos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+CORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R027 Q1 : preguntas_html_R2019_0013 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p><strong>R2019_0013</strong>. Las notas promedio de los alumnos de los turnos mañana y tarde en una escuela tienen las siguientes medidas descriptivas:</p>
+<ul>
+<li>Turno mañana</li>
+</ul>
+<p>media = 8.83</p>
+<p>mediana = 8.75</p>
+<ul>
+<li>Turno tarde</li>
+</ul>
+<p>media = 9.07</p>
+<p>mediana = 9.22</p>
+<p>Dos estudiantes, uno del turno Mañana y el otro del turno tarde tienen ambos promedio de 9.69. ¿Cuál de los dos tiene mejor promedio <strong>respecto del grupo al que pertenece</strong>?</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<ol type = "a">
+<li> CORRECTA </li>
+<li> INCORRECTA </li>
+<li> INCORRECTA </li>
+<li> INCORRECTA </li>
+</ol>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+No puede saberse con estos datos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+CORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Ambos tienen igual promedio
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+INCORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+El del turno Mañana
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+INCORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+El del turno Tarde
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+INCORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R028 Q1 : preguntas_html_R2019_0013 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p><strong>R2019_0013</strong>. Las notas promedio de los alumnos de los turnos mañana y tarde en una escuela tienen las siguientes medidas descriptivas:</p>
+<ul>
+<li>Turno mañana</li>
+</ul>
+<p>media = 6.21</p>
+<p>mediana = 6.22</p>
+<ul>
+<li>Turno tarde</li>
+</ul>
+<p>media = 6.08</p>
+<p>mediana = 6.05</p>
+<p>Dos estudiantes, uno del turno Mañana y el otro del turno tarde tienen ambos promedio de 6.46. ¿Cuál de los dos tiene mejor promedio <strong>respecto del grupo al que pertenece</strong>?</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<ol type = "a">
+<li> CORRECTA </li>
+<li> INCORRECTA </li>
+<li> INCORRECTA </li>
+<li> INCORRECTA </li>
+</ol>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+No puede saberse con estos datos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+CORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+El del turno Tarde
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+INCORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Ambos tienen igual promedio
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+INCORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+El del turno Mañana
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+INCORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R029 Q1 : preguntas_html_R2019_0013 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p><strong>R2019_0013</strong>. Las notas promedio de los alumnos de los turnos mañana y tarde en una escuela tienen las siguientes medidas descriptivas:</p>
+<ul>
+<li>Turno mañana</li>
+</ul>
+<p>media = 8.96</p>
+<p>mediana = 9.01</p>
+<ul>
+<li>Turno tarde</li>
+</ul>
+<p>media = 8.69</p>
+<p>mediana = 8.78</p>
+<p>Dos estudiantes, uno del turno Mañana y el otro del turno tarde tienen ambos promedio de 9. ¿Cuál de los dos tiene mejor promedio <strong>respecto del grupo al que pertenece</strong>?</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<ol type = "a">
+<li> INCORRECTA </li>
+<li> INCORRECTA </li>
+<li> INCORRECTA </li>
+<li> CORRECTA </li>
+</ol>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+El del turno Mañana
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+INCORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+El del turno Tarde
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+INCORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Ambos tienen igual promedio
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+INCORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+No puede saberse con estos datos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+CORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R030 Q1 : preguntas_html_R2019_0013 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p><strong>R2019_0013</strong>. Las notas promedio de los alumnos de los turnos mañana y tarde en una escuela tienen las siguientes medidas descriptivas:</p>
+<ul>
+<li>Turno mañana</li>
+</ul>
+<p>media = 6.66</p>
+<p>mediana = 6.64</p>
+<ul>
+<li>Turno tarde</li>
+</ul>
+<p>media = 6.4</p>
+<p>mediana = 6.44</p>
+<p>Dos estudiantes, uno del turno Mañana y el otro del turno tarde tienen ambos promedio de 8.28. ¿Cuál de los dos tiene mejor promedio <strong>respecto del grupo al que pertenece</strong>?</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<ol type = "a">
+<li> INCORRECTA </li>
+<li> INCORRECTA </li>
+<li> CORRECTA </li>
+<li> INCORRECTA </li>
+</ol>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+El del turno Mañana
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+INCORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Ambos tienen igual promedio
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+INCORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+No puede saberse con estos datos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+CORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+El del turno Tarde
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+INCORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R031 Q1 : preguntas_html_R2019_0013 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p><strong>R2019_0013</strong>. Las notas promedio de los alumnos de los turnos mañana y tarde en una escuela tienen las siguientes medidas descriptivas:</p>
+<ul>
+<li>Turno mañana</li>
+</ul>
+<p>media = 6.3</p>
+<p>mediana = 6.33</p>
+<ul>
+<li>Turno tarde</li>
+</ul>
+<p>media = 6.26</p>
+<p>mediana = 6.33</p>
+<p>Dos estudiantes, uno del turno Mañana y el otro del turno tarde tienen ambos promedio de 9.61. ¿Cuál de los dos tiene mejor promedio <strong>respecto del grupo al que pertenece</strong>?</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<ol type = "a">
+<li> INCORRECTA </li>
+<li> INCORRECTA </li>
+<li> INCORRECTA </li>
+<li> CORRECTA </li>
+</ol>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+El del turno Mañana
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+INCORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Ambos tienen igual promedio
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+INCORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+El del turno Tarde
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+INCORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+No puede saberse con estos datos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+CORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R032 Q1 : preguntas_html_R2019_0013 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p><strong>R2019_0013</strong>. Las notas promedio de los alumnos de los turnos mañana y tarde en una escuela tienen las siguientes medidas descriptivas:</p>
+<ul>
+<li>Turno mañana</li>
+</ul>
+<p>media = 7</p>
+<p>mediana = 6.99</p>
+<ul>
+<li>Turno tarde</li>
+</ul>
+<p>media = 7.2</p>
+<p>mediana = 7.17</p>
+<p>Dos estudiantes, uno del turno Mañana y el otro del turno tarde tienen ambos promedio de 8.09. ¿Cuál de los dos tiene mejor promedio <strong>respecto del grupo al que pertenece</strong>?</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<ol type = "a">
+<li> INCORRECTA </li>
+<li> CORRECTA </li>
+<li> INCORRECTA </li>
+<li> INCORRECTA </li>
+</ol>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Ambos tienen igual promedio
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+INCORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+No puede saberse con estos datos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+CORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+El del turno Mañana
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+INCORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+El del turno Tarde
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+INCORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R033 Q1 : preguntas_html_R2019_0013 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p><strong>R2019_0013</strong>. Las notas promedio de los alumnos de los turnos mañana y tarde en una escuela tienen las siguientes medidas descriptivas:</p>
+<ul>
+<li>Turno mañana</li>
+</ul>
+<p>media = 6.6</p>
+<p>mediana = 6.58</p>
+<ul>
+<li>Turno tarde</li>
+</ul>
+<p>media = 6.63</p>
+<p>mediana = 6.63</p>
+<p>Dos estudiantes, uno del turno Mañana y el otro del turno tarde tienen ambos promedio de 9.59. ¿Cuál de los dos tiene mejor promedio <strong>respecto del grupo al que pertenece</strong>?</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<ol type = "a">
+<li> INCORRECTA </li>
+<li> INCORRECTA </li>
+<li> CORRECTA </li>
+<li> INCORRECTA </li>
+</ol>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+El del turno Tarde
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+INCORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Ambos tienen igual promedio
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+INCORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+No puede saberse con estos datos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+CORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+El del turno Mañana
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+INCORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R034 Q1 : preguntas_html_R2019_0013 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p><strong>R2019_0013</strong>. Las notas promedio de los alumnos de los turnos mañana y tarde en una escuela tienen las siguientes medidas descriptivas:</p>
+<ul>
+<li>Turno mañana</li>
+</ul>
+<p>media = 8.64</p>
+<p>mediana = 8.55</p>
+<ul>
+<li>Turno tarde</li>
+</ul>
+<p>media = 8.56</p>
+<p>mediana = 8.52</p>
+<p>Dos estudiantes, uno del turno Mañana y el otro del turno tarde tienen ambos promedio de 9.11. ¿Cuál de los dos tiene mejor promedio <strong>respecto del grupo al que pertenece</strong>?</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<ol type = "a">
+<li> INCORRECTA </li>
+<li> CORRECTA </li>
+<li> INCORRECTA </li>
+<li> INCORRECTA </li>
+</ol>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Ambos tienen igual promedio
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+INCORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+No puede saberse con estos datos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+CORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+El del turno Mañana
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+INCORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+El del turno Tarde
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+INCORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R035 Q1 : preguntas_html_R2019_0013 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p><strong>R2019_0013</strong>. Las notas promedio de los alumnos de los turnos mañana y tarde en una escuela tienen las siguientes medidas descriptivas:</p>
+<ul>
+<li>Turno mañana</li>
+</ul>
+<p>media = 8.78</p>
+<p>mediana = 8.85</p>
+<ul>
+<li>Turno tarde</li>
+</ul>
+<p>media = 8.8</p>
+<p>mediana = 8.79</p>
+<p>Dos estudiantes, uno del turno Mañana y el otro del turno tarde tienen ambos promedio de 9.62. ¿Cuál de los dos tiene mejor promedio <strong>respecto del grupo al que pertenece</strong>?</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<ol type = "a">
+<li> INCORRECTA </li>
+<li> INCORRECTA </li>
+<li> CORRECTA </li>
+<li> INCORRECTA </li>
+</ol>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Ambos tienen igual promedio
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+INCORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+El del turno Mañana
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+INCORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+No puede saberse con estos datos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+CORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+El del turno Tarde
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+INCORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R036 Q1 : preguntas_html_R2019_0013 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p><strong>R2019_0013</strong>. Las notas promedio de los alumnos de los turnos mañana y tarde en una escuela tienen las siguientes medidas descriptivas:</p>
+<ul>
+<li>Turno mañana</li>
+</ul>
+<p>media = 5.97</p>
+<p>mediana = 6</p>
+<ul>
+<li>Turno tarde</li>
+</ul>
+<p>media = 5.91</p>
+<p>mediana = 5.8</p>
+<p>Dos estudiantes, uno del turno Mañana y el otro del turno tarde tienen ambos promedio de 8.83. ¿Cuál de los dos tiene mejor promedio <strong>respecto del grupo al que pertenece</strong>?</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<ol type = "a">
+<li> INCORRECTA </li>
+<li> INCORRECTA </li>
+<li> CORRECTA </li>
+<li> INCORRECTA </li>
+</ol>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+El del turno Mañana
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+INCORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Ambos tienen igual promedio
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+INCORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+No puede saberse con estos datos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+CORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+El del turno Tarde
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+INCORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R037 Q1 : preguntas_html_R2019_0013 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p><strong>R2019_0013</strong>. Las notas promedio de los alumnos de los turnos mañana y tarde en una escuela tienen las siguientes medidas descriptivas:</p>
+<ul>
+<li>Turno mañana</li>
+</ul>
+<p>media = 7.8</p>
+<p>mediana = 7.88</p>
+<ul>
+<li>Turno tarde</li>
+</ul>
+<p>media = 7.55</p>
+<p>mediana = 7.7</p>
+<p>Dos estudiantes, uno del turno Mañana y el otro del turno tarde tienen ambos promedio de 7.97. ¿Cuál de los dos tiene mejor promedio <strong>respecto del grupo al que pertenece</strong>?</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<ol type = "a">
+<li> INCORRECTA </li>
+<li> CORRECTA </li>
+<li> INCORRECTA </li>
+<li> INCORRECTA </li>
+</ol>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+El del turno Tarde
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+INCORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+No puede saberse con estos datos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+CORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Ambos tienen igual promedio
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+INCORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+El del turno Mañana
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+INCORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R038 Q1 : preguntas_html_R2019_0013 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p><strong>R2019_0013</strong>. Las notas promedio de los alumnos de los turnos mañana y tarde en una escuela tienen las siguientes medidas descriptivas:</p>
+<ul>
+<li>Turno mañana</li>
+</ul>
+<p>media = 6.2</p>
+<p>mediana = 6.18</p>
+<ul>
+<li>Turno tarde</li>
+</ul>
+<p>media = 6.43</p>
+<p>mediana = 6.36</p>
+<p>Dos estudiantes, uno del turno Mañana y el otro del turno tarde tienen ambos promedio de 6.55. ¿Cuál de los dos tiene mejor promedio <strong>respecto del grupo al que pertenece</strong>?</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<ol type = "a">
+<li> INCORRECTA </li>
+<li> INCORRECTA </li>
+<li> INCORRECTA </li>
+<li> CORRECTA </li>
+</ol>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Ambos tienen igual promedio
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+INCORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+El del turno Tarde
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+INCORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+El del turno Mañana
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+INCORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+No puede saberse con estos datos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+CORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R039 Q1 : preguntas_html_R2019_0013 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p><strong>R2019_0013</strong>. Las notas promedio de los alumnos de los turnos mañana y tarde en una escuela tienen las siguientes medidas descriptivas:</p>
+<ul>
+<li>Turno mañana</li>
+</ul>
+<p>media = 8.31</p>
+<p>mediana = 8.28</p>
+<ul>
+<li>Turno tarde</li>
+</ul>
+<p>media = 8.17</p>
+<p>mediana = 8.24</p>
+<p>Dos estudiantes, uno del turno Mañana y el otro del turno tarde tienen ambos promedio de 8.34. ¿Cuál de los dos tiene mejor promedio <strong>respecto del grupo al que pertenece</strong>?</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<ol type = "a">
+<li> INCORRECTA </li>
+<li> INCORRECTA </li>
+<li> INCORRECTA </li>
+<li> CORRECTA </li>
+</ol>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+El del turno Tarde
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+INCORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Ambos tienen igual promedio
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+INCORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+El del turno Mañana
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+INCORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+No puede saberse con estos datos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+CORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R040 Q1 : preguntas_html_R2019_0013 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p><strong>R2019_0013</strong>. Las notas promedio de los alumnos de los turnos mañana y tarde en una escuela tienen las siguientes medidas descriptivas:</p>
+<ul>
+<li>Turno mañana</li>
+</ul>
+<p>media = 7.19</p>
+<p>mediana = 7.16</p>
+<ul>
+<li>Turno tarde</li>
+</ul>
+<p>media = 7.39</p>
+<p>mediana = 7.3</p>
+<p>Dos estudiantes, uno del turno Mañana y el otro del turno tarde tienen ambos promedio de 9.19. ¿Cuál de los dos tiene mejor promedio <strong>respecto del grupo al que pertenece</strong>?</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<ol type = "a">
+<li> INCORRECTA </li>
+<li> INCORRECTA </li>
+<li> CORRECTA </li>
+<li> INCORRECTA </li>
+</ol>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+El del turno Tarde
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+INCORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+El del turno Mañana
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+INCORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+No puede saberse con estos datos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+CORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Ambos tienen igual promedio
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+INCORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R041 Q1 : preguntas_html_R2019_0013 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p><strong>R2019_0013</strong>. Las notas promedio de los alumnos de los turnos mañana y tarde en una escuela tienen las siguientes medidas descriptivas:</p>
+<ul>
+<li>Turno mañana</li>
+</ul>
+<p>media = 6.36</p>
+<p>mediana = 6.33</p>
+<ul>
+<li>Turno tarde</li>
+</ul>
+<p>media = 6.24</p>
+<p>mediana = 6.07</p>
+<p>Dos estudiantes, uno del turno Mañana y el otro del turno tarde tienen ambos promedio de 7.16. ¿Cuál de los dos tiene mejor promedio <strong>respecto del grupo al que pertenece</strong>?</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<ol type = "a">
+<li> INCORRECTA </li>
+<li> INCORRECTA </li>
+<li> CORRECTA </li>
+<li> INCORRECTA </li>
+</ol>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Ambos tienen igual promedio
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+INCORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+El del turno Mañana
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+INCORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+No puede saberse con estos datos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+CORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+El del turno Tarde
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+INCORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R042 Q1 : preguntas_html_R2019_0013 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p><strong>R2019_0013</strong>. Las notas promedio de los alumnos de los turnos mañana y tarde en una escuela tienen las siguientes medidas descriptivas:</p>
+<ul>
+<li>Turno mañana</li>
+</ul>
+<p>media = 7.6</p>
+<p>mediana = 7.58</p>
+<ul>
+<li>Turno tarde</li>
+</ul>
+<p>media = 7.57</p>
+<p>mediana = 7.55</p>
+<p>Dos estudiantes, uno del turno Mañana y el otro del turno tarde tienen ambos promedio de 9.65. ¿Cuál de los dos tiene mejor promedio <strong>respecto del grupo al que pertenece</strong>?</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<ol type = "a">
+<li> CORRECTA </li>
+<li> INCORRECTA </li>
+<li> INCORRECTA </li>
+<li> INCORRECTA </li>
+</ol>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+No puede saberse con estos datos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+CORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+El del turno Tarde
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+INCORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Ambos tienen igual promedio
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+INCORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+El del turno Mañana
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+INCORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R043 Q1 : preguntas_html_R2019_0013 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p><strong>R2019_0013</strong>. Las notas promedio de los alumnos de los turnos mañana y tarde en una escuela tienen las siguientes medidas descriptivas:</p>
+<ul>
+<li>Turno mañana</li>
+</ul>
+<p>media = 8.33</p>
+<p>mediana = 8.39</p>
+<ul>
+<li>Turno tarde</li>
+</ul>
+<p>media = 8.13</p>
+<p>mediana = 7.99</p>
+<p>Dos estudiantes, uno del turno Mañana y el otro del turno tarde tienen ambos promedio de 9.52. ¿Cuál de los dos tiene mejor promedio <strong>respecto del grupo al que pertenece</strong>?</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<ol type = "a">
+<li> INCORRECTA </li>
+<li> CORRECTA </li>
+<li> INCORRECTA </li>
+<li> INCORRECTA </li>
+</ol>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Ambos tienen igual promedio
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+INCORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+No puede saberse con estos datos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+CORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+El del turno Mañana
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+INCORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+El del turno Tarde
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+INCORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R044 Q1 : preguntas_html_R2019_0013 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p><strong>R2019_0013</strong>. Las notas promedio de los alumnos de los turnos mañana y tarde en una escuela tienen las siguientes medidas descriptivas:</p>
+<ul>
+<li>Turno mañana</li>
+</ul>
+<p>media = 6.17</p>
+<p>mediana = 6.19</p>
+<ul>
+<li>Turno tarde</li>
+</ul>
+<p>media = 6.36</p>
+<p>mediana = 6.46</p>
+<p>Dos estudiantes, uno del turno Mañana y el otro del turno tarde tienen ambos promedio de 8.3. ¿Cuál de los dos tiene mejor promedio <strong>respecto del grupo al que pertenece</strong>?</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<ol type = "a">
+<li> INCORRECTA </li>
+<li> INCORRECTA </li>
+<li> INCORRECTA </li>
+<li> CORRECTA </li>
+</ol>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+El del turno Tarde
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+INCORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Ambos tienen igual promedio
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+INCORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+El del turno Mañana
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+INCORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+No puede saberse con estos datos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+CORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R045 Q1 : preguntas_html_R2019_0013 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p><strong>R2019_0013</strong>. Las notas promedio de los alumnos de los turnos mañana y tarde en una escuela tienen las siguientes medidas descriptivas:</p>
+<ul>
+<li>Turno mañana</li>
+</ul>
+<p>media = 8.73</p>
+<p>mediana = 8.76</p>
+<ul>
+<li>Turno tarde</li>
+</ul>
+<p>media = 8.85</p>
+<p>mediana = 9.02</p>
+<p>Dos estudiantes, uno del turno Mañana y el otro del turno tarde tienen ambos promedio de 9.65. ¿Cuál de los dos tiene mejor promedio <strong>respecto del grupo al que pertenece</strong>?</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<ol type = "a">
+<li> INCORRECTA </li>
+<li> INCORRECTA </li>
+<li> INCORRECTA </li>
+<li> CORRECTA </li>
+</ol>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+El del turno Mañana
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+INCORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Ambos tienen igual promedio
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+INCORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+El del turno Tarde
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+INCORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+No puede saberse con estos datos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+CORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R046 Q1 : preguntas_html_R2019_0013 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p><strong>R2019_0013</strong>. Las notas promedio de los alumnos de los turnos mañana y tarde en una escuela tienen las siguientes medidas descriptivas:</p>
+<ul>
+<li>Turno mañana</li>
+</ul>
+<p>media = 8.2</p>
+<p>mediana = 8.2</p>
+<ul>
+<li>Turno tarde</li>
+</ul>
+<p>media = 8.15</p>
+<p>mediana = 8.26</p>
+<p>Dos estudiantes, uno del turno Mañana y el otro del turno tarde tienen ambos promedio de 9.09. ¿Cuál de los dos tiene mejor promedio <strong>respecto del grupo al que pertenece</strong>?</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<ol type = "a">
+<li> INCORRECTA </li>
+<li> CORRECTA </li>
+<li> INCORRECTA </li>
+<li> INCORRECTA </li>
+</ol>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+El del turno Tarde
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+INCORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+No puede saberse con estos datos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+CORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+El del turno Mañana
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+INCORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Ambos tienen igual promedio
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+INCORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R047 Q1 : preguntas_html_R2019_0013 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p><strong>R2019_0013</strong>. Las notas promedio de los alumnos de los turnos mañana y tarde en una escuela tienen las siguientes medidas descriptivas:</p>
+<ul>
+<li>Turno mañana</li>
+</ul>
+<p>media = 7.61</p>
+<p>mediana = 7.58</p>
+<ul>
+<li>Turno tarde</li>
+</ul>
+<p>media = 7.58</p>
+<p>mediana = 7.56</p>
+<p>Dos estudiantes, uno del turno Mañana y el otro del turno tarde tienen ambos promedio de 8.13. ¿Cuál de los dos tiene mejor promedio <strong>respecto del grupo al que pertenece</strong>?</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<ol type = "a">
+<li> INCORRECTA </li>
+<li> INCORRECTA </li>
+<li> CORRECTA </li>
+<li> INCORRECTA </li>
+</ol>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+El del turno Tarde
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+INCORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+El del turno Mañana
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+INCORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+No puede saberse con estos datos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+CORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Ambos tienen igual promedio
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+INCORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R048 Q1 : preguntas_html_R2019_0013 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p><strong>R2019_0013</strong>. Las notas promedio de los alumnos de los turnos mañana y tarde en una escuela tienen las siguientes medidas descriptivas:</p>
+<ul>
+<li>Turno mañana</li>
+</ul>
+<p>media = 8.65</p>
+<p>mediana = 8.64</p>
+<ul>
+<li>Turno tarde</li>
+</ul>
+<p>media = 8.7</p>
+<p>mediana = 8.69</p>
+<p>Dos estudiantes, uno del turno Mañana y el otro del turno tarde tienen ambos promedio de 9.04. ¿Cuál de los dos tiene mejor promedio <strong>respecto del grupo al que pertenece</strong>?</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<ol type = "a">
+<li> INCORRECTA </li>
+<li> CORRECTA </li>
+<li> INCORRECTA </li>
+<li> INCORRECTA </li>
+</ol>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+El del turno Mañana
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+INCORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+No puede saberse con estos datos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+CORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Ambos tienen igual promedio
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+INCORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+El del turno Tarde
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+INCORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R049 Q1 : preguntas_html_R2019_0013 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p><strong>R2019_0013</strong>. Las notas promedio de los alumnos de los turnos mañana y tarde en una escuela tienen las siguientes medidas descriptivas:</p>
+<ul>
+<li>Turno mañana</li>
+</ul>
+<p>media = 8.33</p>
+<p>mediana = 8.31</p>
+<ul>
+<li>Turno tarde</li>
+</ul>
+<p>media = 8.84</p>
+<p>mediana = 9.06</p>
+<p>Dos estudiantes, uno del turno Mañana y el otro del turno tarde tienen ambos promedio de 9.2. ¿Cuál de los dos tiene mejor promedio <strong>respecto del grupo al que pertenece</strong>?</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<ol type = "a">
+<li> INCORRECTA </li>
+<li> INCORRECTA </li>
+<li> CORRECTA </li>
+<li> INCORRECTA </li>
+</ol>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Ambos tienen igual promedio
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+INCORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+El del turno Tarde
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+INCORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+No puede saberse con estos datos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+CORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+El del turno Mañana
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+INCORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R050 Q1 : preguntas_html_R2019_0013 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p><strong>R2019_0013</strong>. Las notas promedio de los alumnos de los turnos mañana y tarde en una escuela tienen las siguientes medidas descriptivas:</p>
+<ul>
+<li>Turno mañana</li>
+</ul>
+<p>media = 6.98</p>
+<p>mediana = 7.08</p>
+<ul>
+<li>Turno tarde</li>
+</ul>
+<p>media = 6.92</p>
+<p>mediana = 6.94</p>
+<p>Dos estudiantes, uno del turno Mañana y el otro del turno tarde tienen ambos promedio de 8.54. ¿Cuál de los dos tiene mejor promedio <strong>respecto del grupo al que pertenece</strong>?</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<ol type = "a">
+<li> INCORRECTA </li>
+<li> INCORRECTA </li>
+<li> CORRECTA </li>
+<li> INCORRECTA </li>
+</ol>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+El del turno Tarde
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+INCORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+El del turno Mañana
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+INCORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+No puede saberse con estos datos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+CORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Ambos tienen igual promedio
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+INCORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R051 Q1 : preguntas_html_R2019_0013 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p><strong>R2019_0013</strong>. Las notas promedio de los alumnos de los turnos mañana y tarde en una escuela tienen las siguientes medidas descriptivas:</p>
+<ul>
+<li>Turno mañana</li>
+</ul>
+<p>media = 6.76</p>
+<p>mediana = 6.76</p>
+<ul>
+<li>Turno tarde</li>
+</ul>
+<p>media = 6.76</p>
+<p>mediana = 6.76</p>
+<p>Dos estudiantes, uno del turno Mañana y el otro del turno tarde tienen ambos promedio de 9.03. ¿Cuál de los dos tiene mejor promedio <strong>respecto del grupo al que pertenece</strong>?</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<ol type = "a">
+<li> INCORRECTA </li>
+<li> INCORRECTA </li>
+<li> CORRECTA </li>
+<li> INCORRECTA </li>
+</ol>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+El del turno Mañana
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+INCORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+El del turno Tarde
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+INCORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+No puede saberse con estos datos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+CORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Ambos tienen igual promedio
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+INCORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R052 Q1 : preguntas_html_R2019_0013 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p><strong>R2019_0013</strong>. Las notas promedio de los alumnos de los turnos mañana y tarde en una escuela tienen las siguientes medidas descriptivas:</p>
+<ul>
+<li>Turno mañana</li>
+</ul>
+<p>media = 8.34</p>
+<p>mediana = 8.31</p>
+<ul>
+<li>Turno tarde</li>
+</ul>
+<p>media = 8.57</p>
+<p>mediana = 8.53</p>
+<p>Dos estudiantes, uno del turno Mañana y el otro del turno tarde tienen ambos promedio de 8.85. ¿Cuál de los dos tiene mejor promedio <strong>respecto del grupo al que pertenece</strong>?</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<ol type = "a">
+<li> INCORRECTA </li>
+<li> INCORRECTA </li>
+<li> CORRECTA </li>
+<li> INCORRECTA </li>
+</ol>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+El del turno Mañana
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+INCORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+El del turno Tarde
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+INCORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+No puede saberse con estos datos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+CORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Ambos tienen igual promedio
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+INCORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R053 Q1 : preguntas_html_R2019_0013 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p><strong>R2019_0013</strong>. Las notas promedio de los alumnos de los turnos mañana y tarde en una escuela tienen las siguientes medidas descriptivas:</p>
+<ul>
+<li>Turno mañana</li>
+</ul>
+<p>media = 6.06</p>
+<p>mediana = 6.04</p>
+<ul>
+<li>Turno tarde</li>
+</ul>
+<p>media = 6.15</p>
+<p>mediana = 6.22</p>
+<p>Dos estudiantes, uno del turno Mañana y el otro del turno tarde tienen ambos promedio de 7.55. ¿Cuál de los dos tiene mejor promedio <strong>respecto del grupo al que pertenece</strong>?</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<ol type = "a">
+<li> INCORRECTA </li>
+<li> INCORRECTA </li>
+<li> INCORRECTA </li>
+<li> CORRECTA </li>
+</ol>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Ambos tienen igual promedio
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+INCORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+El del turno Mañana
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+INCORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+El del turno Tarde
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+INCORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+No puede saberse con estos datos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+CORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R054 Q1 : preguntas_html_R2019_0013 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p><strong>R2019_0013</strong>. Las notas promedio de los alumnos de los turnos mañana y tarde en una escuela tienen las siguientes medidas descriptivas:</p>
+<ul>
+<li>Turno mañana</li>
+</ul>
+<p>media = 8.93</p>
+<p>mediana = 8.91</p>
+<ul>
+<li>Turno tarde</li>
+</ul>
+<p>media = 9.07</p>
+<p>mediana = 9.09</p>
+<p>Dos estudiantes, uno del turno Mañana y el otro del turno tarde tienen ambos promedio de 9.48. ¿Cuál de los dos tiene mejor promedio <strong>respecto del grupo al que pertenece</strong>?</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<ol type = "a">
+<li> INCORRECTA </li>
+<li> INCORRECTA </li>
+<li> INCORRECTA </li>
+<li> CORRECTA </li>
+</ol>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+El del turno Tarde
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+INCORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+El del turno Mañana
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+INCORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Ambos tienen igual promedio
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+INCORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+No puede saberse con estos datos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+CORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R055 Q1 : preguntas_html_R2019_0013 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p><strong>R2019_0013</strong>. Las notas promedio de los alumnos de los turnos mañana y tarde en una escuela tienen las siguientes medidas descriptivas:</p>
+<ul>
+<li>Turno mañana</li>
+</ul>
+<p>media = 7.35</p>
+<p>mediana = 7.28</p>
+<ul>
+<li>Turno tarde</li>
+</ul>
+<p>media = 7.14</p>
+<p>mediana = 7.26</p>
+<p>Dos estudiantes, uno del turno Mañana y el otro del turno tarde tienen ambos promedio de 9.6. ¿Cuál de los dos tiene mejor promedio <strong>respecto del grupo al que pertenece</strong>?</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<ol type = "a">
+<li> CORRECTA </li>
+<li> INCORRECTA </li>
+<li> INCORRECTA </li>
+<li> INCORRECTA </li>
+</ol>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+No puede saberse con estos datos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+CORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+El del turno Mañana
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+INCORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Ambos tienen igual promedio
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+INCORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+El del turno Tarde
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+INCORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R056 Q1 : preguntas_html_R2019_0013 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p><strong>R2019_0013</strong>. Las notas promedio de los alumnos de los turnos mañana y tarde en una escuela tienen las siguientes medidas descriptivas:</p>
+<ul>
+<li>Turno mañana</li>
+</ul>
+<p>media = 6.73</p>
+<p>mediana = 6.69</p>
+<ul>
+<li>Turno tarde</li>
+</ul>
+<p>media = 6.74</p>
+<p>mediana = 6.76</p>
+<p>Dos estudiantes, uno del turno Mañana y el otro del turno tarde tienen ambos promedio de 9.5. ¿Cuál de los dos tiene mejor promedio <strong>respecto del grupo al que pertenece</strong>?</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<ol type = "a">
+<li> CORRECTA </li>
+<li> INCORRECTA </li>
+<li> INCORRECTA </li>
+<li> INCORRECTA </li>
+</ol>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+No puede saberse con estos datos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+CORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+El del turno Tarde
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+INCORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+El del turno Mañana
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+INCORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Ambos tienen igual promedio
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+INCORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R057 Q1 : preguntas_html_R2019_0013 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p><strong>R2019_0013</strong>. Las notas promedio de los alumnos de los turnos mañana y tarde en una escuela tienen las siguientes medidas descriptivas:</p>
+<ul>
+<li>Turno mañana</li>
+</ul>
+<p>media = 7.89</p>
+<p>mediana = 7.9</p>
+<ul>
+<li>Turno tarde</li>
+</ul>
+<p>media = 7.79</p>
+<p>mediana = 7.81</p>
+<p>Dos estudiantes, uno del turno Mañana y el otro del turno tarde tienen ambos promedio de 8.44. ¿Cuál de los dos tiene mejor promedio <strong>respecto del grupo al que pertenece</strong>?</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<ol type = "a">
+<li> INCORRECTA </li>
+<li> CORRECTA </li>
+<li> INCORRECTA </li>
+<li> INCORRECTA </li>
+</ol>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+El del turno Mañana
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+INCORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+No puede saberse con estos datos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+CORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+El del turno Tarde
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+INCORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Ambos tienen igual promedio
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+INCORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R058 Q1 : preguntas_html_R2019_0013 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p><strong>R2019_0013</strong>. Las notas promedio de los alumnos de los turnos mañana y tarde en una escuela tienen las siguientes medidas descriptivas:</p>
+<ul>
+<li>Turno mañana</li>
+</ul>
+<p>media = 7.31</p>
+<p>mediana = 7.39</p>
+<ul>
+<li>Turno tarde</li>
+</ul>
+<p>media = 7.11</p>
+<p>mediana = 7.01</p>
+<p>Dos estudiantes, uno del turno Mañana y el otro del turno tarde tienen ambos promedio de 9.55. ¿Cuál de los dos tiene mejor promedio <strong>respecto del grupo al que pertenece</strong>?</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<ol type = "a">
+<li> INCORRECTA </li>
+<li> INCORRECTA </li>
+<li> CORRECTA </li>
+<li> INCORRECTA </li>
+</ol>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Ambos tienen igual promedio
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+INCORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+El del turno Mañana
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+INCORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+No puede saberse con estos datos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+CORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+El del turno Tarde
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+INCORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R059 Q1 : preguntas_html_R2019_0013 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p><strong>R2019_0013</strong>. Las notas promedio de los alumnos de los turnos mañana y tarde en una escuela tienen las siguientes medidas descriptivas:</p>
+<ul>
+<li>Turno mañana</li>
+</ul>
+<p>media = 6.42</p>
+<p>mediana = 6.48</p>
+<ul>
+<li>Turno tarde</li>
+</ul>
+<p>media = 6.41</p>
+<p>mediana = 6.38</p>
+<p>Dos estudiantes, uno del turno Mañana y el otro del turno tarde tienen ambos promedio de 7.28. ¿Cuál de los dos tiene mejor promedio <strong>respecto del grupo al que pertenece</strong>?</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<ol type = "a">
+<li> INCORRECTA </li>
+<li> INCORRECTA </li>
+<li> CORRECTA </li>
+<li> INCORRECTA </li>
+</ol>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+El del turno Mañana
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+INCORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Ambos tienen igual promedio
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+INCORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+No puede saberse con estos datos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+CORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+El del turno Tarde
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+INCORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R060 Q1 : preguntas_html_R2019_0013 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p><strong>R2019_0013</strong>. Las notas promedio de los alumnos de los turnos mañana y tarde en una escuela tienen las siguientes medidas descriptivas:</p>
+<ul>
+<li>Turno mañana</li>
+</ul>
+<p>media = 6.94</p>
+<p>mediana = 7</p>
+<ul>
+<li>Turno tarde</li>
+</ul>
+<p>media = 6.66</p>
+<p>mediana = 6.47</p>
+<p>Dos estudiantes, uno del turno Mañana y el otro del turno tarde tienen ambos promedio de 8.45. ¿Cuál de los dos tiene mejor promedio <strong>respecto del grupo al que pertenece</strong>?</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<ol type = "a">
+<li> CORRECTA </li>
+<li> INCORRECTA </li>
+<li> INCORRECTA </li>
+<li> INCORRECTA </li>
+</ol>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+No puede saberse con estos datos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+CORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+El del turno Tarde
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+INCORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Ambos tienen igual promedio
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+INCORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+El del turno Mañana
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+INCORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R061 Q1 : preguntas_html_R2019_0013 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p><strong>R2019_0013</strong>. Las notas promedio de los alumnos de los turnos mañana y tarde en una escuela tienen las siguientes medidas descriptivas:</p>
+<ul>
+<li>Turno mañana</li>
+</ul>
+<p>media = 8.01</p>
+<p>mediana = 7.99</p>
+<ul>
+<li>Turno tarde</li>
+</ul>
+<p>media = 8.24</p>
+<p>mediana = 8.03</p>
+<p>Dos estudiantes, uno del turno Mañana y el otro del turno tarde tienen ambos promedio de 8.26. ¿Cuál de los dos tiene mejor promedio <strong>respecto del grupo al que pertenece</strong>?</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<ol type = "a">
+<li> INCORRECTA </li>
+<li> INCORRECTA </li>
+<li> INCORRECTA </li>
+<li> CORRECTA </li>
+</ol>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+El del turno Tarde
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+INCORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+El del turno Mañana
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+INCORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Ambos tienen igual promedio
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+INCORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+No puede saberse con estos datos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+CORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R062 Q1 : preguntas_html_R2019_0013 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p><strong>R2019_0013</strong>. Las notas promedio de los alumnos de los turnos mañana y tarde en una escuela tienen las siguientes medidas descriptivas:</p>
+<ul>
+<li>Turno mañana</li>
+</ul>
+<p>media = 6.14</p>
+<p>mediana = 6.12</p>
+<ul>
+<li>Turno tarde</li>
+</ul>
+<p>media = 5.92</p>
+<p>mediana = 5.83</p>
+<p>Dos estudiantes, uno del turno Mañana y el otro del turno tarde tienen ambos promedio de 8.92. ¿Cuál de los dos tiene mejor promedio <strong>respecto del grupo al que pertenece</strong>?</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<ol type = "a">
+<li> CORRECTA </li>
+<li> INCORRECTA </li>
+<li> INCORRECTA </li>
+<li> INCORRECTA </li>
+</ol>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+No puede saberse con estos datos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+CORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+El del turno Mañana
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+INCORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+El del turno Tarde
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+INCORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Ambos tienen igual promedio
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+INCORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R063 Q1 : preguntas_html_R2019_0013 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p><strong>R2019_0013</strong>. Las notas promedio de los alumnos de los turnos mañana y tarde en una escuela tienen las siguientes medidas descriptivas:</p>
+<ul>
+<li>Turno mañana</li>
+</ul>
+<p>media = 7.38</p>
+<p>mediana = 7.31</p>
+<ul>
+<li>Turno tarde</li>
+</ul>
+<p>media = 7.33</p>
+<p>mediana = 7.42</p>
+<p>Dos estudiantes, uno del turno Mañana y el otro del turno tarde tienen ambos promedio de 8.48. ¿Cuál de los dos tiene mejor promedio <strong>respecto del grupo al que pertenece</strong>?</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<ol type = "a">
+<li> INCORRECTA </li>
+<li> INCORRECTA </li>
+<li> INCORRECTA </li>
+<li> CORRECTA </li>
+</ol>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+El del turno Tarde
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+INCORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+El del turno Mañana
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+INCORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Ambos tienen igual promedio
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+INCORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+No puede saberse con estos datos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+CORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R064 Q1 : preguntas_html_R2019_0013 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p><strong>R2019_0013</strong>. Las notas promedio de los alumnos de los turnos mañana y tarde en una escuela tienen las siguientes medidas descriptivas:</p>
+<ul>
+<li>Turno mañana</li>
+</ul>
+<p>media = 6.22</p>
+<p>mediana = 6.22</p>
+<ul>
+<li>Turno tarde</li>
+</ul>
+<p>media = 6.23</p>
+<p>mediana = 6.19</p>
+<p>Dos estudiantes, uno del turno Mañana y el otro del turno tarde tienen ambos promedio de 7.81. ¿Cuál de los dos tiene mejor promedio <strong>respecto del grupo al que pertenece</strong>?</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<ol type = "a">
+<li> INCORRECTA </li>
+<li> CORRECTA </li>
+<li> INCORRECTA </li>
+<li> INCORRECTA </li>
+</ol>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+El del turno Tarde
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+INCORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+No puede saberse con estos datos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+CORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+El del turno Mañana
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+INCORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Ambos tienen igual promedio
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+INCORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R065 Q1 : preguntas_html_R2019_0013 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p><strong>R2019_0013</strong>. Las notas promedio de los alumnos de los turnos mañana y tarde en una escuela tienen las siguientes medidas descriptivas:</p>
+<ul>
+<li>Turno mañana</li>
+</ul>
+<p>media = 8.34</p>
+<p>mediana = 8.33</p>
+<ul>
+<li>Turno tarde</li>
+</ul>
+<p>media = 8.35</p>
+<p>mediana = 8.14</p>
+<p>Dos estudiantes, uno del turno Mañana y el otro del turno tarde tienen ambos promedio de 9.7. ¿Cuál de los dos tiene mejor promedio <strong>respecto del grupo al que pertenece</strong>?</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<ol type = "a">
+<li> INCORRECTA </li>
+<li> INCORRECTA </li>
+<li> INCORRECTA </li>
+<li> CORRECTA </li>
+</ol>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+El del turno Tarde
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+INCORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+El del turno Mañana
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+INCORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Ambos tienen igual promedio
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+INCORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+No puede saberse con estos datos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+CORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R066 Q1 : preguntas_html_R2019_0013 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p><strong>R2019_0013</strong>. Las notas promedio de los alumnos de los turnos mañana y tarde en una escuela tienen las siguientes medidas descriptivas:</p>
+<ul>
+<li>Turno mañana</li>
+</ul>
+<p>media = 6.58</p>
+<p>mediana = 6.5</p>
+<ul>
+<li>Turno tarde</li>
+</ul>
+<p>media = 6.83</p>
+<p>mediana = 6.83</p>
+<p>Dos estudiantes, uno del turno Mañana y el otro del turno tarde tienen ambos promedio de 9.23. ¿Cuál de los dos tiene mejor promedio <strong>respecto del grupo al que pertenece</strong>?</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<ol type = "a">
+<li> INCORRECTA </li>
+<li> INCORRECTA </li>
+<li> INCORRECTA </li>
+<li> CORRECTA </li>
+</ol>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+El del turno Mañana
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+INCORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+El del turno Tarde
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+INCORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Ambos tienen igual promedio
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+INCORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+No puede saberse con estos datos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+CORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R067 Q1 : preguntas_html_R2019_0013 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p><strong>R2019_0013</strong>. Las notas promedio de los alumnos de los turnos mañana y tarde en una escuela tienen las siguientes medidas descriptivas:</p>
+<ul>
+<li>Turno mañana</li>
+</ul>
+<p>media = 6.57</p>
+<p>mediana = 6.53</p>
+<ul>
+<li>Turno tarde</li>
+</ul>
+<p>media = 6.35</p>
+<p>mediana = 6.43</p>
+<p>Dos estudiantes, uno del turno Mañana y el otro del turno tarde tienen ambos promedio de 6.63. ¿Cuál de los dos tiene mejor promedio <strong>respecto del grupo al que pertenece</strong>?</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<ol type = "a">
+<li> INCORRECTA </li>
+<li> INCORRECTA </li>
+<li> INCORRECTA </li>
+<li> CORRECTA </li>
+</ol>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+El del turno Mañana
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+INCORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+El del turno Tarde
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+INCORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Ambos tienen igual promedio
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+INCORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+No puede saberse con estos datos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+CORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R068 Q1 : preguntas_html_R2019_0013 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p><strong>R2019_0013</strong>. Las notas promedio de los alumnos de los turnos mañana y tarde en una escuela tienen las siguientes medidas descriptivas:</p>
+<ul>
+<li>Turno mañana</li>
+</ul>
+<p>media = 7.51</p>
+<p>mediana = 7.37</p>
+<ul>
+<li>Turno tarde</li>
+</ul>
+<p>media = 7.63</p>
+<p>mediana = 7.64</p>
+<p>Dos estudiantes, uno del turno Mañana y el otro del turno tarde tienen ambos promedio de 8.73. ¿Cuál de los dos tiene mejor promedio <strong>respecto del grupo al que pertenece</strong>?</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<ol type = "a">
+<li> INCORRECTA </li>
+<li> INCORRECTA </li>
+<li> CORRECTA </li>
+<li> INCORRECTA </li>
+</ol>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Ambos tienen igual promedio
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+INCORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+El del turno Tarde
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+INCORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+No puede saberse con estos datos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+CORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+El del turno Mañana
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+INCORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R069 Q1 : preguntas_html_R2019_0013 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p><strong>R2019_0013</strong>. Las notas promedio de los alumnos de los turnos mañana y tarde en una escuela tienen las siguientes medidas descriptivas:</p>
+<ul>
+<li>Turno mañana</li>
+</ul>
+<p>media = 8.99</p>
+<p>mediana = 8.99</p>
+<ul>
+<li>Turno tarde</li>
+</ul>
+<p>media = 9</p>
+<p>mediana = 8.94</p>
+<p>Dos estudiantes, uno del turno Mañana y el otro del turno tarde tienen ambos promedio de 9.11. ¿Cuál de los dos tiene mejor promedio <strong>respecto del grupo al que pertenece</strong>?</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<ol type = "a">
+<li> INCORRECTA </li>
+<li> INCORRECTA </li>
+<li> INCORRECTA </li>
+<li> CORRECTA </li>
+</ol>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+El del turno Mañana
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+INCORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+El del turno Tarde
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+INCORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Ambos tienen igual promedio
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+INCORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+No puede saberse con estos datos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+CORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R070 Q1 : preguntas_html_R2019_0013 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p><strong>R2019_0013</strong>. Las notas promedio de los alumnos de los turnos mañana y tarde en una escuela tienen las siguientes medidas descriptivas:</p>
+<ul>
+<li>Turno mañana</li>
+</ul>
+<p>media = 7.26</p>
+<p>mediana = 7.33</p>
+<ul>
+<li>Turno tarde</li>
+</ul>
+<p>media = 7.2</p>
+<p>mediana = 7.08</p>
+<p>Dos estudiantes, uno del turno Mañana y el otro del turno tarde tienen ambos promedio de 9. ¿Cuál de los dos tiene mejor promedio <strong>respecto del grupo al que pertenece</strong>?</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<ol type = "a">
+<li> INCORRECTA </li>
+<li> CORRECTA </li>
+<li> INCORRECTA </li>
+<li> INCORRECTA </li>
+</ol>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Ambos tienen igual promedio
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+INCORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+No puede saberse con estos datos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+CORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+El del turno Tarde
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+INCORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+El del turno Mañana
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+INCORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R071 Q1 : preguntas_html_R2019_0013 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p><strong>R2019_0013</strong>. Las notas promedio de los alumnos de los turnos mañana y tarde en una escuela tienen las siguientes medidas descriptivas:</p>
+<ul>
+<li>Turno mañana</li>
+</ul>
+<p>media = 6.92</p>
+<p>mediana = 6.86</p>
+<ul>
+<li>Turno tarde</li>
+</ul>
+<p>media = 7</p>
+<p>mediana = 7.03</p>
+<p>Dos estudiantes, uno del turno Mañana y el otro del turno tarde tienen ambos promedio de 8.88. ¿Cuál de los dos tiene mejor promedio <strong>respecto del grupo al que pertenece</strong>?</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<ol type = "a">
+<li> INCORRECTA </li>
+<li> INCORRECTA </li>
+<li> INCORRECTA </li>
+<li> CORRECTA </li>
+</ol>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+El del turno Tarde
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+INCORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+El del turno Mañana
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+INCORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Ambos tienen igual promedio
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+INCORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+No puede saberse con estos datos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+CORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R072 Q1 : preguntas_html_R2019_0013 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p><strong>R2019_0013</strong>. Las notas promedio de los alumnos de los turnos mañana y tarde en una escuela tienen las siguientes medidas descriptivas:</p>
+<ul>
+<li>Turno mañana</li>
+</ul>
+<p>media = 7.83</p>
+<p>mediana = 7.85</p>
+<ul>
+<li>Turno tarde</li>
+</ul>
+<p>media = 7.79</p>
+<p>mediana = 7.7</p>
+<p>Dos estudiantes, uno del turno Mañana y el otro del turno tarde tienen ambos promedio de 8.78. ¿Cuál de los dos tiene mejor promedio <strong>respecto del grupo al que pertenece</strong>?</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<ol type = "a">
+<li> CORRECTA </li>
+<li> INCORRECTA </li>
+<li> INCORRECTA </li>
+<li> INCORRECTA </li>
+</ol>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+No puede saberse con estos datos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+CORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Ambos tienen igual promedio
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+INCORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+El del turno Mañana
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+INCORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+El del turno Tarde
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+INCORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R073 Q1 : preguntas_html_R2019_0013 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p><strong>R2019_0013</strong>. Las notas promedio de los alumnos de los turnos mañana y tarde en una escuela tienen las siguientes medidas descriptivas:</p>
+<ul>
+<li>Turno mañana</li>
+</ul>
+<p>media = 7.03</p>
+<p>mediana = 7.07</p>
+<ul>
+<li>Turno tarde</li>
+</ul>
+<p>media = 7.14</p>
+<p>mediana = 6.96</p>
+<p>Dos estudiantes, uno del turno Mañana y el otro del turno tarde tienen ambos promedio de 8.42. ¿Cuál de los dos tiene mejor promedio <strong>respecto del grupo al que pertenece</strong>?</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<ol type = "a">
+<li> CORRECTA </li>
+<li> INCORRECTA </li>
+<li> INCORRECTA </li>
+<li> INCORRECTA </li>
+</ol>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+No puede saberse con estos datos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+CORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Ambos tienen igual promedio
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+INCORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+El del turno Mañana
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+INCORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+El del turno Tarde
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+INCORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R074 Q1 : preguntas_html_R2019_0013 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p><strong>R2019_0013</strong>. Las notas promedio de los alumnos de los turnos mañana y tarde en una escuela tienen las siguientes medidas descriptivas:</p>
+<ul>
+<li>Turno mañana</li>
+</ul>
+<p>media = 8.15</p>
+<p>mediana = 8.16</p>
+<ul>
+<li>Turno tarde</li>
+</ul>
+<p>media = 7.88</p>
+<p>mediana = 8.14</p>
+<p>Dos estudiantes, uno del turno Mañana y el otro del turno tarde tienen ambos promedio de 9.08. ¿Cuál de los dos tiene mejor promedio <strong>respecto del grupo al que pertenece</strong>?</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<ol type = "a">
+<li> INCORRECTA </li>
+<li> INCORRECTA </li>
+<li> INCORRECTA </li>
+<li> CORRECTA </li>
+</ol>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+El del turno Tarde
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+INCORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Ambos tienen igual promedio
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+INCORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+El del turno Mañana
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+INCORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+No puede saberse con estos datos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+CORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R075 Q1 : preguntas_html_R2019_0013 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p><strong>R2019_0013</strong>. Las notas promedio de los alumnos de los turnos mañana y tarde en una escuela tienen las siguientes medidas descriptivas:</p>
+<ul>
+<li>Turno mañana</li>
+</ul>
+<p>media = 7.28</p>
+<p>mediana = 7.25</p>
+<ul>
+<li>Turno tarde</li>
+</ul>
+<p>media = 7.24</p>
+<p>mediana = 7.27</p>
+<p>Dos estudiantes, uno del turno Mañana y el otro del turno tarde tienen ambos promedio de 9.63. ¿Cuál de los dos tiene mejor promedio <strong>respecto del grupo al que pertenece</strong>?</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<ol type = "a">
+<li> INCORRECTA </li>
+<li> CORRECTA </li>
+<li> INCORRECTA </li>
+<li> INCORRECTA </li>
+</ol>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Ambos tienen igual promedio
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+INCORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+No puede saberse con estos datos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+CORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+El del turno Tarde
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+INCORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+El del turno Mañana
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+INCORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R076 Q1 : preguntas_html_R2019_0013 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p><strong>R2019_0013</strong>. Las notas promedio de los alumnos de los turnos mañana y tarde en una escuela tienen las siguientes medidas descriptivas:</p>
+<ul>
+<li>Turno mañana</li>
+</ul>
+<p>media = 6.25</p>
+<p>mediana = 6.24</p>
+<ul>
+<li>Turno tarde</li>
+</ul>
+<p>media = 6.21</p>
+<p>mediana = 6.19</p>
+<p>Dos estudiantes, uno del turno Mañana y el otro del turno tarde tienen ambos promedio de 7.41. ¿Cuál de los dos tiene mejor promedio <strong>respecto del grupo al que pertenece</strong>?</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<ol type = "a">
+<li> INCORRECTA </li>
+<li> INCORRECTA </li>
+<li> INCORRECTA </li>
+<li> CORRECTA </li>
+</ol>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Ambos tienen igual promedio
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+INCORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+El del turno Mañana
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+INCORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+El del turno Tarde
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+INCORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+No puede saberse con estos datos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+CORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R077 Q1 : preguntas_html_R2019_0013 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p><strong>R2019_0013</strong>. Las notas promedio de los alumnos de los turnos mañana y tarde en una escuela tienen las siguientes medidas descriptivas:</p>
+<ul>
+<li>Turno mañana</li>
+</ul>
+<p>media = 6.76</p>
+<p>mediana = 6.77</p>
+<ul>
+<li>Turno tarde</li>
+</ul>
+<p>media = 6.89</p>
+<p>mediana = 6.86</p>
+<p>Dos estudiantes, uno del turno Mañana y el otro del turno tarde tienen ambos promedio de 9.53. ¿Cuál de los dos tiene mejor promedio <strong>respecto del grupo al que pertenece</strong>?</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<ol type = "a">
+<li> INCORRECTA </li>
+<li> CORRECTA </li>
+<li> INCORRECTA </li>
+<li> INCORRECTA </li>
+</ol>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Ambos tienen igual promedio
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+INCORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+No puede saberse con estos datos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+CORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+El del turno Tarde
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+INCORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+El del turno Mañana
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+INCORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R078 Q1 : preguntas_html_R2019_0013 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p><strong>R2019_0013</strong>. Las notas promedio de los alumnos de los turnos mañana y tarde en una escuela tienen las siguientes medidas descriptivas:</p>
+<ul>
+<li>Turno mañana</li>
+</ul>
+<p>media = 6.09</p>
+<p>mediana = 6.05</p>
+<ul>
+<li>Turno tarde</li>
+</ul>
+<p>media = 6.1</p>
+<p>mediana = 5.97</p>
+<p>Dos estudiantes, uno del turno Mañana y el otro del turno tarde tienen ambos promedio de 7.66. ¿Cuál de los dos tiene mejor promedio <strong>respecto del grupo al que pertenece</strong>?</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<ol type = "a">
+<li> INCORRECTA </li>
+<li> CORRECTA </li>
+<li> INCORRECTA </li>
+<li> INCORRECTA </li>
+</ol>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+El del turno Mañana
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+INCORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+No puede saberse con estos datos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+CORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Ambos tienen igual promedio
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+INCORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+El del turno Tarde
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+INCORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R079 Q1 : preguntas_html_R2019_0013 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p><strong>R2019_0013</strong>. Las notas promedio de los alumnos de los turnos mañana y tarde en una escuela tienen las siguientes medidas descriptivas:</p>
+<ul>
+<li>Turno mañana</li>
+</ul>
+<p>media = 6.83</p>
+<p>mediana = 6.91</p>
+<ul>
+<li>Turno tarde</li>
+</ul>
+<p>media = 7.01</p>
+<p>mediana = 7.02</p>
+<p>Dos estudiantes, uno del turno Mañana y el otro del turno tarde tienen ambos promedio de 8.02. ¿Cuál de los dos tiene mejor promedio <strong>respecto del grupo al que pertenece</strong>?</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<ol type = "a">
+<li> INCORRECTA </li>
+<li> INCORRECTA </li>
+<li> INCORRECTA </li>
+<li> CORRECTA </li>
+</ol>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+El del turno Tarde
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+INCORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+El del turno Mañana
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+INCORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Ambos tienen igual promedio
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+INCORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+No puede saberse con estos datos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+CORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R080 Q1 : preguntas_html_R2019_0013 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p><strong>R2019_0013</strong>. Las notas promedio de los alumnos de los turnos mañana y tarde en una escuela tienen las siguientes medidas descriptivas:</p>
+<ul>
+<li>Turno mañana</li>
+</ul>
+<p>media = 8.65</p>
+<p>mediana = 8.54</p>
+<ul>
+<li>Turno tarde</li>
+</ul>
+<p>media = 8.76</p>
+<p>mediana = 8.63</p>
+<p>Dos estudiantes, uno del turno Mañana y el otro del turno tarde tienen ambos promedio de 9.73. ¿Cuál de los dos tiene mejor promedio <strong>respecto del grupo al que pertenece</strong>?</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<ol type = "a">
+<li> INCORRECTA </li>
+<li> INCORRECTA </li>
+<li> INCORRECTA </li>
+<li> CORRECTA </li>
+</ol>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+El del turno Tarde
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+INCORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Ambos tienen igual promedio
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+INCORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+El del turno Mañana
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+INCORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+No puede saberse con estos datos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+CORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R081 Q1 : preguntas_html_R2019_0013 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p><strong>R2019_0013</strong>. Las notas promedio de los alumnos de los turnos mañana y tarde en una escuela tienen las siguientes medidas descriptivas:</p>
+<ul>
+<li>Turno mañana</li>
+</ul>
+<p>media = 6.74</p>
+<p>mediana = 6.78</p>
+<ul>
+<li>Turno tarde</li>
+</ul>
+<p>media = 7.04</p>
+<p>mediana = 7.02</p>
+<p>Dos estudiantes, uno del turno Mañana y el otro del turno tarde tienen ambos promedio de 7.74. ¿Cuál de los dos tiene mejor promedio <strong>respecto del grupo al que pertenece</strong>?</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<ol type = "a">
+<li> INCORRECTA </li>
+<li> INCORRECTA </li>
+<li> INCORRECTA </li>
+<li> CORRECTA </li>
+</ol>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+El del turno Mañana
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+INCORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+El del turno Tarde
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+INCORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Ambos tienen igual promedio
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+INCORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+No puede saberse con estos datos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+CORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R082 Q1 : preguntas_html_R2019_0013 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p><strong>R2019_0013</strong>. Las notas promedio de los alumnos de los turnos mañana y tarde en una escuela tienen las siguientes medidas descriptivas:</p>
+<ul>
+<li>Turno mañana</li>
+</ul>
+<p>media = 7.85</p>
+<p>mediana = 7.88</p>
+<ul>
+<li>Turno tarde</li>
+</ul>
+<p>media = 7.95</p>
+<p>mediana = 8.03</p>
+<p>Dos estudiantes, uno del turno Mañana y el otro del turno tarde tienen ambos promedio de 9.18. ¿Cuál de los dos tiene mejor promedio <strong>respecto del grupo al que pertenece</strong>?</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<ol type = "a">
+<li> INCORRECTA </li>
+<li> CORRECTA </li>
+<li> INCORRECTA </li>
+<li> INCORRECTA </li>
+</ol>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+El del turno Tarde
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+INCORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+No puede saberse con estos datos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+CORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+El del turno Mañana
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+INCORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Ambos tienen igual promedio
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+INCORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R083 Q1 : preguntas_html_R2019_0013 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p><strong>R2019_0013</strong>. Las notas promedio de los alumnos de los turnos mañana y tarde en una escuela tienen las siguientes medidas descriptivas:</p>
+<ul>
+<li>Turno mañana</li>
+</ul>
+<p>media = 6.27</p>
+<p>mediana = 6.28</p>
+<ul>
+<li>Turno tarde</li>
+</ul>
+<p>media = 6.27</p>
+<p>mediana = 6.19</p>
+<p>Dos estudiantes, uno del turno Mañana y el otro del turno tarde tienen ambos promedio de 7.04. ¿Cuál de los dos tiene mejor promedio <strong>respecto del grupo al que pertenece</strong>?</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<ol type = "a">
+<li> INCORRECTA </li>
+<li> INCORRECTA </li>
+<li> CORRECTA </li>
+<li> INCORRECTA </li>
+</ol>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+El del turno Tarde
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+INCORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Ambos tienen igual promedio
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+INCORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+No puede saberse con estos datos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+CORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+El del turno Mañana
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+INCORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R084 Q1 : preguntas_html_R2019_0013 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p><strong>R2019_0013</strong>. Las notas promedio de los alumnos de los turnos mañana y tarde en una escuela tienen las siguientes medidas descriptivas:</p>
+<ul>
+<li>Turno mañana</li>
+</ul>
+<p>media = 7.71</p>
+<p>mediana = 7.66</p>
+<ul>
+<li>Turno tarde</li>
+</ul>
+<p>media = 7.8</p>
+<p>mediana = 7.91</p>
+<p>Dos estudiantes, uno del turno Mañana y el otro del turno tarde tienen ambos promedio de 8.39. ¿Cuál de los dos tiene mejor promedio <strong>respecto del grupo al que pertenece</strong>?</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<ol type = "a">
+<li> INCORRECTA </li>
+<li> INCORRECTA </li>
+<li> CORRECTA </li>
+<li> INCORRECTA </li>
+</ol>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+El del turno Tarde
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+INCORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+El del turno Mañana
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+INCORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+No puede saberse con estos datos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+CORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Ambos tienen igual promedio
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+INCORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R085 Q1 : preguntas_html_R2019_0013 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p><strong>R2019_0013</strong>. Las notas promedio de los alumnos de los turnos mañana y tarde en una escuela tienen las siguientes medidas descriptivas:</p>
+<ul>
+<li>Turno mañana</li>
+</ul>
+<p>media = 6.54</p>
+<p>mediana = 6.55</p>
+<ul>
+<li>Turno tarde</li>
+</ul>
+<p>media = 6.46</p>
+<p>mediana = 6.52</p>
+<p>Dos estudiantes, uno del turno Mañana y el otro del turno tarde tienen ambos promedio de 7.24. ¿Cuál de los dos tiene mejor promedio <strong>respecto del grupo al que pertenece</strong>?</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<ol type = "a">
+<li> CORRECTA </li>
+<li> INCORRECTA </li>
+<li> INCORRECTA </li>
+<li> INCORRECTA </li>
+</ol>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+No puede saberse con estos datos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+CORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+El del turno Mañana
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+INCORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+El del turno Tarde
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+INCORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Ambos tienen igual promedio
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+INCORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R086 Q1 : preguntas_html_R2019_0013 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p><strong>R2019_0013</strong>. Las notas promedio de los alumnos de los turnos mañana y tarde en una escuela tienen las siguientes medidas descriptivas:</p>
+<ul>
+<li>Turno mañana</li>
+</ul>
+<p>media = 6.22</p>
+<p>mediana = 6.14</p>
+<ul>
+<li>Turno tarde</li>
+</ul>
+<p>media = 6.31</p>
+<p>mediana = 6.36</p>
+<p>Dos estudiantes, uno del turno Mañana y el otro del turno tarde tienen ambos promedio de 7.16. ¿Cuál de los dos tiene mejor promedio <strong>respecto del grupo al que pertenece</strong>?</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<ol type = "a">
+<li> INCORRECTA </li>
+<li> INCORRECTA </li>
+<li> CORRECTA </li>
+<li> INCORRECTA </li>
+</ol>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+El del turno Mañana
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+INCORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+El del turno Tarde
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+INCORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+No puede saberse con estos datos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+CORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Ambos tienen igual promedio
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+INCORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R087 Q1 : preguntas_html_R2019_0013 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p><strong>R2019_0013</strong>. Las notas promedio de los alumnos de los turnos mañana y tarde en una escuela tienen las siguientes medidas descriptivas:</p>
+<ul>
+<li>Turno mañana</li>
+</ul>
+<p>media = 6.07</p>
+<p>mediana = 6.1</p>
+<ul>
+<li>Turno tarde</li>
+</ul>
+<p>media = 6.15</p>
+<p>mediana = 5.98</p>
+<p>Dos estudiantes, uno del turno Mañana y el otro del turno tarde tienen ambos promedio de 9.4. ¿Cuál de los dos tiene mejor promedio <strong>respecto del grupo al que pertenece</strong>?</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<ol type = "a">
+<li> INCORRECTA </li>
+<li> INCORRECTA </li>
+<li> INCORRECTA </li>
+<li> CORRECTA </li>
+</ol>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+El del turno Tarde
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+INCORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Ambos tienen igual promedio
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+INCORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+El del turno Mañana
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+INCORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+No puede saberse con estos datos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+CORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R088 Q1 : preguntas_html_R2019_0013 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p><strong>R2019_0013</strong>. Las notas promedio de los alumnos de los turnos mañana y tarde en una escuela tienen las siguientes medidas descriptivas:</p>
+<ul>
+<li>Turno mañana</li>
+</ul>
+<p>media = 6.16</p>
+<p>mediana = 6.09</p>
+<ul>
+<li>Turno tarde</li>
+</ul>
+<p>media = 6.08</p>
+<p>mediana = 6.09</p>
+<p>Dos estudiantes, uno del turno Mañana y el otro del turno tarde tienen ambos promedio de 8.55. ¿Cuál de los dos tiene mejor promedio <strong>respecto del grupo al que pertenece</strong>?</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<ol type = "a">
+<li> CORRECTA </li>
+<li> INCORRECTA </li>
+<li> INCORRECTA </li>
+<li> INCORRECTA </li>
+</ol>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+No puede saberse con estos datos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+CORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Ambos tienen igual promedio
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+INCORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+El del turno Tarde
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+INCORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+El del turno Mañana
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+INCORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R089 Q1 : preguntas_html_R2019_0013 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p><strong>R2019_0013</strong>. Las notas promedio de los alumnos de los turnos mañana y tarde en una escuela tienen las siguientes medidas descriptivas:</p>
+<ul>
+<li>Turno mañana</li>
+</ul>
+<p>media = 6.85</p>
+<p>mediana = 6.84</p>
+<ul>
+<li>Turno tarde</li>
+</ul>
+<p>media = 6.75</p>
+<p>mediana = 6.8</p>
+<p>Dos estudiantes, uno del turno Mañana y el otro del turno tarde tienen ambos promedio de 9.69. ¿Cuál de los dos tiene mejor promedio <strong>respecto del grupo al que pertenece</strong>?</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<ol type = "a">
+<li> INCORRECTA </li>
+<li> CORRECTA </li>
+<li> INCORRECTA </li>
+<li> INCORRECTA </li>
+</ol>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+El del turno Tarde
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+INCORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+No puede saberse con estos datos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+CORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+El del turno Mañana
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+INCORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Ambos tienen igual promedio
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+INCORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R090 Q1 : preguntas_html_R2019_0013 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p><strong>R2019_0013</strong>. Las notas promedio de los alumnos de los turnos mañana y tarde en una escuela tienen las siguientes medidas descriptivas:</p>
+<ul>
+<li>Turno mañana</li>
+</ul>
+<p>media = 6.38</p>
+<p>mediana = 6.4</p>
+<ul>
+<li>Turno tarde</li>
+</ul>
+<p>media = 6.15</p>
+<p>mediana = 6.16</p>
+<p>Dos estudiantes, uno del turno Mañana y el otro del turno tarde tienen ambos promedio de 8.25. ¿Cuál de los dos tiene mejor promedio <strong>respecto del grupo al que pertenece</strong>?</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<ol type = "a">
+<li> INCORRECTA </li>
+<li> INCORRECTA </li>
+<li> INCORRECTA </li>
+<li> CORRECTA </li>
+</ol>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+El del turno Tarde
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+INCORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Ambos tienen igual promedio
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+INCORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+El del turno Mañana
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+INCORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+No puede saberse con estos datos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+CORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R091 Q1 : preguntas_html_R2019_0013 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p><strong>R2019_0013</strong>. Las notas promedio de los alumnos de los turnos mañana y tarde en una escuela tienen las siguientes medidas descriptivas:</p>
+<ul>
+<li>Turno mañana</li>
+</ul>
+<p>media = 8.31</p>
+<p>mediana = 8.27</p>
+<ul>
+<li>Turno tarde</li>
+</ul>
+<p>media = 8.29</p>
+<p>mediana = 8.57</p>
+<p>Dos estudiantes, uno del turno Mañana y el otro del turno tarde tienen ambos promedio de 9.6. ¿Cuál de los dos tiene mejor promedio <strong>respecto del grupo al que pertenece</strong>?</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<ol type = "a">
+<li> INCORRECTA </li>
+<li> INCORRECTA </li>
+<li> INCORRECTA </li>
+<li> CORRECTA </li>
+</ol>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+El del turno Mañana
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+INCORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+El del turno Tarde
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+INCORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Ambos tienen igual promedio
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+INCORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+No puede saberse con estos datos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+CORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R092 Q1 : preguntas_html_R2019_0013 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p><strong>R2019_0013</strong>. Las notas promedio de los alumnos de los turnos mañana y tarde en una escuela tienen las siguientes medidas descriptivas:</p>
+<ul>
+<li>Turno mañana</li>
+</ul>
+<p>media = 8.44</p>
+<p>mediana = 8.51</p>
+<ul>
+<li>Turno tarde</li>
+</ul>
+<p>media = 8.28</p>
+<p>mediana = 8.33</p>
+<p>Dos estudiantes, uno del turno Mañana y el otro del turno tarde tienen ambos promedio de 8.63. ¿Cuál de los dos tiene mejor promedio <strong>respecto del grupo al que pertenece</strong>?</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<ol type = "a">
+<li> INCORRECTA </li>
+<li> INCORRECTA </li>
+<li> INCORRECTA </li>
+<li> CORRECTA </li>
+</ol>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Ambos tienen igual promedio
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+INCORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+El del turno Tarde
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+INCORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+El del turno Mañana
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+INCORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+No puede saberse con estos datos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+CORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R093 Q1 : preguntas_html_R2019_0013 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p><strong>R2019_0013</strong>. Las notas promedio de los alumnos de los turnos mañana y tarde en una escuela tienen las siguientes medidas descriptivas:</p>
+<ul>
+<li>Turno mañana</li>
+</ul>
+<p>media = 7.67</p>
+<p>mediana = 7.69</p>
+<ul>
+<li>Turno tarde</li>
+</ul>
+<p>media = 7.82</p>
+<p>mediana = 7.65</p>
+<p>Dos estudiantes, uno del turno Mañana y el otro del turno tarde tienen ambos promedio de 9.51. ¿Cuál de los dos tiene mejor promedio <strong>respecto del grupo al que pertenece</strong>?</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<ol type = "a">
+<li> CORRECTA </li>
+<li> INCORRECTA </li>
+<li> INCORRECTA </li>
+<li> INCORRECTA </li>
+</ol>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+No puede saberse con estos datos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+CORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+El del turno Tarde
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+INCORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Ambos tienen igual promedio
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+INCORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+El del turno Mañana
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+INCORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R094 Q1 : preguntas_html_R2019_0013 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p><strong>R2019_0013</strong>. Las notas promedio de los alumnos de los turnos mañana y tarde en una escuela tienen las siguientes medidas descriptivas:</p>
+<ul>
+<li>Turno mañana</li>
+</ul>
+<p>media = 6.12</p>
+<p>mediana = 6.02</p>
+<ul>
+<li>Turno tarde</li>
+</ul>
+<p>media = 6.14</p>
+<p>mediana = 6.15</p>
+<p>Dos estudiantes, uno del turno Mañana y el otro del turno tarde tienen ambos promedio de 8.05. ¿Cuál de los dos tiene mejor promedio <strong>respecto del grupo al que pertenece</strong>?</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<ol type = "a">
+<li> INCORRECTA </li>
+<li> CORRECTA </li>
+<li> INCORRECTA </li>
+<li> INCORRECTA </li>
+</ol>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+El del turno Tarde
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+INCORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+No puede saberse con estos datos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+CORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+El del turno Mañana
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+INCORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Ambos tienen igual promedio
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+INCORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R095 Q1 : preguntas_html_R2019_0013 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p><strong>R2019_0013</strong>. Las notas promedio de los alumnos de los turnos mañana y tarde en una escuela tienen las siguientes medidas descriptivas:</p>
+<ul>
+<li>Turno mañana</li>
+</ul>
+<p>media = 6.54</p>
+<p>mediana = 6.5</p>
+<ul>
+<li>Turno tarde</li>
+</ul>
+<p>media = 6.3</p>
+<p>mediana = 6.48</p>
+<p>Dos estudiantes, uno del turno Mañana y el otro del turno tarde tienen ambos promedio de 8. ¿Cuál de los dos tiene mejor promedio <strong>respecto del grupo al que pertenece</strong>?</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<ol type = "a">
+<li> INCORRECTA </li>
+<li> INCORRECTA </li>
+<li> INCORRECTA </li>
+<li> CORRECTA </li>
+</ol>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Ambos tienen igual promedio
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+INCORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+El del turno Mañana
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+INCORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+El del turno Tarde
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+INCORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+No puede saberse con estos datos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+CORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R096 Q1 : preguntas_html_R2019_0013 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p><strong>R2019_0013</strong>. Las notas promedio de los alumnos de los turnos mañana y tarde en una escuela tienen las siguientes medidas descriptivas:</p>
+<ul>
+<li>Turno mañana</li>
+</ul>
+<p>media = 6.49</p>
+<p>mediana = 6.46</p>
+<ul>
+<li>Turno tarde</li>
+</ul>
+<p>media = 6.45</p>
+<p>mediana = 6.57</p>
+<p>Dos estudiantes, uno del turno Mañana y el otro del turno tarde tienen ambos promedio de 8.23. ¿Cuál de los dos tiene mejor promedio <strong>respecto del grupo al que pertenece</strong>?</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<ol type = "a">
+<li> INCORRECTA </li>
+<li> CORRECTA </li>
+<li> INCORRECTA </li>
+<li> INCORRECTA </li>
+</ol>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+El del turno Tarde
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+INCORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+No puede saberse con estos datos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+CORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Ambos tienen igual promedio
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+INCORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+El del turno Mañana
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+INCORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R097 Q1 : preguntas_html_R2019_0013 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p><strong>R2019_0013</strong>. Las notas promedio de los alumnos de los turnos mañana y tarde en una escuela tienen las siguientes medidas descriptivas:</p>
+<ul>
+<li>Turno mañana</li>
+</ul>
+<p>media = 6.68</p>
+<p>mediana = 6.76</p>
+<ul>
+<li>Turno tarde</li>
+</ul>
+<p>media = 6.76</p>
+<p>mediana = 6.86</p>
+<p>Dos estudiantes, uno del turno Mañana y el otro del turno tarde tienen ambos promedio de 9.8. ¿Cuál de los dos tiene mejor promedio <strong>respecto del grupo al que pertenece</strong>?</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<ol type = "a">
+<li> INCORRECTA </li>
+<li> CORRECTA </li>
+<li> INCORRECTA </li>
+<li> INCORRECTA </li>
+</ol>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+El del turno Mañana
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+INCORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+No puede saberse con estos datos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+CORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Ambos tienen igual promedio
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+INCORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+El del turno Tarde
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+INCORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R098 Q1 : preguntas_html_R2019_0013 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p><strong>R2019_0013</strong>. Las notas promedio de los alumnos de los turnos mañana y tarde en una escuela tienen las siguientes medidas descriptivas:</p>
+<ul>
+<li>Turno mañana</li>
+</ul>
+<p>media = 8.46</p>
+<p>mediana = 8.52</p>
+<ul>
+<li>Turno tarde</li>
+</ul>
+<p>media = 8.58</p>
+<p>mediana = 8.48</p>
+<p>Dos estudiantes, uno del turno Mañana y el otro del turno tarde tienen ambos promedio de 8.92. ¿Cuál de los dos tiene mejor promedio <strong>respecto del grupo al que pertenece</strong>?</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<ol type = "a">
+<li> CORRECTA </li>
+<li> INCORRECTA </li>
+<li> INCORRECTA </li>
+<li> INCORRECTA </li>
+</ol>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+No puede saberse con estos datos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+CORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Ambos tienen igual promedio
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+INCORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+El del turno Tarde
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+INCORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+El del turno Mañana
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+INCORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R099 Q1 : preguntas_html_R2019_0013 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p><strong>R2019_0013</strong>. Las notas promedio de los alumnos de los turnos mañana y tarde en una escuela tienen las siguientes medidas descriptivas:</p>
+<ul>
+<li>Turno mañana</li>
+</ul>
+<p>media = 8.19</p>
+<p>mediana = 8.16</p>
+<ul>
+<li>Turno tarde</li>
+</ul>
+<p>media = 8.12</p>
+<p>mediana = 8.12</p>
+<p>Dos estudiantes, uno del turno Mañana y el otro del turno tarde tienen ambos promedio de 9.19. ¿Cuál de los dos tiene mejor promedio <strong>respecto del grupo al que pertenece</strong>?</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<ol type = "a">
+<li> INCORRECTA </li>
+<li> INCORRECTA </li>
+<li> INCORRECTA </li>
+<li> CORRECTA </li>
+</ol>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+El del turno Tarde
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+INCORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+El del turno Mañana
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+INCORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Ambos tienen igual promedio
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+INCORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+No puede saberse con estos datos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+CORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R100 Q1 : preguntas_html_R2019_0013 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p><strong>R2019_0013</strong>. Las notas promedio de los alumnos de los turnos mañana y tarde en una escuela tienen las siguientes medidas descriptivas:</p>
+<ul>
+<li>Turno mañana</li>
+</ul>
+<p>media = 7.6</p>
+<p>mediana = 7.67</p>
+<ul>
+<li>Turno tarde</li>
+</ul>
+<p>media = 7.4</p>
+<p>mediana = 7.38</p>
+<p>Dos estudiantes, uno del turno Mañana y el otro del turno tarde tienen ambos promedio de 8.96. ¿Cuál de los dos tiene mejor promedio <strong>respecto del grupo al que pertenece</strong>?</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<ol type = "a">
+<li> INCORRECTA </li>
+<li> INCORRECTA </li>
+<li> INCORRECTA </li>
+<li> CORRECTA </li>
+</ol>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Ambos tienen igual promedio
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+INCORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+El del turno Tarde
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+INCORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+El del turno Mañana
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+INCORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+No puede saberse con estos datos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+CORRECTA
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+</quiz>

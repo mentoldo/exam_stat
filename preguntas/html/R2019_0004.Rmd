@@ -1,0 +1,36 @@
+```{r data generation, echo = FALSE, results = "hide"}
+## Los datos:
+b0=round(runif(1,min=.2, max=.9),2)
+b1=round(runif(1, min=1.9, max=2.9),2)
+## Preguntas y respuestas
+```
+
+
+Question
+========
+
+**R2019_0004**. Se modela el tiempo de reacción a un estímulo visual (expresado en segundos) como función de la concentración de alcohol en sangre (expresada en gramos). El modelo resultante es y = `r b0`+`r b1`*x. Cuando la concentración de alcohol aumenta en un gramo, se espera que el tiempo de reacción:
+
+Answerlist
+----------
+* Aumente en `r b1` segundos
+* Disminuya en `r b1` segundos
+* Aumente en `r b0` segundos
+* Disminuya en `r b0` segundos
+
+Solution
+========
+
+Answerlist
+----------
+* CORRECTA
+* INCORRECTA
+* INCORRECTA
+* INCORRECTA
+
+Meta-information
+============
+extype: schoice
+exname: R2019_0003
+exsolution: 1000
+exshuffle:TRUE

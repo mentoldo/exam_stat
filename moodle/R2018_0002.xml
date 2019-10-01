@@ -15,15 +15,15 @@
 </name>
 <questiontext format="html">
 <text><![CDATA[<p>
-<p><strong>R2018_0002</strong>. Si en una distribución de frecuencias, una categoría de la variable concentra al 88.08% de los casos, entonces la variable:</p>
+<p><strong>R2018_0002</strong>. Si en una distribución de frecuencias, una categoría de la variable concentra al 94.15% de los casos, entonces la variable:</p>
 </p>]]></text>
 </questiontext>
 <generalfeedback format="html">
 <text><![CDATA[<p>
 <ol type = "a">
 <li> FALSE </li>
-<li> FALSE </li>
 <li> TRUE </li>
+<li> FALSE </li>
 <li> FALSE </li>
 </ol>
 </p>]]></text>
@@ -33,6 +33,26 @@
 <shuffleanswers>false</shuffleanswers>
 <single>true</single>
 <answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+No puede conocerse la dispersión con estos datos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+Tiene poca dispersión
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+TRUE
+</p>]]></text>
+</feedback>
+</answer>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
 Es asimétrica
@@ -53,26 +73,6 @@ FALSE
 </p>]]></text>
 </feedback>
 </answer>
-<answer fraction="100" format="html">
-<text><![CDATA[<p>
-Tiene poca dispersión
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-TRUE
-</p>]]></text>
-</feedback>
-</answer>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
-No puede conocerse la dispersión con estos datos
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-FALSE
-</p>]]></text>
-</feedback>
-</answer>
 </question>
 
 
@@ -82,15 +82,15 @@ FALSE
 </name>
 <questiontext format="html">
 <text><![CDATA[<p>
-<p><strong>R2018_0002</strong>. Si en una distribución de frecuencias, una categoría de la variable concentra al 89.01% de los casos, entonces la variable:</p>
+<p><strong>R2018_0002</strong>. Si en una distribución de frecuencias, una categoría de la variable concentra al 94.26% de los casos, entonces la variable:</p>
 </p>]]></text>
 </questiontext>
 <generalfeedback format="html">
 <text><![CDATA[<p>
 <ol type = "a">
 <li> FALSE </li>
-<li> TRUE </li>
 <li> FALSE </li>
+<li> TRUE </li>
 <li> FALSE </li>
 </ol>
 </p>]]></text>
@@ -102,6 +102,16 @@ FALSE
 <answernumbering>abc</answernumbering>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
+Tiene mucha dispersión
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
 No puede conocerse la dispersión con estos datos
 </p>]]></text>
 <feedback format="html">
@@ -117,16 +127,6 @@ Tiene poca dispersión
 <feedback format="html">
 <text><![CDATA[<p>
 TRUE
-</p>]]></text>
-</feedback>
-</answer>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
-Tiene mucha dispersión
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-FALSE
 </p>]]></text>
 </feedback>
 </answer>
@@ -149,16 +149,16 @@ FALSE
 </name>
 <questiontext format="html">
 <text><![CDATA[<p>
-<p><strong>R2018_0002</strong>. Si en una distribución de frecuencias, una categoría de la variable concentra al 96.89% de los casos, entonces la variable:</p>
+<p><strong>R2018_0002</strong>. Si en una distribución de frecuencias, una categoría de la variable concentra al 94.1% de los casos, entonces la variable:</p>
 </p>]]></text>
 </questiontext>
 <generalfeedback format="html">
 <text><![CDATA[<p>
 <ol type = "a">
+<li> FALSE </li>
+<li> FALSE </li>
+<li> FALSE </li>
 <li> TRUE </li>
-<li> FALSE </li>
-<li> FALSE </li>
-<li> FALSE </li>
 </ol>
 </p>]]></text>
 </generalfeedback>
@@ -167,13 +167,13 @@ FALSE
 <shuffleanswers>false</shuffleanswers>
 <single>true</single>
 <answernumbering>abc</answernumbering>
-<answer fraction="100" format="html">
+<answer fraction="0" format="html">
 <text><![CDATA[<p>
-Tiene poca dispersión
+Tiene mucha dispersión
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
-TRUE
+FALSE
 </p>]]></text>
 </feedback>
 </answer>
@@ -189,7 +189,7 @@ FALSE
 </answer>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-Tiene mucha dispersión
+Es asimétrica
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -197,13 +197,13 @@ FALSE
 </p>]]></text>
 </feedback>
 </answer>
-<answer fraction="0" format="html">
+<answer fraction="100" format="html">
 <text><![CDATA[<p>
-Es asimétrica
+Tiene poca dispersión
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
-FALSE
+TRUE
 </p>]]></text>
 </feedback>
 </answer>
@@ -216,7 +216,7 @@ FALSE
 </name>
 <questiontext format="html">
 <text><![CDATA[<p>
-<p><strong>R2018_0002</strong>. Si en una distribución de frecuencias, una categoría de la variable concentra al 93.16% de los casos, entonces la variable:</p>
+<p><strong>R2018_0002</strong>. Si en una distribución de frecuencias, una categoría de la variable concentra al 93.13% de los casos, entonces la variable:</p>
 </p>]]></text>
 </questiontext>
 <generalfeedback format="html">
@@ -246,7 +246,7 @@ FALSE
 </answer>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-No puede conocerse la dispersión con estos datos
+Tiene mucha dispersión
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -256,7 +256,7 @@ FALSE
 </answer>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-Tiene mucha dispersión
+No puede conocerse la dispersión con estos datos
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -283,16 +283,16 @@ TRUE
 </name>
 <questiontext format="html">
 <text><![CDATA[<p>
-<p><strong>R2018_0002</strong>. Si en una distribución de frecuencias, una categoría de la variable concentra al 94.58% de los casos, entonces la variable:</p>
+<p><strong>R2018_0002</strong>. Si en una distribución de frecuencias, una categoría de la variable concentra al 93.45% de los casos, entonces la variable:</p>
 </p>]]></text>
 </questiontext>
 <generalfeedback format="html">
 <text><![CDATA[<p>
 <ol type = "a">
 <li> FALSE </li>
+<li> FALSE </li>
+<li> FALSE </li>
 <li> TRUE </li>
-<li> FALSE </li>
-<li> FALSE </li>
 </ol>
 </p>]]></text>
 </generalfeedback>
@@ -303,7 +303,27 @@ TRUE
 <answernumbering>abc</answernumbering>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
+Tiene mucha dispersión
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
 Es asimétrica
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+No puede conocerse la dispersión con estos datos
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -321,26 +341,6 @@ TRUE
 </p>]]></text>
 </feedback>
 </answer>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
-No puede conocerse la dispersión con estos datos
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-FALSE
-</p>]]></text>
-</feedback>
-</answer>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
-Tiene mucha dispersión
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-FALSE
-</p>]]></text>
-</feedback>
-</answer>
 </question>
 
 
@@ -350,7 +350,7 @@ FALSE
 </name>
 <questiontext format="html">
 <text><![CDATA[<p>
-<p><strong>R2018_0002</strong>. Si en una distribución de frecuencias, una categoría de la variable concentra al 97.25% de los casos, entonces la variable:</p>
+<p><strong>R2018_0002</strong>. Si en una distribución de frecuencias, una categoría de la variable concentra al 95.63% de los casos, entonces la variable:</p>
 </p>]]></text>
 </questiontext>
 <generalfeedback format="html">
@@ -370,6 +370,16 @@ FALSE
 <answernumbering>abc</answernumbering>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
+No puede conocerse la dispersión con estos datos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
 Tiene mucha dispersión
 </p>]]></text>
 <feedback format="html">
@@ -381,16 +391,6 @@ FALSE
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
 Es asimétrica
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-FALSE
-</p>]]></text>
-</feedback>
-</answer>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
-No puede conocerse la dispersión con estos datos
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -417,14 +417,14 @@ TRUE
 </name>
 <questiontext format="html">
 <text><![CDATA[<p>
-<p><strong>R2018_0002</strong>. Si en una distribución de frecuencias, una categoría de la variable concentra al 87.85% de los casos, entonces la variable:</p>
+<p><strong>R2018_0002</strong>. Si en una distribución de frecuencias, una categoría de la variable concentra al 89.81% de los casos, entonces la variable:</p>
 </p>]]></text>
 </questiontext>
 <generalfeedback format="html">
 <text><![CDATA[<p>
 <ol type = "a">
-<li> FALSE </li>
 <li> TRUE </li>
+<li> FALSE </li>
 <li> FALSE </li>
 <li> FALSE </li>
 </ol>
@@ -435,16 +435,6 @@ TRUE
 <shuffleanswers>false</shuffleanswers>
 <single>true</single>
 <answernumbering>abc</answernumbering>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
-Tiene mucha dispersión
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-FALSE
-</p>]]></text>
-</feedback>
-</answer>
 <answer fraction="100" format="html">
 <text><![CDATA[<p>
 Tiene poca dispersión
@@ -457,7 +447,7 @@ TRUE
 </answer>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-Es asimétrica
+No puede conocerse la dispersión con estos datos
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -467,7 +457,17 @@ FALSE
 </answer>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-No puede conocerse la dispersión con estos datos
+Tiene mucha dispersión
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Es asimétrica
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -484,7 +484,7 @@ FALSE
 </name>
 <questiontext format="html">
 <text><![CDATA[<p>
-<p><strong>R2018_0002</strong>. Si en una distribución de frecuencias, una categoría de la variable concentra al 90.1% de los casos, entonces la variable:</p>
+<p><strong>R2018_0002</strong>. Si en una distribución de frecuencias, una categoría de la variable concentra al 87.62% de los casos, entonces la variable:</p>
 </p>]]></text>
 </questiontext>
 <generalfeedback format="html">
@@ -492,8 +492,8 @@ FALSE
 <ol type = "a">
 <li> FALSE </li>
 <li> FALSE </li>
-<li> TRUE </li>
 <li> FALSE </li>
+<li> TRUE </li>
 </ol>
 </p>]]></text>
 </generalfeedback>
@@ -504,7 +504,7 @@ FALSE
 <answernumbering>abc</answernumbering>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-No puede conocerse la dispersión con estos datos
+Es asimétrica
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -514,7 +514,17 @@ FALSE
 </answer>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-Es asimétrica
+Tiene mucha dispersión
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+No puede conocerse la dispersión con estos datos
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -529,16 +539,6 @@ Tiene poca dispersión
 <feedback format="html">
 <text><![CDATA[<p>
 TRUE
-</p>]]></text>
-</feedback>
-</answer>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
-Tiene mucha dispersión
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-FALSE
 </p>]]></text>
 </feedback>
 </answer>
@@ -551,15 +551,15 @@ FALSE
 </name>
 <questiontext format="html">
 <text><![CDATA[<p>
-<p><strong>R2018_0002</strong>. Si en una distribución de frecuencias, una categoría de la variable concentra al 97.31% de los casos, entonces la variable:</p>
+<p><strong>R2018_0002</strong>. Si en una distribución de frecuencias, una categoría de la variable concentra al 90.91% de los casos, entonces la variable:</p>
 </p>]]></text>
 </questiontext>
 <generalfeedback format="html">
 <text><![CDATA[<p>
 <ol type = "a">
 <li> FALSE </li>
-<li> FALSE </li>
 <li> TRUE </li>
+<li> FALSE </li>
 <li> FALSE </li>
 </ol>
 </p>]]></text>
@@ -571,17 +571,7 @@ FALSE
 <answernumbering>abc</answernumbering>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-No puede conocerse la dispersión con estos datos
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-FALSE
-</p>]]></text>
-</feedback>
-</answer>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
-Es asimétrica
+Tiene mucha dispersión
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -601,7 +591,17 @@ TRUE
 </answer>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-Tiene mucha dispersión
+No puede conocerse la dispersión con estos datos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Es asimétrica
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -618,7 +618,7 @@ FALSE
 </name>
 <questiontext format="html">
 <text><![CDATA[<p>
-<p><strong>R2018_0002</strong>. Si en una distribución de frecuencias, una categoría de la variable concentra al 84.63% de los casos, entonces la variable:</p>
+<p><strong>R2018_0002</strong>. Si en una distribución de frecuencias, una categoría de la variable concentra al 94.05% de los casos, entonces la variable:</p>
 </p>]]></text>
 </questiontext>
 <generalfeedback format="html">
@@ -648,6 +648,16 @@ TRUE
 </answer>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
+Es asimétrica
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
 No puede conocerse la dispersión con estos datos
 </p>]]></text>
 <feedback format="html">
@@ -659,16 +669,6 @@ FALSE
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
 Tiene mucha dispersión
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-FALSE
-</p>]]></text>
-</feedback>
-</answer>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
-Es asimétrica
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -685,16 +685,16 @@ FALSE
 </name>
 <questiontext format="html">
 <text><![CDATA[<p>
-<p><strong>R2018_0002</strong>. Si en una distribución de frecuencias, una categoría de la variable concentra al 95.94% de los casos, entonces la variable:</p>
+<p><strong>R2018_0002</strong>. Si en una distribución de frecuencias, una categoría de la variable concentra al 93.19% de los casos, entonces la variable:</p>
 </p>]]></text>
 </questiontext>
 <generalfeedback format="html">
 <text><![CDATA[<p>
 <ol type = "a">
 <li> FALSE </li>
-<li> FALSE </li>
-<li> FALSE </li>
 <li> TRUE </li>
+<li> FALSE </li>
+<li> FALSE </li>
 </ol>
 </p>]]></text>
 </generalfeedback>
@@ -710,6 +710,16 @@ No puede conocerse la dispersión con estos datos
 <feedback format="html">
 <text><![CDATA[<p>
 FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+Tiene poca dispersión
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+TRUE
 </p>]]></text>
 </feedback>
 </answer>
@@ -730,16 +740,6 @@ Es asimétrica
 <feedback format="html">
 <text><![CDATA[<p>
 FALSE
-</p>]]></text>
-</feedback>
-</answer>
-<answer fraction="100" format="html">
-<text><![CDATA[<p>
-Tiene poca dispersión
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-TRUE
 </p>]]></text>
 </feedback>
 </answer>
@@ -752,16 +752,16 @@ TRUE
 </name>
 <questiontext format="html">
 <text><![CDATA[<p>
-<p><strong>R2018_0002</strong>. Si en una distribución de frecuencias, una categoría de la variable concentra al 87.99% de los casos, entonces la variable:</p>
+<p><strong>R2018_0002</strong>. Si en una distribución de frecuencias, una categoría de la variable concentra al 94.65% de los casos, entonces la variable:</p>
 </p>]]></text>
 </questiontext>
 <generalfeedback format="html">
 <text><![CDATA[<p>
 <ol type = "a">
 <li> FALSE </li>
-<li> FALSE </li>
-<li> FALSE </li>
 <li> TRUE </li>
+<li> FALSE </li>
+<li> FALSE </li>
 </ol>
 </p>]]></text>
 </generalfeedback>
@@ -770,26 +770,6 @@ TRUE
 <shuffleanswers>false</shuffleanswers>
 <single>true</single>
 <answernumbering>abc</answernumbering>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
-Es asimétrica
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-FALSE
-</p>]]></text>
-</feedback>
-</answer>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
-No puede conocerse la dispersión con estos datos
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-FALSE
-</p>]]></text>
-</feedback>
-</answer>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
 Tiene mucha dispersión
@@ -807,6 +787,26 @@ Tiene poca dispersión
 <feedback format="html">
 <text><![CDATA[<p>
 TRUE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Es asimétrica
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+No puede conocerse la dispersión con estos datos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
 </p>]]></text>
 </feedback>
 </answer>
@@ -819,16 +819,16 @@ TRUE
 </name>
 <questiontext format="html">
 <text><![CDATA[<p>
-<p><strong>R2018_0002</strong>. Si en una distribución de frecuencias, una categoría de la variable concentra al 90.03% de los casos, entonces la variable:</p>
+<p><strong>R2018_0002</strong>. Si en una distribución de frecuencias, una categoría de la variable concentra al 84.08% de los casos, entonces la variable:</p>
 </p>]]></text>
 </questiontext>
 <generalfeedback format="html">
 <text><![CDATA[<p>
 <ol type = "a">
+<li> FALSE </li>
+<li> FALSE </li>
+<li> FALSE </li>
 <li> TRUE </li>
-<li> FALSE </li>
-<li> FALSE </li>
-<li> FALSE </li>
 </ol>
 </p>]]></text>
 </generalfeedback>
@@ -837,13 +837,13 @@ TRUE
 <shuffleanswers>false</shuffleanswers>
 <single>true</single>
 <answernumbering>abc</answernumbering>
-<answer fraction="100" format="html">
+<answer fraction="0" format="html">
 <text><![CDATA[<p>
-Tiene poca dispersión
+Es asimétrica
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
-TRUE
+FALSE
 </p>]]></text>
 </feedback>
 </answer>
@@ -859,7 +859,7 @@ FALSE
 </answer>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-Es asimétrica
+Tiene mucha dispersión
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -867,13 +867,13 @@ FALSE
 </p>]]></text>
 </feedback>
 </answer>
-<answer fraction="0" format="html">
+<answer fraction="100" format="html">
 <text><![CDATA[<p>
-Tiene mucha dispersión
+Tiene poca dispersión
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
-FALSE
+TRUE
 </p>]]></text>
 </feedback>
 </answer>
@@ -886,16 +886,16 @@ FALSE
 </name>
 <questiontext format="html">
 <text><![CDATA[<p>
-<p><strong>R2018_0002</strong>. Si en una distribución de frecuencias, una categoría de la variable concentra al 92.65% de los casos, entonces la variable:</p>
+<p><strong>R2018_0002</strong>. Si en una distribución de frecuencias, una categoría de la variable concentra al 86.8% de los casos, entonces la variable:</p>
 </p>]]></text>
 </questiontext>
 <generalfeedback format="html">
 <text><![CDATA[<p>
 <ol type = "a">
 <li> FALSE </li>
-<li> FALSE </li>
-<li> FALSE </li>
 <li> TRUE </li>
+<li> FALSE </li>
+<li> FALSE </li>
 </ol>
 </p>]]></text>
 </generalfeedback>
@@ -906,27 +906,7 @@ FALSE
 <answernumbering>abc</answernumbering>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-Tiene mucha dispersión
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-FALSE
-</p>]]></text>
-</feedback>
-</answer>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
 Es asimétrica
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-FALSE
-</p>]]></text>
-</feedback>
-</answer>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
-No puede conocerse la dispersión con estos datos
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -941,6 +921,26 @@ Tiene poca dispersión
 <feedback format="html">
 <text><![CDATA[<p>
 TRUE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Tiene mucha dispersión
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+No puede conocerse la dispersión con estos datos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
 </p>]]></text>
 </feedback>
 </answer>
@@ -953,7 +953,7 @@ TRUE
 </name>
 <questiontext format="html">
 <text><![CDATA[<p>
-<p><strong>R2018_0002</strong>. Si en una distribución de frecuencias, una categoría de la variable concentra al 85.31% de los casos, entonces la variable:</p>
+<p><strong>R2018_0002</strong>. Si en una distribución de frecuencias, una categoría de la variable concentra al 88.65% de los casos, entonces la variable:</p>
 </p>]]></text>
 </questiontext>
 <generalfeedback format="html">
@@ -961,8 +961,8 @@ TRUE
 <ol type = "a">
 <li> FALSE </li>
 <li> FALSE </li>
-<li> FALSE </li>
 <li> TRUE </li>
+<li> FALSE </li>
 </ol>
 </p>]]></text>
 </generalfeedback>
@@ -971,16 +971,6 @@ TRUE
 <shuffleanswers>false</shuffleanswers>
 <single>true</single>
 <answernumbering>abc</answernumbering>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
-Tiene mucha dispersión
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-FALSE
-</p>]]></text>
-</feedback>
-</answer>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
 Es asimétrica
@@ -993,7 +983,7 @@ FALSE
 </answer>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-No puede conocerse la dispersión con estos datos
+Tiene mucha dispersión
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -1008,6 +998,16 @@ Tiene poca dispersión
 <feedback format="html">
 <text><![CDATA[<p>
 TRUE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+No puede conocerse la dispersión con estos datos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
 </p>]]></text>
 </feedback>
 </answer>
@@ -1020,16 +1020,16 @@ TRUE
 </name>
 <questiontext format="html">
 <text><![CDATA[<p>
-<p><strong>R2018_0002</strong>. Si en una distribución de frecuencias, una categoría de la variable concentra al 97.21% de los casos, entonces la variable:</p>
+<p><strong>R2018_0002</strong>. Si en una distribución de frecuencias, una categoría de la variable concentra al 97.97% de los casos, entonces la variable:</p>
 </p>]]></text>
 </questiontext>
 <generalfeedback format="html">
 <text><![CDATA[<p>
 <ol type = "a">
 <li> FALSE </li>
+<li> FALSE </li>
+<li> FALSE </li>
 <li> TRUE </li>
-<li> FALSE </li>
-<li> FALSE </li>
 </ol>
 </p>]]></text>
 </generalfeedback>
@@ -1048,13 +1048,13 @@ FALSE
 </p>]]></text>
 </feedback>
 </answer>
-<answer fraction="100" format="html">
+<answer fraction="0" format="html">
 <text><![CDATA[<p>
-Tiene poca dispersión
+Es asimétrica
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
-TRUE
+FALSE
 </p>]]></text>
 </feedback>
 </answer>
@@ -1068,13 +1068,13 @@ FALSE
 </p>]]></text>
 </feedback>
 </answer>
-<answer fraction="0" format="html">
+<answer fraction="100" format="html">
 <text><![CDATA[<p>
-Es asimétrica
+Tiene poca dispersión
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
-FALSE
+TRUE
 </p>]]></text>
 </feedback>
 </answer>
@@ -1087,7 +1087,7 @@ FALSE
 </name>
 <questiontext format="html">
 <text><![CDATA[<p>
-<p><strong>R2018_0002</strong>. Si en una distribución de frecuencias, una categoría de la variable concentra al 89.34% de los casos, entonces la variable:</p>
+<p><strong>R2018_0002</strong>. Si en una distribución de frecuencias, una categoría de la variable concentra al 97.43% de los casos, entonces la variable:</p>
 </p>]]></text>
 </questiontext>
 <generalfeedback format="html">
@@ -1117,6 +1117,16 @@ TRUE
 </answer>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
+Tiene mucha dispersión
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
 Es asimétrica
 </p>]]></text>
 <feedback format="html">
@@ -1128,16 +1138,6 @@ FALSE
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
 No puede conocerse la dispersión con estos datos
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-FALSE
-</p>]]></text>
-</feedback>
-</answer>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
-Tiene mucha dispersión
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -1154,16 +1154,16 @@ FALSE
 </name>
 <questiontext format="html">
 <text><![CDATA[<p>
-<p><strong>R2018_0002</strong>. Si en una distribución de frecuencias, una categoría de la variable concentra al 89.25% de los casos, entonces la variable:</p>
+<p><strong>R2018_0002</strong>. Si en una distribución de frecuencias, una categoría de la variable concentra al 93.8% de los casos, entonces la variable:</p>
 </p>]]></text>
 </questiontext>
 <generalfeedback format="html">
 <text><![CDATA[<p>
 <ol type = "a">
 <li> FALSE </li>
-<li> FALSE </li>
-<li> FALSE </li>
 <li> TRUE </li>
+<li> FALSE </li>
+<li> FALSE </li>
 </ol>
 </p>]]></text>
 </generalfeedback>
@@ -1174,7 +1174,7 @@ FALSE
 <answernumbering>abc</answernumbering>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-Tiene mucha dispersión
+No puede conocerse la dispersión con estos datos
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -1182,13 +1182,13 @@ FALSE
 </p>]]></text>
 </feedback>
 </answer>
-<answer fraction="0" format="html">
+<answer fraction="100" format="html">
 <text><![CDATA[<p>
-No puede conocerse la dispersión con estos datos
+Tiene poca dispersión
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
-FALSE
+TRUE
 </p>]]></text>
 </feedback>
 </answer>
@@ -1202,13 +1202,13 @@ FALSE
 </p>]]></text>
 </feedback>
 </answer>
-<answer fraction="100" format="html">
+<answer fraction="0" format="html">
 <text><![CDATA[<p>
-Tiene poca dispersión
+Tiene mucha dispersión
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
-TRUE
+FALSE
 </p>]]></text>
 </feedback>
 </answer>
@@ -1221,7 +1221,7 @@ TRUE
 </name>
 <questiontext format="html">
 <text><![CDATA[<p>
-<p><strong>R2018_0002</strong>. Si en una distribución de frecuencias, una categoría de la variable concentra al 97.18% de los casos, entonces la variable:</p>
+<p><strong>R2018_0002</strong>. Si en una distribución de frecuencias, una categoría de la variable concentra al 87.51% de los casos, entonces la variable:</p>
 </p>]]></text>
 </questiontext>
 <generalfeedback format="html">
@@ -1241,7 +1241,7 @@ TRUE
 <answernumbering>abc</answernumbering>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-Tiene mucha dispersión
+No puede conocerse la dispersión con estos datos
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -1261,7 +1261,7 @@ TRUE
 </answer>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-No puede conocerse la dispersión con estos datos
+Tiene mucha dispersión
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -1288,16 +1288,16 @@ FALSE
 </name>
 <questiontext format="html">
 <text><![CDATA[<p>
-<p><strong>R2018_0002</strong>. Si en una distribución de frecuencias, una categoría de la variable concentra al 87.54% de los casos, entonces la variable:</p>
+<p><strong>R2018_0002</strong>. Si en una distribución de frecuencias, una categoría de la variable concentra al 94.27% de los casos, entonces la variable:</p>
 </p>]]></text>
 </questiontext>
 <generalfeedback format="html">
 <text><![CDATA[<p>
 <ol type = "a">
 <li> FALSE </li>
-<li> FALSE </li>
-<li> FALSE </li>
 <li> TRUE </li>
+<li> FALSE </li>
+<li> FALSE </li>
 </ol>
 </p>]]></text>
 </generalfeedback>
@@ -1308,27 +1308,7 @@ FALSE
 <answernumbering>abc</answernumbering>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-Es asimétrica
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-FALSE
-</p>]]></text>
-</feedback>
-</answer>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
 Tiene mucha dispersión
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-FALSE
-</p>]]></text>
-</feedback>
-</answer>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
-No puede conocerse la dispersión con estos datos
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -1343,6 +1323,26 @@ Tiene poca dispersión
 <feedback format="html">
 <text><![CDATA[<p>
 TRUE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Es asimétrica
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+No puede conocerse la dispersión con estos datos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
 </p>]]></text>
 </feedback>
 </answer>
@@ -1355,15 +1355,15 @@ TRUE
 </name>
 <questiontext format="html">
 <text><![CDATA[<p>
-<p><strong>R2018_0002</strong>. Si en una distribución de frecuencias, una categoría de la variable concentra al 88.56% de los casos, entonces la variable:</p>
+<p><strong>R2018_0002</strong>. Si en una distribución de frecuencias, una categoría de la variable concentra al 91.23% de los casos, entonces la variable:</p>
 </p>]]></text>
 </questiontext>
 <generalfeedback format="html">
 <text><![CDATA[<p>
 <ol type = "a">
-<li> FALSE </li>
-<li> FALSE </li>
 <li> TRUE </li>
+<li> FALSE </li>
+<li> FALSE </li>
 <li> FALSE </li>
 </ol>
 </p>]]></text>
@@ -1373,26 +1373,6 @@ TRUE
 <shuffleanswers>false</shuffleanswers>
 <single>true</single>
 <answernumbering>abc</answernumbering>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
-Tiene mucha dispersión
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-FALSE
-</p>]]></text>
-</feedback>
-</answer>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
-No puede conocerse la dispersión con estos datos
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-FALSE
-</p>]]></text>
-</feedback>
-</answer>
 <answer fraction="100" format="html">
 <text><![CDATA[<p>
 Tiene poca dispersión
@@ -1405,7 +1385,27 @@ TRUE
 </answer>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
+Tiene mucha dispersión
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
 Es asimétrica
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+No puede conocerse la dispersión con estos datos
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -1422,7 +1422,7 @@ FALSE
 </name>
 <questiontext format="html">
 <text><![CDATA[<p>
-<p><strong>R2018_0002</strong>. Si en una distribución de frecuencias, una categoría de la variable concentra al 87.98% de los casos, entonces la variable:</p>
+<p><strong>R2018_0002</strong>. Si en una distribución de frecuencias, una categoría de la variable concentra al 91.37% de los casos, entonces la variable:</p>
 </p>]]></text>
 </questiontext>
 <generalfeedback format="html">
@@ -1430,8 +1430,8 @@ FALSE
 <ol type = "a">
 <li> FALSE </li>
 <li> FALSE </li>
-<li> TRUE </li>
 <li> FALSE </li>
+<li> TRUE </li>
 </ol>
 </p>]]></text>
 </generalfeedback>
@@ -1442,7 +1442,7 @@ FALSE
 <answernumbering>abc</answernumbering>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-Tiene mucha dispersión
+Es asimétrica
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -1452,7 +1452,17 @@ FALSE
 </answer>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-Es asimétrica
+No puede conocerse la dispersión con estos datos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Tiene mucha dispersión
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -1467,16 +1477,6 @@ Tiene poca dispersión
 <feedback format="html">
 <text><![CDATA[<p>
 TRUE
-</p>]]></text>
-</feedback>
-</answer>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
-No puede conocerse la dispersión con estos datos
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-FALSE
 </p>]]></text>
 </feedback>
 </answer>
@@ -1489,15 +1489,15 @@ FALSE
 </name>
 <questiontext format="html">
 <text><![CDATA[<p>
-<p><strong>R2018_0002</strong>. Si en una distribución de frecuencias, una categoría de la variable concentra al 94.69% de los casos, entonces la variable:</p>
+<p><strong>R2018_0002</strong>. Si en una distribución de frecuencias, una categoría de la variable concentra al 86.37% de los casos, entonces la variable:</p>
 </p>]]></text>
 </questiontext>
 <generalfeedback format="html">
 <text><![CDATA[<p>
 <ol type = "a">
 <li> FALSE </li>
-<li> TRUE </li>
 <li> FALSE </li>
+<li> TRUE </li>
 <li> FALSE </li>
 </ol>
 </p>]]></text>
@@ -1507,6 +1507,16 @@ FALSE
 <shuffleanswers>false</shuffleanswers>
 <single>true</single>
 <answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Tiene mucha dispersión
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
 No puede conocerse la dispersión con estos datos
@@ -1530,16 +1540,6 @@ TRUE
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
 Es asimétrica
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-FALSE
-</p>]]></text>
-</feedback>
-</answer>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
-Tiene mucha dispersión
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -1556,7 +1556,7 @@ FALSE
 </name>
 <questiontext format="html">
 <text><![CDATA[<p>
-<p><strong>R2018_0002</strong>. Si en una distribución de frecuencias, una categoría de la variable concentra al 85.77% de los casos, entonces la variable:</p>
+<p><strong>R2018_0002</strong>. Si en una distribución de frecuencias, una categoría de la variable concentra al 96.57% de los casos, entonces la variable:</p>
 </p>]]></text>
 </questiontext>
 <generalfeedback format="html">
@@ -1586,6 +1586,16 @@ TRUE
 </answer>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
+Es asimétrica
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
 Tiene mucha dispersión
 </p>]]></text>
 <feedback format="html">
@@ -1597,16 +1607,6 @@ FALSE
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
 No puede conocerse la dispersión con estos datos
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-FALSE
-</p>]]></text>
-</feedback>
-</answer>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
-Es asimétrica
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -1623,14 +1623,14 @@ FALSE
 </name>
 <questiontext format="html">
 <text><![CDATA[<p>
-<p><strong>R2018_0002</strong>. Si en una distribución de frecuencias, una categoría de la variable concentra al 90.92% de los casos, entonces la variable:</p>
+<p><strong>R2018_0002</strong>. Si en una distribución de frecuencias, una categoría de la variable concentra al 85.22% de los casos, entonces la variable:</p>
 </p>]]></text>
 </questiontext>
 <generalfeedback format="html">
 <text><![CDATA[<p>
 <ol type = "a">
-<li> TRUE </li>
 <li> FALSE </li>
+<li> TRUE </li>
 <li> FALSE </li>
 <li> FALSE </li>
 </ol>
@@ -1641,6 +1641,16 @@ FALSE
 <shuffleanswers>false</shuffleanswers>
 <single>true</single>
 <answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Tiene mucha dispersión
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
 <answer fraction="100" format="html">
 <text><![CDATA[<p>
 Tiene poca dispersión
@@ -1653,27 +1663,17 @@ TRUE
 </answer>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-No puede conocerse la dispersión con estos datos
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-FALSE
-</p>]]></text>
-</feedback>
-</answer>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
-Tiene mucha dispersión
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-FALSE
-</p>]]></text>
-</feedback>
-</answer>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
 Es asimétrica
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+No puede conocerse la dispersión con estos datos
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -1690,15 +1690,15 @@ FALSE
 </name>
 <questiontext format="html">
 <text><![CDATA[<p>
-<p><strong>R2018_0002</strong>. Si en una distribución de frecuencias, una categoría de la variable concentra al 84.79% de los casos, entonces la variable:</p>
+<p><strong>R2018_0002</strong>. Si en una distribución de frecuencias, una categoría de la variable concentra al 84.71% de los casos, entonces la variable:</p>
 </p>]]></text>
 </questiontext>
 <generalfeedback format="html">
 <text><![CDATA[<p>
 <ol type = "a">
 <li> FALSE </li>
-<li> TRUE </li>
 <li> FALSE </li>
+<li> TRUE </li>
 <li> FALSE </li>
 </ol>
 </p>]]></text>
@@ -1710,7 +1710,17 @@ FALSE
 <answernumbering>abc</answernumbering>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-Es asimétrica
+No puede conocerse la dispersión con estos datos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Tiene mucha dispersión
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -1730,17 +1740,7 @@ TRUE
 </answer>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-No puede conocerse la dispersión con estos datos
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-FALSE
-</p>]]></text>
-</feedback>
-</answer>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
-Tiene mucha dispersión
+Es asimétrica
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -1757,15 +1757,15 @@ FALSE
 </name>
 <questiontext format="html">
 <text><![CDATA[<p>
-<p><strong>R2018_0002</strong>. Si en una distribución de frecuencias, una categoría de la variable concentra al 90.96% de los casos, entonces la variable:</p>
+<p><strong>R2018_0002</strong>. Si en una distribución de frecuencias, una categoría de la variable concentra al 96.28% de los casos, entonces la variable:</p>
 </p>]]></text>
 </questiontext>
 <generalfeedback format="html">
 <text><![CDATA[<p>
 <ol type = "a">
 <li> FALSE </li>
-<li> TRUE </li>
 <li> FALSE </li>
+<li> TRUE </li>
 <li> FALSE </li>
 </ol>
 </p>]]></text>
@@ -1775,6 +1775,16 @@ FALSE
 <shuffleanswers>false</shuffleanswers>
 <single>true</single>
 <answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+No puede conocerse la dispersión con estos datos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
 Tiene mucha dispersión
@@ -1805,16 +1815,6 @@ FALSE
 </p>]]></text>
 </feedback>
 </answer>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
-No puede conocerse la dispersión con estos datos
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-FALSE
-</p>]]></text>
-</feedback>
-</answer>
 </question>
 
 
@@ -1824,7 +1824,7 @@ FALSE
 </name>
 <questiontext format="html">
 <text><![CDATA[<p>
-<p><strong>R2018_0002</strong>. Si en una distribución de frecuencias, una categoría de la variable concentra al 89.33% de los casos, entonces la variable:</p>
+<p><strong>R2018_0002</strong>. Si en una distribución de frecuencias, una categoría de la variable concentra al 86.04% de los casos, entonces la variable:</p>
 </p>]]></text>
 </questiontext>
 <generalfeedback format="html">
@@ -1844,16 +1844,6 @@ FALSE
 <answernumbering>abc</answernumbering>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-No puede conocerse la dispersión con estos datos
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-FALSE
-</p>]]></text>
-</feedback>
-</answer>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
 Tiene mucha dispersión
 </p>]]></text>
 <feedback format="html">
@@ -1865,6 +1855,16 @@ FALSE
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
 Es asimétrica
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+No puede conocerse la dispersión con estos datos
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -1891,15 +1891,15 @@ TRUE
 </name>
 <questiontext format="html">
 <text><![CDATA[<p>
-<p><strong>R2018_0002</strong>. Si en una distribución de frecuencias, una categoría de la variable concentra al 95.87% de los casos, entonces la variable:</p>
+<p><strong>R2018_0002</strong>. Si en una distribución de frecuencias, una categoría de la variable concentra al 91.91% de los casos, entonces la variable:</p>
 </p>]]></text>
 </questiontext>
 <generalfeedback format="html">
 <text><![CDATA[<p>
 <ol type = "a">
+<li> FALSE </li>
+<li> FALSE </li>
 <li> TRUE </li>
-<li> FALSE </li>
-<li> FALSE </li>
 <li> FALSE </li>
 </ol>
 </p>]]></text>
@@ -1909,13 +1909,13 @@ TRUE
 <shuffleanswers>false</shuffleanswers>
 <single>true</single>
 <answernumbering>abc</answernumbering>
-<answer fraction="100" format="html">
+<answer fraction="0" format="html">
 <text><![CDATA[<p>
-Tiene poca dispersión
+No puede conocerse la dispersión con estos datos
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
-TRUE
+FALSE
 </p>]]></text>
 </feedback>
 </answer>
@@ -1929,19 +1929,19 @@ FALSE
 </p>]]></text>
 </feedback>
 </answer>
-<answer fraction="0" format="html">
+<answer fraction="100" format="html">
 <text><![CDATA[<p>
-Tiene mucha dispersión
+Tiene poca dispersión
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
-FALSE
+TRUE
 </p>]]></text>
 </feedback>
 </answer>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-No puede conocerse la dispersión con estos datos
+Tiene mucha dispersión
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -1958,16 +1958,16 @@ FALSE
 </name>
 <questiontext format="html">
 <text><![CDATA[<p>
-<p><strong>R2018_0002</strong>. Si en una distribución de frecuencias, una categoría de la variable concentra al 92.27% de los casos, entonces la variable:</p>
+<p><strong>R2018_0002</strong>. Si en una distribución de frecuencias, una categoría de la variable concentra al 95.42% de los casos, entonces la variable:</p>
 </p>]]></text>
 </questiontext>
 <generalfeedback format="html">
 <text><![CDATA[<p>
 <ol type = "a">
 <li> FALSE </li>
+<li> FALSE </li>
+<li> FALSE </li>
 <li> TRUE </li>
-<li> FALSE </li>
-<li> FALSE </li>
 </ol>
 </p>]]></text>
 </generalfeedback>
@@ -1986,13 +1986,13 @@ FALSE
 </p>]]></text>
 </feedback>
 </answer>
-<answer fraction="100" format="html">
+<answer fraction="0" format="html">
 <text><![CDATA[<p>
-Tiene poca dispersión
+No puede conocerse la dispersión con estos datos
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
-TRUE
+FALSE
 </p>]]></text>
 </feedback>
 </answer>
@@ -2006,13 +2006,13 @@ FALSE
 </p>]]></text>
 </feedback>
 </answer>
-<answer fraction="0" format="html">
+<answer fraction="100" format="html">
 <text><![CDATA[<p>
-No puede conocerse la dispersión con estos datos
+Tiene poca dispersión
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
-FALSE
+TRUE
 </p>]]></text>
 </feedback>
 </answer>
@@ -2025,15 +2025,15 @@ FALSE
 </name>
 <questiontext format="html">
 <text><![CDATA[<p>
-<p><strong>R2018_0002</strong>. Si en una distribución de frecuencias, una categoría de la variable concentra al 85.96% de los casos, entonces la variable:</p>
+<p><strong>R2018_0002</strong>. Si en una distribución de frecuencias, una categoría de la variable concentra al 96.41% de los casos, entonces la variable:</p>
 </p>]]></text>
 </questiontext>
 <generalfeedback format="html">
 <text><![CDATA[<p>
 <ol type = "a">
-<li> FALSE </li>
-<li> FALSE </li>
 <li> TRUE </li>
+<li> FALSE </li>
+<li> FALSE </li>
 <li> FALSE </li>
 </ol>
 </p>]]></text>
@@ -2043,9 +2043,19 @@ FALSE
 <shuffleanswers>false</shuffleanswers>
 <single>true</single>
 <answernumbering>abc</answernumbering>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+Tiene poca dispersión
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+TRUE
+</p>]]></text>
+</feedback>
+</answer>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-Tiene mucha dispersión
+Es asimétrica
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -2063,19 +2073,9 @@ FALSE
 </p>]]></text>
 </feedback>
 </answer>
-<answer fraction="100" format="html">
-<text><![CDATA[<p>
-Tiene poca dispersión
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-TRUE
-</p>]]></text>
-</feedback>
-</answer>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-Es asimétrica
+Tiene mucha dispersión
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -2092,14 +2092,14 @@ FALSE
 </name>
 <questiontext format="html">
 <text><![CDATA[<p>
-<p><strong>R2018_0002</strong>. Si en una distribución de frecuencias, una categoría de la variable concentra al 93.96% de los casos, entonces la variable:</p>
+<p><strong>R2018_0002</strong>. Si en una distribución de frecuencias, una categoría de la variable concentra al 87.6% de los casos, entonces la variable:</p>
 </p>]]></text>
 </questiontext>
 <generalfeedback format="html">
 <text><![CDATA[<p>
 <ol type = "a">
-<li> TRUE </li>
 <li> FALSE </li>
+<li> TRUE </li>
 <li> FALSE </li>
 <li> FALSE </li>
 </ol>
@@ -2110,6 +2110,16 @@ FALSE
 <shuffleanswers>false</shuffleanswers>
 <single>true</single>
 <answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Es asimétrica
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
 <answer fraction="100" format="html">
 <text><![CDATA[<p>
 Tiene poca dispersión
@@ -2122,27 +2132,17 @@ TRUE
 </answer>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-Tiene mucha dispersión
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-FALSE
-</p>]]></text>
-</feedback>
-</answer>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
-Es asimétrica
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-FALSE
-</p>]]></text>
-</feedback>
-</answer>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
 No puede conocerse la dispersión con estos datos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Tiene mucha dispersión
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -2159,16 +2159,16 @@ FALSE
 </name>
 <questiontext format="html">
 <text><![CDATA[<p>
-<p><strong>R2018_0002</strong>. Si en una distribución de frecuencias, una categoría de la variable concentra al 85.88% de los casos, entonces la variable:</p>
+<p><strong>R2018_0002</strong>. Si en una distribución de frecuencias, una categoría de la variable concentra al 97.32% de los casos, entonces la variable:</p>
 </p>]]></text>
 </questiontext>
 <generalfeedback format="html">
 <text><![CDATA[<p>
 <ol type = "a">
 <li> FALSE </li>
-<li> FALSE </li>
-<li> FALSE </li>
 <li> TRUE </li>
+<li> FALSE </li>
+<li> FALSE </li>
 </ol>
 </p>]]></text>
 </generalfeedback>
@@ -2179,27 +2179,7 @@ FALSE
 <answernumbering>abc</answernumbering>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-Tiene mucha dispersión
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-FALSE
-</p>]]></text>
-</feedback>
-</answer>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
 No puede conocerse la dispersión con estos datos
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-FALSE
-</p>]]></text>
-</feedback>
-</answer>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
-Es asimétrica
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -2214,6 +2194,26 @@ Tiene poca dispersión
 <feedback format="html">
 <text><![CDATA[<p>
 TRUE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Tiene mucha dispersión
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Es asimétrica
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
 </p>]]></text>
 </feedback>
 </answer>
@@ -2226,14 +2226,14 @@ TRUE
 </name>
 <questiontext format="html">
 <text><![CDATA[<p>
-<p><strong>R2018_0002</strong>. Si en una distribución de frecuencias, una categoría de la variable concentra al 94.55% de los casos, entonces la variable:</p>
+<p><strong>R2018_0002</strong>. Si en una distribución de frecuencias, una categoría de la variable concentra al 93.69% de los casos, entonces la variable:</p>
 </p>]]></text>
 </questiontext>
 <generalfeedback format="html">
 <text><![CDATA[<p>
 <ol type = "a">
-<li> TRUE </li>
 <li> FALSE </li>
+<li> TRUE </li>
 <li> FALSE </li>
 <li> FALSE </li>
 </ol>
@@ -2244,6 +2244,16 @@ TRUE
 <shuffleanswers>false</shuffleanswers>
 <single>true</single>
 <answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Es asimétrica
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
 <answer fraction="100" format="html">
 <text><![CDATA[<p>
 Tiene poca dispersión
@@ -2267,16 +2277,6 @@ FALSE
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
 Tiene mucha dispersión
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-FALSE
-</p>]]></text>
-</feedback>
-</answer>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
-Es asimétrica
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -2293,15 +2293,15 @@ FALSE
 </name>
 <questiontext format="html">
 <text><![CDATA[<p>
-<p><strong>R2018_0002</strong>. Si en una distribución de frecuencias, una categoría de la variable concentra al 97.25% de los casos, entonces la variable:</p>
+<p><strong>R2018_0002</strong>. Si en una distribución de frecuencias, una categoría de la variable concentra al 94.28% de los casos, entonces la variable:</p>
 </p>]]></text>
 </questiontext>
 <generalfeedback format="html">
 <text><![CDATA[<p>
 <ol type = "a">
+<li> FALSE </li>
+<li> FALSE </li>
 <li> TRUE </li>
-<li> FALSE </li>
-<li> FALSE </li>
 <li> FALSE </li>
 </ol>
 </p>]]></text>
@@ -2311,26 +2311,6 @@ FALSE
 <shuffleanswers>false</shuffleanswers>
 <single>true</single>
 <answernumbering>abc</answernumbering>
-<answer fraction="100" format="html">
-<text><![CDATA[<p>
-Tiene poca dispersión
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-TRUE
-</p>]]></text>
-</feedback>
-</answer>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
-Es asimétrica
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-FALSE
-</p>]]></text>
-</feedback>
-</answer>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
 No puede conocerse la dispersión con estos datos
@@ -2351,6 +2331,26 @@ FALSE
 </p>]]></text>
 </feedback>
 </answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+Tiene poca dispersión
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+TRUE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Es asimétrica
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
 </question>
 
 
@@ -2360,15 +2360,15 @@ FALSE
 </name>
 <questiontext format="html">
 <text><![CDATA[<p>
-<p><strong>R2018_0002</strong>. Si en una distribución de frecuencias, una categoría de la variable concentra al 91.75% de los casos, entonces la variable:</p>
+<p><strong>R2018_0002</strong>. Si en una distribución de frecuencias, una categoría de la variable concentra al 97.36% de los casos, entonces la variable:</p>
 </p>]]></text>
 </questiontext>
 <generalfeedback format="html">
 <text><![CDATA[<p>
 <ol type = "a">
 <li> FALSE </li>
-<li> FALSE </li>
 <li> TRUE </li>
+<li> FALSE </li>
 <li> FALSE </li>
 </ol>
 </p>]]></text>
@@ -2388,16 +2388,6 @@ FALSE
 </p>]]></text>
 </feedback>
 </answer>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
-Es asimétrica
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-FALSE
-</p>]]></text>
-</feedback>
-</answer>
 <answer fraction="100" format="html">
 <text><![CDATA[<p>
 Tiene poca dispersión
@@ -2405,6 +2395,16 @@ Tiene poca dispersión
 <feedback format="html">
 <text><![CDATA[<p>
 TRUE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Es asimétrica
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
 </p>]]></text>
 </feedback>
 </answer>
@@ -2427,7 +2427,7 @@ FALSE
 </name>
 <questiontext format="html">
 <text><![CDATA[<p>
-<p><strong>R2018_0002</strong>. Si en una distribución de frecuencias, una categoría de la variable concentra al 86.16% de los casos, entonces la variable:</p>
+<p><strong>R2018_0002</strong>. Si en una distribución de frecuencias, una categoría de la variable concentra al 91.43% de los casos, entonces la variable:</p>
 </p>]]></text>
 </questiontext>
 <generalfeedback format="html">
@@ -2447,7 +2447,7 @@ FALSE
 <answernumbering>abc</answernumbering>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-Es asimétrica
+No puede conocerse la dispersión con estos datos
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -2477,7 +2477,7 @@ FALSE
 </answer>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-No puede conocerse la dispersión con estos datos
+Es asimétrica
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -2494,16 +2494,16 @@ FALSE
 </name>
 <questiontext format="html">
 <text><![CDATA[<p>
-<p><strong>R2018_0002</strong>. Si en una distribución de frecuencias, una categoría de la variable concentra al 84.69% de los casos, entonces la variable:</p>
+<p><strong>R2018_0002</strong>. Si en una distribución de frecuencias, una categoría de la variable concentra al 85.44% de los casos, entonces la variable:</p>
 </p>]]></text>
 </questiontext>
 <generalfeedback format="html">
 <text><![CDATA[<p>
 <ol type = "a">
 <li> FALSE </li>
+<li> FALSE </li>
+<li> FALSE </li>
 <li> TRUE </li>
-<li> FALSE </li>
-<li> FALSE </li>
 </ol>
 </p>]]></text>
 </generalfeedback>
@@ -2522,13 +2522,13 @@ FALSE
 </p>]]></text>
 </feedback>
 </answer>
-<answer fraction="100" format="html">
+<answer fraction="0" format="html">
 <text><![CDATA[<p>
-Tiene poca dispersión
+No puede conocerse la dispersión con estos datos
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
-TRUE
+FALSE
 </p>]]></text>
 </feedback>
 </answer>
@@ -2542,13 +2542,13 @@ FALSE
 </p>]]></text>
 </feedback>
 </answer>
-<answer fraction="0" format="html">
+<answer fraction="100" format="html">
 <text><![CDATA[<p>
-No puede conocerse la dispersión con estos datos
+Tiene poca dispersión
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
-FALSE
+TRUE
 </p>]]></text>
 </feedback>
 </answer>
@@ -2561,14 +2561,14 @@ FALSE
 </name>
 <questiontext format="html">
 <text><![CDATA[<p>
-<p><strong>R2018_0002</strong>. Si en una distribución de frecuencias, una categoría de la variable concentra al 86.39% de los casos, entonces la variable:</p>
+<p><strong>R2018_0002</strong>. Si en una distribución de frecuencias, una categoría de la variable concentra al 91.37% de los casos, entonces la variable:</p>
 </p>]]></text>
 </questiontext>
 <generalfeedback format="html">
 <text><![CDATA[<p>
 <ol type = "a">
-<li> TRUE </li>
 <li> FALSE </li>
+<li> TRUE </li>
 <li> FALSE </li>
 <li> FALSE </li>
 </ol>
@@ -2579,6 +2579,16 @@ FALSE
 <shuffleanswers>false</shuffleanswers>
 <single>true</single>
 <answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+No puede conocerse la dispersión con estos datos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
 <answer fraction="100" format="html">
 <text><![CDATA[<p>
 Tiene poca dispersión
@@ -2591,7 +2601,7 @@ TRUE
 </answer>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-No puede conocerse la dispersión con estos datos
+Es asimétrica
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -2602,16 +2612,6 @@ FALSE
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
 Tiene mucha dispersión
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-FALSE
-</p>]]></text>
-</feedback>
-</answer>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
-Es asimétrica
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -2628,16 +2628,16 @@ FALSE
 </name>
 <questiontext format="html">
 <text><![CDATA[<p>
-<p><strong>R2018_0002</strong>. Si en una distribución de frecuencias, una categoría de la variable concentra al 88.61% de los casos, entonces la variable:</p>
+<p><strong>R2018_0002</strong>. Si en una distribución de frecuencias, una categoría de la variable concentra al 93.19% de los casos, entonces la variable:</p>
 </p>]]></text>
 </questiontext>
 <generalfeedback format="html">
 <text><![CDATA[<p>
 <ol type = "a">
-<li> FALSE </li>
-<li> FALSE </li>
-<li> FALSE </li>
 <li> TRUE </li>
+<li> FALSE </li>
+<li> FALSE </li>
+<li> FALSE </li>
 </ol>
 </p>]]></text>
 </generalfeedback>
@@ -2646,13 +2646,13 @@ FALSE
 <shuffleanswers>false</shuffleanswers>
 <single>true</single>
 <answernumbering>abc</answernumbering>
-<answer fraction="0" format="html">
+<answer fraction="100" format="html">
 <text><![CDATA[<p>
-Tiene mucha dispersión
+Tiene poca dispersión
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
-FALSE
+TRUE
 </p>]]></text>
 </feedback>
 </answer>
@@ -2676,13 +2676,13 @@ FALSE
 </p>]]></text>
 </feedback>
 </answer>
-<answer fraction="100" format="html">
+<answer fraction="0" format="html">
 <text><![CDATA[<p>
-Tiene poca dispersión
+Tiene mucha dispersión
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
-TRUE
+FALSE
 </p>]]></text>
 </feedback>
 </answer>
@@ -2695,7 +2695,7 @@ TRUE
 </name>
 <questiontext format="html">
 <text><![CDATA[<p>
-<p><strong>R2018_0002</strong>. Si en una distribución de frecuencias, una categoría de la variable concentra al 93.3% de los casos, entonces la variable:</p>
+<p><strong>R2018_0002</strong>. Si en una distribución de frecuencias, una categoría de la variable concentra al 97.76% de los casos, entonces la variable:</p>
 </p>]]></text>
 </questiontext>
 <generalfeedback format="html">
@@ -2762,7 +2762,7 @@ FALSE
 </name>
 <questiontext format="html">
 <text><![CDATA[<p>
-<p><strong>R2018_0002</strong>. Si en una distribución de frecuencias, una categoría de la variable concentra al 84.78% de los casos, entonces la variable:</p>
+<p><strong>R2018_0002</strong>. Si en una distribución de frecuencias, una categoría de la variable concentra al 94.19% de los casos, entonces la variable:</p>
 </p>]]></text>
 </questiontext>
 <generalfeedback format="html">
@@ -2770,8 +2770,8 @@ FALSE
 <ol type = "a">
 <li> FALSE </li>
 <li> FALSE </li>
-<li> FALSE </li>
 <li> TRUE </li>
+<li> FALSE </li>
 </ol>
 </p>]]></text>
 </generalfeedback>
@@ -2780,16 +2780,6 @@ FALSE
 <shuffleanswers>false</shuffleanswers>
 <single>true</single>
 <answernumbering>abc</answernumbering>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
-No puede conocerse la dispersión con estos datos
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-FALSE
-</p>]]></text>
-</feedback>
-</answer>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
 Es asimétrica
@@ -2817,6 +2807,16 @@ Tiene poca dispersión
 <feedback format="html">
 <text><![CDATA[<p>
 TRUE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+No puede conocerse la dispersión con estos datos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
 </p>]]></text>
 </feedback>
 </answer>
@@ -2829,16 +2829,16 @@ TRUE
 </name>
 <questiontext format="html">
 <text><![CDATA[<p>
-<p><strong>R2018_0002</strong>. Si en una distribución de frecuencias, una categoría de la variable concentra al 84.5% de los casos, entonces la variable:</p>
+<p><strong>R2018_0002</strong>. Si en una distribución de frecuencias, una categoría de la variable concentra al 96.26% de los casos, entonces la variable:</p>
 </p>]]></text>
 </questiontext>
 <generalfeedback format="html">
 <text><![CDATA[<p>
 <ol type = "a">
-<li> FALSE </li>
-<li> FALSE </li>
-<li> FALSE </li>
 <li> TRUE </li>
+<li> FALSE </li>
+<li> FALSE </li>
+<li> FALSE </li>
 </ol>
 </p>]]></text>
 </generalfeedback>
@@ -2847,19 +2847,19 @@ TRUE
 <shuffleanswers>false</shuffleanswers>
 <single>true</single>
 <answernumbering>abc</answernumbering>
-<answer fraction="0" format="html">
+<answer fraction="100" format="html">
 <text><![CDATA[<p>
-Es asimétrica
+Tiene poca dispersión
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
-FALSE
+TRUE
 </p>]]></text>
 </feedback>
 </answer>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-Tiene mucha dispersión
+Es asimétrica
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -2877,13 +2877,13 @@ FALSE
 </p>]]></text>
 </feedback>
 </answer>
-<answer fraction="100" format="html">
+<answer fraction="0" format="html">
 <text><![CDATA[<p>
-Tiene poca dispersión
+Tiene mucha dispersión
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
-TRUE
+FALSE
 </p>]]></text>
 </feedback>
 </answer>
@@ -2896,7 +2896,7 @@ TRUE
 </name>
 <questiontext format="html">
 <text><![CDATA[<p>
-<p><strong>R2018_0002</strong>. Si en una distribución de frecuencias, una categoría de la variable concentra al 96.13% de los casos, entonces la variable:</p>
+<p><strong>R2018_0002</strong>. Si en una distribución de frecuencias, una categoría de la variable concentra al 97.13% de los casos, entonces la variable:</p>
 </p>]]></text>
 </questiontext>
 <generalfeedback format="html">
@@ -2916,7 +2916,7 @@ TRUE
 <answernumbering>abc</answernumbering>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-Tiene mucha dispersión
+No puede conocerse la dispersión con estos datos
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -2926,7 +2926,7 @@ FALSE
 </answer>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-No puede conocerse la dispersión con estos datos
+Es asimétrica
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -2946,7 +2946,7 @@ TRUE
 </answer>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-Es asimétrica
+Tiene mucha dispersión
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -2963,7 +2963,7 @@ FALSE
 </name>
 <questiontext format="html">
 <text><![CDATA[<p>
-<p><strong>R2018_0002</strong>. Si en una distribución de frecuencias, una categoría de la variable concentra al 88.16% de los casos, entonces la variable:</p>
+<p><strong>R2018_0002</strong>. Si en una distribución de frecuencias, una categoría de la variable concentra al 86.5% de los casos, entonces la variable:</p>
 </p>]]></text>
 </questiontext>
 <generalfeedback format="html">
@@ -2971,8 +2971,8 @@ FALSE
 <ol type = "a">
 <li> FALSE </li>
 <li> FALSE </li>
-<li> FALSE </li>
 <li> TRUE </li>
+<li> FALSE </li>
 </ol>
 </p>]]></text>
 </generalfeedback>
@@ -3001,16 +3001,6 @@ FALSE
 </p>]]></text>
 </feedback>
 </answer>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
-Tiene mucha dispersión
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-FALSE
-</p>]]></text>
-</feedback>
-</answer>
 <answer fraction="100" format="html">
 <text><![CDATA[<p>
 Tiene poca dispersión
@@ -3018,6 +3008,16 @@ Tiene poca dispersión
 <feedback format="html">
 <text><![CDATA[<p>
 TRUE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Tiene mucha dispersión
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
 </p>]]></text>
 </feedback>
 </answer>
@@ -3030,7 +3030,7 @@ TRUE
 </name>
 <questiontext format="html">
 <text><![CDATA[<p>
-<p><strong>R2018_0002</strong>. Si en una distribución de frecuencias, una categoría de la variable concentra al 87.75% de los casos, entonces la variable:</p>
+<p><strong>R2018_0002</strong>. Si en una distribución de frecuencias, una categoría de la variable concentra al 86.64% de los casos, entonces la variable:</p>
 </p>]]></text>
 </questiontext>
 <generalfeedback format="html">
@@ -3060,7 +3060,7 @@ FALSE
 </answer>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-Es asimétrica
+No puede conocerse la dispersión con estos datos
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -3080,7 +3080,7 @@ TRUE
 </answer>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-No puede conocerse la dispersión con estos datos
+Es asimétrica
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -3097,7 +3097,7 @@ FALSE
 </name>
 <questiontext format="html">
 <text><![CDATA[<p>
-<p><strong>R2018_0002</strong>. Si en una distribución de frecuencias, una categoría de la variable concentra al 95.08% de los casos, entonces la variable:</p>
+<p><strong>R2018_0002</strong>. Si en una distribución de frecuencias, una categoría de la variable concentra al 96.15% de los casos, entonces la variable:</p>
 </p>]]></text>
 </questiontext>
 <generalfeedback format="html">
@@ -3105,8 +3105,8 @@ FALSE
 <ol type = "a">
 <li> FALSE </li>
 <li> FALSE </li>
-<li> FALSE </li>
 <li> TRUE </li>
+<li> FALSE </li>
 </ol>
 </p>]]></text>
 </generalfeedback>
@@ -3117,27 +3117,17 @@ FALSE
 <answernumbering>abc</answernumbering>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-No puede conocerse la dispersión con estos datos
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-FALSE
-</p>]]></text>
-</feedback>
-</answer>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
-Es asimétrica
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-FALSE
-</p>]]></text>
-</feedback>
-</answer>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
 Tiene mucha dispersión
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+No puede conocerse la dispersión con estos datos
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -3152,6 +3142,16 @@ Tiene poca dispersión
 <feedback format="html">
 <text><![CDATA[<p>
 TRUE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Es asimétrica
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
 </p>]]></text>
 </feedback>
 </answer>
@@ -3164,16 +3164,16 @@ TRUE
 </name>
 <questiontext format="html">
 <text><![CDATA[<p>
-<p><strong>R2018_0002</strong>. Si en una distribución de frecuencias, una categoría de la variable concentra al 86.21% de los casos, entonces la variable:</p>
+<p><strong>R2018_0002</strong>. Si en una distribución de frecuencias, una categoría de la variable concentra al 84.26% de los casos, entonces la variable:</p>
 </p>]]></text>
 </questiontext>
 <generalfeedback format="html">
 <text><![CDATA[<p>
 <ol type = "a">
-<li> FALSE </li>
-<li> FALSE </li>
-<li> FALSE </li>
 <li> TRUE </li>
+<li> FALSE </li>
+<li> FALSE </li>
+<li> FALSE </li>
 </ol>
 </p>]]></text>
 </generalfeedback>
@@ -3182,13 +3182,13 @@ TRUE
 <shuffleanswers>false</shuffleanswers>
 <single>true</single>
 <answernumbering>abc</answernumbering>
-<answer fraction="0" format="html">
+<answer fraction="100" format="html">
 <text><![CDATA[<p>
-No puede conocerse la dispersión con estos datos
+Tiene poca dispersión
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
-FALSE
+TRUE
 </p>]]></text>
 </feedback>
 </answer>
@@ -3212,13 +3212,13 @@ FALSE
 </p>]]></text>
 </feedback>
 </answer>
-<answer fraction="100" format="html">
+<answer fraction="0" format="html">
 <text><![CDATA[<p>
-Tiene poca dispersión
+No puede conocerse la dispersión con estos datos
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
-TRUE
+FALSE
 </p>]]></text>
 </feedback>
 </answer>
@@ -3231,14 +3231,14 @@ TRUE
 </name>
 <questiontext format="html">
 <text><![CDATA[<p>
-<p><strong>R2018_0002</strong>. Si en una distribución de frecuencias, una categoría de la variable concentra al 95.82% de los casos, entonces la variable:</p>
+<p><strong>R2018_0002</strong>. Si en una distribución de frecuencias, una categoría de la variable concentra al 86.62% de los casos, entonces la variable:</p>
 </p>]]></text>
 </questiontext>
 <generalfeedback format="html">
 <text><![CDATA[<p>
 <ol type = "a">
-<li> FALSE </li>
 <li> TRUE </li>
+<li> FALSE </li>
 <li> FALSE </li>
 <li> FALSE </li>
 </ol>
@@ -3249,16 +3249,6 @@ TRUE
 <shuffleanswers>false</shuffleanswers>
 <single>true</single>
 <answernumbering>abc</answernumbering>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
-Es asimétrica
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-FALSE
-</p>]]></text>
-</feedback>
-</answer>
 <answer fraction="100" format="html">
 <text><![CDATA[<p>
 Tiene poca dispersión
@@ -3271,7 +3261,7 @@ TRUE
 </answer>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-Tiene mucha dispersión
+Es asimétrica
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -3282,6 +3272,16 @@ FALSE
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
 No puede conocerse la dispersión con estos datos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Tiene mucha dispersión
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -3298,7 +3298,7 @@ FALSE
 </name>
 <questiontext format="html">
 <text><![CDATA[<p>
-<p><strong>R2018_0002</strong>. Si en una distribución de frecuencias, una categoría de la variable concentra al 89.69% de los casos, entonces la variable:</p>
+<p><strong>R2018_0002</strong>. Si en una distribución de frecuencias, una categoría de la variable concentra al 94% de los casos, entonces la variable:</p>
 </p>]]></text>
 </questiontext>
 <generalfeedback format="html">
@@ -3306,8 +3306,8 @@ FALSE
 <ol type = "a">
 <li> FALSE </li>
 <li> FALSE </li>
-<li> TRUE </li>
 <li> FALSE </li>
+<li> TRUE </li>
 </ol>
 </p>]]></text>
 </generalfeedback>
@@ -3318,7 +3318,7 @@ FALSE
 <answernumbering>abc</answernumbering>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-Tiene mucha dispersión
+No puede conocerse la dispersión con estos datos
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -3336,6 +3336,16 @@ FALSE
 </p>]]></text>
 </feedback>
 </answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Tiene mucha dispersión
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
 <answer fraction="100" format="html">
 <text><![CDATA[<p>
 Tiene poca dispersión
@@ -3343,16 +3353,6 @@ Tiene poca dispersión
 <feedback format="html">
 <text><![CDATA[<p>
 TRUE
-</p>]]></text>
-</feedback>
-</answer>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
-No puede conocerse la dispersión con estos datos
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-FALSE
 </p>]]></text>
 </feedback>
 </answer>
@@ -3365,7 +3365,7 @@ FALSE
 </name>
 <questiontext format="html">
 <text><![CDATA[<p>
-<p><strong>R2018_0002</strong>. Si en una distribución de frecuencias, una categoría de la variable concentra al 94.49% de los casos, entonces la variable:</p>
+<p><strong>R2018_0002</strong>. Si en una distribución de frecuencias, una categoría de la variable concentra al 91.71% de los casos, entonces la variable:</p>
 </p>]]></text>
 </questiontext>
 <generalfeedback format="html">
@@ -3385,7 +3385,7 @@ FALSE
 <answernumbering>abc</answernumbering>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-No puede conocerse la dispersión con estos datos
+Es asimétrica
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -3395,7 +3395,7 @@ FALSE
 </answer>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-Es asimétrica
+Tiene mucha dispersión
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -3415,7 +3415,7 @@ TRUE
 </answer>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-Tiene mucha dispersión
+No puede conocerse la dispersión con estos datos
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -3432,7 +3432,7 @@ FALSE
 </name>
 <questiontext format="html">
 <text><![CDATA[<p>
-<p><strong>R2018_0002</strong>. Si en una distribución de frecuencias, una categoría de la variable concentra al 89.52% de los casos, entonces la variable:</p>
+<p><strong>R2018_0002</strong>. Si en una distribución de frecuencias, una categoría de la variable concentra al 92.27% de los casos, entonces la variable:</p>
 </p>]]></text>
 </questiontext>
 <generalfeedback format="html">
@@ -3462,7 +3462,7 @@ FALSE
 </answer>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-Tiene mucha dispersión
+Es asimétrica
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -3482,7 +3482,7 @@ TRUE
 </answer>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-Es asimétrica
+Tiene mucha dispersión
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -3499,16 +3499,16 @@ FALSE
 </name>
 <questiontext format="html">
 <text><![CDATA[<p>
-<p><strong>R2018_0002</strong>. Si en una distribución de frecuencias, una categoría de la variable concentra al 92.57% de los casos, entonces la variable:</p>
+<p><strong>R2018_0002</strong>. Si en una distribución de frecuencias, una categoría de la variable concentra al 86.47% de los casos, entonces la variable:</p>
 </p>]]></text>
 </questiontext>
 <generalfeedback format="html">
 <text><![CDATA[<p>
 <ol type = "a">
 <li> FALSE </li>
-<li> FALSE </li>
-<li> FALSE </li>
 <li> TRUE </li>
+<li> FALSE </li>
+<li> FALSE </li>
 </ol>
 </p>]]></text>
 </generalfeedback>
@@ -3527,13 +3527,13 @@ FALSE
 </p>]]></text>
 </feedback>
 </answer>
-<answer fraction="0" format="html">
+<answer fraction="100" format="html">
 <text><![CDATA[<p>
-Es asimétrica
+Tiene poca dispersión
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
-FALSE
+TRUE
 </p>]]></text>
 </feedback>
 </answer>
@@ -3547,13 +3547,13 @@ FALSE
 </p>]]></text>
 </feedback>
 </answer>
-<answer fraction="100" format="html">
+<answer fraction="0" format="html">
 <text><![CDATA[<p>
-Tiene poca dispersión
+Es asimétrica
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
-TRUE
+FALSE
 </p>]]></text>
 </feedback>
 </answer>
@@ -3566,15 +3566,15 @@ TRUE
 </name>
 <questiontext format="html">
 <text><![CDATA[<p>
-<p><strong>R2018_0002</strong>. Si en una distribución de frecuencias, una categoría de la variable concentra al 93.69% de los casos, entonces la variable:</p>
+<p><strong>R2018_0002</strong>. Si en una distribución de frecuencias, una categoría de la variable concentra al 91.31% de los casos, entonces la variable:</p>
 </p>]]></text>
 </questiontext>
 <generalfeedback format="html">
 <text><![CDATA[<p>
 <ol type = "a">
 <li> FALSE </li>
-<li> FALSE </li>
 <li> TRUE </li>
+<li> FALSE </li>
 <li> FALSE </li>
 </ol>
 </p>]]></text>
@@ -3584,16 +3584,6 @@ TRUE
 <shuffleanswers>false</shuffleanswers>
 <single>true</single>
 <answernumbering>abc</answernumbering>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
-No puede conocerse la dispersión con estos datos
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-FALSE
-</p>]]></text>
-</feedback>
-</answer>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
 Tiene mucha dispersión
@@ -3617,6 +3607,16 @@ TRUE
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
 Es asimétrica
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+No puede conocerse la dispersión con estos datos
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -3633,16 +3633,16 @@ FALSE
 </name>
 <questiontext format="html">
 <text><![CDATA[<p>
-<p><strong>R2018_0002</strong>. Si en una distribución de frecuencias, una categoría de la variable concentra al 97.2% de los casos, entonces la variable:</p>
+<p><strong>R2018_0002</strong>. Si en una distribución de frecuencias, una categoría de la variable concentra al 92.76% de los casos, entonces la variable:</p>
 </p>]]></text>
 </questiontext>
 <generalfeedback format="html">
 <text><![CDATA[<p>
 <ol type = "a">
-<li> FALSE </li>
-<li> FALSE </li>
-<li> FALSE </li>
 <li> TRUE </li>
+<li> FALSE </li>
+<li> FALSE </li>
+<li> FALSE </li>
 </ol>
 </p>]]></text>
 </generalfeedback>
@@ -3651,6 +3651,16 @@ FALSE
 <shuffleanswers>false</shuffleanswers>
 <single>true</single>
 <answernumbering>abc</answernumbering>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+Tiene poca dispersión
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+TRUE
+</p>]]></text>
+</feedback>
+</answer>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
 No puede conocerse la dispersión con estos datos
@@ -3678,16 +3688,6 @@ Es asimétrica
 <feedback format="html">
 <text><![CDATA[<p>
 FALSE
-</p>]]></text>
-</feedback>
-</answer>
-<answer fraction="100" format="html">
-<text><![CDATA[<p>
-Tiene poca dispersión
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-TRUE
 </p>]]></text>
 </feedback>
 </answer>
@@ -3700,7 +3700,7 @@ TRUE
 </name>
 <questiontext format="html">
 <text><![CDATA[<p>
-<p><strong>R2018_0002</strong>. Si en una distribución de frecuencias, una categoría de la variable concentra al 84.79% de los casos, entonces la variable:</p>
+<p><strong>R2018_0002</strong>. Si en una distribución de frecuencias, una categoría de la variable concentra al 93.68% de los casos, entonces la variable:</p>
 </p>]]></text>
 </questiontext>
 <generalfeedback format="html">
@@ -3720,16 +3720,6 @@ TRUE
 <answernumbering>abc</answernumbering>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-No puede conocerse la dispersión con estos datos
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-FALSE
-</p>]]></text>
-</feedback>
-</answer>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
 Es asimétrica
 </p>]]></text>
 <feedback format="html">
@@ -3741,6 +3731,16 @@ FALSE
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
 Tiene mucha dispersión
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+No puede conocerse la dispersión con estos datos
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -3767,14 +3767,14 @@ TRUE
 </name>
 <questiontext format="html">
 <text><![CDATA[<p>
-<p><strong>R2018_0002</strong>. Si en una distribución de frecuencias, una categoría de la variable concentra al 95.87% de los casos, entonces la variable:</p>
+<p><strong>R2018_0002</strong>. Si en una distribución de frecuencias, una categoría de la variable concentra al 93.83% de los casos, entonces la variable:</p>
 </p>]]></text>
 </questiontext>
 <generalfeedback format="html">
 <text><![CDATA[<p>
 <ol type = "a">
-<li> TRUE </li>
 <li> FALSE </li>
+<li> TRUE </li>
 <li> FALSE </li>
 <li> FALSE </li>
 </ol>
@@ -3785,6 +3785,16 @@ TRUE
 <shuffleanswers>false</shuffleanswers>
 <single>true</single>
 <answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Es asimétrica
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
 <answer fraction="100" format="html">
 <text><![CDATA[<p>
 Tiene poca dispersión
@@ -3798,16 +3808,6 @@ TRUE
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
 No puede conocerse la dispersión con estos datos
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-FALSE
-</p>]]></text>
-</feedback>
-</answer>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
-Es asimétrica
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -3834,15 +3834,15 @@ FALSE
 </name>
 <questiontext format="html">
 <text><![CDATA[<p>
-<p><strong>R2018_0002</strong>. Si en una distribución de frecuencias, una categoría de la variable concentra al 85.13% de los casos, entonces la variable:</p>
+<p><strong>R2018_0002</strong>. Si en una distribución de frecuencias, una categoría de la variable concentra al 91.32% de los casos, entonces la variable:</p>
 </p>]]></text>
 </questiontext>
 <generalfeedback format="html">
 <text><![CDATA[<p>
 <ol type = "a">
-<li> FALSE </li>
-<li> FALSE </li>
 <li> TRUE </li>
+<li> FALSE </li>
+<li> FALSE </li>
 <li> FALSE </li>
 </ol>
 </p>]]></text>
@@ -3852,6 +3852,16 @@ FALSE
 <shuffleanswers>false</shuffleanswers>
 <single>true</single>
 <answernumbering>abc</answernumbering>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+Tiene poca dispersión
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+TRUE
+</p>]]></text>
+</feedback>
+</answer>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
 Tiene mucha dispersión
@@ -3869,16 +3879,6 @@ No puede conocerse la dispersión con estos datos
 <feedback format="html">
 <text><![CDATA[<p>
 FALSE
-</p>]]></text>
-</feedback>
-</answer>
-<answer fraction="100" format="html">
-<text><![CDATA[<p>
-Tiene poca dispersión
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-TRUE
 </p>]]></text>
 </feedback>
 </answer>
@@ -3901,7 +3901,7 @@ FALSE
 </name>
 <questiontext format="html">
 <text><![CDATA[<p>
-<p><strong>R2018_0002</strong>. Si en una distribución de frecuencias, una categoría de la variable concentra al 87.82% de los casos, entonces la variable:</p>
+<p><strong>R2018_0002</strong>. Si en una distribución de frecuencias, una categoría de la variable concentra al 93.69% de los casos, entonces la variable:</p>
 </p>]]></text>
 </questiontext>
 <generalfeedback format="html">
@@ -3909,8 +3909,8 @@ FALSE
 <ol type = "a">
 <li> FALSE </li>
 <li> FALSE </li>
-<li> TRUE </li>
 <li> FALSE </li>
+<li> TRUE </li>
 </ol>
 </p>]]></text>
 </generalfeedback>
@@ -3921,7 +3921,7 @@ FALSE
 <answernumbering>abc</answernumbering>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-Tiene mucha dispersión
+No puede conocerse la dispersión con estos datos
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -3939,6 +3939,16 @@ FALSE
 </p>]]></text>
 </feedback>
 </answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Tiene mucha dispersión
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
 <answer fraction="100" format="html">
 <text><![CDATA[<p>
 Tiene poca dispersión
@@ -3946,16 +3956,6 @@ Tiene poca dispersión
 <feedback format="html">
 <text><![CDATA[<p>
 TRUE
-</p>]]></text>
-</feedback>
-</answer>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
-No puede conocerse la dispersión con estos datos
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-FALSE
 </p>]]></text>
 </feedback>
 </answer>
@@ -3968,15 +3968,15 @@ FALSE
 </name>
 <questiontext format="html">
 <text><![CDATA[<p>
-<p><strong>R2018_0002</strong>. Si en una distribución de frecuencias, una categoría de la variable concentra al 90.2% de los casos, entonces la variable:</p>
+<p><strong>R2018_0002</strong>. Si en una distribución de frecuencias, una categoría de la variable concentra al 97% de los casos, entonces la variable:</p>
 </p>]]></text>
 </questiontext>
 <generalfeedback format="html">
 <text><![CDATA[<p>
 <ol type = "a">
 <li> FALSE </li>
-<li> TRUE </li>
 <li> FALSE </li>
+<li> TRUE </li>
 <li> FALSE </li>
 </ol>
 </p>]]></text>
@@ -3986,6 +3986,16 @@ FALSE
 <shuffleanswers>false</shuffleanswers>
 <single>true</single>
 <answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Tiene mucha dispersión
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
 No puede conocerse la dispersión con estos datos
@@ -4003,16 +4013,6 @@ Tiene poca dispersión
 <feedback format="html">
 <text><![CDATA[<p>
 TRUE
-</p>]]></text>
-</feedback>
-</answer>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
-Tiene mucha dispersión
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-FALSE
 </p>]]></text>
 </feedback>
 </answer>
@@ -4035,14 +4035,14 @@ FALSE
 </name>
 <questiontext format="html">
 <text><![CDATA[<p>
-<p><strong>R2018_0002</strong>. Si en una distribución de frecuencias, una categoría de la variable concentra al 94.68% de los casos, entonces la variable:</p>
+<p><strong>R2018_0002</strong>. Si en una distribución de frecuencias, una categoría de la variable concentra al 91.39% de los casos, entonces la variable:</p>
 </p>]]></text>
 </questiontext>
 <generalfeedback format="html">
 <text><![CDATA[<p>
 <ol type = "a">
-<li> TRUE </li>
 <li> FALSE </li>
+<li> TRUE </li>
 <li> FALSE </li>
 <li> FALSE </li>
 </ol>
@@ -4053,6 +4053,16 @@ FALSE
 <shuffleanswers>false</shuffleanswers>
 <single>true</single>
 <answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+No puede conocerse la dispersión con estos datos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
 <answer fraction="100" format="html">
 <text><![CDATA[<p>
 Tiene poca dispersión
@@ -4066,16 +4076,6 @@ TRUE
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
 Tiene mucha dispersión
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-FALSE
-</p>]]></text>
-</feedback>
-</answer>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
-No puede conocerse la dispersión con estos datos
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -4102,14 +4102,14 @@ FALSE
 </name>
 <questiontext format="html">
 <text><![CDATA[<p>
-<p><strong>R2018_0002</strong>. Si en una distribución de frecuencias, una categoría de la variable concentra al 95.58% de los casos, entonces la variable:</p>
+<p><strong>R2018_0002</strong>. Si en una distribución de frecuencias, una categoría de la variable concentra al 90.48% de los casos, entonces la variable:</p>
 </p>]]></text>
 </questiontext>
 <generalfeedback format="html">
 <text><![CDATA[<p>
 <ol type = "a">
-<li> FALSE </li>
 <li> TRUE </li>
+<li> FALSE </li>
 <li> FALSE </li>
 <li> FALSE </li>
 </ol>
@@ -4120,16 +4120,6 @@ FALSE
 <shuffleanswers>false</shuffleanswers>
 <single>true</single>
 <answernumbering>abc</answernumbering>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
-Tiene mucha dispersión
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-FALSE
-</p>]]></text>
-</feedback>
-</answer>
 <answer fraction="100" format="html">
 <text><![CDATA[<p>
 Tiene poca dispersión
@@ -4153,6 +4143,16 @@ FALSE
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
 No puede conocerse la dispersión con estos datos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Tiene mucha dispersión
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -4169,16 +4169,16 @@ FALSE
 </name>
 <questiontext format="html">
 <text><![CDATA[<p>
-<p><strong>R2018_0002</strong>. Si en una distribución de frecuencias, una categoría de la variable concentra al 95.35% de los casos, entonces la variable:</p>
+<p><strong>R2018_0002</strong>. Si en una distribución de frecuencias, una categoría de la variable concentra al 89.93% de los casos, entonces la variable:</p>
 </p>]]></text>
 </questiontext>
 <generalfeedback format="html">
 <text><![CDATA[<p>
 <ol type = "a">
-<li> FALSE </li>
-<li> FALSE </li>
-<li> FALSE </li>
 <li> TRUE </li>
+<li> FALSE </li>
+<li> FALSE </li>
+<li> FALSE </li>
 </ol>
 </p>]]></text>
 </generalfeedback>
@@ -4187,6 +4187,16 @@ FALSE
 <shuffleanswers>false</shuffleanswers>
 <single>true</single>
 <answernumbering>abc</answernumbering>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+Tiene poca dispersión
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+TRUE
+</p>]]></text>
+</feedback>
+</answer>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
 Tiene mucha dispersión
@@ -4214,16 +4224,6 @@ Es asimétrica
 <feedback format="html">
 <text><![CDATA[<p>
 FALSE
-</p>]]></text>
-</feedback>
-</answer>
-<answer fraction="100" format="html">
-<text><![CDATA[<p>
-Tiene poca dispersión
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-TRUE
 </p>]]></text>
 </feedback>
 </answer>
@@ -4236,15 +4236,15 @@ TRUE
 </name>
 <questiontext format="html">
 <text><![CDATA[<p>
-<p><strong>R2018_0002</strong>. Si en una distribución de frecuencias, una categoría de la variable concentra al 85.88% de los casos, entonces la variable:</p>
+<p><strong>R2018_0002</strong>. Si en una distribución de frecuencias, una categoría de la variable concentra al 94.92% de los casos, entonces la variable:</p>
 </p>]]></text>
 </questiontext>
 <generalfeedback format="html">
 <text><![CDATA[<p>
 <ol type = "a">
+<li> FALSE </li>
+<li> FALSE </li>
 <li> TRUE </li>
-<li> FALSE </li>
-<li> FALSE </li>
 <li> FALSE </li>
 </ol>
 </p>]]></text>
@@ -4254,13 +4254,13 @@ TRUE
 <shuffleanswers>false</shuffleanswers>
 <single>true</single>
 <answernumbering>abc</answernumbering>
-<answer fraction="100" format="html">
+<answer fraction="0" format="html">
 <text><![CDATA[<p>
-Tiene poca dispersión
+Tiene mucha dispersión
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
-TRUE
+FALSE
 </p>]]></text>
 </feedback>
 </answer>
@@ -4274,19 +4274,19 @@ FALSE
 </p>]]></text>
 </feedback>
 </answer>
-<answer fraction="0" format="html">
+<answer fraction="100" format="html">
 <text><![CDATA[<p>
-Es asimétrica
+Tiene poca dispersión
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
-FALSE
+TRUE
 </p>]]></text>
 </feedback>
 </answer>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-Tiene mucha dispersión
+Es asimétrica
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -4303,16 +4303,16 @@ FALSE
 </name>
 <questiontext format="html">
 <text><![CDATA[<p>
-<p><strong>R2018_0002</strong>. Si en una distribución de frecuencias, una categoría de la variable concentra al 94.34% de los casos, entonces la variable:</p>
+<p><strong>R2018_0002</strong>. Si en una distribución de frecuencias, una categoría de la variable concentra al 93.01% de los casos, entonces la variable:</p>
 </p>]]></text>
 </questiontext>
 <generalfeedback format="html">
 <text><![CDATA[<p>
 <ol type = "a">
-<li> FALSE </li>
-<li> FALSE </li>
-<li> FALSE </li>
 <li> TRUE </li>
+<li> FALSE </li>
+<li> FALSE </li>
+<li> FALSE </li>
 </ol>
 </p>]]></text>
 </generalfeedback>
@@ -4321,19 +4321,19 @@ FALSE
 <shuffleanswers>false</shuffleanswers>
 <single>true</single>
 <answernumbering>abc</answernumbering>
-<answer fraction="0" format="html">
+<answer fraction="100" format="html">
 <text><![CDATA[<p>
-Es asimétrica
+Tiene poca dispersión
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
-FALSE
+TRUE
 </p>]]></text>
 </feedback>
 </answer>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-Tiene mucha dispersión
+Es asimétrica
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -4351,13 +4351,13 @@ FALSE
 </p>]]></text>
 </feedback>
 </answer>
-<answer fraction="100" format="html">
+<answer fraction="0" format="html">
 <text><![CDATA[<p>
-Tiene poca dispersión
+Tiene mucha dispersión
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
-TRUE
+FALSE
 </p>]]></text>
 </feedback>
 </answer>
@@ -4370,16 +4370,16 @@ TRUE
 </name>
 <questiontext format="html">
 <text><![CDATA[<p>
-<p><strong>R2018_0002</strong>. Si en una distribución de frecuencias, una categoría de la variable concentra al 84.2% de los casos, entonces la variable:</p>
+<p><strong>R2018_0002</strong>. Si en una distribución de frecuencias, una categoría de la variable concentra al 94.17% de los casos, entonces la variable:</p>
 </p>]]></text>
 </questiontext>
 <generalfeedback format="html">
 <text><![CDATA[<p>
 <ol type = "a">
+<li> FALSE </li>
+<li> FALSE </li>
+<li> FALSE </li>
 <li> TRUE </li>
-<li> FALSE </li>
-<li> FALSE </li>
-<li> FALSE </li>
 </ol>
 </p>]]></text>
 </generalfeedback>
@@ -4388,26 +4388,6 @@ TRUE
 <shuffleanswers>false</shuffleanswers>
 <single>true</single>
 <answernumbering>abc</answernumbering>
-<answer fraction="100" format="html">
-<text><![CDATA[<p>
-Tiene poca dispersión
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-TRUE
-</p>]]></text>
-</feedback>
-</answer>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
-Es asimétrica
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-FALSE
-</p>]]></text>
-</feedback>
-</answer>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
 Tiene mucha dispersión
@@ -4425,6 +4405,26 @@ No puede conocerse la dispersión con estos datos
 <feedback format="html">
 <text><![CDATA[<p>
 FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Es asimétrica
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+Tiene poca dispersión
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+TRUE
 </p>]]></text>
 </feedback>
 </answer>
@@ -4437,15 +4437,15 @@ FALSE
 </name>
 <questiontext format="html">
 <text><![CDATA[<p>
-<p><strong>R2018_0002</strong>. Si en una distribución de frecuencias, una categoría de la variable concentra al 88.82% de los casos, entonces la variable:</p>
+<p><strong>R2018_0002</strong>. Si en una distribución de frecuencias, una categoría de la variable concentra al 93.22% de los casos, entonces la variable:</p>
 </p>]]></text>
 </questiontext>
 <generalfeedback format="html">
 <text><![CDATA[<p>
 <ol type = "a">
 <li> FALSE </li>
-<li> FALSE </li>
 <li> TRUE </li>
+<li> FALSE </li>
 <li> FALSE </li>
 </ol>
 </p>]]></text>
@@ -4458,16 +4458,6 @@ FALSE
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
 Tiene mucha dispersión
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-FALSE
-</p>]]></text>
-</feedback>
-</answer>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
-No puede conocerse la dispersión con estos datos
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -4488,6 +4478,16 @@ TRUE
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
 Es asimétrica
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+No puede conocerse la dispersión con estos datos
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -4504,16 +4504,16 @@ FALSE
 </name>
 <questiontext format="html">
 <text><![CDATA[<p>
-<p><strong>R2018_0002</strong>. Si en una distribución de frecuencias, una categoría de la variable concentra al 92.27% de los casos, entonces la variable:</p>
+<p><strong>R2018_0002</strong>. Si en una distribución de frecuencias, una categoría de la variable concentra al 97.66% de los casos, entonces la variable:</p>
 </p>]]></text>
 </questiontext>
 <generalfeedback format="html">
 <text><![CDATA[<p>
 <ol type = "a">
-<li> FALSE </li>
-<li> FALSE </li>
-<li> FALSE </li>
 <li> TRUE </li>
+<li> FALSE </li>
+<li> FALSE </li>
+<li> FALSE </li>
 </ol>
 </p>]]></text>
 </generalfeedback>
@@ -4522,6 +4522,16 @@ FALSE
 <shuffleanswers>false</shuffleanswers>
 <single>true</single>
 <answernumbering>abc</answernumbering>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+Tiene poca dispersión
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+TRUE
+</p>]]></text>
+</feedback>
+</answer>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
 No puede conocerse la dispersión con estos datos
@@ -4549,16 +4559,6 @@ Tiene mucha dispersión
 <feedback format="html">
 <text><![CDATA[<p>
 FALSE
-</p>]]></text>
-</feedback>
-</answer>
-<answer fraction="100" format="html">
-<text><![CDATA[<p>
-Tiene poca dispersión
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-TRUE
 </p>]]></text>
 </feedback>
 </answer>
@@ -4571,16 +4571,16 @@ TRUE
 </name>
 <questiontext format="html">
 <text><![CDATA[<p>
-<p><strong>R2018_0002</strong>. Si en una distribución de frecuencias, una categoría de la variable concentra al 93.36% de los casos, entonces la variable:</p>
+<p><strong>R2018_0002</strong>. Si en una distribución de frecuencias, una categoría de la variable concentra al 91.46% de los casos, entonces la variable:</p>
 </p>]]></text>
 </questiontext>
 <generalfeedback format="html">
 <text><![CDATA[<p>
 <ol type = "a">
-<li> FALSE </li>
-<li> FALSE </li>
-<li> FALSE </li>
 <li> TRUE </li>
+<li> FALSE </li>
+<li> FALSE </li>
+<li> FALSE </li>
 </ol>
 </p>]]></text>
 </generalfeedback>
@@ -4589,6 +4589,26 @@ TRUE
 <shuffleanswers>false</shuffleanswers>
 <single>true</single>
 <answernumbering>abc</answernumbering>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+Tiene poca dispersión
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+TRUE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Es asimétrica
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
 No puede conocerse la dispersión con estos datos
@@ -4606,26 +4626,6 @@ Tiene mucha dispersión
 <feedback format="html">
 <text><![CDATA[<p>
 FALSE
-</p>]]></text>
-</feedback>
-</answer>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
-Es asimétrica
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-FALSE
-</p>]]></text>
-</feedback>
-</answer>
-<answer fraction="100" format="html">
-<text><![CDATA[<p>
-Tiene poca dispersión
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-TRUE
 </p>]]></text>
 </feedback>
 </answer>
@@ -4638,14 +4638,14 @@ TRUE
 </name>
 <questiontext format="html">
 <text><![CDATA[<p>
-<p><strong>R2018_0002</strong>. Si en una distribución de frecuencias, una categoría de la variable concentra al 86.6% de los casos, entonces la variable:</p>
+<p><strong>R2018_0002</strong>. Si en una distribución de frecuencias, una categoría de la variable concentra al 92.23% de los casos, entonces la variable:</p>
 </p>]]></text>
 </questiontext>
 <generalfeedback format="html">
 <text><![CDATA[<p>
 <ol type = "a">
-<li> FALSE </li>
 <li> TRUE </li>
+<li> FALSE </li>
 <li> FALSE </li>
 <li> FALSE </li>
 </ol>
@@ -4656,16 +4656,6 @@ TRUE
 <shuffleanswers>false</shuffleanswers>
 <single>true</single>
 <answernumbering>abc</answernumbering>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
-Tiene mucha dispersión
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-FALSE
-</p>]]></text>
-</feedback>
-</answer>
 <answer fraction="100" format="html">
 <text><![CDATA[<p>
 Tiene poca dispersión
@@ -4678,7 +4668,7 @@ TRUE
 </answer>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-No puede conocerse la dispersión con estos datos
+Tiene mucha dispersión
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -4689,6 +4679,16 @@ FALSE
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
 Es asimétrica
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+No puede conocerse la dispersión con estos datos
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -4705,7 +4705,7 @@ FALSE
 </name>
 <questiontext format="html">
 <text><![CDATA[<p>
-<p><strong>R2018_0002</strong>. Si en una distribución de frecuencias, una categoría de la variable concentra al 92.48% de los casos, entonces la variable:</p>
+<p><strong>R2018_0002</strong>. Si en una distribución de frecuencias, una categoría de la variable concentra al 88.55% de los casos, entonces la variable:</p>
 </p>]]></text>
 </questiontext>
 <generalfeedback format="html">
@@ -4713,8 +4713,8 @@ FALSE
 <ol type = "a">
 <li> FALSE </li>
 <li> FALSE </li>
-<li> FALSE </li>
 <li> TRUE </li>
+<li> FALSE </li>
 </ol>
 </p>]]></text>
 </generalfeedback>
@@ -4725,7 +4725,7 @@ FALSE
 <answernumbering>abc</answernumbering>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-No puede conocerse la dispersión con estos datos
+Tiene mucha dispersión
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -4743,16 +4743,6 @@ FALSE
 </p>]]></text>
 </feedback>
 </answer>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
-Tiene mucha dispersión
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-FALSE
-</p>]]></text>
-</feedback>
-</answer>
 <answer fraction="100" format="html">
 <text><![CDATA[<p>
 Tiene poca dispersión
@@ -4760,6 +4750,16 @@ Tiene poca dispersión
 <feedback format="html">
 <text><![CDATA[<p>
 TRUE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+No puede conocerse la dispersión con estos datos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
 </p>]]></text>
 </feedback>
 </answer>
@@ -4772,7 +4772,7 @@ TRUE
 </name>
 <questiontext format="html">
 <text><![CDATA[<p>
-<p><strong>R2018_0002</strong>. Si en una distribución de frecuencias, una categoría de la variable concentra al 84.67% de los casos, entonces la variable:</p>
+<p><strong>R2018_0002</strong>. Si en una distribución de frecuencias, una categoría de la variable concentra al 89.91% de los casos, entonces la variable:</p>
 </p>]]></text>
 </questiontext>
 <generalfeedback format="html">
@@ -4802,7 +4802,7 @@ TRUE
 </answer>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-No puede conocerse la dispersión con estos datos
+Tiene mucha dispersión
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -4822,7 +4822,7 @@ FALSE
 </answer>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-Tiene mucha dispersión
+No puede conocerse la dispersión con estos datos
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -4839,7 +4839,7 @@ FALSE
 </name>
 <questiontext format="html">
 <text><![CDATA[<p>
-<p><strong>R2018_0002</strong>. Si en una distribución de frecuencias, una categoría de la variable concentra al 91.94% de los casos, entonces la variable:</p>
+<p><strong>R2018_0002</strong>. Si en una distribución de frecuencias, una categoría de la variable concentra al 92.66% de los casos, entonces la variable:</p>
 </p>]]></text>
 </questiontext>
 <generalfeedback format="html">
@@ -4869,16 +4869,6 @@ TRUE
 </answer>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-Es asimétrica
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-FALSE
-</p>]]></text>
-</feedback>
-</answer>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
 No puede conocerse la dispersión con estos datos
 </p>]]></text>
 <feedback format="html">
@@ -4890,6 +4880,16 @@ FALSE
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
 Tiene mucha dispersión
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Es asimétrica
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -4906,15 +4906,15 @@ FALSE
 </name>
 <questiontext format="html">
 <text><![CDATA[<p>
-<p><strong>R2018_0002</strong>. Si en una distribución de frecuencias, una categoría de la variable concentra al 93.52% de los casos, entonces la variable:</p>
+<p><strong>R2018_0002</strong>. Si en una distribución de frecuencias, una categoría de la variable concentra al 87.63% de los casos, entonces la variable:</p>
 </p>]]></text>
 </questiontext>
 <generalfeedback format="html">
 <text><![CDATA[<p>
 <ol type = "a">
 <li> FALSE </li>
-<li> TRUE </li>
 <li> FALSE </li>
+<li> TRUE </li>
 <li> FALSE </li>
 </ol>
 </p>]]></text>
@@ -4927,6 +4927,16 @@ FALSE
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
 Tiene mucha dispersión
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Es asimétrica
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -4947,16 +4957,6 @@ TRUE
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
 No puede conocerse la dispersión con estos datos
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-FALSE
-</p>]]></text>
-</feedback>
-</answer>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
-Es asimétrica
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -4973,16 +4973,16 @@ FALSE
 </name>
 <questiontext format="html">
 <text><![CDATA[<p>
-<p><strong>R2018_0002</strong>. Si en una distribución de frecuencias, una categoría de la variable concentra al 95.11% de los casos, entonces la variable:</p>
+<p><strong>R2018_0002</strong>. Si en una distribución de frecuencias, una categoría de la variable concentra al 91.69% de los casos, entonces la variable:</p>
 </p>]]></text>
 </questiontext>
 <generalfeedback format="html">
 <text><![CDATA[<p>
 <ol type = "a">
-<li> FALSE </li>
-<li> FALSE </li>
-<li> FALSE </li>
 <li> TRUE </li>
+<li> FALSE </li>
+<li> FALSE </li>
+<li> FALSE </li>
 </ol>
 </p>]]></text>
 </generalfeedback>
@@ -4991,19 +4991,19 @@ FALSE
 <shuffleanswers>false</shuffleanswers>
 <single>true</single>
 <answernumbering>abc</answernumbering>
-<answer fraction="0" format="html">
+<answer fraction="100" format="html">
 <text><![CDATA[<p>
-Tiene mucha dispersión
+Tiene poca dispersión
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
-FALSE
+TRUE
 </p>]]></text>
 </feedback>
 </answer>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-Es asimétrica
+Tiene mucha dispersión
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -5021,13 +5021,13 @@ FALSE
 </p>]]></text>
 </feedback>
 </answer>
-<answer fraction="100" format="html">
+<answer fraction="0" format="html">
 <text><![CDATA[<p>
-Tiene poca dispersión
+Es asimétrica
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
-TRUE
+FALSE
 </p>]]></text>
 </feedback>
 </answer>
@@ -5040,16 +5040,16 @@ TRUE
 </name>
 <questiontext format="html">
 <text><![CDATA[<p>
-<p><strong>R2018_0002</strong>. Si en una distribución de frecuencias, una categoría de la variable concentra al 84.57% de los casos, entonces la variable:</p>
+<p><strong>R2018_0002</strong>. Si en una distribución de frecuencias, una categoría de la variable concentra al 94.3% de los casos, entonces la variable:</p>
 </p>]]></text>
 </questiontext>
 <generalfeedback format="html">
 <text><![CDATA[<p>
 <ol type = "a">
 <li> FALSE </li>
+<li> FALSE </li>
+<li> FALSE </li>
 <li> TRUE </li>
-<li> FALSE </li>
-<li> FALSE </li>
 </ol>
 </p>]]></text>
 </generalfeedback>
@@ -5061,26 +5061,6 @@ TRUE
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
 No puede conocerse la dispersión con estos datos
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-FALSE
-</p>]]></text>
-</feedback>
-</answer>
-<answer fraction="100" format="html">
-<text><![CDATA[<p>
-Tiene poca dispersión
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-TRUE
-</p>]]></text>
-</feedback>
-</answer>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
-Tiene mucha dispersión
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -5098,33 +5078,6 @@ FALSE
 </p>]]></text>
 </feedback>
 </answer>
-</question>
-
-
-<question type="multichoice">
-<name>
-<text> R077 Q1 : preguntas_html_R2018_0002 </text>
-</name>
-<questiontext format="html">
-<text><![CDATA[<p>
-<p><strong>R2018_0002</strong>. Si en una distribución de frecuencias, una categoría de la variable concentra al 97.61% de los casos, entonces la variable:</p>
-</p>]]></text>
-</questiontext>
-<generalfeedback format="html">
-<text><![CDATA[<p>
-<ol type = "a">
-<li> FALSE </li>
-<li> FALSE </li>
-<li> TRUE </li>
-<li> FALSE </li>
-</ol>
-</p>]]></text>
-</generalfeedback>
-<penalty>0</penalty>
-<defaultgrade>1</defaultgrade>
-<shuffleanswers>false</shuffleanswers>
-<single>true</single>
-<answernumbering>abc</answernumbering>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
 Tiene mucha dispersión
@@ -5135,6 +5088,43 @@ FALSE
 </p>]]></text>
 </feedback>
 </answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+Tiene poca dispersión
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+TRUE
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R077 Q1 : preguntas_html_R2018_0002 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p><strong>R2018_0002</strong>. Si en una distribución de frecuencias, una categoría de la variable concentra al 88.48% de los casos, entonces la variable:</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<ol type = "a">
+<li> FALSE </li>
+<li> TRUE </li>
+<li> FALSE </li>
+<li> FALSE </li>
+</ol>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
 No puede conocerse la dispersión con estos datos
@@ -5152,6 +5142,16 @@ Tiene poca dispersión
 <feedback format="html">
 <text><![CDATA[<p>
 TRUE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Tiene mucha dispersión
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
 </p>]]></text>
 </feedback>
 </answer>
@@ -5174,15 +5174,15 @@ FALSE
 </name>
 <questiontext format="html">
 <text><![CDATA[<p>
-<p><strong>R2018_0002</strong>. Si en una distribución de frecuencias, una categoría de la variable concentra al 86.83% de los casos, entonces la variable:</p>
+<p><strong>R2018_0002</strong>. Si en una distribución de frecuencias, una categoría de la variable concentra al 89.05% de los casos, entonces la variable:</p>
 </p>]]></text>
 </questiontext>
 <generalfeedback format="html">
 <text><![CDATA[<p>
 <ol type = "a">
 <li> FALSE </li>
-<li> TRUE </li>
 <li> FALSE </li>
+<li> TRUE </li>
 <li> FALSE </li>
 </ol>
 </p>]]></text>
@@ -5192,6 +5192,16 @@ FALSE
 <shuffleanswers>false</shuffleanswers>
 <single>true</single>
 <answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Tiene mucha dispersión
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
 Es asimétrica
@@ -5209,16 +5219,6 @@ Tiene poca dispersión
 <feedback format="html">
 <text><![CDATA[<p>
 TRUE
-</p>]]></text>
-</feedback>
-</answer>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
-Tiene mucha dispersión
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-FALSE
 </p>]]></text>
 </feedback>
 </answer>
@@ -5241,15 +5241,15 @@ FALSE
 </name>
 <questiontext format="html">
 <text><![CDATA[<p>
-<p><strong>R2018_0002</strong>. Si en una distribución de frecuencias, una categoría de la variable concentra al 94.78% de los casos, entonces la variable:</p>
+<p><strong>R2018_0002</strong>. Si en una distribución de frecuencias, una categoría de la variable concentra al 87.66% de los casos, entonces la variable:</p>
 </p>]]></text>
 </questiontext>
 <generalfeedback format="html">
 <text><![CDATA[<p>
 <ol type = "a">
-<li> FALSE </li>
-<li> FALSE </li>
 <li> TRUE </li>
+<li> FALSE </li>
+<li> FALSE </li>
 <li> FALSE </li>
 </ol>
 </p>]]></text>
@@ -5259,26 +5259,6 @@ FALSE
 <shuffleanswers>false</shuffleanswers>
 <single>true</single>
 <answernumbering>abc</answernumbering>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
-Tiene mucha dispersión
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-FALSE
-</p>]]></text>
-</feedback>
-</answer>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
-Es asimétrica
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-FALSE
-</p>]]></text>
-</feedback>
-</answer>
 <answer fraction="100" format="html">
 <text><![CDATA[<p>
 Tiene poca dispersión
@@ -5291,7 +5271,27 @@ TRUE
 </answer>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
+Tiene mucha dispersión
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
 No puede conocerse la dispersión con estos datos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Es asimétrica
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -5308,7 +5308,7 @@ FALSE
 </name>
 <questiontext format="html">
 <text><![CDATA[<p>
-<p><strong>R2018_0002</strong>. Si en una distribución de frecuencias, una categoría de la variable concentra al 97.28% de los casos, entonces la variable:</p>
+<p><strong>R2018_0002</strong>. Si en una distribución de frecuencias, una categoría de la variable concentra al 95.48% de los casos, entonces la variable:</p>
 </p>]]></text>
 </questiontext>
 <generalfeedback format="html">
@@ -5316,8 +5316,8 @@ FALSE
 <ol type = "a">
 <li> FALSE </li>
 <li> FALSE </li>
-<li> TRUE </li>
 <li> FALSE </li>
+<li> TRUE </li>
 </ol>
 </p>]]></text>
 </generalfeedback>
@@ -5346,16 +5346,6 @@ FALSE
 </p>]]></text>
 </feedback>
 </answer>
-<answer fraction="100" format="html">
-<text><![CDATA[<p>
-Tiene poca dispersión
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-TRUE
-</p>]]></text>
-</feedback>
-</answer>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
 Tiene mucha dispersión
@@ -5363,6 +5353,16 @@ Tiene mucha dispersión
 <feedback format="html">
 <text><![CDATA[<p>
 FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+Tiene poca dispersión
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+TRUE
 </p>]]></text>
 </feedback>
 </answer>
@@ -5375,7 +5375,7 @@ FALSE
 </name>
 <questiontext format="html">
 <text><![CDATA[<p>
-<p><strong>R2018_0002</strong>. Si en una distribución de frecuencias, una categoría de la variable concentra al 86.74% de los casos, entonces la variable:</p>
+<p><strong>R2018_0002</strong>. Si en una distribución de frecuencias, una categoría de la variable concentra al 85.37% de los casos, entonces la variable:</p>
 </p>]]></text>
 </questiontext>
 <generalfeedback format="html">
@@ -5442,15 +5442,15 @@ FALSE
 </name>
 <questiontext format="html">
 <text><![CDATA[<p>
-<p><strong>R2018_0002</strong>. Si en una distribución de frecuencias, una categoría de la variable concentra al 94.5% de los casos, entonces la variable:</p>
+<p><strong>R2018_0002</strong>. Si en una distribución de frecuencias, una categoría de la variable concentra al 95.18% de los casos, entonces la variable:</p>
 </p>]]></text>
 </questiontext>
 <generalfeedback format="html">
 <text><![CDATA[<p>
 <ol type = "a">
+<li> FALSE </li>
+<li> FALSE </li>
 <li> TRUE </li>
-<li> FALSE </li>
-<li> FALSE </li>
 <li> FALSE </li>
 </ol>
 </p>]]></text>
@@ -5460,16 +5460,6 @@ FALSE
 <shuffleanswers>false</shuffleanswers>
 <single>true</single>
 <answernumbering>abc</answernumbering>
-<answer fraction="100" format="html">
-<text><![CDATA[<p>
-Tiene poca dispersión
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-TRUE
-</p>]]></text>
-</feedback>
-</answer>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
 No puede conocerse la dispersión con estos datos
@@ -5482,7 +5472,7 @@ FALSE
 </answer>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-Tiene mucha dispersión
+Es asimétrica
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -5490,9 +5480,19 @@ FALSE
 </p>]]></text>
 </feedback>
 </answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+Tiene poca dispersión
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+TRUE
+</p>]]></text>
+</feedback>
+</answer>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-Es asimétrica
+Tiene mucha dispersión
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -5509,7 +5509,7 @@ FALSE
 </name>
 <questiontext format="html">
 <text><![CDATA[<p>
-<p><strong>R2018_0002</strong>. Si en una distribución de frecuencias, una categoría de la variable concentra al 86.57% de los casos, entonces la variable:</p>
+<p><strong>R2018_0002</strong>. Si en una distribución de frecuencias, una categoría de la variable concentra al 90.47% de los casos, entonces la variable:</p>
 </p>]]></text>
 </questiontext>
 <generalfeedback format="html">
@@ -5529,16 +5529,6 @@ FALSE
 <answernumbering>abc</answernumbering>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-Tiene mucha dispersión
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-FALSE
-</p>]]></text>
-</feedback>
-</answer>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
 Es asimétrica
 </p>]]></text>
 <feedback format="html">
@@ -5550,6 +5540,16 @@ FALSE
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
 No puede conocerse la dispersión con estos datos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Tiene mucha dispersión
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -5576,14 +5576,14 @@ TRUE
 </name>
 <questiontext format="html">
 <text><![CDATA[<p>
-<p><strong>R2018_0002</strong>. Si en una distribución de frecuencias, una categoría de la variable concentra al 90.17% de los casos, entonces la variable:</p>
+<p><strong>R2018_0002</strong>. Si en una distribución de frecuencias, una categoría de la variable concentra al 88.66% de los casos, entonces la variable:</p>
 </p>]]></text>
 </questiontext>
 <generalfeedback format="html">
 <text><![CDATA[<p>
 <ol type = "a">
-<li> FALSE </li>
 <li> TRUE </li>
+<li> FALSE </li>
 <li> FALSE </li>
 <li> FALSE </li>
 </ol>
@@ -5594,16 +5594,6 @@ TRUE
 <shuffleanswers>false</shuffleanswers>
 <single>true</single>
 <answernumbering>abc</answernumbering>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
-Tiene mucha dispersión
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-FALSE
-</p>]]></text>
-</feedback>
-</answer>
 <answer fraction="100" format="html">
 <text><![CDATA[<p>
 Tiene poca dispersión
@@ -5617,6 +5607,16 @@ TRUE
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
 No puede conocerse la dispersión con estos datos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Tiene mucha dispersión
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -5643,14 +5643,14 @@ FALSE
 </name>
 <questiontext format="html">
 <text><![CDATA[<p>
-<p><strong>R2018_0002</strong>. Si en una distribución de frecuencias, una categoría de la variable concentra al 86.81% de los casos, entonces la variable:</p>
+<p><strong>R2018_0002</strong>. Si en una distribución de frecuencias, una categoría de la variable concentra al 86.59% de los casos, entonces la variable:</p>
 </p>]]></text>
 </questiontext>
 <generalfeedback format="html">
 <text><![CDATA[<p>
 <ol type = "a">
-<li> TRUE </li>
 <li> FALSE </li>
+<li> TRUE </li>
 <li> FALSE </li>
 <li> FALSE </li>
 </ol>
@@ -5661,6 +5661,16 @@ FALSE
 <shuffleanswers>false</shuffleanswers>
 <single>true</single>
 <answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+No puede conocerse la dispersión con estos datos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
 <answer fraction="100" format="html">
 <text><![CDATA[<p>
 Tiene poca dispersión
@@ -5691,16 +5701,6 @@ FALSE
 </p>]]></text>
 </feedback>
 </answer>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
-No puede conocerse la dispersión con estos datos
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-FALSE
-</p>]]></text>
-</feedback>
-</answer>
 </question>
 
 
@@ -5710,14 +5710,14 @@ FALSE
 </name>
 <questiontext format="html">
 <text><![CDATA[<p>
-<p><strong>R2018_0002</strong>. Si en una distribución de frecuencias, una categoría de la variable concentra al 97.83% de los casos, entonces la variable:</p>
+<p><strong>R2018_0002</strong>. Si en una distribución de frecuencias, una categoría de la variable concentra al 93.99% de los casos, entonces la variable:</p>
 </p>]]></text>
 </questiontext>
 <generalfeedback format="html">
 <text><![CDATA[<p>
 <ol type = "a">
-<li> FALSE </li>
 <li> TRUE </li>
+<li> FALSE </li>
 <li> FALSE </li>
 <li> FALSE </li>
 </ol>
@@ -5728,16 +5728,6 @@ FALSE
 <shuffleanswers>false</shuffleanswers>
 <single>true</single>
 <answernumbering>abc</answernumbering>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
-Tiene mucha dispersión
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-FALSE
-</p>]]></text>
-</feedback>
-</answer>
 <answer fraction="100" format="html">
 <text><![CDATA[<p>
 Tiene poca dispersión
@@ -5751,6 +5741,16 @@ TRUE
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
 No puede conocerse la dispersión con estos datos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Tiene mucha dispersión
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -5777,15 +5777,15 @@ FALSE
 </name>
 <questiontext format="html">
 <text><![CDATA[<p>
-<p><strong>R2018_0002</strong>. Si en una distribución de frecuencias, una categoría de la variable concentra al 93.53% de los casos, entonces la variable:</p>
+<p><strong>R2018_0002</strong>. Si en una distribución de frecuencias, una categoría de la variable concentra al 86.77% de los casos, entonces la variable:</p>
 </p>]]></text>
 </questiontext>
 <generalfeedback format="html">
 <text><![CDATA[<p>
 <ol type = "a">
 <li> FALSE </li>
-<li> TRUE </li>
 <li> FALSE </li>
+<li> TRUE </li>
 <li> FALSE </li>
 </ol>
 </p>]]></text>
@@ -5805,6 +5805,16 @@ FALSE
 </p>]]></text>
 </feedback>
 </answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Es asimétrica
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
 <answer fraction="100" format="html">
 <text><![CDATA[<p>
 Tiene poca dispersión
@@ -5825,16 +5835,6 @@ FALSE
 </p>]]></text>
 </feedback>
 </answer>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
-Es asimétrica
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-FALSE
-</p>]]></text>
-</feedback>
-</answer>
 </question>
 
 
@@ -5844,15 +5844,15 @@ FALSE
 </name>
 <questiontext format="html">
 <text><![CDATA[<p>
-<p><strong>R2018_0002</strong>. Si en una distribución de frecuencias, una categoría de la variable concentra al 95.62% de los casos, entonces la variable:</p>
+<p><strong>R2018_0002</strong>. Si en una distribución de frecuencias, una categoría de la variable concentra al 88.81% de los casos, entonces la variable:</p>
 </p>]]></text>
 </questiontext>
 <generalfeedback format="html">
 <text><![CDATA[<p>
 <ol type = "a">
 <li> FALSE </li>
-<li> FALSE </li>
 <li> TRUE </li>
+<li> FALSE </li>
 <li> FALSE </li>
 </ol>
 </p>]]></text>
@@ -5872,16 +5872,6 @@ FALSE
 </p>]]></text>
 </feedback>
 </answer>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
-Es asimétrica
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-FALSE
-</p>]]></text>
-</feedback>
-</answer>
 <answer fraction="100" format="html">
 <text><![CDATA[<p>
 Tiene poca dispersión
@@ -5889,6 +5879,16 @@ Tiene poca dispersión
 <feedback format="html">
 <text><![CDATA[<p>
 TRUE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Es asimétrica
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
 </p>]]></text>
 </feedback>
 </answer>
@@ -5911,16 +5911,16 @@ FALSE
 </name>
 <questiontext format="html">
 <text><![CDATA[<p>
-<p><strong>R2018_0002</strong>. Si en una distribución de frecuencias, una categoría de la variable concentra al 89.33% de los casos, entonces la variable:</p>
+<p><strong>R2018_0002</strong>. Si en una distribución de frecuencias, una categoría de la variable concentra al 94.63% de los casos, entonces la variable:</p>
 </p>]]></text>
 </questiontext>
 <generalfeedback format="html">
 <text><![CDATA[<p>
 <ol type = "a">
-<li> FALSE </li>
-<li> FALSE </li>
-<li> FALSE </li>
 <li> TRUE </li>
+<li> FALSE </li>
+<li> FALSE </li>
+<li> FALSE </li>
 </ol>
 </p>]]></text>
 </generalfeedback>
@@ -5929,6 +5929,26 @@ FALSE
 <shuffleanswers>false</shuffleanswers>
 <single>true</single>
 <answernumbering>abc</answernumbering>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+Tiene poca dispersión
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+TRUE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+No puede conocerse la dispersión con estos datos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
 Es asimétrica
@@ -5949,26 +5969,6 @@ FALSE
 </p>]]></text>
 </feedback>
 </answer>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
-No puede conocerse la dispersión con estos datos
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-FALSE
-</p>]]></text>
-</feedback>
-</answer>
-<answer fraction="100" format="html">
-<text><![CDATA[<p>
-Tiene poca dispersión
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-TRUE
-</p>]]></text>
-</feedback>
-</answer>
 </question>
 
 
@@ -5978,7 +5978,7 @@ TRUE
 </name>
 <questiontext format="html">
 <text><![CDATA[<p>
-<p><strong>R2018_0002</strong>. Si en una distribución de frecuencias, una categoría de la variable concentra al 86.93% de los casos, entonces la variable:</p>
+<p><strong>R2018_0002</strong>. Si en una distribución de frecuencias, una categoría de la variable concentra al 90.67% de los casos, entonces la variable:</p>
 </p>]]></text>
 </questiontext>
 <generalfeedback format="html">
@@ -6008,7 +6008,7 @@ TRUE
 </answer>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-No puede conocerse la dispersión con estos datos
+Tiene mucha dispersión
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -6018,7 +6018,7 @@ FALSE
 </answer>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-Tiene mucha dispersión
+No puede conocerse la dispersión con estos datos
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -6045,7 +6045,7 @@ FALSE
 </name>
 <questiontext format="html">
 <text><![CDATA[<p>
-<p><strong>R2018_0002</strong>. Si en una distribución de frecuencias, una categoría de la variable concentra al 84.24% de los casos, entonces la variable:</p>
+<p><strong>R2018_0002</strong>. Si en una distribución de frecuencias, una categoría de la variable concentra al 92.02% de los casos, entonces la variable:</p>
 </p>]]></text>
 </questiontext>
 <generalfeedback format="html">
@@ -6053,8 +6053,8 @@ FALSE
 <ol type = "a">
 <li> FALSE </li>
 <li> FALSE </li>
-<li> FALSE </li>
 <li> TRUE </li>
+<li> FALSE </li>
 </ol>
 </p>]]></text>
 </generalfeedback>
@@ -6065,11 +6065,31 @@ FALSE
 <answernumbering>abc</answernumbering>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
+Tiene mucha dispersión
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
 Es asimétrica
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
 FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+Tiene poca dispersión
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+TRUE
 </p>]]></text>
 </feedback>
 </answer>
@@ -6083,26 +6103,6 @@ FALSE
 </p>]]></text>
 </feedback>
 </answer>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
-Tiene mucha dispersión
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-FALSE
-</p>]]></text>
-</feedback>
-</answer>
-<answer fraction="100" format="html">
-<text><![CDATA[<p>
-Tiene poca dispersión
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-TRUE
-</p>]]></text>
-</feedback>
-</answer>
 </question>
 
 
@@ -6112,15 +6112,15 @@ TRUE
 </name>
 <questiontext format="html">
 <text><![CDATA[<p>
-<p><strong>R2018_0002</strong>. Si en una distribución de frecuencias, una categoría de la variable concentra al 97.68% de los casos, entonces la variable:</p>
+<p><strong>R2018_0002</strong>. Si en una distribución de frecuencias, una categoría de la variable concentra al 85.27% de los casos, entonces la variable:</p>
 </p>]]></text>
 </questiontext>
 <generalfeedback format="html">
 <text><![CDATA[<p>
 <ol type = "a">
-<li> FALSE </li>
-<li> FALSE </li>
 <li> TRUE </li>
+<li> FALSE </li>
+<li> FALSE </li>
 <li> FALSE </li>
 </ol>
 </p>]]></text>
@@ -6130,13 +6130,13 @@ TRUE
 <shuffleanswers>false</shuffleanswers>
 <single>true</single>
 <answernumbering>abc</answernumbering>
-<answer fraction="0" format="html">
+<answer fraction="100" format="html">
 <text><![CDATA[<p>
-Es asimétrica
+Tiene poca dispersión
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
-FALSE
+TRUE
 </p>]]></text>
 </feedback>
 </answer>
@@ -6150,13 +6150,13 @@ FALSE
 </p>]]></text>
 </feedback>
 </answer>
-<answer fraction="100" format="html">
+<answer fraction="0" format="html">
 <text><![CDATA[<p>
-Tiene poca dispersión
+Es asimétrica
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
-TRUE
+FALSE
 </p>]]></text>
 </feedback>
 </answer>
@@ -6179,14 +6179,14 @@ FALSE
 </name>
 <questiontext format="html">
 <text><![CDATA[<p>
-<p><strong>R2018_0002</strong>. Si en una distribución de frecuencias, una categoría de la variable concentra al 90.56% de los casos, entonces la variable:</p>
+<p><strong>R2018_0002</strong>. Si en una distribución de frecuencias, una categoría de la variable concentra al 86.41% de los casos, entonces la variable:</p>
 </p>]]></text>
 </questiontext>
 <generalfeedback format="html">
 <text><![CDATA[<p>
 <ol type = "a">
-<li> TRUE </li>
 <li> FALSE </li>
+<li> TRUE </li>
 <li> FALSE </li>
 <li> FALSE </li>
 </ol>
@@ -6197,6 +6197,16 @@ FALSE
 <shuffleanswers>false</shuffleanswers>
 <single>true</single>
 <answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+No puede conocerse la dispersión con estos datos
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
 <answer fraction="100" format="html">
 <text><![CDATA[<p>
 Tiene poca dispersión
@@ -6209,27 +6219,17 @@ TRUE
 </answer>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-Es asimétrica
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-FALSE
-</p>]]></text>
-</feedback>
-</answer>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
-No puede conocerse la dispersión con estos datos
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-FALSE
-</p>]]></text>
-</feedback>
-</answer>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
 Tiene mucha dispersión
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Es asimétrica
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -6246,16 +6246,16 @@ FALSE
 </name>
 <questiontext format="html">
 <text><![CDATA[<p>
-<p><strong>R2018_0002</strong>. Si en una distribución de frecuencias, una categoría de la variable concentra al 88.65% de los casos, entonces la variable:</p>
+<p><strong>R2018_0002</strong>. Si en una distribución de frecuencias, una categoría de la variable concentra al 84.78% de los casos, entonces la variable:</p>
 </p>]]></text>
 </questiontext>
 <generalfeedback format="html">
 <text><![CDATA[<p>
 <ol type = "a">
 <li> FALSE </li>
-<li> FALSE </li>
-<li> FALSE </li>
 <li> TRUE </li>
+<li> FALSE </li>
+<li> FALSE </li>
 </ol>
 </p>]]></text>
 </generalfeedback>
@@ -6274,13 +6274,13 @@ FALSE
 </p>]]></text>
 </feedback>
 </answer>
-<answer fraction="0" format="html">
+<answer fraction="100" format="html">
 <text><![CDATA[<p>
-No puede conocerse la dispersión con estos datos
+Tiene poca dispersión
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
-FALSE
+TRUE
 </p>]]></text>
 </feedback>
 </answer>
@@ -6294,13 +6294,13 @@ FALSE
 </p>]]></text>
 </feedback>
 </answer>
-<answer fraction="100" format="html">
+<answer fraction="0" format="html">
 <text><![CDATA[<p>
-Tiene poca dispersión
+No puede conocerse la dispersión con estos datos
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
-TRUE
+FALSE
 </p>]]></text>
 </feedback>
 </answer>
@@ -6313,16 +6313,16 @@ TRUE
 </name>
 <questiontext format="html">
 <text><![CDATA[<p>
-<p><strong>R2018_0002</strong>. Si en una distribución de frecuencias, una categoría de la variable concentra al 91.14% de los casos, entonces la variable:</p>
+<p><strong>R2018_0002</strong>. Si en una distribución de frecuencias, una categoría de la variable concentra al 87.97% de los casos, entonces la variable:</p>
 </p>]]></text>
 </questiontext>
 <generalfeedback format="html">
 <text><![CDATA[<p>
 <ol type = "a">
+<li> FALSE </li>
+<li> FALSE </li>
+<li> FALSE </li>
 <li> TRUE </li>
-<li> FALSE </li>
-<li> FALSE </li>
-<li> FALSE </li>
 </ol>
 </p>]]></text>
 </generalfeedback>
@@ -6331,16 +6331,6 @@ TRUE
 <shuffleanswers>false</shuffleanswers>
 <single>true</single>
 <answernumbering>abc</answernumbering>
-<answer fraction="100" format="html">
-<text><![CDATA[<p>
-Tiene poca dispersión
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-TRUE
-</p>]]></text>
-</feedback>
-</answer>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
 Es asimétrica
@@ -6371,6 +6361,16 @@ FALSE
 </p>]]></text>
 </feedback>
 </answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+Tiene poca dispersión
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+TRUE
+</p>]]></text>
+</feedback>
+</answer>
 </question>
 
 
@@ -6380,7 +6380,7 @@ FALSE
 </name>
 <questiontext format="html">
 <text><![CDATA[<p>
-<p><strong>R2018_0002</strong>. Si en una distribución de frecuencias, una categoría de la variable concentra al 91.65% de los casos, entonces la variable:</p>
+<p><strong>R2018_0002</strong>. Si en una distribución de frecuencias, una categoría de la variable concentra al 92.74% de los casos, entonces la variable:</p>
 </p>]]></text>
 </questiontext>
 <generalfeedback format="html">
@@ -6447,7 +6447,7 @@ FALSE
 </name>
 <questiontext format="html">
 <text><![CDATA[<p>
-<p><strong>R2018_0002</strong>. Si en una distribución de frecuencias, una categoría de la variable concentra al 84.55% de los casos, entonces la variable:</p>
+<p><strong>R2018_0002</strong>. Si en una distribución de frecuencias, una categoría de la variable concentra al 90.26% de los casos, entonces la variable:</p>
 </p>]]></text>
 </questiontext>
 <generalfeedback format="html">
@@ -6467,6 +6467,16 @@ FALSE
 <answernumbering>abc</answernumbering>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
+Tiene mucha dispersión
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
 Es asimétrica
 </p>]]></text>
 <feedback format="html">
@@ -6478,16 +6488,6 @@ FALSE
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
 No puede conocerse la dispersión con estos datos
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-FALSE
-</p>]]></text>
-</feedback>
-</answer>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
-Tiene mucha dispersión
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -6514,7 +6514,7 @@ TRUE
 </name>
 <questiontext format="html">
 <text><![CDATA[<p>
-<p><strong>R2018_0002</strong>. Si en una distribución de frecuencias, una categoría de la variable concentra al 85.14% de los casos, entonces la variable:</p>
+<p><strong>R2018_0002</strong>. Si en una distribución de frecuencias, una categoría de la variable concentra al 95.78% de los casos, entonces la variable:</p>
 </p>]]></text>
 </questiontext>
 <generalfeedback format="html">
@@ -6534,7 +6534,7 @@ TRUE
 <answernumbering>abc</answernumbering>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-Tiene mucha dispersión
+Es asimétrica
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -6544,7 +6544,7 @@ FALSE
 </answer>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-No puede conocerse la dispersión con estos datos
+Tiene mucha dispersión
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -6564,7 +6564,7 @@ TRUE
 </answer>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-Es asimétrica
+No puede conocerse la dispersión con estos datos
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -6581,16 +6581,16 @@ FALSE
 </name>
 <questiontext format="html">
 <text><![CDATA[<p>
-<p><strong>R2018_0002</strong>. Si en una distribución de frecuencias, una categoría de la variable concentra al 93.34% de los casos, entonces la variable:</p>
+<p><strong>R2018_0002</strong>. Si en una distribución de frecuencias, una categoría de la variable concentra al 86.75% de los casos, entonces la variable:</p>
 </p>]]></text>
 </questiontext>
 <generalfeedback format="html">
 <text><![CDATA[<p>
 <ol type = "a">
 <li> FALSE </li>
+<li> FALSE </li>
+<li> FALSE </li>
 <li> TRUE </li>
-<li> FALSE </li>
-<li> FALSE </li>
 </ol>
 </p>]]></text>
 </generalfeedback>
@@ -6599,6 +6599,26 @@ FALSE
 <shuffleanswers>false</shuffleanswers>
 <single>true</single>
 <answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Es asimétrica
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Tiene mucha dispersión
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+FALSE
+</p>]]></text>
+</feedback>
+</answer>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
 No puede conocerse la dispersión con estos datos
@@ -6619,26 +6639,6 @@ TRUE
 </p>]]></text>
 </feedback>
 </answer>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
-Tiene mucha dispersión
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-FALSE
-</p>]]></text>
-</feedback>
-</answer>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
-Es asimétrica
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-FALSE
-</p>]]></text>
-</feedback>
-</answer>
 </question>
 
 
@@ -6648,7 +6648,7 @@ FALSE
 </name>
 <questiontext format="html">
 <text><![CDATA[<p>
-<p><strong>R2018_0002</strong>. Si en una distribución de frecuencias, una categoría de la variable concentra al 85.85% de los casos, entonces la variable:</p>
+<p><strong>R2018_0002</strong>. Si en una distribución de frecuencias, una categoría de la variable concentra al 95.13% de los casos, entonces la variable:</p>
 </p>]]></text>
 </questiontext>
 <generalfeedback format="html">
@@ -6678,7 +6678,7 @@ TRUE
 </answer>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-Tiene mucha dispersión
+Es asimétrica
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -6688,7 +6688,7 @@ FALSE
 </answer>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-Es asimétrica
+Tiene mucha dispersión
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>

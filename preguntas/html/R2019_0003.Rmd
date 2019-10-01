@@ -1,0 +1,67 @@
+```{r data generation, echo = FALSE, results = "hide"}
+## Los datos:
+x=round(rnorm(1, 50,5)*runif(runif(1,min=20, max=200)),0)
+b0=round(runif(1,min=.2, max=.9),2)
+b1=round(runif(1, min=1.9, max=2.9),2)
+x1=round(runif(1,min=0, 3),2)
+
+
+
+
+## Preguntas y respuestas
+correcta <- paste(round((mayor-menor)*length(x)/100, 2), " casos", sep = "")
+
+incorrectas <- c(paste(100-(mayor-menor), "% de casos", sep = ""),
+                 paste(length(x)-round((mayor-menor)*length(x)/100,0), " casos", sep = ""),
+                 paste(round(quantile(x, mayor/100), 2) - round(quantile(x, menor/100), 2), " casos", sep = "")
+                 )
+
+opciones <- c(correcta, incorrectas)
+
+## QUESTION/ANSWER GENERATION
+questions <- character(4)
+solutions <- logical(4)
+
+questions[1] <- opciones[1]
+solutions[1] <- TRUE
+
+questions[2] <- opciones[2]
+solutions[2] <- FALSE
+    
+questions[3] <- opciones[3]
+solutions[3] <- FALSE
+
+questions[4] <- opciones[4]
+solutions[4] <- FALSE
+
+```
+
+
+Question
+========
+
+**R2019_0003**. Se modela el tiempo de reacción a un estímulo visual (expresado en segundos) como función de la concentración de alcohol en sangre (expresada en gramos). El modelo resultante es y = `r b0`+`r b1`*x. Pbara quienes no tienen alcohol en sangre el tiempo de reacción esperado es:
+
+Answerlist
+----------
+* `r b0` segundos
+* `r b1` segundos
+* `r b1+b0` segundos
+*  0 segundos
+
+Solution
+========
+
+Answerlist
+----------
+* CORRECTA
+* INCORRECTA
+* INCORRECTA
+* INCORRECTA
+
+Meta-information
+============
+extype: schoice
+exname: R2019_0003
+exsolution: 1000
+exshuffle:TRUE

@@ -1,0 +1,39 @@
+```{r data generation, echo = FALSE, results = "hide"}
+## Los datos:
+x=round(rnorm(1, 50,5)*runif(runif(1,min=20, max=200)),0)
+b0=round(runif(1,min=10, max=18),2)
+b1=round(runif(1, min=2, max=4),2)
+x1=round(runif(1,min=12, 24),0)
+## Preguntas y respuestas
+```
+
+
+Question
+========
+
+**R2019_0008**. Se modela el puntaje de una prueba psicométrica (expresado en puntos) como función de la edad (expresada en años) en el intervalo 12 a 24 años. El modelo resultante es y = `r b0`+`r b1`*x. El puntaje promedio  esperado para una persona de `r x1` años es:
+
+Answerlist
+----------
+* `r round(b0+b1*x1, 2)` puntos
+*  `r round(b0+b1*x1/2, 2)` puntos
+*  `r round(abs(x1-b0)/b1, 2)` puntos
+*  `r round(b1+b0*x1, 2)` puntos
+
+
+Solution
+========
+
+Answerlist
+----------
+* CORRECTA
+* INCORRECTA
+* INCORRECTA
+* INCORRECTA
+
+Meta-information
+============
+extype: schoice
+exname: R2019_0008
+exsolution: 1000
+exshuffle:TRUE

@@ -1,0 +1,98 @@
+```{r data generation, echo = FALSE, results = "hide"}
+library(kableExtra)
+library(dplyr)
+## Generación de datos
+n <- 1000
+nx1 <- sample(350:650, 1)
+nx2 <- 1000 - nx1
+
+x1 <- rmultinom(1, nx1, c(1/3, 1/3, 1/3))
+x2 <- rmultinom(1, nx2, c(1/3, 1/3, 1/3))
+
+m <- rbind(t(x1), t(x2))
+msum <- addmargins(m)
+
+## Calculo el coeficiente V de Cramer
+chi <- chisq.test(m)
+
+v_cramer <- sqrt(chi[[1]]/1000)
+v_cramer
+
+
+## Construimos un data frame
+nom_col <- c("Conexión a \nInternet", "Bueno", "Regular", "Malo", "Suma")
+nom_row <- c("Sí", "No", "Suma")
+
+df <- as.data.frame(msum)
+df <- cbind(nom_row, df)
+
+
+# mt <- addmargins(m, 2)
+# p <- prop.table(mt, 2)
+# addmargins(p, 1)
+# 
+# mt <- addmargins(m, 1)
+# p <- prop.table(mt, 1)
+# addmargins(p, 2)
+# margin.table(m, 2)
+
+
+correcta <- c("El grado de asociación entre variables es casi nulo")
+incorrectas <- c("La tenencia de conexión a Internet en el hogar se asocia con un mejor rendimiento en matemáticas",
+                 "La tenencia de conexión a Internet en el hogar se asocia con un peor rendimiento en matemáticas",
+                 "Las tablas de contingencia no me permiten observar asociación entre variables.")
+
+## Elegimos un tipo de pregunta
+opciones <- as.character(c(correcta, incorrectas))
+
+## QUESTION/ANSWER GENERATION
+questions <- character(4)
+solutions <- logical(4)
+
+questions[1] <- opciones[1]
+solutions[1] <- TRUE
+
+questions[2] <- opciones[2]
+solutions[2] <- FALSE
+    
+questions[3] <- opciones[3]
+solutions[3] <- FALSE
+
+questions[4] <- opciones[4]
+solutions[4] <- FALSE
+```
+
+
+Question
+========
+**R2019_0019**. Se realizó un estudio en el que se desea saber si la tenencia de conexión a internet en el hogar, influye en el rendimiento escolar en matemáticas en alumnos de la escuela primaria. Se evaluó una muestra de 1000 alumnos. Se obtuvieron los siguientes resultados:
+
+
+```{r boxplotR2018_0036, echo = FALSE, fig.height = 4, fig.path = "", fig.cap = ""}
+df %>%  
+    kable(digits = 2, col.names = nom_col, escape = F, row.names = FALSE) %>%
+    kable_styling(bootstrap_options = c("striped", "hover"), full_width = T) %>% 
+    add_header_above(c(" " = 1, "Rendimiento en \n Matemáticas" = 3, " " = 1)) 
+```
+
+El coeficiente V de Cramer para esta tabla es de `r round(v_cramer, 2)`. Esta información suguiere que:  
+(Ayuda: Realice tablas de distribución conjunta relativa por filas o por columna para facilitar la lectura)
+
+```{r questionlist, echo = FALSE, results = "asis"}
+answerlist(questions, markup = "markdown")
+```
+  
+  
+Solution
+========
+
+```{r solutionlist, echo = FALSE, results = "asis"}
+answerlist(solutions, markup = "markdown")
+```
+
+Meta-information
+================
+exname: R2019_0019
+extype: schoice
+exsolution: 1000
+exshuffle: TRUE

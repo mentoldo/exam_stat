@@ -1,0 +1,49 @@
+
+```{r data generation, echo = FALSE, results = "hide"}
+sexo=c(1,2,2,2,1,1,1,2,2)
+materias.aprobadas=c(10,24,12,6,4,5,10,12,1)
+carrera=rep(c("psicologia", "nutricion", "derecho"),3)
+edad=rep(c(21,20,19),3)
+turno.cursa=rep(c("Mañana","Noche", "Noche"),3)
+col.sec=c("estatal", "estatal", "privado", "estatal", "estatal", "estatal", "privado", "estatal", "privado")
+lista=data.frame(sexo, materias.aprobadas,carrera,edad, turno.cursa, col.sec)
+
+i=round(runif(1, min=1, max=4),0)
+j=round(runif(1, min=1, max=4),0)
+j=ifelse(j!=i, j, ifelse(i==1, i+1,i-1))
+base=lista[, -c(i,j)]
+
+```
+
+
+Question
+========
+
+**R2019_0002**. En la distribución de frecuencias de una variable nominal, una categoría concentra el `r round(runif(1,2,35),1)`% de los casos, entonces la dispersión es:
+
+
+Answerlist
+----------
+
+* No puede saberse con estos datos
+* Muy elevada
+* Muy baja
+* Depende de los valores de la variable
+
+
+Solution
+========
+
+Answerlist
+----------
+* TRUE
+* FALSE
+* FALSE
+* FALSE
+
+Meta-information
+============
+extype: schoice
+exsolution: 1000
+exname: R2019_0002
+exshuffle:TRUE
