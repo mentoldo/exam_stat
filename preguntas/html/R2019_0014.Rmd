@@ -35,7 +35,7 @@ base %>%
 ```
 
 
-el elemento **`r base[f,c]`** corresponde a:
+el elemento **`r base[f,c]`** ubicado en la fila `r f` y la columna `r c` corresponde a:
 
 
 
