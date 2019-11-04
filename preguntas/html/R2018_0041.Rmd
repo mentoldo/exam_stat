@@ -1,7 +1,7 @@
 ```{r data generation, echo = FALSE, results = "hide"}
 ## Generación de datos
 preguntas <- c("dos variables nominales",
-                sample(c("dos variables proporcionales",
+                sample(c("dos variables ordinales",
                          "una variable proporcional y una ordinal"), 1),
                "dos variables proporcionales")
 
